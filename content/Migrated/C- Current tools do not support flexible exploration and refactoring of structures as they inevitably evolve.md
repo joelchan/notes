@@ -1,7 +1,6 @@
 
 ---
 title: "C- Current tools do not support flexible exploration and refactoring of structures as they inevitably evolve"
-enableToc: false # do not show a table of contents on this page
 ---
 First draft:
     - Predefining a system limits our ability to explore alternatives outside the current structure.  This cascades into the decisions to be made while in the act of work – what folder to place the note in, what naming conventions to use, what metadata should be added, and on.  
