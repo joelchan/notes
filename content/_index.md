@@ -1,6 +1,8 @@
 ---
-title: 🪴 Quartz 3.2
+title: 🪴 Discourse Graph Research
 ---
+Boilerplate stuff below, but this is only a sample for now. 
+JUmp into Discourse Graph reserach [here](https://balos.github.io/quartz/Migrated/C-Hypertext-enables-communication-with-high-information-density/)
 
 Host your second brain and [digital garden](https://jzhao.xyz/posts/networked-thought) for free. Quartz features
 
