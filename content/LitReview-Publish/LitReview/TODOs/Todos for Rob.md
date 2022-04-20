@@ -1,1 +1,0 @@
-Write about data structures. Claims, questions, conditionals. Cite Concepts book.
