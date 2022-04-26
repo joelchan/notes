@@ -1,5 +1,5 @@
 ---
-title: Q- How might we apply map filter reduce to notes and what other primitives are relevant to this domain
+title: "Q- How might we apply map filter reduce to notes and what other primitives are relevant to this domain"
 --- 
 Authored By:: [[P- Rob Haisfield]]
 
