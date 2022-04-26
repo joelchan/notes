@@ -1,6 +1,6 @@
-
 ---
 title: "I- Enable composable queries to facilitate structure in hindsight"
+enableToc: false # do not show a table of contents on this page
 ---
 - [If a page's related items section is defined through a search term]([I- Populate the related items section through a search term](I-%20Populate%20the%20related%20items%20section%20through%20a%20search%20term.md)), then we can think of the page title and its query as a key-value pair. The data structure would look something like this:
 - ```clojure

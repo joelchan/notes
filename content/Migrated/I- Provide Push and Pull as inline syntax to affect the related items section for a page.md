@@ -1,4 +1,3 @@
-
 ---
 title: "I- Provide Push and Pull as inline syntax to affect the related items section for a page"
 enableToc: false # do not show a table of contents on this page

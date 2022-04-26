@@ -1,4 +1,3 @@
-
 ---
 title: "I don't want my tool to tell me how to think"
 enableToc: false # do not show a table of contents on this page

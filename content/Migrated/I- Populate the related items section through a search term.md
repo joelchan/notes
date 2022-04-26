@@ -1,5 +1,3 @@
-
-
 ---
 title: "I- Populate the related items section through a search term"
 enableToc: false # do not show a table of contents on this page

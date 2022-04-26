@@ -1,4 +1,3 @@
-
 ---
 title: "If I’m thinking too hard about structure before I write the note, I forget what I was going to write down"
 enableToc: false # do not show a table of contents on this page

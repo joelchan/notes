@@ -1,4 +1,3 @@
-
 ---
 title: "Adding structure later feels like a chore"
 enableToc: false # do not show a table of contents on this page

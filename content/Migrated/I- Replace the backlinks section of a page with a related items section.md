@@ -1,4 +1,3 @@
-
 ---
 title: "I- Replace the backlinks section of a page with a related items section"
 enableToc: false # do not show a table of contents on this page

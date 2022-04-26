@@ -1,4 +1,3 @@
-
 ---
 title: "C- Hypertext enables communication with high information density"
 enableToc: false # do not show a table of contents on this page

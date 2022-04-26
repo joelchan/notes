@@ -1,5 +1,3 @@
-
-
 ---
 title: "I- Use search terms as the basis for other features"
 enableToc: false # do not show a table of contents on this page
