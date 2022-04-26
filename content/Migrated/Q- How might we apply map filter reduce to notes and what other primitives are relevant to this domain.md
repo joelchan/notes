@@ -1,3 +1,6 @@
+---
+title: Q- How might we apply map filter reduce to notes and what other primitives are relevant to this domain
+--- 
 Authored By:: [[P- Rob Haisfield]]
 
 [[Q- What are powerful primitives for a user of a decentralized knowledge graph]]
