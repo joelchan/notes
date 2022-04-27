@@ -2,7 +2,7 @@
 title: "I- Enable composable queries to facilitate structure in hindsight"
 enableToc: false # do not show a table of contents on this page
 ---
-- [[[I- Populate the related items section through a search term](I- Populate the related items section through a search term.md|If a page's related items section is defined through a search term]]), then we can think of the page title and its query as a key-value pair. The data structure would look something like this:
+- [[I- Populate the related items section through a search term|If a page's related items section is defined through a search term]], then we can think of the page title and its query as a key-value pair. The data structure would look something like this:
 - ```clojure
 "structure in hindsight" means 
   (any: "structure in hindsight" 
