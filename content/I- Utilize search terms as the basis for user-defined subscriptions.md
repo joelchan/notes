@@ -2,24 +2,33 @@
 title: "I- Utilize search terms as the basis for user-defined subscriptions"
 enableToc: false # do not show a table of contents on this page
 ---
-- Piggybacking on [[[I- Enable composable queries to facilitate structure in hindsight](I- Enable composable queries to facilitate structure in hindsight.md|enabling composable queries to facilitate structure in hindsight]]), people will be able to define a search term that outlines their interests, such that they will be able to see any time new items are added to the query. From there, they could easily define [[[I- Utilize search terms as the basis for user-defined notifications](I- Utilize search terms as the basis for user-defined notifications.md|whether they would like to receive notifications]]) or have a more passive way for keeping up to date, similar to how Gmail will show you the number of unread items in a label.
-- ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fwrite-hypertext-notebook-graph-research%2FONhwQVp40E.png?alt=media&token=06082a7a-f7c9-4c2c-b021-509caf216d8b)
-- For example, I might be interested in everything that [[../LitReview/Extended Universe/People/P- Joel Chan.md|P- Joel Chan]] writes. The query might look like:
-- ```javascript
+
+Authored By:: [[P- Rob Haisfield]]
+
+
+Piggybacking on [[[I- Enable composable queries to facilitate structure in hindsight](Migrated/I- Enable composable queries to facilitate structure in hindsight.md|enabling composable queries to facilitate structure in hindsight]]), people will be able to define a search term that outlines their interests, such that they will be able to see any time new items are added to the query. From there, they could easily define [[[I- Utilize search terms as the basis for user-defined notifications](Migrated/I- Utilize search terms as the basis for user-defined notifications.md|whether they would like to receive notifications]]) or have a more passive way for keeping up to date, similar to how Gmail will show you the number of unread items in a label.
+![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fwrite-hypertext-notebook-graph-research%2FONhwQVp40E.png?alt=media&token=06082a7a-f7c9-4c2c-b021-509caf216d8b)
+
+For example, I might be interested in everything that [[P- Joel Chan]]writes. The query might look like:
+ ```javascript
 (all: (written-by:"Joel Chan"))```
-- But maybe I'm only interested in his writing that pertains to synthesis. Then I might adjust my query:
-- ```javascript
+
+But maybe I'm only interested in his writing that pertains to synthesis. Then I might adjust my query:
+ ```javascript
 (all: (written-by:"Joel Chan")
       "synthesis")```
-- Maybe I want to follow everything written by a politician that pertains to my industry so I can stay up to date on potential regulations. Since we enable composable queries, the query could look as simple as this:
-- ```clojure
+
+Maybe I want to follow everything written by a politician that pertains to my industry so I can stay up to date on potential regulations. Since we enable composable queries, the query could look as simple as this:
+```clojure
 (all: (property: "written-by" list-of-politicians)
       (any: "Web3"
             "crypto"
             "cryptocurrency"))```
-- Compare this to the black box algorithms people traditionally see in social media newsfeeds. On Twitter, it is unclear what determines whether a tweet is displayed in your feed. It often features "suggestions" outside of who you follow based on its perception of your interests.
-- At its simplest, a newsfeed could be considered an aggregate of your saved queries. Since queries are composable, that might look like:
-- ```clojure
+
+Compare this to the black box algorithms people traditionally see in social media newsfeeds. On Twitter, it is unclear what determines whether a tweet is displayed in your feed. It often features "suggestions" outside of who you follow based on its perception of your interests.
+
+At its simplest, a newsfeed could be considered an aggregate of your saved queries. Since queries are composable, that might look like:
+```clojure
 (def "followed people"
   (any: "John Doe"
         "Jane Buck"))
@@ -34,4 +43,5 @@ enableToc: false # do not show a table of contents on this page
               "muted topics list"
               "muted items list")))
 ```
-- ## [[Interfaces for adjusting a query.md]]
+
+ ## [[Interfaces for adjusting a query.md]]
