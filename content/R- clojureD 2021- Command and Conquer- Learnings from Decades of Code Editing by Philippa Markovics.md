@@ -1,4 +1,5 @@
 ---
+title: "R- clojureD 2021- Command and Conquer- Learnings from Decades of Code Editing by Philippa Markovics.md"
 creation date: $=dv.current().file.ctime
 last modified date: $=dv.current().file.mtime
 title:
