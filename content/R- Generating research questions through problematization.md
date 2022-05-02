@@ -3,7 +3,6 @@ title: "R- Generating research questions through problematization"
 enableToc: false # do not show a table of contents on this page
 creation date: $=dv.current().file.ctime
 last modified date: $=dv.current().file.mtime
-title: "Generating research questions through problematization"
 author: "Mats Alvesson, Jörgen Sandberg"
 year: 2011
 reference: 

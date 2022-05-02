@@ -3,7 +3,6 @@ title: "R- Cochrane and non-Cochrane systematic reviews"
 enableToc: false # do not show a table of contents on this page
 creation date: $=dv.current().file.ctime
 last modified date: $=dv.current().file.mtime
-title: "Cochrane and non-Cochrane systematic reviews in leading orthodontic journals: a quality paradigm?"
 author: "Padhraig S. Fleming, Jadbinder Seehra, Argy Polychronopoulou, Zbys Fedorowicz, Nikolaos Pandis"
 year: 2013
 reference: 

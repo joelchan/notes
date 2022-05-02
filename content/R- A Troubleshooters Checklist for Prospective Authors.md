@@ -3,7 +3,6 @@ title: "R- A Troubleshooters Checklist for Prospective Authors"
 enableToc: false # do not show a table of contents on this page
 creation date: $=dv.current().file.ctime
 last modified date: $=dv.current().file.mtime
-title: "A Troubleshooter's Checklist for Prospective Authors Derived from Reviewers' Critical Feedback"
 author: "Adrienne Alton-Lee"
 year: 1998
 reference: 

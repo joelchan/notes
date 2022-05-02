@@ -3,7 +3,6 @@ title: "R- A Multi-Language Computing Environment"
 enableToc: false # do not show a table of contents on this page
 creation date: $=dv.current().file.ctime
 last modified date: $=dv.current().file.mtime
-title: "A Multi-Language Computing Environment for Literate Programming and Reproducible Research"
 author: "Eric Schulte, Dan Davison, Thomas Dye, Carsten Dominik"
 year: 2012
 reference: 

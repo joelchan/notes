@@ -3,7 +3,6 @@ title: "R- Could a Neuroscientist Understand a Microprocessor"
 enableToc: false # do not show a table of contents on this page
 creation date: $=dv.current().file.ctime
 last modified date: $=dv.current().file.mtime
-title: "Could a Neuroscientist Understand a Microprocessor?"
 author: "Eric Jonas, Konrad Paul Kording"
 year: 2017
 reference: 

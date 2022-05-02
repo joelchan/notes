@@ -3,7 +3,6 @@ title: "R- Ambiguity and Engagement"
 enableToc: false # do not show a table of contents on this page
 creation date: $=dv.current().file.ctime
 last modified date: $=dv.current().file.mtime
-title: "Ambiguity and Engagement"
 author: "Peter McMahan, James A. Evans"
 year: 2018
 reference: 

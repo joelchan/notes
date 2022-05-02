@@ -3,7 +3,6 @@ title: "R- Knowledge Synthesis- a conceptual model and practical guide"
 enableToc: false # do not show a table of contents on this page
 creation date: $=dv.current().file.ctime
 last modified date: $=dv.current().file.mtime
-title: "Knowledge synthesis: A conceptual model and practical guide"
 author: "[[P- Joel Chan]]"
 year: 2020
 reference: "https://oasislab.pubpub.org/pub/54t0y9mk/release/2"

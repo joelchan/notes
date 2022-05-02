@@ -1,7 +1,7 @@
 ---
 creation date: $=dv.current().file.ctime
 last modified date: $=dv.current().file.mtime
-title: "Organizing Knowledge with multi-level content: Making knowledge easier to understand, remember, and communicate"
+title: "R- Organizing Knowledge with multi-level content"
 author: Francis Miller
 year: 2018
 reference: "https://www.francismiller.com/organising_knowledge_paper.pdf"

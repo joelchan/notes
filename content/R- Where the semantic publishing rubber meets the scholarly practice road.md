@@ -3,7 +3,6 @@ title: "R- Where the semantic publishing rubber meets the scholarly practice roa
 enableToc: false # do not show a table of contents on this page
 creation date: $=dv.current().file.ctime
 last modified date: $=dv.current().file.mtime
-title: "Where the rubber meets the road: Identifying integration points for semantic publishing in existing scholarly practice"
 author: "Joel Chan, Xin Qian, Katrina Fenlon, Wayne Lutters"
 year: 2020
 reference: "https://github.com/sig-cm/JCDL-2020/blob/master/JCDL_Where_the_rubber_meets_the_road_2020-6-28-FINAL.pdf"

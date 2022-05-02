@@ -3,7 +3,6 @@ title: "R- The minds eye in chess"
 enableToc: false # do not show a table of contents on this page
 creation date: $=dv.current().file.ctime
 last modified date: $=dv.current().file.mtime
-title: "The mind's eye in chess"
 author: "WG Chase"
 year: 1973
 reference: 

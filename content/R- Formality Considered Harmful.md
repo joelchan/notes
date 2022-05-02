@@ -3,7 +3,6 @@ title: "R- Formality Considered Harmful"
 enableToc: false # do not show a table of contents on this page
 creation date: $=dv.current().file.ctime
 last modified date: $=dv.current().file.mtime
-title: "Formality Considered Harmful: Experiences, Emerging Themes, and Directions on the Use of Formal Representations in Interactive Systems"
 author: "Frank Shipman, Catherine Marshall"
 year: 1999
 reference: 

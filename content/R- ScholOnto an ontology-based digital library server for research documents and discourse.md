@@ -3,7 +3,6 @@ title: "R- ScholOnto an ontology-based digital library server for research docum
 enableToc: false # do not show a table of contents on this page
 creation date: $=dv.current().file.ctime
 last modified date: $=dv.current().file.mtime
-title: "ScholOnto: an ontology-based digital library server for research documents and discourse"
 author: "Simon Buckingham Shum, Enrico Motta, John Domingue"
 year: 2000
 reference: 

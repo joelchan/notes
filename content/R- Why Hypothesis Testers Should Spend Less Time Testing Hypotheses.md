@@ -3,7 +3,6 @@ title: "R- Why Hypothesis Testers Should Spend Less Time Testing Hypotheses"
 enableToc: false # do not show a table of contents on this page
 creation date: $=dv.current().file.ctime
 last modified date: $=dv.current().file.mtime
-title: "Why Hypothesis Testers Should Spend Less Time Testing Hypotheses"
 author: "Anne M. Scheel, Leonid Tiokhin, Peder M. Isager, Daniël Lakens"
 year: 2020
 reference: 

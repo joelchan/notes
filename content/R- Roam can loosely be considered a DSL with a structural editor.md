@@ -3,7 +3,6 @@ title: "R- Roam can loosely be considered a DSL with a structural editor"
 enableToc: false # do not show a table of contents on this page
 creation date: $=dv.current().file.ctime
 last modified date: $=dv.current().file.mtime
-title: "A thread on 2-way links"
 author: "Eli Parra" 
 year: 2021
 reference: 

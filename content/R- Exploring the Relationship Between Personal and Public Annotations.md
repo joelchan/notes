@@ -3,7 +3,6 @@ title: "R- Exploring the Relationship Between Personal and Public Annotations"
 enableToc: false # do not show a table of contents on this page
 creation date: $=dv.current().file.ctime
 last modified date: $=dv.current().file.mtime
-title: "Exploring the Relationship Between Personal and Public Annotations"
 author: "Catherine C. Marshall, A. J. Bernheim Brush"
 year: 2004
 reference: 

@@ -3,7 +3,6 @@ title: "R- Institutional Ecology Translations and Boundary Objects"
 enableToc: false # do not show a table of contents on this page
 creation date: $=dv.current().file.ctime
 last modified date: $=dv.current().file.mtime
-title: "Institutional Ecology, `Translations' and Boundary Objects: Amateurs and Professionals in Berkeley's Museum of Vertebrate Zoology, 1907-39"
 author: "Susan Leigh Star, James R. Griesemer"
 year: 1989
 reference: 

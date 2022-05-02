@@ -3,7 +3,6 @@ title: "R- Prune Structural Editor"
 enableToc: false # do not show a table of contents on this page
 creation date: $=dv.current().file.ctime
 last modified date: $=dv.current().file.mtime
-title: "Prune: A Code Editor that is Not a Text Editor"
 author: "Kent Beck, Thiago Harai"
 year: 2015
 reference: "https://m.facebook.com/nt/screen/?params=%7B%22note_id%22%3A994298340981590%7D&path=%2Fnotes%2Fnote%2F&refsrc=deprecated&_rdr"

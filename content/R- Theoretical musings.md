@@ -3,7 +3,6 @@ title: "R- Theoretical musings"
 enableToc: false # do not show a table of contents on this page
 creation date: $=dv.current().file.ctime
 last modified date: $=dv.current().file.mtime
-title: "Living Science: Theoretical musings"
 author: "Eve Marder"
 year: 2020
 reference: 

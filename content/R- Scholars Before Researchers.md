@@ -3,7 +3,6 @@ title: "R- Scholars Before Researchers"
 enableToc: false # do not show a table of contents on this page
 creation date: $=dv.current().file.ctime
 last modified date: $=dv.current().file.mtime
-title: "Scholars Before Researchers: On the Centrality of the Dissertation Literature Review in Research Preparation"
 author: "David N. Boote, Penny Beile"
 year: 2005
 reference: 

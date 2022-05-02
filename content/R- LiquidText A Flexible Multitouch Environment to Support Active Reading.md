@@ -3,7 +3,6 @@ title: "R- LiquidText A Flexible Multitouch Environment to Support Active Readin
 enableToc: false # do not show a table of contents on this page
 creation date: $=dv.current().file.ctime
 last modified date: $=dv.current().file.mtime
-title: "LiquidText: A Flexible, Multitouch Environment to Support Active Reading"
 author: "Craig Tashman, W. Keith Edwards"
 year: 2011
 reference: 

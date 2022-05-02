@@ -3,7 +3,6 @@ title: "R- Student readers use of library documents"
 enableToc: false # do not show a table of contents on this page
 creation date: $=dv.current().file.ctime
 last modified date: $=dv.current().file.mtime
-title: "Student readers' use of library documents: implications for library technologies"
 author: "Kenton O'Hara, Fiona Smith, William Newman, Abigail Sellen"
 year: 1998
 reference: 

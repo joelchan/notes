@@ -3,7 +3,6 @@ title: "R- Theory Before the Test"
 enableToc: false # do not show a table of contents on this page
 creation date: $=dv.current().file.ctime
 last modified date: $=dv.current().file.mtime
-title: "Theory Before the Test: How to Build High-Verisimilitude Explanatory Theories in Psychological Science"
 author: "Iris van Rooij, Giosuè Baggio"
 year: 2021
 reference: 

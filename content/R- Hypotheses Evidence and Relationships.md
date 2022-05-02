@@ -3,7 +3,6 @@ title: "R- Hypotheses Evidence and Relationships"
 enableToc: false # do not show a table of contents on this page
 creation date: $=dv.current().file.ctime
 last modified date: $=dv.current().file.mtime
-title: "Hypotheses, Evidence and Relationships: The HypER Approach for Representing Scientific Knowledge Claims"
 author: "Anita de Waard, Simon Buckingham Shum, Annamaria Carusi, Jack Park, Matthias Samwald, Ágnes Sándor"
 year: 2009
 reference: 

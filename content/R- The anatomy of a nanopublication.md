@@ -3,7 +3,6 @@ title: "R- The anatomy of a nanopublication"
 enableToc: false # do not show a table of contents on this page
 creation date: $=dv.current().file.ctime
 last modified date: $=dv.current().file.mtime
-title: "The anatomy of a nanopublication"
 author: "Paul Groth, Andrew Gibson, Jan Velterop"
 year: 2010
 reference: 

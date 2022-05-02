@@ -3,7 +3,6 @@ title: "R- Achieving Both Creativity and Rationale"
 enableToc: false # do not show a table of contents on this page
 creation date: $=dv.current().file.ctime
 last modified date: $=dv.current().file.mtime
-title: "Achieving Both Creativity and Rationale: Reuse in Design with Images and Claims"
 author: "D. Scott McCrickard, Shahtab Wahid, Stacy M. Branham, Steve Harrison"
 year: 2013
 reference: 
