@@ -10,7 +10,7 @@ With this question, we aim to learn how people synthesize information. Answering
 
 **This is the primary question we will be exploring over the course of the [[Interview Guide|user interviews]].** #questions/core
 
-From our exploration, we have a few starting points.  ^HOUBx1
+From our exploration, we have a few starting points. 
 
 - [[Search Behavior]]
 	- People need to find information when they aren't quite sure what they are looking for or how to articulate what they are looking for. Before you have solved a problem or articulated the right framing for a it, focused search is not sufficient.
@@ -33,8 +33,6 @@ From our exploration, we have a few starting points.  ^HOUBx1
 		- Some people will write and rewrite their ideas multiple times in order to crystallize their thoughts. There is a big opportunity in supporting the process of rewriting ideas and identifying the themes that are consistent across iterations.
 	- Prioritization
 		- When people have many tasks or idea premises, they need to be able to sift through all of them and prioritize/signal which are the most important. One way to do that is by marking a note as worthy of progressing to the next stage. [[Knovigator]] does it instead by enabling quadratic voting on individual notes.
-
-%% ### MAYBE it's a [[Todos for Rob]] %%
 
 Any work that we hook into for them to author a discourse graph should line up with workflows that help them. People like putting ideas into clusters. We want to hook into in progress work. People take courses, download exercise apps, etc. because they want to change but are struggling to do it on their own. 
 
