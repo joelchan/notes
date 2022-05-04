@@ -10,4 +10,4 @@ What if the choice architecture for interacting with search results allowed you 
 If [[C- Search terms express intentions]], then highlighted and lowlighted results show how well the search matches the intention. [[Knovigator]] allows people to use quadratic voting on each block in order to indicate how important or relevant it is.
 
 Look at this search. A good amount of the results are irrelevant to my current query. I should be able to remove results and move them to the top.
-![[Pasted image 20211203210050.png]] ^940gp0g
+![[Pasted image 20211203210050.png]]  
