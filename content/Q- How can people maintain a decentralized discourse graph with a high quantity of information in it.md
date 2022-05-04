@@ -12,6 +12,6 @@ Existing solutions like Twitter try to solve this problem through a newsfeed. Ho
 
 Progressive summarization is one response to this as a way to [[C- It will be important to capture the potential energy of information consumption|capture potential energy of information consumption]].
 
-%%[[C- An ideal decentralized discourse graph would enable people to view information at different levels of granularity through a ZUI]].%%
+[[C- An ideal decentralized discourse graph would enable people to view information at different levels of granularity through a ZUI]].
 
 Alternatively, search operators could be helpful, such as a way to only view things between certain dates. See [[content/garden/LitReview/I- Search as a part of the primitive design]] for more discussion.
