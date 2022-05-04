@@ -4,7 +4,7 @@ title: "Why people prefer to structure later or not at all"
 
 This page can be thought of as a contextual index page - so point to other pages while discussing how that's relevant to the common forms of structure people add to their notes. This is a hypertext hub.
 
-[[It takes too much work to create structure]]. Adding structure up front can be too restrictive, preventing people from [work at the speed of thought]([[My tooling gets in the way of working at the speed of thought]]) [[If I’m thinking too hard about structure before I write the note, I forget what I was going to write down]]. If they don't add structure later, it's because [[Adding structure later feels like a chore]].
+[[It takes too much work to create structure]]. Adding structure up front can be too restrictive, preventing people from [[My tooling gets in the way of working at the speed of thought|work at the speed of thought]] [[If I’m thinking too hard about structure before I write the note, I forget what I was going to write down]]. If they don't add structure later, it's because [[Adding structure later feels like a chore]].
 
 [[C- Context is necessary for knowledge reuse]], but [[C- Specifying context for future reuse requires predicting trajectories of future reuse]] and [[C- Predicting trajectories of future reuse of information objects is hard]]. [[C- Specifying context for future reuse is costly]] and [[C- It is difficult to predict whether structure now will be worthwhile later]], so people determine that it is unlikely to be worth the effort.
 
