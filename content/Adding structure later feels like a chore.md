@@ -5,7 +5,7 @@ enableToc: false # do not show a table of contents on this page
 
 Authored By:: [[P- Rob Haisfield]], [[P- Brendan Langen]]
 
-In the [[uncertain payoff, regret)](structure now vs. later (uncertain payoff, regret|structure now vs. later (uncertain payoff, regret)]]), people often defer structure until later. For more details on that, see [[Why people prefer to structure later or not at all]]. [[((ozwR1UaGD|*]]))
+In the [[structure now vs. later (uncertain payoff, regret)]] tradeoff, people often defer structure until later. For more details on that, see [[Why people prefer to structure later or not at all]]. 
 
 Adding structure later is a viable alternative, as people likely have a better idea of how their current idea fits into the wider whole. But, we frequently heard that the act of adding structure later **feels like a chore**. 
 
@@ -15,11 +15,11 @@ Ideas were even processed through a queue in certain notebooks, with different s
 
 A common failure mode for queues was to process the same list multiple times.  For example, someone might look through an inbox of ideas, find the best ones, and then move those over into another list. Then, a month later, they would look through the inbox again, repeating the process.  The problem is that it was difficult to distinguish which ideas they had already processed, so they would repeat the work of screening through ideas they had already screened out. We can see systems like [Allen Wilson's](https://zettelkasten.de/posts/playing-zettelkasten-rpg-through-arbitrary-constraints/) evolve to prevent this repeat work.
 
-One interviewee went as far as mentioning avoiding the tasks they created to review old notes. Others mentioned reviewing notes felt like repeat effort [[|*]]. 
+One interviewee went as far as mentioning avoiding the tasks they created to review old notes. Others mentioned reviewing notes felt like repeat effort. 
 
 While queue processing can be extremely effective to those who have internalized the practice, it was done by very few of our interviewees.
 
-For more, see: [[C- Current tools do not support flexible exploration and refactoring of structures as they inevitably evolve]].[[((Lrk1wY9wE|*]]))
+For more, see: [[C- Current tools do not support flexible exploration and refactoring of structures as they inevitably evolve]]. 
 
 tl;dr summary
 	- Existing structural systems are often seen by people as a chore. Existing queue management systems are too tedious. The story is clear – most people don't want to spend time refactoring notes. That feels like [[wasted repeated effort]].
