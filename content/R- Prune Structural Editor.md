@@ -67,7 +67,7 @@ One of the risks we identified at the beginning of the project was the number of
 
 It turns out that a hundred or so transformation suffice for editing JavaScript (our source and our target language). Even a hundred transformations is a lot to remember. When we measured our performance editing samples of code, we found selecting transformations and entering identifiers to be a bottleneck.
 
-To accelerate editing and make Prune feel more familiar, we created a typeahead. When the user begins typing, Prune can guess what tree transformation is implied. For example, typing "if" implies a conditional, a guess that is confirmed when a space follows. The If transformation is invoked at that point, leaving the typeahead ready for input at the condition. %%[[C- A DSL speeds up the author]] / [[textual interface]] is hard to beat the speed of%% ^c589f7
+To accelerate editing and make Prune feel more familiar, we created a typeahead. When the user begins typing, Prune can guess what tree transformation is implied. For example, typing "if" implies a conditional, a guess that is confirmed when a space follows. The If transformation is invoked at that point, leaving the typeahead ready for input at the condition. 
 
 With practice, pruning with the typeahead feels a little like just typing. However, all the "noise" characters, put there just to make the parser happy, like parentheses and curly braces appear automatically. Typeahead adds to the efficiency of editing, reduces keystrokes, and makes Prune more approachable.
 
