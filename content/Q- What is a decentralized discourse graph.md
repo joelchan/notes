@@ -22,5 +22,4 @@ Dividing the responsibilities of synthesis is one of the core strengths of decen
 
 [[C- People are lazy]] and [[content/garden/LitReview/C- Most people will primarily consume information]], so we can't expect them to do all of the work necessary to index information themselves. While tools like [[Roam Research]] and [[Obsidian|Obsidian]] enable people to develop advanced discourse graphs for themselves, over time they may end up with a system that is so complicated that maintaining it becomes work. Why not split up the effort so the ones who share information aren't responsible for 100% of the processing?
 
-%%And if people can be dishonest, isn't consensus over a shared state of truth one of the key innovations of the blockchain?%%
-%%- [ ] Respond to this question. [[Todo List for LitReview]]%%
+And if people can be dishonest, isn't consensus over a shared state of truth one of the key innovations of the blockchain?
