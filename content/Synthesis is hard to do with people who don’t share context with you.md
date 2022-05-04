@@ -5,11 +5,11 @@ enableToc: false # do not show a table of contents on this page
 
 Authored By::  [[P- Joel Chan]], [[P- Rob Haisfield]], [[P- Brendan Langen]]
 
-An exciting hypothesis that motivates our work is that making discourse graphs widely available could accelerate human synthesis work, and thereby accelerate innovation and scientific discovery. [[../LitReview/Main/C- Effective synthesis is necessary for innovation and scientific progress.md|C- Effective synthesis is necessary for innovation and scientific progress]]. Yet, our first challenge is to enable people to perform distributed synthesis. For many people, this is a challenge!
+An exciting hypothesis that motivates our work is that making discourse graphs widely available could accelerate human synthesis work, and thereby accelerate innovation and scientific discovery. [[C- Effective synthesis is necessary for innovation and scientific progress.md|C- Effective synthesis is necessary for innovation and scientific progress]]. Yet, our first challenge is to enable people to perform distributed synthesis. For many people, this is a challenge!
 
 ## Synthesis typically occurs in one mind
 
-Synthesis involves individuals putting together many pieces in their minds, but It is often argued that [synthesis occurs in a single mind](https://notes.andymatuschak.org/Great_creative_work_is_usually_the_product_of_a_single_person). In our research, surprisingly few participants had distributed synthesis experiences to share. Why?  [[((9LwW0ZobI|*]]))
+Synthesis involves individuals putting together many pieces in their minds, but It is often argued that [synthesis occurs in a single mind](https://notes.andymatuschak.org/Great_creative_work_is_usually_the_product_of_a_single_person). In our research, surprisingly few participants had distributed synthesis experiences to share. Why? 
 
 In the early stages of synthesis, when people have [[half-baked ideas not ready yet]], they prefer to work on their own or with a close companion. 
 
@@ -31,9 +31,9 @@ Thus, we see that **shared context** is critical to distributed synthesis. When 
 
 To have shared context, people must be on the same page. Their working styles align. They understand how what they're examining should fit into their overall goal. They are aware of the nuance in the field(s) they're researching. In simple terms, they know how to work with one another on the problem they're working on.   
 
-But there is a very [[[[[CLM]([[CLM|significant barrier]] - Interdisciplinary teamwork is hard]]) to team-based [[Convergence]] because of this bottleneck of not being able to have a shared "dataset" of ideas that satisfy the properties. Our external representations that are **shareable** lack one or more of those properties. [[((79OcTyQZR|*]])) [[((9eAC3T91o|*]]))
+But there is a very significant barrier to team-based [[Convergence]] because of this bottleneck of not being able to have a shared "dataset" of ideas that satisfy the properties. Our external representations that are **shareable** lack one or more of those properties. 
 
-When we did see distributed synthesis in our research, people would almost always bring someone else into their work through a feedback role, as that lowers the burden of the shared dataset requirement.  [[((HXYWjd8Jm|*]]))
+When we did see distributed synthesis in our research, people would almost always bring someone else into their work through a feedback role, as that lowers the burden of the shared dataset requirement. 
 
 Instead of involving peers in the full synthesis process, [[B5]] would ask concise questions to his peers that would support him  [[B5]] and [[R10]] seek feedback only from trusted individuals. TA comes up with a pitch, bringing people along his line of questioning. He wants to present others with a gateway into the topic he's exploring. 
 
@@ -41,7 +41,7 @@ Oftentimes, his solution to get people up to speed is a **gateway analogy,** whe
 
 In our interviews, virtually everyone struggled to bring other people up to speed on their projects, but the theme of a **collective narrative** emerged as a pattern of people who are on the same page.
 
-At this point, the synthesizer would either find an individual with shared context, or they would need to come up with a concise framing to act as gateway analogies and simple entry points to share.[[((qjcwxhvEe|*]]))
+At this point, the synthesizer would either find an individual with shared context, or they would need to come up with a concise framing to act as gateway analogies and simple entry points to share. 
 
 To find those entry points, [[B5]] considers the following questions: What's a common way to frame this that others can relate to? How can I get someone else to think this is their own idea? What will help someone else get it? What motivated the project?
 
