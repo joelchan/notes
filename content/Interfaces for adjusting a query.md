@@ -6,11 +6,11 @@ enableToc: false # do not show a table of contents on this page
 Authored By:: [[P- Rob Haisfield]]
 
 
-tags: [Q- What are powerful interfaces for entering information into a discourse graph](../LitReview/Extended%20Universe/WIP/Q-%20What%20are%20powerful%20interfaces%20for%20entering%20information%20into%20a%20discourse%20graph.md)
+tags: [[Q- What are powerful interfaces for entering information into a discourse graph]]
 
-Not all edits to the query have to be within the query editor. In [I- Provide Push and Pull as inline syntax to affect the related items section for a page](I-%20Provide%20Push%20and%20Pull%20as%20inline%20syntax%20to%20affect%20the%20related%20items%20section%20for%20a%20page.md), we outlined how `push` and `pull` work as an inline DSL to add to a related items query's `any` clause. 
+Not all edits to the query have to be within the query editor. In [[I- Provide Push and Pull as inline syntax to affect the related items section for a page]], we outlined how `push` and `pull` work as an inline DSL to add to a related items query's `any` clause. 
 
- [C- User behavior within a well-designed choice architecture can be a signal of preferences](../LitReview/C-%20User%20behavior%20within%20a%20well-designed%20choice%20architecture%20can%20be%20a%20signal%20of%20preferences.md). We can see how this happens with [newsfeed management mechanisms]([C- Newsfeed management can enable users to express their preferences through a combination of revealed preferences and declared preferences](C-%20Newsfeed%20management%20can%20enable%20users%20to%20express%20their%20preferences%20through%20a%20combination%20of%20revealed%20preferences%20and%20declared%20preferences.md)). As people are looking through the results of a query, they might right click then select the option: "remove from query." The menu path might look like the following, where each of the topics could be toggled:
+[[C- User behavior within a well-designed choice architecture can be a signal of preferences]]. We can see how this happens with [[C- Newsfeed management can enable users to express their preferences through a combination of revealed preferences and declared preferences|newsfeed management mechanisms]]. As people are looking through the results of a query, they might right click then select the option: "remove from query." The menu path might look like the following, where each of the topics could be toggled:
  - ```clojure
 {:remove {:itemID sladfkji4af4sdkf
           :author "John Doe"
@@ -35,7 +35,7 @@ Imagine "economic inflation" were a topic mentioned in an item within your newsf
               muted-topics-list
               muted-items-list)))```
 
-Alternatively, users might process the list of query results through highlighting and lowlighting. [C- Highlighted and lowlighted search results map to how well results map to intentions](C-%20Highlighted%20and%20lowlighted%20search%20results%20map%20to%20how%20well%20results%20map%20to%20intentions.md), so the default assumption could be that lowlighting a block would remove that block from the query results. A block id would then have a `queries-where-highlighted` and `queries-where-lowlighted` property, listing the relevant queries.
+Alternatively, users might process the list of query results through highlighting and lowlighting. [[C- Highlighted and lowlighted search results map to how well results map to intentions]], so the default assumption could be that lowlighting a block would remove that block from the query results. A block id would then have a `queries-where-highlighted` and `queries-where-lowlighted` property, listing the relevant queries.
 
 It's possible that users don't always want to reify an entirely new query as an entity, and sometimes would like to simply filter a query. Given the compositional nature of the language I'm proposing, it should come as no surprise that we can apply a filter function to any list of query results.
  ```clojure
@@ -45,10 +45,11 @@ It's possible that users don't always want to reify an entirely new query as an 
         "web3")
   (not: "regulation"))```
 
-[Roam](Roam) has a GUI for manipulating these filters that can go beyond the language interface described above. For example, below, I'm filtering all linked references to `[Rob Haisfield](Rob%20Haisfield)` for `[CLM](CLM)` (claims) and `[EVD](EVD)` (evidence) that are connected.
+[[Roam]] has a GUI for manipulating these filters that can go beyond the language interface described above. For example, below, I'm filtering all linked references to `[Rob Haisfield](Rob%20Haisfield)` for `[CLM](CLM)` (claims) and `[EVD](EVD)` (evidence) that are connected.
 
 ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fwrite-hypertext-notebook-graph-research%2FRwZUCu20fg.png?alt=media&token=314cf155-c8ec-4904-a051-8cb6b4496269)
--  If written in my proposed query syntax, this would look like the query below. An `all:` operator is assumed at the beginning of the query.
+
+If written in my proposed query syntax, this would look like the query below. An `all:` operator is assumed at the beginning of the query.
  ```clojure
 (query: "Rob Haisfield"
         "CLM"
