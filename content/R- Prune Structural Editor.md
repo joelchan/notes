@@ -59,7 +59,7 @@ The transformations are all atomic, in that they take a syntactically correct pr
 
 One serendipitous discovery that deserves special mention is the TBD node, used above. Some transformations require two or more parameters. For example, creating a binary expression requires a left side, a right side, and an operator. In a panic we added a special node to the tree representing code to be filled in later. We found it useful in many situations and it never intruded on our work as users of Prune. It did require us to modify the pretty printer we used (esprima), but it was well worth it.
 
-One piece of interface philosophy we carried through Prune is that the editor should allow the user to build a tree by introducing nodes in any order. We have so little experience coding through tree transformations that we have no confidence we have found the most efficient sequence (if one exists). %%[[typed hole]]%%
+One piece of interface philosophy we carried through Prune is that the editor should allow the user to build a tree by introducing nodes in any order. We have so little experience coding through tree transformations that we have no confidence we have found the most efficient sequence (if one exists). 
 
 ## **Typeahead**
 
