@@ -20,6 +20,6 @@ As seen in [[R- Towards a comprehensive model of the cognitive process and mecha
 
 Dividing the responsibilities of synthesis is one of the core strengths of decentralizing the process. When we look at prior attempts at building a semantic web, we find that the primary reasons have to do with human behavior and dishonesty.
 
-[[C- People are lazy]] and [[content/garden/LitReview/C- Most people will primarily consume information]], so we can't expect them to do all of the work necessary to index information themselves. While tools like [[Roam Research]] and [[Obsidian|Obsidian]] enable people to develop advanced discourse graphs for themselves, over time they may end up with a system that is so complicated that maintaining it becomes work. Why not split up the effort so the ones who share information aren't responsible for 100% of the processing?
+[[C- People are lazy]] and [[C- Most people will primarily consume information]], so we can't expect them to do all of the work necessary to index information themselves. While tools like [[Roam Research]] and [[Obsidian|Obsidian]] enable people to develop advanced discourse graphs for themselves, over time they may end up with a system that is so complicated that maintaining it becomes work. Why not split up the effort so the ones who share information aren't responsible for 100% of the processing?
 
 And if people can be dishonest, isn't consensus over a shared state of truth one of the key innovations of the blockchain?
