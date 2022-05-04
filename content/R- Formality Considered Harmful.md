@@ -31,7 +31,7 @@ alias: "@shipmanFormalityConsideredHarmful1999"
                 - Reduce initial overhead of entering information
                 - Reduce risk of harm from prematurely committing to the "wrong" structure
             - Examples of incremental formalization
-                - In the Hyper-Object Substrate system, users enter mostly informal text initially, and the system recognizes patterns in the textual information to suggest possible formal attributes or relations for the underlying knowledge base, which the user can then accept/modify/reject as they wish (p. 347). ^71nnuud
+                - In the Hyper-Object Substrate system, users enter mostly informal text initially, and the system recognizes patterns in the textual information to suggest possible formal attributes or relations for the underlying knowledge base, which the user can then accept/modify/reject as they wish (p. 347). 
                     - example-of:: [[incremental formalization]]
                     - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fmegacoglab%2Fnv5jGR2KtA?alt=media&token=7ab4cc41-116f-41d5-a440-d75b3a6d6741)
                     - Original cite is [[R- Supporting knowledge-base evolution with incremental formalization]]
