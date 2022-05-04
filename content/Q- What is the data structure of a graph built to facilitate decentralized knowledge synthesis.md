@@ -38,7 +38,7 @@ In order to facilitate synthesis, the data structure of the discourse graph need
 	- As seen in [[Q- What is synthesis]], people need to compose and remix existing information to form a new whole.
 - **Compression.** 
 	- Compression can be thought of as abstraction. A core thing that abstraction does is remove "extraneous" details, retaining only what is "necessary." If one is trying to reuse old thoughts, reading too much information can be overwhelming. 
-	- Compression is about increasing the information density as much as possible. [[P- Andy Matuschak]] recommends using [[content/garden/LitReview/I- Search as a part of the primitive design#^ee42bf|note titles as APIs to the whole idea]].
+	- Compression is about increasing the information density as much as possible. [[P- Andy Matuschak]] recommends using [[I- Search as a part of the primitive design|note titles as APIs to the whole idea]].
 - **Context.**
 	- It can often be difficult to synthesize from the work of others if their thoughts are too compressed because you don't know they really mean. [[C- Compression and contextualizability are in tension]]. Without proper context, it is impossible to know what people base their conclusions on, or why people see some piece of information as important.
 
@@ -82,10 +82,3 @@ Some initial beliefs:
 - The data structure of a graph built to facilitate decentralized knowledge synthesis requires:
 	- Contextualizability
 	- Composability
-
-
-%% [[Todo List for LitReview]] %%
-
-asdflkj; ^620e8430-a000-4600-bf5a-c9908997a9ac
-
-![[#^620e8430-a000-4600-bf5a-c9908997a9ac]]
