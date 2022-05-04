@@ -6,7 +6,6 @@ Authored by:: [[P- Brendan Langen]]
 
 Nextjournal is an example of a [[Literate programming interface]], as seen in [[R- clojureD 2021- Command and Conquer- Learnings from Decades of Code Editing by Philippa Markovics|this demo]]. Nextjournal uses a context-driven model that enables users around context-first thinking, via convenient UI abstraction, context-aware glossary of features, and a balance between easy to discover (mouse usage) and expert usage (keybindings, flows).
 
-%%[[Todos for Brendan - DONE]]%%
 
 Context is critical for displaying UI elements at the correct time, so Nextjournal provides users with a command bar at the bottom of each page, like this. 
 ![[Pasted image 20211217121037.png]]
