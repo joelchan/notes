@@ -14,7 +14,3 @@ Notes related to this talk live in the [[Nextjournal]] page.
 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/A0TafHXszgM?start=860" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-^d181c3
-
-%%[[Todos for Brendan - DONE]]%%
