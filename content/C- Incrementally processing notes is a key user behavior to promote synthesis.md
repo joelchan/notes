@@ -14,8 +14,4 @@ Tools like [[Readwise|Readwise]], [[LiquidText]], and [[Hypothesis]] promote thi
 
 Tools alone do not enable incremental processing, though. This has led the PKM community to reference routines and [algorithms for thought](https://www.cortexfutura.com/getting-started-algorithms-of-thought/) in order to turn ideas into synthesized knowledge. [[C- Multiplicity is necessary for synthesis]].
 
-%% [[Todos for Rob]] connect this to Joel's page on incremental formalization by saying that incremental processing is the first step along the way to  %%
-
-%% [[Todos for Rob]] talk about prioritization through [[People need a way of promoting and demoting knowledge in a decentralized knowledge graph]] %%
-
 Many people will [[C- Apply progressive summarization to your own notes|progressively summarize their own notes]]. [[C- People process complex information in multiple levels and stages of processing]]. 
