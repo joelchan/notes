@@ -25,7 +25,7 @@ The paper refers to "the problem of multiple knowledge levels." Essentially, kno
 
 In some ways, [[P- Francis Miller]] is attempting to solve a problem of [[Search Behavior]] in an exploratory search setting. Essentially, how can people find what they are looking for, even when they do not know how to describe what they are looking for? Starting with broad questions and progressively drilling down into specific domains may be an effective search strategy. After all, [[C- An exploratory search system should help the reader cumulatively gain information]].
 
-[[Start Here#^0Q4ntx|Writing in hypertext]] attempts to solve the same problem. Whenever the reader is unclear about a concept, they can click on the hyperlink, read about it, and then bring their new knowledge back to the note that they were originally reading. When the hypertext links have descriptive titles, they provide an "[[Search Behavior#^3iAusd|information scent]]" that informs the reader whether it will be worthwhile to follow that link's path.
+[[Start Here|Writing in hypertext]] attempts to solve the same problem. Whenever the reader is unclear about a concept, they can click on the hyperlink, read about it, and then bring their new knowledge back to the note that they were originally reading. When the hypertext links have descriptive titles, they provide an "[[Search Behavior|information scent]]" that informs the reader whether it will be worthwhile to follow that link's path.
 
 However, hypertext differs from what Miller proposes insofar as it describes a flat information architecture. In hypertext, you can start on any page and explore outwards. Compared to Miller's abstract to specific search strategy, however, it may be inefficient.
 
@@ -33,7 +33,7 @@ One solution to the problem of multi-level content is apparent in the structure 
 
 Another idea present in the paper is a [[ZUI|Zoomable User Interface]]. While the term was not explicitly mentioned, the author alluded to the concept. Imagine a digital map. When you zoom in, you see the names of specific streets and stores, but when you zoom out, those fade away and are replaced with the names of towns and cities. Now imagine a discourse graph where you can zoom in or out to go from increased detail to broader abstractions.
 
-This implies the necessity of [[I- Summarization as a primitive]]. ![[I- Summarization as a primitive#^YlpKtL]]
+This implies the necessity of [[I- Summarization as a primitive]]. 
 
 [[C- A key requirement to participating in a discourse graph for a specific domain is knowing the vocabulary used in that graph]]. ZUIs that support abstract to specific search strategies can facilitate people learning the vocabulary they need.
 
