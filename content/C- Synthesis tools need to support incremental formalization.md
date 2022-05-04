@@ -13,7 +13,7 @@ Tools for synthesis that attempt to incorporate formalism typically have an extr
 These problems are well-documented in the classic "Formality Considered Harmful: Experiences, Emerging Themes, and Directions on the Use of Formal Representations in Interactive Systems" [[R- Formality Considered Harmful]]. In brief, this paper identifies four classes of difficulties:
 1. **Cognitive overhead**: often the task of specifying formalism is extraneous to the primary task, or is just plain annoying to do
 2. **Tacit knowledge**: if relevant info for developing formalism is tacit, asking people to formalize it will interrupt the task, with serious consequences for the quality of the work
-3. **Enforcing Premature Structure**: people don't want to commit until they're sure what formalism is actually useful for their task (and what's extraneous and only annoying) ^wg1zd3e
+3. **Enforcing Premature Structure**: people don't want to commit until they're sure what formalism is actually useful for their task (and what's extraneous and only annoying) 
 4.  **Situational Structure**: Useful structures and formalisms vary significantly across people, situations, and tasks
 
 The last two (premature and situational structure) are particularly relevant for open-ended synthesis work.
