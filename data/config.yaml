@@ -4,6 +4,7 @@ openToc: false
 enableLinkPreview: true
 enableLatex: true
 enableSPA: true
+enableContextualBacklinks: true
 description:
   A networked notebook on knowledge synthesis in academic research and software development of thought processors and HCI tools. 
 page_title:
