@@ -44,8 +44,6 @@
   "md5" | resources.Minify | }} {{$contentIndex := resources.Get
   "indices/contentIndex.json" | resources.Fingerprint "md5" | resources.Minify
   }}
-  <script defer src="https://cdn.commento.io/js/commento.js"></script>
-  <div id="commento"></div>
   <script>
     const BASE_URL = {{.Site.BaseURL}}
     const fetchData = Promise.all([
@@ -101,6 +99,8 @@
     };
     attachSPARouting(draw);
   </script>
+  <script defer src="https://cdn.commento.io/js/commento.js"></script>
+  <div id="commento"></div>
   {{else}}
   <script>window.navigate = (url) => window.location.href = url</script>
   {{end}}
