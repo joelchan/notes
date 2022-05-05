@@ -6,8 +6,8 @@ enableToc: false # do not show a table of contents on this page
 Authored By:: [[P- Rob Haisfield]]
 
 
-[[I- Populate the related items section through a search term.md|If a page's related items section is defined through a search term]], then we can think of the page title and its query as a key-value pair. The data structure would look something like this:
-```clojure
+[[I- Populate the related items section through a search term|If a page's related items section is defined through a search term]], then we can think of the page title and its query as a key-value pair. The data structure would look something like this:
+``` clojure
 "structure in hindsight" means 
   (any: "structure in hindsight" 
         (all: (any: "structure" "structuring")
@@ -32,7 +32,8 @@ Authored By:: [[P- Rob Haisfield]]
 "Theories" means
   (any: "Behavioral Science Theories"
         "Political Science Theories"
-        "Biology Theories")```
+        "Biology Theories") ```
+
 
 Over time, composable queries fight entropy. We would frequently see people create multiple pages that mean the same thing simply because their body of notes had grown so large that they didn't remember they had already created other pages to refer to the same concept. 
 
@@ -44,6 +45,6 @@ We aim to [[work at the speed of thought]], but too much structure creates paral
 
 Over time, these duplicate links pile up, and users feel the need to link to a large vocabulary of pages, which brings us back to square one with [[Repeat work]]. Their system's surface area has greatly increased in size, and they're reliant on their own memory to recall each new link they add. Ultimately, this leads to system collapse or abandonment.  
 
-Multiplayer amplifies the problem, [[(Q- How do we solve the problem of different people referring to the same concept with different language.md|as different people refer to similar concepts with different language]]).
+Multiplayer amplifies the problem, [[(Q- How do we solve the problem of different people referring to the same concept with different language|as different people refer to similar concepts with different language]].
 
-Composable queries enable people to create both aliases and hierarchies. Aided by the full expressiveness of a query language, composable searches empower people to build up their own semantic dictionary and thesaurus over time. As the queries can be adjusted at any point, this is a promising solution to the question: [[Q- How might we allow people to adapt their past system and notes to current needs.md]]?
+Composable queries enable people to create both aliases and hierarchies. Aided by the full expressiveness of a query language, composable searches empower people to build up their own semantic dictionary and thesaurus over time. As the queries can be adjusted at any point, this is a promising solution to the question: [[Q- How might we allow people to adapt their past system and notes to current needs]]?
