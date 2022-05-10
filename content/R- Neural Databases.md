@@ -20,10 +20,10 @@ URL - https://arxiv.org/pdf/2010.06973v1.pdf
 [[Q- What would a discourse graph without a predefined schema look like]]?
 
 related questions from Rob
-[[Rob/Q- What is the data structure of a graph built to facilitate decentralized knowledge synthesis]]
+[[Q- What is the data structure of a graph built to facilitate decentralized knowledge synthesis]]
 [[Q- How might you allow people to query information without explicit knowledge of how that information is structured]]
 [[Q- How do people come to agree on queryable schemas]]
-[[Rob/Q- How do we solve the problem of different people referring to the same concept with different language]]
+[[Q- How do we solve the problem of different people referring to the same concept with different language]]
 
 related reading
 [[R- Polysemy and thought - Toward a generative theory of concepts]]
@@ -53,7 +53,6 @@ Q- What are neural databases good for?
 > Our first contribution is to show that state of the art transformer models [47] can be adapted to answer simple natural language queries. Specifically, the models can process facts that are relevant to a query independent of their specific linguistic form, and combine multiple facts to yield correct answers, effectively performing a join. 
 > Our second contribution is to propose an architecture for neural databases that uses the power of transformers at its core, but puts in place several other components in order to address the scalability and aggregation issues. Our architecture runs multiple instances of a Neural SPJ operator in parallel. The results of the operator are either the answer to the query or the input to an aggregation operator, which is done in a traditional fashion. Underlying this architecture is a novel algorithm for generating the small sets of database sentences that are fed to each Neural SPJ operator
 > Finally, we describe an experimental study that validates the different components of NeuralDBs, namely the ability of the Neural SPJ to answer queries or create results for a subsequent aggregation operator even with minimal supervision, and our ability to produce support sets that are fed into each of the Neural SPJ operators. Putting all the components together, our final result shows that we can accurately answer queries over thousands of sentences with very high accuracy. To run the experiments we had to create an experimental dataset with training data for NeuralDBs, which we make available for future research.
-
 
 Q- What are neural databases bad at?
 Q- How large of a dataset could be used with a neural database?
