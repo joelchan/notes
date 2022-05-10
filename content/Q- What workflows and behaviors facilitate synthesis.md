@@ -16,7 +16,7 @@ From our exploration, we have a few starting points.
 	- People need to find information when they aren't quite sure what they are looking for or how to articulate what they are looking for. Before you have solved a problem or articulated the right framing for a it, focused search is not sufficient.
 - Tidying/Gardening
 	- As people review their content, they make small changes and updates. This helps to ensure [[Q- How might we propagate changing beliefs throughout a network|changing beliefs are propagated throughout the system]]. 
-		- See [this interview](https://www.gamedeveloper.com/design/q-a-dissecting-the-development-of-i-dwarf-fortress-i-with-creator-tarn-adams) with Tarn Adams: ![[Pasted image 20211118174735.png]]
+		- See [this interview](https://www.gamedeveloper.com/design/q-a-dissecting-the-development-of-i-dwarf-fortress-i-with-creator-tarn-adams) with Tarn Adams: ![[images/Pasted image 20211118174735.png]]
 - Braindump
 	- People will dump all of their thoughts onto a page in order to figure out what they want to say. At this point, they need to work with a data structure that is fast and does not get in the way. [[C- Some users feel restricted by tools for thought with overly strict data structures]]. However, there is a [[structure now vs. later (uncertain payoff, regret)]] tradeoff here, where they braindump so many ideas that it becomes hard to work with in the future. This is perhaps where there is an opportunity to support [[C- Incrementally processing notes is a key user behavior to promote synthesis|incremental processing]], as [[C- Loosely structured notes are not a useful knowledge artifact for others]].
 	- It is often the case that people will go through multiple stages of braindumping in succession. [[C- People will iterate and rewrite the same ideas in order to crystallize their thoughts]].
@@ -37,4 +37,4 @@ From our exploration, we have a few starting points.
 Any work that we hook into for them to author a discourse graph should line up with workflows that help them. People like putting ideas into clusters. We want to hook into in progress work. People take courses, download exercise apps, etc. because they want to change but are struggling to do it on their own. 
 
 [[P- Ryan Singer]] instantiates his brainstorming and planning workflow in the video below.
-![[rjs-work-planning-tool.mp4]]
+![[images/rjs-work-planning-tool.mp4]]
