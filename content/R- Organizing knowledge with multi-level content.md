@@ -38,12 +38,12 @@ This implies the necessity of [[I- Summarization as a primitive]].
 [[C- A key requirement to participating in a discourse graph for a specific domain is knowing the vocabulary used in that graph]]. ZUIs that support abstract to specific search strategies can facilitate people learning the vocabulary they need.
 
 The paper also shows multiple types of knowledge structure which may be taken into consideration to answer [[Q- What is the data structure of a graph built to facilitate decentralized knowledge synthesis]].
-![[images/Pasted image 20211019173927.png]]
-![[images/Pasted image 20211019174114.png]]
+![[Pasted image 20211019173927.png]]
+![[Pasted image 20211019174114.png]]
 
 Additionally, Miller makes the argument that the very act of making knowledge maps that communicate the multiple-level content is rewarding and fruitful. When considering the question [[Q- What are powerful interfaces for entering information into a discourse graph]] with the goal of promoting synthesis, we should bear this in mind. Map making is itself a primitive. Zooming It allows you to identify gaps and patterns that would otherwise remain undiscovered without a forcing function to lay out all of the information and its structure from top to bottom. 
 
-![[images/Pasted image 20211019174658.png]]
+![[Pasted image 20211019174658.png]]
 
 [[Figma]] now lets you zoom in and out on comment threads and clusters. Notice how I click on the middle right DR and that zooms into a cluster of 4 comment threads.
 ![[images/Pasted image 20211129114041.png]]
