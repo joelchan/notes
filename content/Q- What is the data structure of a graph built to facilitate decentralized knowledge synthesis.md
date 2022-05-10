@@ -61,7 +61,7 @@ For now, we believe a decentralized discourse graph will require support for:
 	- Ability to express:
 		- Causality
 		- Opposition or support
-- [[Rob/I- Search as a part of the primitive design]]
+- [[I- Search as a part of the primitive design]]
 - Breadcrumbs
 	- Queues
 [[Standoff Annotation]], as seen in [[Codex OS]], is very appealing as an option. It seems as though it could be an alternative to HTML for tools for thought, as it enables users to annotate overlapping pieces of information and assign metadata to the annotations.
