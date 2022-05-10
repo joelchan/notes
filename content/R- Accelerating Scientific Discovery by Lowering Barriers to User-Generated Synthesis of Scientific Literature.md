@@ -30,7 +30,7 @@ Synthesis is arduous and effortful. A significant amount of labor goes towards t
 
 This reminds me of how [Abstract](https://www.abstract.com/) struggled because [Git](https://en.wikipedia.org/wiki/Git) was pretty far outside of designer workflows
 
-One of Joel's main goals is to lower the barrier for scientists to efficiently generate synthesis and incorporate it into their routine practices. [[Rob/Q- What user behaviors are people doing already that specify structure that are not being instantiated into a structure]]
+One of Joel's main goals is to lower the barrier for scientists to efficiently generate synthesis and incorporate it into their routine practices. [[Q- What user behaviors are people doing already that specify structure that are not being instantiated into a structure]]
 - Integrate into scientific practices
 - Improve synthesis quality
 - Lower overhead synthesis through reuse of the intermediate products of synthesis
