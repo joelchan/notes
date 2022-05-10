@@ -46,15 +46,15 @@ Additionally, Miller makes the argument that the very act of making knowledge ma
 ![[Pasted image 20211019174658.png]]
 
 [[Figma]] now lets you zoom in and out on comment threads and clusters. Notice how I click on the middle right DR and that zooms into a cluster of 4 comment threads.
-![[images/Pasted image 20211129114041.png]]
+![[Pasted image 20211129114041.png]]
 
 
-![[images/Pasted image 20211129114058.png]]
+![[Pasted image 20211129114058.png]]
 
-![[images/Pasted image 20211202140908.png]]
+![[Pasted image 20211202140908.png]]
 
-![[images/Pasted image 20211202140929.png]]
-![[images/Pasted image 20211202140919.png]]
+![[Pasted image 20211202140929.png]]
+![[Pasted image 20211202140919.png]]
 
 
-![[images/Pasted image 20211202140855.png]]
+![[Pasted image 20211202140855.png]]
