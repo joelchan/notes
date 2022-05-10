@@ -22,7 +22,7 @@ While text is an interface for information entry, the end visualizations need no
 
 ![[Pasted image 20210913182317.png]]
 
-We do not yet know what the syntax will be. This will certainly be informed by our explorations of [[Rob/Q- What is the data structure of a graph built to facilitate decentralized knowledge synthesis]] and user interviews.
+We do not yet know what the syntax will be. This will certainly be informed by our explorations of [[Q- What is the data structure of a graph built to facilitate decentralized knowledge synthesis]] and user interviews.
 
 However, typed edges and nodes are an expressive backbone, as can be seen with [[Hode]]. Hode allows you to create edge and node relationships between items fluidly as you write. It then allows you treat a set of items with a relationship as an entity that can have relationships with other ideas.
 
