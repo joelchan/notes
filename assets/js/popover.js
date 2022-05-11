@@ -24,7 +24,7 @@ function initPopover(baseURL, useContextualBacklinks, renderLatex) {
           if (linkDest) {
             const popoverElement = `<div class="popover">
     <h3>${linkDest.title}</h3>
-    <p>${removeMarkdown(linkDest.content).split(" ", 40).join(" ")}...</p>
+    <p>${removeMarkdown(linkDest.content).split(" ", 200).join(" ")}...</p>
     <p class="meta">${new Date(linkDest.lastmodified).toLocaleDateString()}</p>
 </div>`
             el = htmlToElement(popoverElement)
