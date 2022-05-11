@@ -56,7 +56,7 @@ const removeMarkdown = (
 // -----
 
 const highlight = (content, term) => {
-  const highlightWindow = 20
+  const highlightWindow = 50
 
   // try to find direct match first
   const directMatchIdx = content.indexOf(term)
