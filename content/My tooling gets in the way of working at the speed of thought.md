@@ -16,7 +16,7 @@ If people have already developed elaborate systems, then the requirement to stru
 
 If a tool doesn't have a great mobile version, this problem is exacerbated. We frequently heard from our interviews that quick capture of an idea on the go was vital to their process. If a tool doesn't have a great mobile version, this problem is exacerbated. We frequently heard from our interviews that quick capture of an idea on the go was vital to their process.
 
-Because [[[It takes too much work to create structure](It takes too much work to create structure|structuring notes in the moment is costly]]), the design implications are that thought processors should either lower the cost of structuring or give users the ability to structure in hindsight.
+Because [[It takes too much work to create structure|structuring notes in the moment is costly]], the design implications are that thought processors should either lower the cost of structuring or give users the ability to structure in hindsight.
 
 Those who avoid explicitly collating and naming ideas can work at the speed of thought and avoid premature convergence. They may prefer to specify relationships implicitly. Yet, if the tool is unable to recognize those relationships, this makes it harder to retrieve relevant materials to think through later, either with yourself or others. In these cases, our tools don’t let us easily refactor, leading to high friction in reifying our ideas. There also may be an upper limit on the complexity of unintentional structure people can create. 
 
