@@ -38,4 +38,4 @@ Any work that we hook into for them to author a discourse graph should line up w
 
 [[P- Ryan Singer]] instantiates his brainstorming and planning workflow in the video here.
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Everybody has a text editor. This is my work editor.<br><br>Here&#39;s what it looks like to kick off a new project.<br><br>Private alpha version. <a href="https://t.co/YwMj1nunBT">pic.twitter.com/YwMj1nunBT</a></p>&mdash; Ryan Singer (@rjs) <a href="https://twitter.com/rjs/status/1434934749731098630?ref_src=twsrc%5Etfw">September 6, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Everybody has a text editor. This is my work editor.<br><br>Here&#39;s what it looks like to kick off a new project.<br><br>Private alpha version. <a href="https://t.co/YwMj1nunBT">pic.twitter.com/YwMj1nunBT</a></p>&mdash; Ryan Singer (@rjs) <a href="https://twitter.com/rjs/status/1434934749731098630?ref_src=twsrc%5Etfw">September 6, 2021</a></blockquote><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
