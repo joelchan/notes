@@ -8,9 +8,9 @@ enableToc: false # do not show a table of contents on this page
 
 
 - What the project looks like:
-    - reading papers [desk research](app://obsidian.md/desk%20research)
-    - [participant observation](app://obsidian.md/participant%20observation) by working with social knowledge management communities
-    - [user interview](app://obsidian.md/user%20interview)s
+    - reading papers, desk research
+    - participant observation, by working with social knowledge management communities
+    - user interviews
     - Synthesis and public hypertext wiki
 
 

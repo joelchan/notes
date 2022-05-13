@@ -2,9 +2,7 @@
 title: "C- People process complex information in multiple levels and stages of processing"
 enableToc: false # do not show a table of contents on this page
 ---
-
-Authored By:: [[P- Joel Chan]]
-
+Authored By:: [[P- Joel Chan]] [[P- Rob Haisfield]]
 
 When we're exposed to new information, we have to ask questions and learn more before we feel confident in our understanding. Knowledge evolves over time, and we adapt our thoughts as we see other perspectives. This is the [sensemaking](sensemaking.md) process. This is our introduction to something new, and we know the least we ever will about the topic at this time. 
 
@@ -16,7 +14,7 @@ In our interviews, we saw multiple people talk about their process of [[conversa
 
 This all speaks to the need to treat notes as a work in progress. Notes aren't in their final form when first written; they evolve, often far beyond the stub they began as. Translating to tool design, [[C- There needs to be an excellent workflow for refactoring in a tool for thought]] to enable [[incremental formalization]].
 
-In the scope of a [[Thought processor]], we see different approaches. [[Roam]] encourages users to write directly into a daily notes page, linking to pages as they write. This contrasted conventional practice in tools like Evernote that ask the user to name the page and place it in a folder up front. Zettelkasten systems, which are agnostic to a specific tool, ask users to create a note without names and later fit it in next to similar notes.
+In the scope of a [[Thought processor]], we see different approaches. [[Roam Research]] encourages users to write directly into a daily notes page, linking to pages as they write. This contrasted conventional practice in tools like Evernote that ask the user to name the page and place it in a folder up front. Zettelkasten systems, which are agnostic to a specific tool, ask users to create a note without names and later fit it in next to similar notes.
 
 In the process of synthesis, we often write a number of notes about an idea - some useful, some not. We know that [[C- Multiplicity is necessary for synthesis]], and this writing process helps, but it creates a huge amount of noise for us to later search through. We have a need for [[Archiving]].
 

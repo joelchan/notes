@@ -33,7 +33,7 @@ alias: "@strikeTypesSynthesisTheir1983"
     - Authors are Known for:: influential Theory of [conceptual change]
         - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fmegacoglab%2FnWtNBcd4SY?alt=media&token=ba704bc5-ba7c-42f0-9fea-1cb55d60cc30)
 - 📝 lit-notes
-    - [[C- There are two core concepts for synthesis: 1) creating a new whole from parts, and 2) displaying at least some level of conceptual innovation]] (higher = clearer case of synthesis)
+    - [[C- There are two core concepts for synthesis- 1) creating a new whole from parts, and 2) displaying at least some level of conceptual innovation]] (higher = clearer case of synthesis)
         -  ![](https://firebasestorage.googleapis.com/v0/b/roampdf.appspot.com/o/public%2Fimages%2F1612374725490.png?alt=media&token=ca0d7c4c-f9ca-4d3c-a73b-139a74a3e05a)
     - 15 types of synthesis
         - Inductive (empiricist)

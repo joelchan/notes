@@ -11,18 +11,6 @@ status:
 alias:
 ---
 Source:: https://notes.knowledgefutures.org/pub/underlay-short-intro/release/1
-Recommended-by:: [[P- Yaniv Tal]]
-
-- I read [[R- A Short Introduction to the Underlay]] today because [[@ Yaniv Tal]] recommended it to me. The author was roommate of [[@ David Vargas]].
-	- Dates can use NLP.
-	- I = [[Rob Haisfield]] = me
-	- I/read/[[R- A Short Introduction to the Underlay]]
-		- When:: [[2021-09-03]]
-		- Because:: [[@ Yaniv Tal]] /recommended/A short introduction to the Underlay /to/ [[Rob Haisfield]].
-	- [[R- A Short Introduction to the Underlay]] /author/ [[@ Danny Hillis]]
-	- [[@ Danny Hillis]] /roommate/ [[@ David Vargas]].
-
-
 
 **The Opportunity** 
 
@@ -32,7 +20,7 @@ Human knowledge is an ever-expanding resource. Unfortunately, more knowledge doe
 	- [[Q- How might we propagate changing beliefs throughout a network]]? Obvious answer is we use [[GraphQL]] queries for live updating data
 
 - > ==To enable this kind dynamic presentation of all knowledge, we propose the creation of an open, machine-readable collection of all public knowledge — including science, law, commerce, news — called the _**Underlay**_.== The Underlay will gather knowledge currently used to produce publications, databases, and dynamically generated displays. It will make each associated assertion available in a machine-readable form that can be dynamically searched, vetted, and combined, based on its provenance. ==By connecting multiple sources together, each asserted claim can be analyzed for relevance and veracity, recombined and re-presented for different purposes. The Underlay will allow intelligent software to help people find what is relevant and judge what is true.==
-		- [[Z- Composability is necessary for synthesis]]
+		- [[C- Composability facilitates synthesis]]
 
 **The Underlay Project** 
 

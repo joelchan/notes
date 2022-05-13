@@ -1,11 +1,11 @@
 ---
-title: "Synthesis is hard to do with people who don’t share context with you"
+title: "C- Synthesis is hard to do with people who don’t share context with you"
 enableToc: false # do not show a table of contents on this page
 ---
 
 Authored By::  [[P- Joel Chan]], [[P- Rob Haisfield]], [[P- Brendan Langen]]
 
-An exciting hypothesis that motivates our work is that making discourse graphs widely available could accelerate human synthesis work, and thereby accelerate innovation and scientific discovery. [[C- Effective synthesis is necessary for innovation and scientific progress.md|C- Effective synthesis is necessary for innovation and scientific progress]]. Yet, our first challenge is to enable people to perform distributed synthesis. For many people, this is a challenge!
+An exciting hypothesis that motivates our work is that making discourse graphs widely available could accelerate human synthesis work, and thereby accelerate innovation and scientific discovery. [[C- Effective synthesis is necessary for innovation and scientific progress|C- Effective synthesis is necessary for innovation and scientific progress]]. Yet, our first challenge is to enable people to perform distributed synthesis. For many people, this is a challenge!
 
 ## Synthesis typically occurs in one mind
 
