@@ -1,3 +1,7 @@
+---
+title: "It takes too much work to create structure"
+enableToc: false # do not show a table of contents on this page
+---
 In current tools, structuring ideas in real-time is an extraneous task that _takes you out of the flow of the work_ you're doing. Often, people don't even know how to predict how they will reuse the note in the future!
 
 -   Deciding what to name something in the moment has a cost; people are removed from the current train of thought.
