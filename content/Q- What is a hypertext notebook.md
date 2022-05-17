@@ -6,7 +6,7 @@ Authored By:: [[P- Rob Haisfield]]
 
 A hypertext notebook can be thought of as a mini-Wikipedia. It is a deeply entangled web of ideas that are changing constantly. Readers will take a different journey every time they visit, and pages that they have already read may take on new meaning when placed into new contexts.
 
-A key advantage of writing in hypertext is that it allows the writer to express their thinking and research in a way that is simultaneously more in depth and more concise. If you have already read a page and internalized its core idea, then all you need to do is see the title of that page to bring to mind the entire argument. At the same time, if something doesn't make sense, you can explore its context by navigating to the ideas that it is built on.
+A key advantage of writing in hypertext is that it allows the writer to express their thinking and research in a way that is simultaneously more in depth and more concise. [[C- Hypertext enables communication with high information density]]. If you have already read a page and internalized its core idea, then all you need to do is see the title of that page to bring to mind the entire argument. At the same time, if something doesn't make sense, you can explore its context by navigating to the ideas that it is built on.
 
 As such, writing a hypertext notebook is an ideal way to perform a literature review.
 

@@ -15,6 +15,6 @@ enableToc: false # do not show a table of contents on this page
 
 
 - Problem being solved:
-    - People need an interface to input information into the knowledge graph such that it is [GraphQL](app://obsidian.md/GraphQL) queryable
+    - People need an interface to input information into the knowledge graph such that it is queryable
     - People need to be able to develop their thoughts personally and collectively, at different scales
     - The right balance between unstructured and structured knowledge must be discovered
