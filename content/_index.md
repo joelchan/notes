@@ -2,7 +2,7 @@
 title: 🪴 Scaling Synthesis
 toc: false
 ---
-Authored by - [[P- Rob Haisfield]], [[P- Joel Chan]], and [[P- Brendan Langen]]
+Authored By:: [[P- Rob Haisfield]], [[P- Joel Chan]], and [[P- Brendan Langen]]
 
 Published - May 2022
 
