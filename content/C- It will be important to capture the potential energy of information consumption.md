@@ -6,7 +6,7 @@ Authored By:: [[P- Rob Haisfield]]
 
 [[Q- How do people tacitly annotate information]]? [[C- People are lazy]], so if we can really leverage tacit annotation by enriching the choice architecture with options that add value, then we can perhaps fill in metadata and generate discourse. This could be interpreted as a response to the question: [[Q- How do we increase the frequency of social tagging behaviors]]. These people can verify information, agree with it, disagree, and connect it to other information. **We must leverage this- imagine if [[Readwise|Readwise]] was ubiquitous, people more frequently commented and tagged information, and people could reply to each other?**
 
-[[Q- What community roles are necessary in a decentralized knowledge graph]]? [[C- Most people will primarily consume information 1]], so they need something valuable to do. That valuable thing could be commenting on claims and building up RDF relationships between granular parts of the content on the page and other stuff. Social tagging, or social relationship description.
+[[Q- What community roles are necessary in a decentralized knowledge graph]]? [[C- Most people will primarily consume information]], so they need something valuable to do. That valuable thing could be commenting on claims and building up RDF relationships between granular parts of the content on the page and other stuff. Social tagging, or social relationship description.
 
 We want to capture the potential energy of information consumption because of problems associated with the question: [[Q- How can people maintain a decentralized discourse graph with a high quantity of information in it]]. It will be crucial to be able to improve the signal to noise ratio.
 

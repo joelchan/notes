@@ -2,7 +2,6 @@
 title: "Q- What is a decentralized discourse graph"
 enableToc: false # do not show a table of contents on this page
 ---
-
 Authored By:: [[P- Joel Chan]], [[P- Rob Haisfield]], [[P- Brendan Langen]]
 
 Our research draws from a long line of information models, such as the Semantic Web Applications in Neuromedicine (SWAN) ontology [[R- The SWAN biomedical discourse ontology]], the Micropublications model [[R- Micropublications a semantic model]], the ScholOnto ontology for modeling scientific discourse [[R- ScholOnto an ontology-based digital library server for research documents and discourse]], the nanopublication model [[R- The anatomy of a nanopublication]], and the Hypotheses, Evidence, and Relationships (HypER) model [[R- Hypotheses Evidence and Relationships]]. These models share a common underlying model for representing scientific discourse: they distill traditional forms of publication down into more granular, formalized knowledge **claims**, linked to supporting evidence and **context** through a network or **graph** model. 
