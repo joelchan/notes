@@ -9,6 +9,11 @@ Welcome to the decentralized discourse graph hypertext notebook. This notebook w
 The goal of this research project is to find data structures and interfaces that support synthesis and innovation in a decentralized discourse graph. *See: [[Q- What is a decentralized discourse graph]]*
 
 Some specific how-tos:
+- Pages have prefixes in their page titles that indicate what type of node it is:
+	- "C- " Claim
+	- "Q- " Question
+	- "R- " Resource
+	- "I- " Idea
 - Hover your mouse over a link to see a preview of its content
 - If a page is empty, look through its backlinks! If a page isn't empty... you can still look through its backlinks! Those are all of the times where the ideas presented in the page were used in context.
 - If a page is not yet created, the hyperlink will appear to be faded.
