@@ -18,7 +18,7 @@ Not all edits to the query have to be within the query editor. In [[I- Provide P
                             "topic2"
                             "topic3"]}}```
 
-When people click on an "x" on the query result's item, the smart default could be to remove that block's UID from the query through `(not (any: uid1 uid2))`.
+When people click on an "x" on the query result's item, the [[smart default]] could be to remove that block's UID from the query through `(not (any: uid1 uid2))`.
 
 Imagine "economic inflation" were a topic mentioned in an item within your newsfeed query and you right clicked to remove that topic. This might translate into the following:
 ```clojure

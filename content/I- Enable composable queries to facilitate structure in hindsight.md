@@ -46,12 +46,11 @@ Authored By:: [[P- Rob Haisfield]]
 
 ```
 
-
 Over time, composable queries fight entropy. We would frequently see people create multiple pages that mean the same thing simply because their body of notes had grown so large that they didn't remember they had already created other pages to refer to the same concept. 
 
 This is a huge challenge of adding structure! In our private research notebook, we refer to this problem of entropy from structure in multiple ways (for example, `[[Q- How might we prevent workflow entropy]]`and `[[I- Enable composable queries to reduce system entropy]]`). With the solution we're proposing, we could adjust the query for the idea page to bring in references to the question page, or we could create a new, encompassing page with a query that brings in references to either.
 
-We aim to [[work at the speed of thought]], but too much structure creates paralyzing cognitive overhead. [[C- An increasing amount of structure leads to entropy]].
+We aim to [[work at the speed of thought]], but too much structure creates paralyzing cognitive overhead. [[C- An increasing amount of structure leads to entropy]], pointing to the importance of [[smart default|smart defaults]].
 
 [[Roam Research]] enables users to merge pages together. This affordance aims to solve issues where users have created multiple pages for similar ideas, but the results are different in practice. When two pages represent conceptually "close" concepts, users consistently link blocks to both pages to ensure linked references show up on each page. Merging is not always appropriate.
 

@@ -5,7 +5,7 @@ enableToc: false # do not show a table of contents on this page
 
 Authored By:: [[P- Rob Haisfield]], [[P- Brendan Langen]]
 
-In the [[structure now vs. later (uncertain payoff, regret)|structure now vs. later]] tradeoff, people tend to [[[Why people prefer to structure later or not at all|defer structuring until later]]) or not structure at all. Search is the primary tool people have available for resurfacing unstructured information. However, search can be extended to be the basis for creating structure in hindsight. As explored in [[I- Search as a part of the primitive design Index]] within [[I- A DSL for a discourse graph with information entry, visualization, and retrieval]].
+In the [[structure now vs. later (uncertain payoff, regret)|structure now vs. later]] tradeoff, people tend to [[[Why people prefer to structure later or not at all|defer structuring until later]]) or not structure at all. Search is the primary tool people have available for resurfacing unstructured information. However, search can be extended to be the basis for creating structure in hindsight. As explored in [[I- Search as a part of the primitive design]] within [[I- A DSL for a discourse graph with information entry, visualization, and retrieval]].
 
 For example, a page titled `[[Behavioral science theories]]` could have a "related items" section defined by a search for `[[Behavioral science theories]]` or any time any specific theory (e.g. `[[Perceptual Control Theory]]` or `[[Self-Determination Theory]]`) is mentioned.
 
@@ -26,3 +26,7 @@ Effectively, this enabled me to process past notes in bulk. [[C- A decentralized
 The above example points towards another powerful use for queries: Smart folders. 
 
 Most file systems require you to manually add files into different folders. Keeping these folders up to date can be a challenging job. The same problem holds true for note taking apps where you need to manually place a tag or bidirectional link in order to put ideas into buckets. [In Apple's Finder](https://www.howtogeek.com/403077/how-to-automate-your-mac-with-smart-folders/), you have the ability to create smart folders. These smart folders are populated by the results of a search, so they autoupdate when new content is added to your file system that matches certain criteria. In essence, this enables you to create organization systems now to capture knowledge in the future. 
+
+I remember how my mind was blown when I first saw [[P- Allen Wilsonn]] link a tweet [to a search](https://twitter.com/AGWilsonn/status/1265760007414579206). This was just an early example of a powerful new behavior.
+
+![[Pasted image 20210916173736.png]]

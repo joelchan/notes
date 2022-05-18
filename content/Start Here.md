@@ -14,6 +14,7 @@ Some specific how-tos:
 - If a page is not yet created, the hyperlink will appear to be faded.
 - Builders: View this as a framework for navigating the idea maze, and form your own conclusions about the claims, questions, and trails between them.
 - Command+k or ctrl+k to search
+- Email hello@robhaisfield.com for personal inquiries or private questions, but please defer to public comments when possible, as other people may have the same question as you!
 
 Some suggested starting points:
 - For broader context about what we are doing:
