@@ -18,7 +18,6 @@ alias: "@booteScholarsResearchersCentrality2005"
         -   Authored by:: [[David N. Boote]] [[Penny Beile]]
         -   Year: [[2005]]
         -   Publication: Educational Researcher
-        -   Zotero link: [Zotero Link](zotero://select/items/1_D4PXQ9UD)
         -   URL: [Boote & Beile (2005). Scholars Before Researchers: On the Centrality of the Dissertation Literature Review in Research Preparation. Educational Researcher](http://journals.sagepub.com/doi/10.3102/0013189X034006003)
     -   Content
         -   Abstract

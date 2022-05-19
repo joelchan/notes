@@ -17,7 +17,6 @@ alias: "@alvessonGeneratingResearchQuestions2011"
         -   Authored by:: [[Mats Alvesson]] [[Jörgen Sandberg]]
         -   Year: [[2011]]
         -   Publication: Academy of management review
-        -   Zotero link: [Zotero Link](zotero://select/items/7_4ID2GBBV)
         -   URL: [Alvesson & Sandberg (2011). Generating research questions through problematization. Academy of management review](https://www.jstor.org/stable/41318000)
     -   Content
         -   Abstract

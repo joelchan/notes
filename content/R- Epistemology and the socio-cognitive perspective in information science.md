@@ -18,7 +18,6 @@ alias: "@hjorlandEpistemologySociocognitivePerspective2002"
             - Authored by:: [[Birger Hjørland]] 
             - Year: [[2002]]
             - Publication: Journal of the American Society for Information Science and Technology ([[JASIST]])
-            - Zotero link: [Zotero Link](zotero://select/items/1_ZMGUTJ6C)
             - URL: [Hjørland (2002). Epistemology and the socio-cognitive perspective in information science. Journal of the American Society for Information Science and Technology](https://onlinelibrary.wiley.com/doi/abs/10.1002/asi.10042)
         - Content
             - Abstract

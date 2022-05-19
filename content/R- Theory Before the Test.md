@@ -18,7 +18,6 @@ alias: "@vanrooijTheoryTestHow2021"
         -   Authored by:: [[Iris van Rooij]] [[Giosuè Baggio]]
         -   Year: [[2021]]
         -   Publication: Perspectives on Psychological Science
-        -   Zotero link: [Zotero Link](zotero://select/items/7_8VR6TDJ7)
         -   URL: [van Rooij & Baggio (2021). Theory Before the Test: How to Build High-Verisimilitude Explanatory Theories in Psychological Science. Perspectives on Psychological Science](https://journals.sagepub.com/doi/abs/10.1177/1745691620970604)
     -   Content
         -   Abstract

@@ -16,7 +16,6 @@ alias: "@knoblichConstraintRelaxationChunk1999"
         - Authored by:: [[G. Knoblich]] [[S. Ohlsson]] [[H. Haider]] [[D. Rhenius]] 
         - Year: [[1999]]
         - Publication: Journal of Experimental Psychology: Learning, Memory, and Cognition
-        - Zotero link: [Zotero Link](zotero://select/items/1_JBXP6T3Z)
         - URL: [Knoblich et al. (1999). Constraint relaxation and chunk decomposition in insight problem solving. Journal of Experimental Psychology: Learning, Memory, and Cognition](undefined)
     - Content
         - Abstract

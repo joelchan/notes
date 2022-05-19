@@ -17,7 +17,6 @@ alias: "@howardFaceMasksCOVID192020"
         -   Authored by:: [[Jeremy Howard]] [[Austin Huang]] [[Zhiyuan Li]] [[Zeynep Tufekci]] [[Vladimir Zdimal]] [[Helene-Mari van der Westhuizen]] [[Arne von Delft]] [[Amy Price]] [[Lex Fridman]] [[Lei-Han Tang]] [[Viola Tang]] [[Gregory L. Watson]] [[Christina E. Bax]] [[Reshama Shaikh]] [[Frederik Questier]] [[Danny Hernandez]] [[Larry F. Chu]] [[Christina M. Ramirez]] [[Anne W. Rimoin]]
         -   Year: [[2020]]
         -   Publication: undefined
-        -   Zotero link: [Zotero Link](zotero://select/items/1_FD66ZY3E)
         -   URL: [Howard et al. (2020). Face Masks Against COVID-19: An Evidence Review. undefined](https://www.preprints.org/manuscript/202004.0203/v3)
     -   Content
         -   Abstract

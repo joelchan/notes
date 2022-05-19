@@ -17,7 +17,6 @@ alias: "@mccaffreyInnovationReliesObscure2012"
         - Authored by:: [[T. McCaffrey]] 
         - Year: [[2012]]
         - Publication: Psychological Science
-        - Zotero link: [Zotero Link](zotero://select/items/1_PVGMQ9HI)
         - URL: [McCaffrey (2012). Innovation Relies on the Obscure: A Key to Overcoming the Classic Problem of Functional Fixedness. Psychological Science](undefined)
     - Content
         - Abstract

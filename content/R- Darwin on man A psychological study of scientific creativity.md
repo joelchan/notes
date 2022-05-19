@@ -17,7 +17,6 @@ alias: "@gruberDarwinManPsychological1974"
     -   Authored by:: [[Howard E. Gruber]] [[Paul H. Barrett]]
     -   Year: [[1974]]
     -   Publication: undefined
-    -   Zotero link: [Zotero Link](zotero://select/items/1_8J59ZGLY)
     -   URL: [Gruber & Barrett (1974). Darwin on man: A psychological study of scientific creativity.](https://www.amazon.com/Darwin-Man-Psychological-Scientific-Creativity/dp/0226310078)
 -   Content
     -   Abstract

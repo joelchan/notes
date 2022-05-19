@@ -19,7 +19,6 @@ alias: "@clarkMicropublicationsSemanticModel2014"
         - Authored by:: [[Tim Clark]] [[Paolo Ciccarese]] [[Carole A. Goble]] 
         - Year: [[2014]]
         - Publication: Journal of Biomedical Semantics
-        - Zotero link: [Zotero Link](zotero://select/items/1_CU3KDQGR)
         - URL: [Clark et al. (2014). Micropublications: a semantic model for claims, evidence, arguments and annotations in biomedical communications. Journal of Biomedical Semantics](https://doi.org/10.1186/2041-1480-5-28)
     - Content
         - Abstract

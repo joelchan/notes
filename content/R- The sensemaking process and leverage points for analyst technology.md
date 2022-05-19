@@ -17,7 +17,6 @@ alias: "@pirolliSensemakingProcessLeverage2005"
         -   Authored by:: [[Peter Pirolli]] [[Stuart Card]]
         -   Year: [[2005]]
         -   Publication: Proceedings of international conference on intelligence analysis
-        -   Zotero link: [Zotero Link](zotero://select/items/1_KAES379F)
         -   URL: [Pirolli & Card (2005). The sensemaking process and leverage points for analyst technology as identified through cognitive task analysis. Proceedings of international conference on intelligence analysis](undefined)
     -   Content
         -   Abstract

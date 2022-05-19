@@ -17,7 +17,6 @@ alias: "@scheelWhyHypothesisTesters2020"
         -   Authored by:: [[Anne M. Scheel]] [[Leonid Tiokhin]] [[Peder M. Isager]] [[Daniël Lakens]]
         -   Year: [[2020]]
         -   Publication: Perspectives on Psychological Science: A Journal of the Association for Psychological Science
-        -   Zotero link: [Zotero Link](zotero://select/items/7_2IBYJH7S)
         -   URL: [Scheel et al. (2020). Why Hypothesis Testers Should Spend Less Time Testing Hypotheses. Perspectives on Psychological Science: A Journal of the Association for Psychological Science](https://journals.sagepub.com/doi/full/10.1177/1745691620966795)
     -   Content
         -   Abstract

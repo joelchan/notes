@@ -2,7 +2,6 @@
 title: "R- Collaborative information synthesis"
 enableToc: false # do not show a table of contents on this page
 ---
-
 Authored By:: [[P- Joel Chan]]
 
 - #[References]
@@ -11,7 +10,6 @@ Authored By:: [[P- Joel Chan]]
 		- Authored by:: [Catherine Blake] [Wanda Pratt]
 		- Year: [2006]
 		- Publication: Journal of the American Society for Information Science and Technology  [JASIST]
-		- Zotero link: [Zotero Link](zotero://select/items/1_5DHENSX8)
 		- URL: [Blake & Pratt (2006). Collaborative information synthesis I: A model of information behaviors of scientists in medicine and public health. Journal of the American Society for Information Science and Technology](https://onlinelibrary.wiley.com/doi/abs/10.1002/asi.20487)
 		- Citekey: blakeCollaborativeInformationSynthesis2006
 - Content

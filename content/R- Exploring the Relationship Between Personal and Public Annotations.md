@@ -17,7 +17,6 @@ alias: "@marshallExploringRelationshipPersonal2004"
         - Authored by:: [[Catherine C. Marshall]] [[A. J. Bernheim Brush]] 
         - Year: [[2004]]
         - Publication: Proceedings of the 4th ACM/IEEE-CS Joint Conference on Digital Libraries [[JCDL]]
-        - Zotero link: [Zotero Link](zotero://select/items/1_EAVXHK8H)
         - URL: [Marshall & Brush (2004). Exploring the Relationship Between Personal and Public Annotations. Proceedings of the 4th ACM/IEEE-CS Joint Conference on Digital Libraries](http://doi.acm.org/10.1145/996350.996432)
     - Content
         - Abstract

@@ -18,7 +18,6 @@ alias: "@hinrichsContextGrabbingAssigning2005"
         - Authored by:: [[Joachim Hinrichs]] [[Volkmar Pipek]] [[Volker Wulf]] [[Hans Gellersen]] [[Kjeld Schmidt]] [[Michel Beaudouin-Lafon]] [[Wendy Mackay]] 
         - Year: [[2005]]
         - Publication: [[ECSCW]] 2005
-        - Zotero link: [Zotero Link](zotero://select/items/1_Y2RWPBIJ)
         - URL: [Hinrichs et al. (2005). Context Grabbing: Assigning Metadata in Large Document Collections. ECSCW 2005](undefined)
         - URL: 
         - Citekey: hinrichsContextGrabbingAssigning2005

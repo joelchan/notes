@@ -17,7 +17,6 @@ alias: "@shumScholOntoOntologybasedDigital2000"
         - Authored by:: [[Simon Buckingham Shum]] [[Enrico Motta]] [[John Domingue]] 
         - Year: [[2000]]
         - Publication: International Journal on Digital Libraries
-        - Zotero link: [Zotero Link](zotero://select/items/7_NC85TZ89)
         - URL: [Shum et al. (2000). ScholOnto: an ontology-based digital library server for research documents and discourse. International Journal on Digital Libraries](https://link.springer.com/article/10.1007/s007990000034)
     - Content
         - Abstract

@@ -19,7 +19,6 @@ alias: "@strikeTypesSynthesisTheir1983"
         - Authored by:: [Kenneth Strike] [George Posner] 
         - Year: [1983]
         - Publication: Knowledge Structure and Use: Implications for Synthesis and Interpretation
-        - Zotero link: [Zotero Link](zotero://select/items/1_9X3LWKGH)
         - URL: [Strike & Posner (1983). Types of synthesis and their criteria. undefined](undefined)
     - Content
         - Abstract

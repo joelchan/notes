@@ -19,7 +19,6 @@ alias: "@dewaardHypothesesEvidenceRelationships2009"
         - Authored by::  [[Anita de Waard]] ,  [[Simon Buckingham Shum]] ,  Annamaria Carusi ,  [[Jack Park]] ,  Matthias Samwald ,  Ágnes Sándor
         - Year: [[2009]]
         - Publication: Proceedings of the 8th International Semantic Web Conference, Workshop on Semantic Web Applications in Scientific Discourse
-        - Zotero link: [Zotero Link](zotero://select/items/1_L6QYBIYW)
         - URL: [de Waard et al. (2009). Hypotheses, Evidence and Relationships: The HypER Approach for Representing Scientific Knowledge Claims. Proceedings of the 8th International Semantic Web Conference, Workshop on Semantic Web Applications in Scientific Discourse](undefined)
         - Citekey: dewaardHypothesesEvidenceRelationships2009
     - Content

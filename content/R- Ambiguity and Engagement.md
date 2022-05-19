@@ -16,5 +16,4 @@ alias: "@mcmahanAmbiguityEngagement2018"
     -   Authored by:: [[Peter McMahan]] [[James A. Evans]]
     -   Year: [[2018]]
     -   Publication: American Journal of Sociology
-    -   Zotero link: [Zotero Link](zotero://select/items/7_TT9UR5DL)
     -   URL: [McMahan & Evans (2018). Ambiguity and Engagement. American Journal of Sociology](https://www.journals.uchicago.edu/doi/10.1086/701298)

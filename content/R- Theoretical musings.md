@@ -23,8 +23,6 @@ Year: [[2020]]
 
 Publication: eLife
 
-Zotero link: [Zotero Link](zotero://select/items/7_CPUME8K6)
-
 URL: [Marder (2020). Theoretical musings. eLife](https://doi.org/10.7554/eLife.60703)
 
 Content

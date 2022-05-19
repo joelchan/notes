@@ -16,7 +16,6 @@ alias: "@goldsteinAreTheoreticalResults2018"
         -   Authored by:: [[Raymond E Goldstein]]
         -   Year: [[2018]]
         -   Publication: eLife
-        -   Zotero link: [Zotero Link](zotero://select/items/7_6CMZIPYJ)
         -   URL: [Goldstein (2018). Are theoretical results ‘Results’?. eLife](https://doi.org/10.7554/eLife.40018)
     -   Content
         -   Abstract

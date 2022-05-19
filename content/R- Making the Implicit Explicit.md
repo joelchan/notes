@@ -19,7 +19,6 @@ alias: "@lovittsMakingImplicitExplicit2007"
         - Authored by:: [[Barbara E. Lovitts]] 
         - Year: [[2007]]
         - Publication: undefined
-        - Zotero link: [Zotero Link](zotero://select/items/1_K4PLWHG8)
         - URL: [Lovitts (2007). Making the Implicit Explicit: Creating Performance Expectations for the Dissertation.](https://www.amazon.com/Making-Implicit-Explicit-Expectations-Dissertation/dp/1579221815)
     - Content
         - Abstract

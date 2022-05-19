@@ -15,4 +15,3 @@ alias: "@hayes2008defense"
 -   Meta:
     -   Authored by:: [[Patrick J Hayes]] [[Harry Halpin]]
     -   Year: [[2008]]
-    -   Zotero link:: [Zotero Link](zotero://select/items/1_BMWDP6ML)

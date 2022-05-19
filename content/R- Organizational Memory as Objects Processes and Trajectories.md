@@ -9,7 +9,6 @@ enableToc: false # do not show a table of contents on this page
         - Authored by:: [Mark S. Ackerman] [Christine A. Halverson] 
         - Year: [[2004]]
         - Publication: Computer Supported Cooperative Work (CSCW)
-        - Zotero link: [Zotero Link](zotero://select/items/1_T72GR9F2)
         - URL: [Ackerman & Halverson (2004). Organizational Memory as Objects, Processes, and Trajectories: An Examination of Organizational Memory in Use. Computer Supported Cooperative Work (CSCW)](https://link.springer.com/article/10.1023/B:COSU.0000045805.77534.2a)
     - Content
         - Abstract

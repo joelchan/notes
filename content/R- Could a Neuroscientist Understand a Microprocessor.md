@@ -17,7 +17,6 @@ alias: "@jonasCouldNeuroscientistUnderstand2017"
         -   Authored by:: [[Eric Jonas]] [[Konrad Paul Kording]]
         -   Year: [[2017]]
         -   Publication: PLOS Computational Biology
-        -   Zotero link: [Zotero Link](zotero://select/items/1_ZP9DD7FE)
         -   URL: [Jonas & Kording (2017). Could a Neuroscientist Understand a Microprocessor?. PLOS Computational Biology](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005268)
     -   Content
         -   Abstract
