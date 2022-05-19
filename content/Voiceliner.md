@@ -6,7 +6,7 @@ Authored by:: [[P- Rob Haisfield]]
 
 By [[P- Max Krieger]].
 
-- [[Twitter thread]] [[P- Robert Haisfield (Berkeley)]]: People who note down fleeting thoughts want the cream to rise to the top. Some consider the act of processing notes as a future chore &amp; never get around to it
+- [[Twitter thread]] [[P- Rob Haisfield]]: People who note down fleeting thoughts want the cream to rise to the top. Some consider the act of processing notes as a future chore &amp; never get around to it
     - Voiceliner merges the behavior of ranking relative importance with the act of recording
     - Excellent behavioral strategy https://twitter.com/maxkriegers/status/1469977466693324803 [*](https://twitter.com/RobertHaisfield/status/1470612139660361730)
     - Thank you, @maxkriegers, for this thought processor interaction.

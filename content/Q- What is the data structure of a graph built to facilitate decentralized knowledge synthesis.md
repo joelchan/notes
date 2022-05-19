@@ -42,7 +42,7 @@ In order to facilitate synthesis, the data structure of the discourse graph need
 - **Context.**
 	- It can often be difficult to synthesize from the work of others if their thoughts are too compressed because you don't know they really mean. [[C- Compression and contextualizability are in tension]]. Without proper context, it is impossible to know what people base their conclusions on, or why people see some piece of information as important.
 
-For more challenges awaiting synthesizers, see [[R- Knowledge Synthesis- a conceptual model and practical guide#Challenges and desiderata for a synthesis system]].
+For more challenges awaiting synthesizers, see [[R- Knowledge Synthesis- a conceptual model and practical guide]].
 
 We certainly do not have all of the answers to this question yet. It will be an active area of discovery over the coming months as we learn more about [[Q- What workflows and behaviors facilitate synthesis]] and [[Q- What user behaviors are people doing already that imply structure that is not being instantiated into a literal structure]].
 

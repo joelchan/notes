@@ -9,4 +9,4 @@ Text does not need to be people's interface for editing code. Structural editors
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/CnbVCNIh1NA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-Spreadsheets make CSVs more approachable.
+Spreadsheets make CSVs more approachable. Airtable makes relational databases approachable. The issue with text on its own is often that it requires users to memorize a syntax, and that scares people. 
