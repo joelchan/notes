@@ -30,7 +30,7 @@ alias: "@dourishInformationContextLessons1993"
     - #[[📝 lit-notes]]
         - **How did the authors approach their questions/problems?** ((most of this is going to come from the methods sections, although some info about conceptualization of key concepts might be relevant to pull from intro/lit-review)) #lit-context
         - **What did they find?** ((keep this as contextualized as possible; resist the urge to repeat claims or generalizations)) #[[observation-notes]]
-            - In [a case study of calendar systems](((e021Zn_8X))), having [metadata for event information](((H-T2qFmhr))) such as the title of the event or arrival time of the speaker, in addition to who the author of the information is, were critical for the interpretation of the events. 
+            - In a case study of calendar systems, having metadata for event information such as the title of the event or arrival time of the speaker, in addition to who the author of the information is, were critical for the interpretation of the events. 
                 - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fmegacoglab%2F6SVrexUrhm.png?alt=media&token=cfa14f44-409a-4991-83e1-6c7a6b2528a4)
                 - [[P- Joel Chan]] comments
                     - this is looking pretty good in terms of granularity, i can work with this!

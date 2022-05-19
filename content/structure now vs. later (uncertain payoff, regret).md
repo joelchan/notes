@@ -24,8 +24,8 @@ Given the choice between structuring now vs. later, people frequently err on the
 
 As seen in [[R- Formality Considered Harmful]], four problems arise from formalizing too early in the process. 
 
-- Cognitive overhead - [[If I’m thinking too hard about structure before I write the note, I forget what I was going to write down]] [*](((mtkQyZZrb))), because often the task of formalism is extraneous to the primary task. 
-- Tacit knowledge - [[It takes too much work to create structure]] [*](((23J9uEdNV))) and [[My tooling gets in the way of working at the speed of thought]] 
+- Cognitive overhead - [[If I’m thinking too hard about structure before I write the note, I forget what I was going to write down]], because often the task of formalism is extraneous to the primary task. 
+- Tacit knowledge - [[It takes too much work to create structure]] and [[My tooling gets in the way of working at the speed of thought]] 
 - Premature structure - [[C- It is difficult to predict whether structure now will be worthwhile later]]. Further, It's hard to know what formalism is actually useful for their task up front.  A formalism that excludes speculation, for example, or rough scraps that we don't know what to do with yet, will prematurely kill the creative process.  Some [[People don’t intentionally review old notes]], or otherwise review notes so rarely that any effort expended on structure upfront would be wasted time.
 - Situational structure - People structure their work in a variety of different ways depending on the people, situation, and task.
 

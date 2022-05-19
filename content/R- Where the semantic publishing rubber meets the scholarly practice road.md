@@ -142,13 +142,13 @@ alias:
             - important to think through more carefully why [[sys/Xanadu]] and the many [[Semantic Web]] and [[std/Hypertext]] or [[sys/Memex]] related projects have “failed”.
             - More interesting: subtleties, nuances of the elements of the framework
         - What do we already know (lit-wise) about the rubber meeting the road?
-            - Adding to [thread](((MR2285crg))) on [[Authoring Bottleneck]]: [[Z: What is the user experience of dedicated semantic authoring?]] and [[Q: What is the user experience of semantic authoring within regular scholarly workflows?]]
+            - Adding to thread on [[Authoring Bottleneck]]: [[Z: What is the user experience of dedicated semantic authoring]] and [[Q: What is the user experience of semantic authoring within regular scholarly workflows]]
             - #[[@kuhnBroadeningScopeNanopublications2013]] has a user study that checks how easy it is to train 16 biomed researchers to convert a short text into a natural language statement (no [[formality]] though!)
         - POtential new data sources for our observations / anecdotes to add the "road" to the rubber
             - Found old thread of video recordings on my Youtube channel taht really nicely track the evolution (and constancy) of our ideas around #[[D/Synthesis Infrastructure]]!
             - [[C- Effective individual synthesis systems (seem to mostly) exist (for a select few)]]
         - Analogous threads
-            - Reading again the [[CEDAR project]] (((DH2voQvKO))): motivation and lessons are similar for [[open data]]: everyone knows science is better for it if data are shared with appropriate metadata, following [[FAIR principles]]. But uptake is low, except when there are extreme incentives. Some stuff I saw at [[iConference]] last year along this vein. See also [[@tenopirDataSharingScientists2011]]
+            - Reading again the [[CEDAR project]]: motivation and lessons are similar for [[open data]]: everyone knows science is better for it if data are shared with appropriate metadata, following [[FAIR principles]]. But uptake is low, except when there are extreme incentives. Some stuff I saw at [[iConference]] last year along this vein. See also [[@tenopirDataSharingScientists2011]]
         - Other stuff
             - #[[@wolfCurseXanadu1995]]
             - #[[Z: Most scholarly communication infrastructure operates on the document as the base unit]]
