@@ -33,5 +33,3 @@ In language processing/AI-ish stuff, I want to see:
 
 > [[P- Ryan Murphy]]: actually, and that's a fifth (or maybe the same one): redundancy detection. "These two notes are so similar that you might want to merge them"-type use cases
 > you are always in control, but the system can help you with your tasks: finding things you want to merge, propagating changes, detecting missing links, etc.
-
-
