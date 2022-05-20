@@ -21,6 +21,7 @@ There are two main theories of search behavior. [Information foraging theory and
 It's important to think about the lens parameters: how likely is the person to know what they are looking for or where to find it? How transparent are things?
 
 ## Berrypicking
+
 Berrypicking is modeled off of the author's experience picking berries on vacation. People meander from information patch to information patch, and they have many different possible search paths.
 
 **Critically, as people learn a new domain, their questions evolve.** One of the most important things for a searcher is that they learn the right questions to ask as they uncover more information.
@@ -33,6 +34,7 @@ Berrypicking is modeled off of the author's experience picking berries on vacati
 People have many different strategies for searching for information, and they flexibly switch between them as demanded by the situation.
 
 ## Information Foraging Theory
+
 Information foraging theory is more pragmatic than Berrypicking. Every search for information begins with a goal. People follow an **information scent,** which gets stronger as people approach their goal. It's almost like a hunt.  
 
 This is based on optimal foraging theory, so people will explore a "patch" of information, and based on how much friction there is to move on to the next patch weighed against the probability that a patch of information contains what they're looking for, they'll move on or dive deeper.
