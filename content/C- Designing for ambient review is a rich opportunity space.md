@@ -2,7 +2,7 @@
 title: "C- Designing for ambient review is a rich opportunity space"
 enableToc: false # do not show a table of contents on this page
 ---
-If [[People don’t intentionally review old notes]] but still want old notes to resurface, we might ask how to display that information in an ambient manner.
+If [[People don’t intentionally review old notes]] but still want old notes to resurface, we might ask how to display that information in an ambient manner, in contrast to traditional approaches that require individuals to explicitly choose to review old notes.
 
 As described in [[C- Reviewing past notes in the process of creating new notes is a key user behavior to promote synthesis]], as you look for a spot to place a new card in a [[Zettelkasten]], you unintentionally pass other notes, sparking new ideas. [[search or create]] and [[autocomplete]] accomplish similar outcomes, leading people to [incrementally process their notes](https://roamresearch.com/#/app/write-hypertext-notebook-graph-research/page/FgDkjHlEG) as they review information they didn't intend to review.
 
@@ -26,7 +26,7 @@ A constraint here is that this could be seen as distracting, as sometimes people
 
 However, distraction can be valuable. [[P- Devon Zuegel]] claims that her most important insights came in conversations with others, where they would ask surprising questions that force her to reconsider ideas, rotate them, or examine them through a different lens. Surprise is a key ingredient for synthesis.
 
-Simple UX changes can often be enough to facilitate ambient review. For example, [[CatoMinor]] created CSS that would move the linked references for a page in [[Roam]] to the right side of the view. When they were at the bottom of the view for a page, this meant that users needed to manually scroll to view linked references, which would take them out of the act of writing. By displaying linked references on the right, [it was easier to review without breaking their flow](https://twitter.com/CatoMinor3/status/1496467417098248192?s=20&t=TaH4nzPwDSSr5t3DW5x9uQ).
+Simple UX changes can often be enough to facilitate ambient review. For example, [[P- CatoMinor]] created CSS that would move the linked references for a page in [[Roam]] to the right side of the view. When they were at the bottom of the view for a page, this meant that users needed to manually scroll to view linked references, which would take them out of the act of writing. By displaying linked references on the right, [it was easier to review without breaking their flow](https://twitter.com/CatoMinor3/status/1496467417098248192?s=20&t=TaH4nzPwDSSr5t3DW5x9uQ).
 
 In our interviews, we encountered multiple people who would set up [[Spaced repetition systems]] to resurface their most important notes periodically. Spaced repetition is typically used with flashcards to memorize information, but the people we interviewed had little interest in memorization.
 

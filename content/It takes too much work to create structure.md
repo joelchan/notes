@@ -9,3 +9,5 @@ In current tools, structuring ideas in real-time is an extraneous task that _tak
 -   This occurs again when trying to retrieve past thoughts through search or block references.
 
 For some experts, the primary concern is speed. As described in [[C- Synthesis is hard to do with people who don’t share context with you]], experts prefer to work on their own or with people who already share context **because** their ability to move fast depends on omitting the basics.
+
+Programmable notes, as described by [[P- Maggie Appleton]], [[P- Gordon Brander]], and myself in [[I- A DSL for a discourse graph with information entry, visualization, and retrieval]], can enable people to create structure in bulk in hindsight, and create logical rules for structure from present inputs.
