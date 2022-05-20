@@ -29,6 +29,7 @@ Some suggested starting points:
 - For broader context about what we are doing:
 	- [[C- Discourse graphs could significantly accelerate human synthesis work]]
 	- [[Q- What is a decentralized discourse graph]]
+	- [[C- Synthesis is hard to do with people who don’t share context with you]]
 	- [[Research Grant Application]]
 - To begin with key questions:
 	- [[Q- What user behaviors are people doing already that imply structure that is not being instantiated into a literal structure]]
@@ -37,3 +38,4 @@ Some suggested starting points:
 - To jump straight into the ideas:
 	- [[I- Search as a part of the primitive design]]
 	- [[I- A DSL for a discourse graph with information entry, visualization, and retrieval]]
+	- [[structure now vs. later (uncertain payoff, regret)]]

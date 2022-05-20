@@ -14,7 +14,4 @@ https://www.semilattice.xyz/
 
 Designed by [[P- Aosheng Ran]], with a design spec [here](https://www.aoshengran.com/blog/semilattice-problem-complex) and video demonstration [here](https://youtu.be/7MeeCeTXOyo?t=103).
 
-
-
 ![[Pasted image 20211007153705.png]]
-

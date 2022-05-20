@@ -2,7 +2,7 @@
 title: "structure now vs. later (uncertain payoff, regret)"
 enableToc: false
 ---
-Beginning our research, we were excited to see all of the interesting structures that people use to manage their research, thoughts, and ideas. 
+Beginning our research, we were excited to see all of the interesting structures that people use to manage their research, thoughts, and ideas. This page is here to discuss a critical tradeoff.
 
 ## [[The common forms of structure people add to their notes|What forms of structure do we see in thought processors?]]
 
