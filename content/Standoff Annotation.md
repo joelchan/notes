@@ -7,7 +7,7 @@ Authored By: [[P- Brendan Langen]]
 
 [[P- Iian Neill]]'s goal with [[Codex OS]] is to build a system for *relation* - the principle of relatedness or [[sensemaking]]. To achieve this, he uses a modified data structure called standoff annotation, which allows information to respect multiple interpretations. 
 
-This concept carries a ton of implications, but namely that an entity can be defined and connected in multiple
+This concept carries a ton of implications, but namely that an entity can be defined and connected in multiple locations.
 
 Most databases require an entity to carry the same relationship across the entirety of the database. This causes inherent challenges in extending knowledge across domain boundaries, as entities often carry different definitions - and thus, relationships. 
 

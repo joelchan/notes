@@ -17,4 +17,4 @@ We can see this used in [[Roam Research]] and [[Obsidian]] with wikilink autocom
 
 [[Q- What are powerful primitives for a user of a decentralized knowledge graph]]? How do we create primitives and feedback loops that encourage reviewing past notes in the process of creating new notes?
 
-Reviewing old notes helps provide another lens towards the concept, as well. [[C- Multiplicity is necessary for synthesis]].
+Reviewing old notes helps provide another lens towards the concept, as well. [[C- Multiplicity facilitates synthesis]].

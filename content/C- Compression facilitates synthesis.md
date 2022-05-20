@@ -26,7 +26,7 @@ We might wonder: if we break complex documents down in a [synthesis] [infrastruc
 -   This should be nuanced, though, because restricting ourselves to only linguistic / symbolic representations would probably be a mistake. There are other forms of knowledge, visual and otherwise, that are important "units" that can't be reduced to their "underlying" linguistic representation.
     -   See, for example, **prototypes** [[@galeyHowPrototypeArgues2010]], or **strong concepts**[[@hookStrongConceptsIntermediatelevel2012]]
     -   Even [[@mccrickardMakingClaimsKnowledge2012]]'s idea of **standard/Claims**
--   We also may not want to "reduce" ideas to a single representation, since [[C- Multiplicity is necessary for synthesis]].
+-   We also may not want to "reduce" ideas to a single representation, since [[C- Multiplicity facilitates synthesis]].
 
 Unfortunately, [[C- Most scholarly communication infrastructure operates on the document as the base unit]]
 

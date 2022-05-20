@@ -16,7 +16,7 @@ This all speaks to the need to treat notes as a work in progress. Notes aren't i
 
 In the scope of a [[Thought processor]], we see different approaches. [[Roam Research]] encourages users to write directly into a daily notes page, linking to pages as they write. This contrasted conventional practice in tools like Evernote that ask the user to name the page and place it in a folder up front. Zettelkasten systems, which are agnostic to a specific tool, ask users to create a note without names and later fit it in next to similar notes.
 
-In the process of synthesis, we often write a number of notes about an idea - some useful, some not. We know that [[C- Multiplicity is necessary for synthesis]], and this writing process helps, but it creates a huge amount of noise for us to later search through. We have a need for [[Archiving]].
+In the process of synthesis, we often write a number of notes about an idea - some useful, some not. We know that [[C- Multiplicity facilitates synthesis]], and this writing process helps, but it creates a huge amount of noise for us to later search through. We have a need for [[Archiving]].
 
 Forgetting is powerful. If something is no longer important, its presence in your memory is a burden, turning your "search results" into a noisy mess that decreases your likelihood of finding the right answer.
 

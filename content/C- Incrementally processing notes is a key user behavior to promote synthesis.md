@@ -12,6 +12,6 @@ The thought behind this claim is that [[C- People are lazy]] and needing to proc
 
 Tools like [[Readwise|Readwise]], [[LiquidText]], and [[Hypothesis]] promote this act within their via annotations, highlighting, and focused views to gradually process notes. This is an area where [[C- It will be important to capture the potential energy of information consumption]], as other individuals can help process notes while they are reading.
 
-Tools alone do not enable incremental processing, though. This has led the PKM community to reference routines and [algorithms for thought](https://www.cortexfutura.com/getting-started-algorithms-of-thought/) in order to turn ideas into synthesized knowledge. [[C- Multiplicity is necessary for synthesis]].
+Tools alone do not enable incremental processing, though. This has led the PKM community to reference routines and [algorithms for thought](https://www.cortexfutura.com/getting-started-algorithms-of-thought/) in order to turn ideas into synthesized knowledge. [[C- Multiplicity facilitates synthesis]].
 
 Many people will [[C- Apply progressive summarization to your own notes|progressively summarize their own notes]]. [[C- People process complex information in multiple levels and stages of processing]]. 

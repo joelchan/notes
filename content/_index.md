@@ -38,4 +38,4 @@ Some suggested starting points:
 - To jump straight into the ideas:
 	- [[I- Search as a part of the primitive design]]
 	- [[I- A DSL for a discourse graph with information entry, visualization, and retrieval]]
-	- [[structure now vs. later (uncertain payoff, regret)]]
+	- [[Q- How might we navigate the structure now or later tradeoffs]]
