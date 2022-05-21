@@ -22,7 +22,7 @@ Some specific how-tos:
 - Hover your mouse over a link to see a preview of its content
 - If a page is empty, look through its backlinks! If a page isn't empty... you can still look through its backlinks! Those are all of the times where the ideas presented in the page were used in context.
 - If a page is not yet created, the hyperlink will appear to be faded.
-- When you see a faded hyperlink like [[@cataliniMicrogeographyDirectionInventive2017]], note that it's a Zotero citekey, and if you take the text, separate out the words, and search in Google, you will likely find the paper for more information if you are interested.
+- When you see a faded hyperlink like [[@cataliniMicrogeographyDirectionInventive2017]], note that it's a Zotero citekey, and if you take the text, separate out the words, and search in Google Scholar, you will likely find the paper for more information if you are interested.
 - Email hello@robhaisfield.com for personal inquiries or private questions, but please defer to public comments when possible, as other people may have the same question as you!
 
 Some suggested starting points:
