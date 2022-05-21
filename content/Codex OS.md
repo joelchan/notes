@@ -4,7 +4,7 @@ enableToc: false # do not show a table of contents on this page
 ---
 Authored by:: [[P- Rob Haisfield]]
 
-- #[[Twitter thread]] [[P- Rob Haisfield]]: Yesterday I was given a demo of @codexeditor. Absolutely wacky, in all of the right ways. Everything is an entity on a graph that can have labeled relationships with other entities. The UX is basically creating a new desktop OS in your browser for managing all info on that graph. [*](https://twitter.com/RobertHaisfield/status/1326185315380310016)
+- [[Twitter thread]] [[P- Rob Haisfield]]: Yesterday I was given a demo of @codexeditor. Absolutely wacky, in all of the right ways. Everything is an entity on a graph that can have labeled relationships with other entities. The UX is basically creating a new desktop OS in your browser for managing all info on that graph. [*](https://twitter.com/RobertHaisfield/status/1326185315380310016)
   - When I say everything can be an entity, I mean it... text, images, video, audio, websites. Iian is leaning into workspace model, allowing saved arrangements of what you have on the screen to revisit later. Those are also graph entities you can link to. https://twitter.com/RobertHaisfield/status/1267599197412286464?s=20 [*](https://twitter.com/RobertHaisfield/status/1326186101053140992)
   - Whether it will see broad success or not, I have no idea. It's the sort of thing where you can only wrap your head around it so much without using it. It's insanely ambitious in doing a million things, so we'll see what people will actually do with it https://twitter.com/RobertHaisfield/status/1254554242183917568 [*](https://twitter.com/RobertHaisfield/status/1326187083736649730)
   - But make no mistake - this is shaping out to be a professional research tool.
