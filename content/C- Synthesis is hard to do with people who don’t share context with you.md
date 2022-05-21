@@ -11,7 +11,7 @@ An exciting hypothesis that motivates our work is that making discourse graphs w
 
 Synthesis involves individuals putting together many pieces in their minds, but It is often argued that [synthesis occurs in a single mind](https://notes.andymatuschak.org/Great_creative_work_is_usually_the_product_of_a_single_person). In our research, surprisingly few participants had distributed synthesis experiences to share. Why? 
 
-In the early stages of synthesis, when people have [[half-baked ideas not ready yet]], they prefer to work on their own or with a close companion. 
+In the early stages of synthesis, when people have [[half-baked ideas not ready yet]], they prefer to work on their own or with a close companion.
 
 For most people, the primary concern is speed. If you are working with someone who has no shared background, you need to spend time explaining the basics - of the topic, your goals, and your working process - to them. 
 
@@ -19,7 +19,7 @@ As [[P- Ryan Singer]] describes in [Shape Up](https://basecamp.com/shapeup), the
 
 First, we need to have the right people—or nobody—in the room. Either we’re working alone or with a trusted partner who can keep pace with us. Someone we can speak with in shorthand, who has the same background knowledge, and who we can be frank with as we jump between ideas.
 
-Here, the primary concern is being able to [[work at the speed of thought]]. Bringing someone else up to speed - especially someone with a [[lack of shared context]] - slows the process down and reduces the chances of advancing beyond the basics.  
+Here, the primary concern is being able to [[work at the speed of thought]]. Bringing someone else up to speed[^1] - especially someone with a [[lack of shared context]] - slows the process down and reduces the chances of advancing beyond the basics.  
 
 This lack of shared context makes it difficult to divide the work of synthesis collaboratively. 
 - [[B1]] gave an example from his own experience where he was working on a knowledge graph project with people who did not have a background in knowledge graphs. They had 10 sources and divided them up so each person would look at different sources and take notes on them. When [[B1]] read his sources, he took notes in the context of what was relevant to the project, whereas his collaborators would write summaries of the entire sources. They did not fully understand the driving questions and history of the space, so they had no filter for relevance.
@@ -55,3 +55,5 @@ This suggests two categories of solutions to enable synthesis with others:
 A promising direction would be through enhanced composability, see [[C- Hypertext enables communication with high information density]] for more detail.
 
 On the more radical end, graph queries could show readers X number of paths to traverse between their current understanding and a page that they want to read. It could infer what people already know through a variety of mechanisms - what they have read already, what they've written, what they have commented on.
+
+[^1]: See also: [[C- A key requirement to participating in a discourse graph for a specific domain is knowing the vocabulary used in that graph]]
