@@ -1,6 +1,6 @@
 ---
-title: "Programmable text interfaces are the future"
-enableToc: false # do not show a table of contents on this page
+title: "C- Programmable text interfaces are the future"
+enableToc: true # do not show a table of contents on this page
 ---
 Authored By:: [[P- Rob Haisfield]]            
 
@@ -16,7 +16,7 @@ While working on the onboarding for GuidedTrack [^4], I began to think… What i
 
 GuidedTrack [^5] is a simple low-code application that allows you to make surveys, experiments, web applications, online courses, signup forms, and more. While the use cases are broad, here I will primarily focus on the form builder side of it for simplicity. As one of my projects with Spark Wave [^6], GuidedTrack is the best example I know of a textual interface, so I’ll dive into it and extract takeaways as I go.
 
-![](file:////Users/roberthaisfield/Library/Group%20Containers/UBF8T346G9.Office/TemporaryItems/msohtmlclip/clip_image002.jpg)
+![[CleanShot 2022-05-20 at 17.24.02.png]]
 
 **The keywords are direct and domain-specific.** If you were to describe a survey in an email that you send to a collaborator, how would you do it? That’s not going to be far off from how it looks in GuidedTrack. This makes it feel like a **_textual interface_** for an app people are already familiar with. **Users write their instructions with text at the level of abstraction they care about.**
 
@@ -28,7 +28,7 @@ In user research, we found that non-coders often believe that in order to write 
 
 For example, in this image, we see a form for writing a question. This multiselect checkbox type question will save the answers to a variable labeled `participantSubscriptions.` Later, these saved answers can be referenced in a **conditional** (e.g. "if Netflix in participantSubscriptions, ask this question") or a **loop** (e.g. "Ask the same followup question about each of the answers they selected"). There are forms for those as well!
 
-![](file:////Users/roberthaisfield/Library/Group%20Containers/UBF8T346G9.Office/TemporaryItems/msohtmlclip/clip_image004.jpg)
+![[CleanShot 2022-05-20 at 17.24.26.png]]
 
 **_Loops_** **and _conditionals_ fall under the broader category of “control flow.”** By default, content (text, questions, charts, images, etc.) are read as instructions, flowing top to bottom. If that feels restrictive, loops and conditionals can declare other rules. A new user can learn how to replicate Google Forms’ functionality in 10-15 minutes without requiring control flow. However, upon learning to use control flow, they will not want to return to the limitations of GUI alternatives.
 
@@ -44,9 +44,9 @@ GuidedTrack doesn’t have specific functionality for this. We don’t have a lo
 
 Oftentimes, writing and reading is simply more pleasant than dragging and dropping. **Text is incredibly information dense.** Look at the difference between the same survey in GuidedTrack vs. Tripetto. With Tripetto, you would need a massive screen to work with a long survey!
 
-![](file:////Users/roberthaisfield/Library/Group%20Containers/UBF8T346G9.Office/TemporaryItems/msohtmlclip/clip_image006.jpg)
+![[CleanShot 2022-05-20 at 17.25.05.png]]
 
-_![](file:////Users/roberthaisfield/Library/Group%20Containers/UBF8T346G9.Office/TemporaryItems/msohtmlclip/clip_image008.jpg)_
+![[CleanShot 2022-05-20 at 17.25.36.png]]
 
 A key problem that confronts domain specific languages attempting to replace standard graphical applications is that they can be intimidating to non-coders. **People who don’t know how to code will look at anything that looks remotely like code as something that is “for coders.”** They assume that programming anything requires years of learning and prior experience. For the most part, they are not wrong. The sort of work you hire developers to do often does require specific knowledge.
 
@@ -60,7 +60,7 @@ Our solution here was to implement a “split view.” In the split view, we sho
 
 In HCI research, the split view is sort of like a live programming environment, in Bret Victor’s terms [^13]. We still have substantial work here to improve the experience, but for more, Sketch-n-Sketch [^14] and their research represents the state of the art.
 
-![](file:////Users/roberthaisfield/Library/Group%20Containers/UBF8T346G9.Office/TemporaryItems/msohtmlclip/clip_image010.jpg)
+![[CleanShot 2022-05-20 at 17.25.51.png]]
 
 To sum up, here is what we have so far that can be generalized beyond GuidedTrack:
 
@@ -81,7 +81,7 @@ GuidedTrack is awesome, but the point of this piece is to show a new kind of app
 1.  **Task managers and schedules.** What better way to express that starting one task depends on finishing another than writing a _conditional_ if-then statement? Isn't a repeating event just an event on a _loop_ until it’s canceled? Isn’t it nice to be able to write your todos as though they were on a notepad as opposed to _navigating through a GUI_? With a text editor, it would be easy to copy/paste a selection of tasks to move them into another project. With conditionals, you could create an event that only occurs if half the invitees RSVP yes. This would be more about primitive design than feature design.
 2.  **Diagrams and flowcharts.** See Flowchart.fun [^15] to see how indentation and notation can make flowcharts easy. In order to be more aligned with how I'm looking at it, it would require some level of programmatic control on top of the boxes, lines, and sets of boxes and lines.
 
-![](file:////Users/roberthaisfield/Library/Group%20Containers/UBF8T346G9.Office/TemporaryItems/msohtmlclip/clip_image012.jpg)
+![[CleanShot 2022-05-20 at 17.26.18.png]]
 
 3.  **Configuration files.** With most graphical applications, if I’m using them on multiple computers or across multiple accounts, I will need to manually change the settings each time. If settings were run through text, it's easy to transport through copy/paste.
 4.  **Personal finance.** Many people do this with custom spreadsheets [^16]. You could also do this with a domain-specific language, it might look something like the image from Andrew Blinn [^17] or the pseudocode below. Notice how specific the functions are - there’s no boilerplate for users, so they can focus on providing instructions.
@@ -99,7 +99,7 @@ GuidedTrack is awesome, but the point of this piece is to show a new kind of app
 5.  **Discourse/knowledge graph database entry, retrieval, and visualization.** This is one subject of my research with The Graph [^18].
 6.  **Slideshows.** The Racket lang Slides [^19] demonstrate this. With programmability, an editor could change the background image and font on multiple slides at once, or turn it into a choose your own adventure, HyperCard style [^20].
 
-![](file:////Users/roberthaisfield/Library/Group%20Containers/UBF8T346G9.Office/TemporaryItems/msohtmlclip/clip_image014.jpg)
+![[CleanShot 2022-05-20 at 17.26.35.png]]
 
 # The future is programmable text, not graphical applications
 

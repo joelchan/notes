@@ -28,7 +28,7 @@ However, typed edges and nodes are an expressive backbone, as can be seen with [
 
 On the extreme end, one might ask, "Do we need to have defined ontologies, or can AI or neural networks replace databases?" We might also ask, [[Q- Does sufficiently advanced natural language processing invalidate the need for a structured DSL]]? *See [[R- Neural Databases]].* 
 
-[[Programmable text interfaces are the future]]. Text is familiar and fast. When you replace buttons with functions and add control flow / abstraction, it unlocks powerful custom use cases. Structural editors and other means can facilitate the growth of newcomers, who are able to gain value from the beginning, towards expertise, where they will never want to use anything else.
+[[C- Programmable text interfaces are the future]]. Text is familiar and fast. When you replace buttons with functions and add control flow / abstraction, it unlocks powerful custom use cases. Structural editors and other means can facilitate the growth of newcomers, who are able to gain value from the beginning, towards expertise, where they will never want to use anything else.
 
 By allowing people to write data structures and queries inline, we allow for [[Literate programming interface|literate programming]]. When people include a number, they can also include the formula or query that results in displaying that value. In that way, readers would be able to verify the evidence. 
 ![[Pasted image 20211117170352.png]]
