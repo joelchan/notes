@@ -4,6 +4,8 @@ enableToc: false # do not show a table of contents on this page
 ---
 Authored by:: [[P- Rob Haisfield]]
 
+*For context: a while back, I saw a demo of Jump. Jump isn't exactly in stealth but it also isn't something [[P- Chris Granger]] talks about much publicly yet. During our research, we talked with Chris and afterwards, he asked for feedback, so I wrote up a google doc to send to him. With his permission, I've included it here. His comments on the doc were insightful as well, so I've included them as hyperlinks to their own pages.*
+
 Hey Chris, thank you again for taking the time to interview! Most of the Roam and Notion forks are dedicated to making faster horses, meanwhile you're creating a self-driving, KITT augmented hovercraft. It's sort of like the holy grail OS of end-user computing, and I wish you the best of luck with it. Presuming successful execution, I fully expect this to be a paradigm shift. Based on your experience and career leading up to Jump, you're one of the best people to work on it.
 
 You asked for my perspective on what you shared and what you might be missing, and I said I would reflect and get back to you. Your work pre-Jump has given you a complete conceptual framework and thesis. In many ways, [[Q- Does sufficiently advanced natural language processing invalidate the need for a structured DSL|Jump is one possible set of logical conclusions for the questions we've been asking]], and, if you were to look over my knowledge graph, you would likely find it hilarious in its similarity.
