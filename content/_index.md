@@ -18,11 +18,11 @@ Some specific how-tos:
 	- "Q- " Question
 	- "R- " Resource
 	- "I- " Idea
+- Builders: View this as a framework for navigating the [idea maze](https://cdixon.org/2013/08/04/the-idea-maze), and form your own conclusions about the claims, questions, and trails between them.
 - Hover your mouse over a link to see a preview of its content
 - If a page is empty, look through its backlinks! If a page isn't empty... you can still look through its backlinks! Those are all of the times where the ideas presented in the page were used in context.
 - If a page is not yet created, the hyperlink will appear to be faded.
-- Builders: View this as a framework for navigating the [idea maze](https://cdixon.org/2013/08/04/the-idea-maze), and form your own conclusions about the claims, questions, and trails between them.
-- Command+k or ctrl+k to search
+- When you see a faded hyperlink like [[@cataliniMicrogeographyDirectionInventive2017]], note that it's a Zotero citekey, and if you take the text, separate out the words, and search in Google, you will likely find the paper for more information if you are interested.
 - Email hello@robhaisfield.com for personal inquiries or private questions, but please defer to public comments when possible, as other people may have the same question as you!
 
 Some suggested starting points:
