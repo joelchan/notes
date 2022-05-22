@@ -9,3 +9,9 @@ twitter: "[@andy_matuschak](https://twitter.com/andy_matuschak)"
 website: "[andymatuschak.org](https://t.co/FCMm6ota2S?amp=1)"
 ---
 
+
+
+---
+title: "@ Andy Matuschak"
+enableToc: false # do not show a table of contents on this page
+---

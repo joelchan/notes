@@ -5,7 +5,7 @@ enableToc: false # do not show a table of contents on this page
 
 Authored By:: [[P- Rob Haisfield]], [[P- Brendan Langen]]
 
-In the [[Q- How might we navigate the structure now or later tradeoffs|structure now vs. later]] tradeoff, people often defer structure until later. For more details on that, see [[Why people prefer to structure later or not at all]]. 
+In the [[Q- How might we navigate the structure now or later tradeoffs|structure now vs. later]] tradeoff, people often defer structure until later. For more details on that, see [[Q- Why do people prefer to structure later or not at all]]. 
 
 Adding structure later is a viable alternative, as people likely have a better idea of how their current idea fits into the wider whole. But, we frequently heard that the act of adding structure later **feels like a chore**. 
 

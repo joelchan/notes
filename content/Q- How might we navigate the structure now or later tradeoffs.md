@@ -1,5 +1,5 @@
 ---
-title: "structure now vs.ar later (uncertain payoff, regret)"
+title: "Q- How might we navigate the structure now or later tradeoffs"
 enableToc: false
 ---
 Beginning our research, we were excited to see all of the interesting structures that people use to manage their research, thoughts, and ideas. This page is here to discuss a critical tradeoff.

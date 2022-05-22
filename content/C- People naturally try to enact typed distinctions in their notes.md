@@ -35,7 +35,7 @@ Authored by:: [[P- Joel Chan]]
             - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fmegacoglab%2FdbQur6sg1i.png?alt=media&token=a7ec75e8-31d2-4da4-994b-465a372ee73d)
     - Outside Roam
         - [[Obsidian]] supercharged links plugin: https://github.com/mdelobelle/obsidian_supercharged_links
-        - [[@ Andy Matuschak]]'s [[sys/Evergreen Notes]], taxonomy of notes, and writing inbox practice
+        - [[P- Andy Matuschak]]'s [[sys/Evergreen Notes]], taxonomy of notes, and writing inbox practice
             - https://notes.andymatuschak.org/Taxonomy_of_note_types
             - Writing inbox practice: 
                 - https://notes.andymatuschak.org/z5aJUJcSbxuQxzHr2YvaY4cX5TuvLQT7r27Dz
@@ -49,4 +49,4 @@ Authored by:: [[P- Joel Chan]]
     - There are pretty good workarounds and techniques for specifying types of nodes. 
     - There is significant diversity in the specific language used for the terms, including wholesale differences in metaphors
     -  Specifying types of relationships remains clunky. 
-        - This is where the d/graph extension enhances things.
+        - This is where the [[Discourse Graph Plugin]] enhances things.
