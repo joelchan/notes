@@ -8,7 +8,7 @@ Authored By:: [[P- Rob Haisfield]]
 
 Some ideas: Write a query, save the results to a list. Process that list with map, filter, and reduce. Filter it down. Map some function onto each note in the list. Reduce the results into another page, or into the "backlinks" for a page. [[C- Bulk refactors are a necessary primitive to maintaining a decentralized discourse graph]].
 
-As can be seen in [[I- Search as a primitive design]], search is a powerful way to populate a list. One could map the append function onto a list of the search results in order to append a new tag onto each item. Alternatively, one could map syntax highlighting rules based on the results of a query.
+As can be seen in [[I- Search as a primitive]], search is a powerful way to populate a list. One could map the append function onto a list of the search results in order to append a new tag onto each item. Alternatively, one could map syntax highlighting rules based on the results of a query.
 
 [[P- Conor White-Sullivan]] has an [interesting thread](https://twitter.com/Conaw/status/1134173307878629376?s=20) on this:
 

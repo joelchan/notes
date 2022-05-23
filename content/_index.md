@@ -36,6 +36,6 @@ Some suggested starting points:
 	- [[Q- What are powerful interfaces for entering information into a discourse graph]]
 	- [[Q- What are powerful primitives for a user of a decentralized knowledge graph]]
 - To jump straight into the ideas:
-	- [[I- Search as a primitive design]]
+	- [[I- Search as a primitive]]
 	- [[I- A DSL for a discourse graph with information entry, visualization, and retrieval]]
 	- [[Q- How might we navigate the structure now or later tradeoffs]]
