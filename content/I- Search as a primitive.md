@@ -1,6 +1,6 @@
 ---
-alias: "I- Search as a primitive"
-title: "I- Search as a part of the primitive design"
+title: "I- Search as a primitive"
+aliases: "I- Search as a part of the primitive design"
 enableToc: false # do not show a table of contents on this page
 ---
 Authored By:: [[P- Rob Haisfield]]
