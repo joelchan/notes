@@ -26,4 +26,4 @@ If we want structure in our notes, our current tools require that we explicitly 
 
 Also, whether there are multiple paths to the data is important.  For example, someone using Roam might be more comfortable throwing many types of structure at the wall because they know if one system fails to resurface a note they likely have a fallback. In a file / folder system like Evernote, the folder location of a note matters much more because search is your only fallback if you don't remember which folder a note was in. For example, someone using Roam might be more comfortable throwing things at the wall because they know if one system fails to resurface something they might have a fallback
 
-For more details on how to enable restructuring in hindsight, see [[I- Search as a part of the primitive design]] and [[Agora]], as well as the question [[Q- How might we allow people to adapt their past system and notes to current needs]]
+For more details on how to enable restructuring in hindsight, see [[I- Search as a primitive design]] and [[Agora]], as well as the question [[Q- How might we allow people to adapt their past system and notes to current needs]]

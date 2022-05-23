@@ -14,4 +14,4 @@ Progressive summarization is one response to this as a way to [[C- It will be im
 
 [[C- An ideal decentralized discourse graph would enable people to view information at different levels of granularity through a ZUI]].
 
-Alternatively, search operators could be helpful, such as a way to only view things between certain dates. See [[I- Search as a part of the primitive design]] for more discussion.
+Alternatively, search operators could be helpful, such as a way to only view things between certain dates. See [[I- Search as a primitive design]] for more discussion.

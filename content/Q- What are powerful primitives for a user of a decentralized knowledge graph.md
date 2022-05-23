@@ -11,7 +11,7 @@ Authored By:: [[P- Rob Haisfield]]
 ![[Pasted image 20210916180319.png]]
 
 
-Backlinks are displayed by as a collapsible list. The backlinks do not just display the titles of the pages where a backlink is present: they also show breadcrumbs of context from what came before the relevant block. *see [[I- Search as a part of the primitive design]]*
+Backlinks are displayed by as a collapsible list. The backlinks do not just display the titles of the pages where a backlink is present: they also show breadcrumbs of context from what came before the relevant block. *see [[I- Search as a primitive design]]*
 
 While you are looking through backlinks, you can filter them down by including and excluding items, which are sorted by their frequency.
 

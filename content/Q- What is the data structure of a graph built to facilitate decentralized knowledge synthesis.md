@@ -38,7 +38,7 @@ In order to facilitate synthesis, the data structure of the discourse graph need
 	- As seen in [[Q- What is synthesis]], people need to compose and remix existing information to form a new whole.
 - **Compression.** 
 	- Compression can be thought of as abstraction. A core thing that abstraction does is remove "extraneous" details, retaining only what is "necessary." If one is trying to reuse old thoughts, reading too much information can be overwhelming. 
-	- Compression is about increasing the information density as much as possible. [[P- Andy Matuschak]] recommends using [[I- Search as a part of the primitive design|note titles as APIs to the whole idea]].
+	- Compression is about increasing the information density as much as possible. [[P- Andy Matuschak]] recommends using [[I- Search as a primitive design|note titles as APIs to the whole idea]].
 - **Context.**
 	- It can often be difficult to synthesize from the work of others if their thoughts are too compressed because you don't know they really mean. [[C- Compression and contextualizability are in tension]]. Without proper context, it is impossible to know what people base their conclusions on, or why people see some piece of information as important.
 
@@ -61,7 +61,7 @@ For now, we believe a decentralized discourse graph will require support for:
 	- Ability to express:
 		- Causality
 		- Opposition or support
-- [[I- Search as a part of the primitive design]]
+- [[I- Search as a primitive design]]
 - Breadcrumbs
 	- Queues
 [[Standoff Annotation]], as seen in [[Codex OS]], is very appealing as an option. It seems as though it could be an alternative to HTML for tools for thought, as it enables users to annotate overlapping pieces of information and assign metadata to the annotations.

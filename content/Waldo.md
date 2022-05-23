@@ -15,7 +15,7 @@ Waldo is built almost as a DSL, affording users to improve their level of search
 
 Waldo also offers on-demand research as a service, an interesting add-on to consider regarding [[Q- What community roles are necessary in a decentralized knowledge graph|roles needed in a decentralized discourse graph]].
 
-This informs [[I- Search as a part of the primitive design]], and may speak to the development of a new feature. 
+This informs [[I- Search as a primitive design]], and may speak to the development of a new feature. 
 
 https://chrome.google.com/webstore/detail/waldo-%E2%80%93-search-less-see-m/codlehhdmfjjenohbcibmhhedmfmefib
 

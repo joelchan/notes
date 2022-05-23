@@ -5,7 +5,7 @@ enableToc: false # do not show a table of contents on this page
 
 Authored By:: [[P- Rob Haisfield]], [[P- Brendan Langen]]
 
-In the [[Q- How might we navigate the structure now or later tradeoffs|structure now vs. later]] tradeoff, people tend to [[[Why people prefer to structure later or not at all|defer structuring until later]]) or not structure at all. Search is the primary tool people have available for resurfacing unstructured information. However, search can be extended to be the basis for creating structure in hindsight. As explored in [[I- Search as a part of the primitive design]] within [[I- A DSL for a discourse graph with information entry, visualization, and retrieval]].
+In the [[Q- How might we navigate the structure now or later tradeoffs|structure now vs. later]] tradeoff, people tend to [[[Why people prefer to structure later or not at all|defer structuring until later]]) or not structure at all. Search is the primary tool people have available for resurfacing unstructured information. However, search can be extended to be the basis for creating structure in hindsight. As explored in [[I- Search as a primitive design]] within [[I- A DSL for a discourse graph with information entry, visualization, and retrieval]].
 
 For example, a page titled `[[Behavioral science theories]]` could have a "related items" section defined by a search for `[[Behavioral science theories]]` or any time any specific theory (e.g. `[[Perceptual Control Theory]]` or `[[Self-Determination Theory]]`) is mentioned.
 
