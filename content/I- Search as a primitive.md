@@ -1,7 +1,14 @@
 ---
 title: "I- Search as a primitive"
-aliases: "/I-Search-as-a-part-of-the-primitive-design/"
+aliases: 
+- /I-Search-as-a-part-of-the-primitive-design/
 enableToc: false # do not show a table of contents on this page
+---
+
+---
+aliases:
+    - /posts/my-original-url/
+    - /2010/01/01/even-earlier-url.html
 ---
 Authored By:: [[P- Rob Haisfield]]
 
