@@ -11,12 +11,13 @@ tags: [[Q- What are powerful interfaces for entering information into a discours
 Not all edits to the query have to be within the query editor. In [[I- Provide Push and Pull as inline syntax to affect the related items section for a page]], we outlined how `push` and `pull` work as an inline DSL to add to a related items query's `any` clause. 
 
 [[C- User behavior within a well-designed choice architecture can be a signal of preferences]]. We can see how this happens with [[C- Newsfeed management can enable users to express their preferences through a combination of revealed preferences and declared preferences|newsfeed management mechanisms]]. As people are looking through the results of a query, they might right click then select the option: "remove from query." The menu path might look like the following, where each of the topics could be toggled:
- - ```clojure
+
+```clojure
 {:remove {:itemID sladfkji4af4sdkf
           :author "John Doe"
           :topic-mentioned ["topic1"
-                            "topic2"
-                            "topic3"]}}```
+                            "topic2"]}}
+```
 
 When people click on an "x" on the query result's item, the [[smart default]] could be to remove that block's UID from the query through `(not (any: uid1 uid2))`.
 
@@ -50,6 +51,7 @@ It's possible that users don't always want to reify an entirely new query as an 
 ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fwrite-hypertext-notebook-graph-research%2FRwZUCu20fg.png?alt=media&token=314cf155-c8ec-4904-a051-8cb6b4496269)
 
 If written in my proposed query syntax, this would look like the query below. An `all:` operator is assumed at the beginning of the query.
+
  ```clojure
 (query: "Rob Haisfield"
         "CLM"
