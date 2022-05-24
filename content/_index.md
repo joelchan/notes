@@ -12,6 +12,17 @@ Welcome to our living hypertext notebook. This notebook will continue to evolve 
 
 The goal of this research project is to find data structures and interfaces that support synthesis and innovation in a decentralized discourse graph. *See: [[Q- What is a decentralized discourse graph]]*
 
+Some suggested starting points:
+- For broader context about what we are doing:
+	- [[C- Discourse graphs could significantly accelerate human synthesis work]]
+	- [[Q- What is a decentralized discourse graph]]
+	- [[C- Synthesis is hard to do with people who don’t share context with you]]
+	- [[Research Grant Application]]
+- To jump straight into the ideas:
+	- [[I- Search as a primitive]]
+	- [[I- A DSL for a discourse graph with information entry, visualization, and retrieval]]
+	- [[Q- How might we navigate the structure now or later tradeoffs]]
+
 Some specific how-tos:
 - Pages have prefixes in their page titles that indicate what type of node it is:
 	- "C- " Claim
@@ -25,17 +36,3 @@ Some specific how-tos:
 - When you see a faded hyperlink like [[@cataliniMicrogeographyDirectionInventive2017]], note that it's a Zotero citekey, and if you take the text, separate out the words, and search in Google Scholar, you will likely find the paper for more information if you are interested.
 - Email hello@robhaisfield.com for personal inquiries or private questions, but please defer to public comments when possible, as other people may have the same question as you!
 
-Some suggested starting points:
-- For broader context about what we are doing:
-	- [[C- Discourse graphs could significantly accelerate human synthesis work]]
-	- [[Q- What is a decentralized discourse graph]]
-	- [[C- Synthesis is hard to do with people who don’t share context with you]]
-	- [[Research Grant Application]]
-- To begin with key questions:
-	- [[Q- What user behaviors are people doing already that imply structure that is not being instantiated into a literal structure]]
-	- [[Q- What are powerful interfaces for entering information into a discourse graph]]
-	- [[Q- What are powerful primitives for a user of a decentralized knowledge graph]]
-- To jump straight into the ideas:
-	- [[I- Search as a primitive]]
-	- [[I- A DSL for a discourse graph with information entry, visualization, and retrieval]]
-	- [[Q- How might we navigate the structure now or later tradeoffs]]
