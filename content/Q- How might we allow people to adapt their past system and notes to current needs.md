@@ -11,7 +11,6 @@ For example, let's say that we suddenly decide "Let's not categorize our notes w
 There can be an intense amount of FOMO and friction that comes from thinking that you need to plan everything ahead of time. This is one of the problems with [[Notion]] - it's really hard to refactor systems so people feel like they can't start before they have it all figured out. It is a big friction for [[new users]].
 
 One can reduce this friction through:
-	- [[C- Incrementally processing notes is a key user behavior to promote synthesis]]
-	- [[C- Reviewing past notes in the process of creating new notes is a key user behavior to promote synthesis]]
+	- [[C- Incrementally processing notes is a key user behavior to promote synthesis]]. A common user pattern we saw is that people would update prior notes to meet their new systems at the point where the prior notes came up in their review/exploration, for just-in-time restructuring. As such, [[C- Reviewing past notes in the process of creating new notes is a key user behavior to promote synthesis]], while also serving as a way to update systems slowly over time.
 
-[[C- End user programming enables people to bulk process notes]]
+[[C- End user programming enables people to bulk process notes]] can solve this problem if the user or the system is capable of identifying a queryable consistent pattern that can pull up notes that followed a previous convention. It becomes challenging when there is no consistency.
