@@ -3,7 +3,7 @@ title: "R- Information Foraging Video"
 enableToc: false # do not show a table of contents on this page
 ---
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_IbTZBMHiY4?start=3622" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+{{< youtube _IbTZBMHiY4 >}}
 
 [[P- Yochai Bankler]] makes the argument in [[R- Wealth of Networks]] that people have a wealth of idle attention. [[Open source]], [[Wikipedia]], etc. has some architecture designed for many people to contribute in modular ways without needing to worry about the contributions of others. 40:30
 
