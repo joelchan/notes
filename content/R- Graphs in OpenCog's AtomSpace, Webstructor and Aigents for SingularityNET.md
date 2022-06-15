@@ -1,0 +1,7 @@
+---
+title: "R- Graphs in OpenCog's AtomSpace, Webstructor and Aigents for SingularityNET"
+enableToc: false # do not show a table of contents on this page
+---
+{{< youtube xdYJJVPkjK8 >}}
+
+![[CleanShot 2022-05-26 at 09.26.14@2x.png]]

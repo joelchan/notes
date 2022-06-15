@@ -2,6 +2,8 @@
 title: "Q- Can neural networks answer queries from natural language without a predefined schema"
 enableToc: false # do not show a table of contents on this page
 ---
+Author:: [[P- Brendan Langen]]
+
 [[Q- What is the role of AI in facilitating a decentralized discourse graph]]
 
 In [[R- Neural Databases]], the authors present a tool, NeuralDB, that requires no schema and is queryable through natural language processing. 
