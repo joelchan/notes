@@ -202,10 +202,9 @@ article {
   & a {
     font-family: Source Sans Pro;
     font-weight: 600;
-
     &.internal-link {
       text-decoration: none;
-      background-color: transparentize(#8f9fa9, 0.85);
+      /* background-color: transparentize(#8f9fa9, 0.85); */
       padding: 0 0.1em;
       margin: auto -0.1em;
       border-radius: 3px;
@@ -221,6 +220,11 @@ article {
     overflow-wrap: anywhere;
   }
 }
+
+a[target] {
+  background-color: transparentize(#8f9fa9, 0.85);
+  font-style: italic;
+    }
 
 .backlinks a {
   font-weight: 600;
@@ -485,7 +489,7 @@ header {
 }
 
 .search-highlight {
-  background-color: #afbfc966;
+  background-color: transparentize(#7970A9, 0.75);
   padding: 0.05em 0.2em;
   border-radius: 3px;
 }

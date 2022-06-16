@@ -20,7 +20,6 @@ Some suggested starting points:
 - For broader context about what we are doing and why:
 	- [[Q- What is a decentralized discourse graph]]
 	- [[C- Discourse graphs could significantly accelerate human synthesis work]]
-	- [[Q- What is a decentralized discourse graph]]
 	- [[C- Synthesis is hard to do with people who don’t share context with you]]
 	- [[Research Grant Application]]
 
