@@ -52,3 +52,5 @@ We might also gather metadata from the structure of a workspace. If we use [[I- 
 [[I- User-created consistent rules as a primitive]] can help. As we can see in [[I- Enable composable queries to facilitate structure in hindsight]], the user might query for mentions of X or Y, and apply a new tag Z to all results.
 
 The user might also create rules such as "if X is indented underneath Y, then the two are related." In [[P- Joel Chan]]'s [[Discourse Graph Plugin]], one can even specify relationships such as "Any evidence note indented underneath a claim note informs the claim."
+
+Schema migrations (when the user has a consistent schema for a type of thing, but then they change the schema) are also of crucial importance. Inspiration can be drawn here from object-oriented programming, statically typed programming, and [[Cambria]].
