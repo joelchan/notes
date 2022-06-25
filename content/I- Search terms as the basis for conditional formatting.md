@@ -1,5 +1,8 @@
 ---
-title: "I- Utilize search terms as the basis for conditional formatting"
+title: "I- Search terms as the basis for conditional formatting"
+enableToc: false # do not show a table of contents on this page
+aliases: 
+- /I-Utilize-Search-as-the-basis-for-conditional-formatting/
 enableToc: false # do not show a table of contents on this page
 ---
 
