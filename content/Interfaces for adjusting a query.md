@@ -34,7 +34,8 @@ Imagine "economic inflation" were a topic mentioned in an item within your newsf
         followed-interests)
   (not: (any: muted-authors-list
               muted-topics-list
-              muted-items-list)))```
+              muted-items-list)))              
+```
 
 Alternatively, users might process the list of query results through highlighting and lowlighting. [[C- Highlighted and lowlighted search results map to how well results map to intentions]], so the default assumption could be that lowlighting a block would remove that block from the query results. A block id would then have a `queries-where-highlighted` and `queries-where-lowlighted` property, listing the relevant queries.
 
@@ -44,7 +45,8 @@ It's possible that users don't always want to reify an entirely new query as an 
   newsfeed
   (any: "behavioral economics"
         "web3")
-  (not: "regulation"))```
+  (not: "regulation"))
+```
 
 [[Roam]] has a GUI for manipulating these filters that can go beyond the language interface described above. For example, below, I'm filtering all linked references to `[Rob Haisfield](Rob%20Haisfield)` for `[CLM](CLM)` (claims) and `[EVD](EVD)` (evidence) that are connected.
 
@@ -55,4 +57,5 @@ If written in my proposed query syntax, this would look like the query below. An
  ```clojure
 (query: "Rob Haisfield"
         "CLM"
-        "EVD")```
+        "EVD")
+```

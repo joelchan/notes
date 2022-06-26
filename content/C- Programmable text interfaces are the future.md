@@ -94,7 +94,7 @@ GuidedTrack is awesome, but the point of this piece is to show a new kind of app
  (sendFund (value unpaidInvoice) USDC John Doe)
 
  :else (sendMessage Me (str "check the payment fund, there isn't enough in it for John Doe"))))
- ```
+```
 
 5.  **Discourse/knowledge graph database entry, retrieval, and visualization.** This is one subject of my research with The Graph [^18].
 6.  **Slideshows.** The Racket lang Slides [^19] demonstrate this. With programmability, an editor could change the background image and font on multiple slides at once, or turn it into a choose your own adventure, HyperCard style [^20].
