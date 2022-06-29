@@ -4,12 +4,12 @@ enableToc: false # do not show a table of contents on this page
 ---
 Authored By:: [[P- Rob Haisfield]]
 
-[[I- Populate the related items section through a search term|If a page's related items section is defined through a search term]], then we can think of the page title and its query as a key-value pair. The data structure would look something like this:
+[[I- Populate the related items section through a search term|If a page's related items section is defined through a search term]], then we can think of the page title and its query as a key-value pair. This might look something like the code snippet below.
+
+Here you'll notice a general pattern in the queries, where there's an "any" clause that always includes the base title in the search results. This is essentially a smart default - references to the page title are almost always going to be relevant. Then you'll see additional terms. In the first example, I'm saying that a result has to include either "structure" OR "structuring" as well as "hindsight." Any time something is within parentheses, think of it as one term.
 
 ``` clojure
-;; Here you'll notice a general pattern in the queries, where there's an "any" clause that always includes the base title in the search results. This is essentially a smart default - references to the page title are almost always going to be relevant. 
-;; Then you'll see additional terms. In the first example, I'm saying that a result has to include either "structure" OR "structuring" as well as "hindsight."
-;; Any time something is within parentheses, think of it as one term.
+;; 
 
 "PCT" means
   (any: "PCT"
