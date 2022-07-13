@@ -1,0 +1,128 @@
+{
+  "main": {
+    "id": "7e2b68b3b9133c05",
+    "type": "split",
+    "children": [
+      {
+        "id": "452403bb402bdb59",
+        "type": "leaf",
+        "state": {
+          "type": "graph",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "3c7c20812205cc42",
+    "type": "split",
+    "children": [
+      {
+        "id": "5f0f479fabb61195",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fbb0332023157d88",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "14e00cfa3926bf5c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "7722911a9dc441b3",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "47dc735d64ac567d",
+    "type": "split",
+    "children": [
+      {
+        "id": "7368cfe05304bca2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "219843c340cf91c8",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a1d01558a147e86c",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "16e7e4cd2fc085da",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "c53f3d4d127d4873",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "452403bb402bdb59",
+  "lastOpenFiles": [
+    "README.md",
+    "discourse-graph/claims/CLM - A significant proportion of the benefits of analogical stimuli is oblique or indirect.md"
+  ]
+}

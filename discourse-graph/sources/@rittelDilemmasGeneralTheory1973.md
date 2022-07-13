@@ -1,0 +1,63 @@
+---
+title: @rittelDilemmasGeneralTheory1973
+url: https://roamresearch.com/#/app/megacoglab/page/SR4pPcCDv
+author: Joel Chan
+date: Wed Aug 19 2020 10:58:44 GMT-0400 (Eastern Daylight Time)
+---
+
+- #[[references]]
+
+    - Title: Dilemmas in a general theory of planning
+
+    - Meta:
+
+        - Authored by:: [[HWJ W. J. Rittel]] [[MM M. Webber]]
+
+        - Year: [[1973]]
+
+        - Publication: Policy Sciences
+
+        - Zotero link: [Zotero Link](zotero://select/items/7_TY3Q2B2U)
+
+        - URL: [Rittel & Webber (1973). Dilemmas in a general theory of planning. Policy Sciences](undefined)
+
+    - Content
+
+        - Abstract
+
+            - undefined
+
+###### Discourse Context
+
+- **Informs::** [[CLM - Effective problem formulation is-necessary-for creative knowledge work]]
+- **Informs::** [[QUE - What are some major phenomena around designers' exploration of design spaces and how might these map to characteristics of optimizers]]
+
+###### References
+
+[[@goelStructureDesignProblem1992]]
+
+- similar to [[@simonStructureIllStructured1973]] and [[@rittelDilemmasGeneralTheory1973]], lays out characteristics of [[Ill-structured problem]]s, specifically a set of dimensions on which to contrast them with [[well-structured problem]]s
+
+    - distribution of information
+
+    - nature of constraints
+
+    - size and complexity of problems
+
+    - component parts
+
+    - interconnectivity of parts
+
+    - right and wrong answers
+
+    - input/output
+
+    - feedback loop
+
+    - cost of errors
+
+    - independent functioning of artifact
+
+    - distinction between specification and delivery
+
+    - temporal separation between specification and delivery

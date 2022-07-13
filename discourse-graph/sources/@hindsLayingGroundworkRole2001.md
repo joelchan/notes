@@ -1,0 +1,42 @@
+---
+title: @hindsLayingGroundworkRole2001
+url: https://roamresearch.com/#/app/megacoglab/page/8Ii81PmVe
+author: Joel Chan
+date: Wed Feb 17 2021 13:23:51 GMT-0500 (Eastern Standard Time)
+---
+
+- #[[references]]
+
+    - Title: Laying the groundwork: The role of organizational context in knowledge sharing and seeking
+
+    - Meta:
+
+        - Authored by:: [[Pamela J Hinds]] [[D Burgess]] [[J Pfeffer]] [[P Moore]]
+
+        - Year: [[2001]]
+
+        - Publication: undefined
+
+        - Zotero link: [Zotero Link](zotero://select/items/7_TF7PBE28)
+
+        - URL: [Hinds et al. (2001). Laying the groundwork: The role of organizational context in knowledge sharing and seeking. undefined](undefined)
+
+    - Content
+
+        - Abstract
+
+            - undefined
+
+###### Discourse Context
+
+- **Informs::** [[QUE - Under what conditions is it possible to transfer expertise from one person to another]]
+
+###### References
+
+[[QUE - Under what conditions is it possible to transfer expertise from one person to another]]
+
+- [[@hindsLayingGroundworkRole2001]]
+
+    - Employee were resistant to transfer knowledge that require adaption from original context to a new context within a consumer products organization
+
+    - Case Study/Experiment
