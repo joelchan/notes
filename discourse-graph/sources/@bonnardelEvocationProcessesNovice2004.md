@@ -29,25 +29,5 @@ date: Sun Dec 27 2020 22:27:48 GMT-0500 (Eastern Standard Time)
 
 ###### Discourse Context
 
-- **Informs::** [[QUE - How might domain distance modulate the effects of analogies on creative output]]
+- **Informs::** [QUE - How might domain distance modulate the effects of analogies on creative output.md](QUE - How might domain distance modulate the effects of analogies on creative output.md)
 
-###### References
-
-[[December 27th, 2020]]
-
-- [[@bonnardelImpactTechnologyCreativity2010]], also per scite, is a possible complication on this, in that they also compared novice and experienced designers, but also varied analogical distance (but actually the finding that scite picks up as disputing is from [[@bonnardelEvocationProcessesNovice2004]])
-
-    - interestingly, they find for the experienced designers that creative performance is highest for somewhat near [analogies]([[analogy]]) (so-called near inter-domain, vs. intradomain or remote inter-domain stimuli), adding to positive support for [[[[CLM]] - There is a 'Sweet Spot' in Analogical Distance. Somewhat far analogies lead to better creative outcomes than very near or very far analogies]]
-
-    - so this line of work is really important regarding [[design-by-analogy]] for [[D/Computational Analogy]]
-[[December 27th, 2020]]
-
-- back to [[@bonnardelEvocationProcessesNovice2004]]
-
-    - they compared novice and experienced designers, and found a non-replication of fixation for novices, but a replication for experienced designers with [[near analogies]], but a reverse (expansive) effect with [[far analogies]]
-
-        - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fmegacoglab%2F2hCAa-WJhX.png?alt=media&token=f575e82e-3eef-4749-aa65-7e69f69f4232)
-
-    - these findings again are slightly stronger than [[@janssonDesignFixation1991]]'s due to methodological choices (larger N, better controls on measurement)
-
-        - it complicates the story regarding type of stimuli, evokes back to discussion s of concrete vs. abstract examples from [[@wardStructuredImaginationRole1994]]

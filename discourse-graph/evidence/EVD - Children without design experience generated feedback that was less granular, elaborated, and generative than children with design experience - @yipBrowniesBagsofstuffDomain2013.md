@@ -48,15 +48,6 @@ date: Wed Jul 14 2021 13:59:18 GMT-0400 (Eastern Daylight Time)
 
 ###### Discourse Context
 
-- **Informs::** [[QUE - What tension points exist between the goals of diversity and depth of user participation in participatory design]]
-- **FromSource::** [[@yipBrowniesBagsofstuffDomain2013]]
+- **Informs::** [QUE - What tension points exist between the goals of diversity and depth of user participation in participatory design.md](QUE - What tension points exist between the goals of diversity and depth of user participation in participatory design.md)
+- **FromSource::** [@yipBrowniesBagsofstuffDomain2013.md](@yipBrowniesBagsofstuffDomain2013.md)
 
-###### References
-
-[[July 13th, 2021]]
-
-- [[[[EVD]] - Children without design experience generated feedback that was less granular, elaborated, and generative than children with design experience - [[@yipBrowniesBagsofstuffDomain2013]]]]
-
-    - this bit about gap between knowledge and ability to express implementation/ideas calls to mind the [tension about layers of interpretation]([[[[CLM]] - There is a tension between analyzing participants' direct inputs, and respecting their actual insights (vs. designers' interpretation) that is intensified when working with design partners who struggle to contribute more directly to design artifacts]])
-
-        - makes me think of the power of [[end-user programming]] as a paradigm for empowering expression

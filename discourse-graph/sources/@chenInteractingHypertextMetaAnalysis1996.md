@@ -16,24 +16,5 @@ date: Wed Feb 16 2022 11:35:08 GMT-0500 (Eastern Standard Time)
 
 ###### Discourse Context
 
-- **Informs::** [[QUE - Can hypertext notetaking systems enhance cognitive flexibility]]
+- **Informs::** [QUE - Can hypertext notetaking systems enhance cognitive flexibility.md](QUE - Can hypertext notetaking systems enhance cognitive flexibility.md)
 
-###### References
-
-[[February 16th, 2022]]
-
-- [[@chenInteractingHypertextMetaAnalysis1996]] super highly cited [[m/meta-analysis]], including [response from Shapiro](https://scite.ai/reports/promoting-active-learning-the-role-bbprD1?page=1) - basically says "idk, too noisy, but lots of extenunating factors, including student characteristics, task complexity, and basically we don't have a good handle on how to compare studies" - also, more effective but less efficient for hypertext vs. trad. (cc [[@kirshMultitaskingCostStructure2005]])
-
-    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fmegacoglab%2FpEPDEblwd6.png?alt=media&token=944ae3f7-e68e-4d83-b310-ad66022801af)
-
-    - scite [trail](https://scite.ai/reports/interacting-with-hypertext-a-meta-analysis-WWprbw?contradicting=false&mentioning=false&page=1&publishedRangeMax=2021&publishedRangeMin=1997&unclassified=false&utm_campaign=plugin&utm_medium=plugin&utm_source=generic)
-
-        - [[@graffConstructingMaintainingEffective2006]] - more dense maps
-
-            - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fmegacoglab%2FrhDKrLrb29.png?alt=media&token=0036ee51-9aaa-41c5-b95a-7e519625342b)
-
-            - basically the same in [[@graffDifferencesConceptMapping2005]]
-
-        - [[@clareboutToolUseOpen2008]] paper > online (no matter structure) for reading comprehension, but nonlinear > linear
-
-            - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fmegacoglab%2FP_9zxtt_IH.png?alt=media&token=757cf51d-1243-4e82-b8e2-165d4b43bd54)

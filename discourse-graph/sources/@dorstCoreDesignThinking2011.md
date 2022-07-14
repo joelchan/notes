@@ -29,21 +29,7 @@ date: Fri May 22 2020 12:12:59 GMT-0400 (Eastern Daylight Time)
 
 ###### Discourse Context
 
-- **Informs::** [[CLM - Design proceeds by co-evolution of problem and solution space]]
-- **Informs::** [[QUE - What is synthesis]]
-- **Informs::** [[QUE - How do people effectively (re)formulate creative problems]]
+- **Informs::** [CLM - Design proceeds by co-evolution of problem and solution space.md](CLM - Design proceeds by co-evolution of problem and solution space.md)
+- **Informs::** [QUE - What is synthesis.md](QUE - What is synthesis.md)
+- **Informs::** [QUE - How do people effectively (re)formulate creative problems.md](QUE - How do people effectively (re)formulate creative problems.md)
 
-###### References
-
-[[March 3rd, 2022]]
-
-- in [[@dorstCoreDesignThinking2011]]'s formulation of [[Frames]] and [[🧱 framing]], it consists of a specification of an approach (how: space of possible moves) as well as value/goal (i.e., ((NelovND9C)))
-
-    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fmegacoglab%2FNCWNp0-6ys.png?alt=media&token=0e4087e3-8caf-455a-ae2d-b994eaa8e2d5) (p. 524)
-[[April 7th, 2022]]
-
-- Somewhat in parallel, in the domain of design theory and methodology, various theorists have also [[@dorstCoreDesignThinking2011]]
-
-    - Although [[@goelStructureDesignProblem1992]] directly extended Simon's notion of problem spaces to thinking about design spaces
-
-    - And there is a thread of work on trying to model what this space looks like.

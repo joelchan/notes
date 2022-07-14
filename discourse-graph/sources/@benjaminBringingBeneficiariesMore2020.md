@@ -99,22 +99,6 @@ date: Fri Jul 30 2021 22:33:41 GMT-0400 (Eastern Daylight Time)
 
 ###### Discourse Context
 
-- **SourceFor::** [[EVD - in 57 nonprofit management texts, beneficiaries were mentioned mostly in marketing and eval c...nd infrequently in HR or volunteer management chapters - @benjaminBringingBeneficiariesMore2020]]
-- **SourceFor::** [[EVD - in 3 major nonprofit research journals, between 1998-2018, only 5% of empirical studies menti...onprofit, and only 5 explicitly discussed coproduction - @benjaminBringingBeneficiariesMore2020]]
+- **SourceFor::** [EVD - in 57 nonprofit management texts, beneficiaries were mentioned mostly in marketing and eval c...nd infrequently in HR or volunteer management chapters - @benjaminBringingBeneficiariesMore2020.md](EVD - in 57 nonprofit management texts, beneficiaries were mentioned mostly in marketing and eval c...nd infrequently in HR or volunteer management chapters - @benjaminBringingBeneficiariesMore2020.md)
+- **SourceFor::** [EVD - in 3 major nonprofit research journals, between 1998-2018, only 5% of empirical studies menti...onprofit, and only 5 explicitly discussed coproduction - @benjaminBringingBeneficiariesMore2020.md](EVD - in 3 major nonprofit research journals, between 1998-2018, only 5% of empirical studies menti...onprofit, and only 5 explicitly discussed coproduction - @benjaminBringingBeneficiariesMore2020.md)
 
-###### References
-
-[[July 30th, 2021]]
-
-- found jackpot paper! [[@benjaminBringingBeneficiariesMore2020]]
-
-    - author ([[Lehn M. Benjamin]]) was already recommended by someone Sarah reached out to
-
-    - has list of ~130 papers on "beneficiary" involvement in nonprofits ([[coproduction]])
-
-        - good subset of findings on how the beneficiaries get involved, and it spans the range from conception to delivery to evaluation/accountability
-[[@benjaminBringingBeneficiariesMore2020]]
-
-- [[[[EVD]] - in 57 nonprofit management texts, beneficiaries were mentioned mostly in marketing and eval chapters, and infrequently in HR or volunteer management chapters - [[@benjaminBringingBeneficiariesMore2020]]]] #Informs
-
-    - (implication; they are viewed as external stakeholders);

@@ -38,13 +38,6 @@ date: Wed Jun 29 2022 11:10:32 GMT-0400 (Eastern Daylight Time)
 
 ###### Discourse Context
 
-- **Supports::** [[CLM - creative workers use examples to support problem (re)formulation]]
-- **FromSource::** [[@luceroFramingAligningParadoxing2012]]
+- **Supports::** [CLM - creative workers use examples to support problem (re)formulation.md](CLM - creative workers use examples to support problem (re)formulation.md)
+- **FromSource::** [@luceroFramingAligningParadoxing2012.md](@luceroFramingAligningParadoxing2012.md)
 
-###### References
-
-[[@luceroFramingAligningParadoxing2012]]
-
-- [[[[EVD]] - expert designers used mood boards in their practice to frame the design problem, both alone and in conjunction with a client - [[@luceroFramingAligningParadoxing2012]]]]
-
-    - i think this [[Supports]] the claim that [[[[CLM]] - creative workers use examples to support problem (re)formulation]] because mood boards contain concrete examples, though [often not from the same domain]([[[[EVD]] - Designers constructed mood boards primarily from concrete design materials and examples, usually not from the immediate domain of the problem, and manipulate their abstraction level as appropriate when using them to shape design work - [[@luceroFramingAligningParadoxing2012]]]])

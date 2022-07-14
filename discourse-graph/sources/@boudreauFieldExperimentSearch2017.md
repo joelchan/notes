@@ -287,36 +287,5 @@ Treatment = researcher pairs assigned to the same breakout room vs. assigned to 
 
 ###### Discourse Context
 
-- **Informs::** [[QUE - What are the most efficient routes to useful cross-boundary knowledge]]
+- **Informs::** [QUE - What are the most efficient routes to useful cross-boundary knowledge.md](QUE - What are the most efficient routes to useful cross-boundary knowledge.md)
 
-###### References
-
-[[June 7th, 2022]]
-
-- this effect size seems comparable to [[@boudreauFieldExperimentSearch2017]]
-
-    - The likelihood that any given pair of [scientists](((ni7gqlsHZ))) who were [assigned](((3EdxejW1j))) to the [same breakout room](((c_73yT22R))) to discuss their work would collaborate on a [pilot grant proposal](((luxOWrHJ_))) was [estimated](((J6rkdI6pn))) to be substantially (~75%) [higher](((gA4onRafb))) ($$p(collaborate) ~= .28$$) compared to scientist pairs who were assigned to different rooms ($$p(collaborate) ~= .16$$). This estimated effect was statistically significant at p < .10.
-[[QUE - What are the most efficient routes to useful cross-boundary knowledge]]
-
-- {{[[DONE]]}} [[@boudreauFieldExperimentSearch2017]]
-
-    - The likelihood that any given pair of [scientists](((ni7gqlsHZ))) who were [assigned](((3EdxejW1j))) to the [same breakout room](((c_73yT22R))) to discuss their work would collaborate on a [pilot grant proposal](((luxOWrHJ_))) was [estimated](((J6rkdI6pn))) to be substantially (~75%) [higher](((gA4onRafb))) ($$p(collaborate) ~= .28$$) compared to scientist pairs who were assigned to different rooms ($$p(collaborate) ~= .16$$). This estimated effect was statistically significant at p < .10.
-[[March 1st, 2021]]
-
-- For [[@boudreauFieldExperimentSearch2017]]
-
-    - {{embed: #[[observation-notes]] (starting from claims, and enrich the claim with details - created in week 4, and revised into flat claim with hyperlink in week 5, Spring 2021)}}
-[[QUE - What are the most efficient routes to useful cross-boundary knowledge]]
-
-- Similarly, [[@boudreauFieldExperimentSearch2017]] found that The likelihood that any given pair of [scientists](((ni7gqlsHZ))) who were [assigned](((3EdxejW1j))) to the [same breakout room](((c_73yT22R))) to discuss their work would collaborate on a [pilot grant proposal](((luxOWrHJ_))) was [estimated](((J6rkdI6pn))) to be substantially (~75%) [higher](((gA4onRafb))) ($$p(collaborate) ~= .28$$) compared to scientist pairs who were assigned to different rooms ($$p(collaborate) ~= .16$$). This estimated effect was statistically significant at p < .10.
-
-    - Note, however: this effect seems to be driven by [facilitating scientist pairs who are from the same clinical area to collaborate](The [estimated increased likelihood of collaboration](((WqhZS9HHR))) from being randomly assigned to be in the same breakout room dropped to basically zero when they added an interaction term between being in the same room and whether pairs of scientists were from the same clinical area; this interaction term was [statistically significant](((jvGl0gqAS))) at p < .10), which suggests there might still be [important inefficiencies](((J4R-1bnk-))) to accessing and using cross-boundary knowledge, even when you get initial access to it through a person.
-[[February 23rd, 2021]]
-
-- Let's try [[@boudreauFieldExperimentSearch2017]]
-
-    - Some #fieldnotes on this:
-
-        - It will be high-leverage to return to the [[critical appraisal]] [stuff](Under some conditions, there can be relatively standardized sets of contextual information that will be broadly useful for judgments, such as the [PICO]([[PICO frames]]) (Population, Intervention, Comparator, Outcome) and worksheets like [[Risk of Bias scores]] for precisely focused [[systematic review]]s of [[RCT]]s. The [[org/Oxford Center for Evidence-Based Medicine]] has a [list of useful worksheets](https://www.cebm.ox.ac.uk/resources/ebm-tools/critical-appraisal-tools) for [[critical appraisal]] of various genres of research, including qualitative and case studies. For the latter, more focused checklists like [[Consolidated Criteria for Reporting Qualitative Studies]] ([[@tongConsolidatedCriteriaReporting2007]]) are also useful) to develop templates, and then map the [[[[PTN]] - discourse graph]] schema onto that
-
-        - A typical thing to do is to try to interpret the findings. But I'm thinking this shouldn't live with the paper in a decontextualized way. Rather, it should live in the daily notes time stream. The reasoning for this is that interpretation will always change over time, and is specific to the person who is reading. But the findings (`observation-notes`) are not.

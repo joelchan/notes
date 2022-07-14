@@ -50,16 +50,7 @@ date: Tue Oct 19 2021 10:53:59 GMT-0400 (Eastern Daylight Time)
 
 ###### Discourse Context
 
-- **Informs::** [[QUE - How do people effectively (re)formulate creative problems]]
-- **Supports::** [[CLM - Effective problem formulation is-necessary-for creative knowledge work]]
-- **FromSource::** [[@kaplanSearchInsight1990]]
+- **Informs::** [QUE - How do people effectively (re)formulate creative problems.md](QUE - How do people effectively (re)formulate creative problems.md)
+- **Supports::** [CLM - Effective problem formulation is-necessary-for creative knowledge work.md](CLM - Effective problem formulation is-necessary-for creative knowledge work.md)
+- **FromSource::** [@kaplanSearchInsight1990.md](@kaplanSearchInsight1990.md)
 
-###### References
-
-[[October 19th, 2021]]
-
-- One interesting result on this: [[[[EVD]] - Representing a mutilated checkerboard in a way that made perceptual features of squares more salient facilitated problem reformulation and insight - [[@kaplanSearchInsight1990]]]]
-
-    - This suggests that modifying the capacity to make comparisons can have an important impact on model-building/modification, which can have an impact on insight (to the extent that insight is necessary)
-
-        - This means we need to make sure there are multiple local optima in the space: i.e., that the problem space is one where diverse examples should help

@@ -10,13 +10,6 @@ date: Fri Mar 11 2022 11:46:48 GMT-0500 (Eastern Standard Time)
 
 ###### Discourse Context
 
-- **Informs::** [[THE - interaction-oriented theory of creative inspiration from examples]]
-- **FromSource::** [[@betzDevelopmentConceptualFlexibility2020]]
+- **Informs::** [THE - interaction-oriented theory of creative inspiration from examples.md](THE - interaction-oriented theory of creative inspiration from examples.md)
+- **FromSource::** [@betzDevelopmentConceptualFlexibility2020.md](@betzDevelopmentConceptualFlexibility2020.md)
 
-###### References
-
-[[@betzDevelopmentConceptualFlexibility2020]]
-
-- [[[[EVD]] - overall salience of taxonomic relations for organizing living things for 6-12 year old children - [[@betzDevelopmentConceptualFlexibility2020]]]]
-
-    - relates to [[relational categories]], cc

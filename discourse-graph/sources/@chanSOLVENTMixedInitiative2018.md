@@ -53,70 +53,7 @@ date: Sun Mar 22 2020 15:22:15 GMT-0400 (Eastern Daylight Time)
 
 ###### Discourse Context
 
-- **Informs::** [[CLM - People rapidly reject analogical matches when there is a clear attribute mismatch]]
-- **Informs::** [[CLM - Core attribute mismatches in analogical inspiration harm creativity]]
-- **Informs::** [[QUE - How can we augment scientific creativity with computational analogy]]
+- **Informs::** [CLM - People rapidly reject analogical matches when there is a clear attribute mismatch.md](CLM - People rapidly reject analogical matches when there is a clear attribute mismatch.md)
+- **Informs::** [CLM - Core attribute mismatches in analogical inspiration harm creativity.md](CLM - Core attribute mismatches in analogical inspiration harm creativity.md)
+- **Informs::** [QUE - How can we augment scientific creativity with computational analogy.md](QUE - How can we augment scientific creativity with computational analogy.md)
 
-###### References
-
-[[QUE - How can we augment scientific creativity with computational analogy]]
-
-- I'm a bit nervous about these numbers because we're still using the CSCW 50 papers from [[@chanSOLVENTMixedInitiative2018]] as our test set. This is a low-hanging fruit thing that is worth exploring further, and we'll need much more data for this
-
-    - can reach out ot [[Kenneth Huang]] who has ~11k COVID-19 papers annotated
-
-        - caveat is that purpose accuracy is... not great - F of about .6
-
-        - not sure how this intersects with genre stuff though... important open question and threat for our approach. we're making a major assumption that enough of what we need is in abstracts. is that true?
-
-            - could be nuanced: abstract could be enough for purpose
-
-            - but other stuff we need to get from
-
-                - full-text
-
-                - citation statements
-
-                - etc
-
-        - --> [[dataset/CODA-19]]
-
-            - https://twitter.com/windx0303/status/1258427687191883778
-
-        - also shows later in [[@huangCODA19UsingNonExpert2020]] that [[sys/SciBERT]] actually does a really good job, about .7ish as well
-
-        - some nice comments in a submission here:
-
-            - https://openreview.net/forum?id=XOkm8xdns5R&noteId=KMIbNQ-oqQK
-[[WP Augmenting scientific creativity with analogical inspirations]]
-
-- The [prediction model]([[SpanRel]] model with spans of up to 3-tokens long (majority vote label from the component tokens in each span), fine-tuned [[ELMo]] 5.5B embeddings as features, L2 regularizer, and Adam optimizer, with a .001 learning rate, batch size of 32, and dropout rate of 0.3) achieved F1 scores of about .64 when predicting purpose/mechanism spans for the 50 papers in [[@chanSOLVENTMixedInitiative2018]], annotated by experts
-
-    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fmegacoglab%2F36f_QbCHs6.png?alt=media&token=0b99d205-4254-4eda-9192-62af68ef552e)
-[[July 2nd, 2021]]
-
-- [[@chanSOLVENTMixedInitiative2018]] (I know we shared this dataset, so should be straightforward to track down
-
-    - can draw the papers from here: https://github.com/oasisresearchlab/knowledge-collider/tree/master/author-sourcing/use-labels/use-labels-pipeline (have to stitch together the titles/abstracts with the analogy pairs)
-[[August 20th, 2020]]
-
-- [[Mixed-Initiative]]? expansion on [[@chanSOLVENTMixedInitiative2018]] - success metric - increase / maintain / match annotation quality while reducing time / cost
-
-    - intuition: mixed crowds, maybe a play off of [[data programming]]
-[[QUE - How can we augment scientific creativity with computational analogy]]
-
-- And also science papers [[@chanSOLVENTMixedInitiative2018]]
-
-    - New stuff from [[Hyeonsu]], with case study data
-[[CLM - People rapidly reject analogical matches when there is a clear attribute mismatch]]
-
-- Some related examples of this, e.g., with concrete materials, in our case study in [[@chanSOLVENTMixedInitiative2018]]
-
-    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fmegacoglab%2F9Ij8F-s10Y.png?alt=media&token=d43b5ab4-7ccb-4b0f-84d8-827c7a0088a5)
-[[November 10th, 2020]]
-
-- q: how confident are we in [[@chanSOLVENTMixedInitiative2018]] results?
-
-    - limitations:
-
-        - doesn't tell us about

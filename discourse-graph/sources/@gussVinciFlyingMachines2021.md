@@ -17,14 +17,5 @@ date: Tue Jan 11 2022 20:47:21 GMT-0500 (Eastern Standard Time)
 
 ###### Discourse Context
 
-- **Informs::** [[CLM - Analog media are stubbornly effective for supporting creative knowledge work]]
+- **Informs::** [CLM - Analog media are stubbornly effective for supporting creative knowledge work.md](CLM - Analog media are stubbornly effective for supporting creative knowledge work.md)
 
-###### References
-
-[[Week of January 10th, 2022]]
-
-- New  paper (cites [[@chanImpactAnalogiesCreative2015]]): [[@gussVinciFlyingMachines2021]].
-
-    - Really evocative model, but beware, the analysis is quite thin, IMO, in terms of rigor, compared to, say, [[@cattaniDeconstructingOutsiderPuzzle2017]]
-
-    - [[Examples of analogy driving innovation]]

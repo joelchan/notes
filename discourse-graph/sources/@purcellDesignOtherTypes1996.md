@@ -30,6 +30,6 @@ date: Sat Dec 26 2020 21:57:00 GMT-0500 (Eastern Standard Time)
 
 ###### Discourse Context
 
-- **Informs::** [[CLM - Recent or concurrent exposure to ideas can substantially influence the direction of ideation]]
-- **Informs::** [[THE - interaction-oriented theory of creative inspiration from examples]]
-- **SourceFor::** [[EVD - People find it very difficult to see, for example, that objects with well known uses or funct...ion to a problem or to solve a problem that requires innovation. - @purcellDesignOtherTypes1996]]
+- **Informs::** [CLM - Recent or concurrent exposure to ideas can substantially influence the direction of ideation.md](CLM - Recent or concurrent exposure to ideas can substantially influence the direction of ideation.md)
+- **Informs::** [THE - interaction-oriented theory of creative inspiration from examples.md](THE - interaction-oriented theory of creative inspiration from examples.md)
+- **SourceFor::** [EVD - People find it very difficult to see, for example, that objects with well known uses or funct...ion to a problem or to solve a problem that requires innovation. - @purcellDesignOtherTypes1996.md](EVD - People find it very difficult to see, for example, that objects with well known uses or funct...ion to a problem or to solve a problem that requires innovation. - @purcellDesignOtherTypes1996.md)

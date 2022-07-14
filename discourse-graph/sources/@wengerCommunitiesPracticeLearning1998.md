@@ -71,38 +71,5 @@ date: Thu Mar 05 2020 23:43:15 GMT-0500 (Eastern Standard Time)
 
 ###### Discourse Context
 
+- **Informs::** [CLM - Knowledge-that and knowledge-how are best storedcommunicated in distinct media.md](CLM - Knowledge-that and knowledge-how are best storedcommunicated in distinct media.md)
 
-
-###### References
-
-[[June 16th, 2020]]
-
-- Reading #[[@wengerCommunitiesPracticeLearning1998]]
-
-    - Again q of how to define the boundaries of the practice: what is the within/between ratio of variation in terms of what it means to "run/grow a small business" in neighborhood/city/municipality vs. county vs. state?
-
-        - County does seem like the right level. But I'm not 100% sure.
-[[June 17th, 2020]]
-
-- notes from #[[@wengerCommunitiesPracticeLearning1998]]
-
-    - [[communities of practice]]' development depends critically on effective __internal leadership__ (p. 7)
-
-        - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fmegacoglab%2FM1XgOaeo4S.png?alt=media&token=2807ee1d-ef22-4e6a-b10c-136319318ac1)
-
-        - #[[I wonder]] where [[librarians]] might fit in? seems like the [[classificatory leadership]] role might be key, as well as [[boundary leadership]] (concept of [[warm referrals]] from [[Ryan O Grady]]?)
-
-    - [[communities of practice]] go through distinct stages of development (p. 3)
-
-        - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fmegacoglab%2FwcUe2mCU3X.png?alt=media&token=99cb9264-e544-4485-8a2a-7fcb6a443033)
-
-        - #[[I wonder]] where our small businesses are on this spectrum?
-
-    - 3 conditions for [[communities of practice]]: 1) shared __practice__ (not specific task, but domain of doing), 2) mutual, ongoing engagement, 3) shared repertoire of learning / resources / practice (p. 2)
-
-        - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fmegacoglab%2FtndZeGkyXF.png?alt=media&token=bf9e9f00-ac23-4df9-b3fd-af2f609cf52e)
-[[Q How if at all do libraries and small businesses fit into the narrative of communities of practice]]
-
-- #[[@wengerCommunitiesPracticeLearning1998]]
-
-    - {{embed: #[[I wonder]] where [[librarians]] might fit in? seems like the [[classificatory leadership]] role might be key, as well as [[boundary leadership]] (concept of [[warm referrals]] from [[Ryan O Grady]]?)}}

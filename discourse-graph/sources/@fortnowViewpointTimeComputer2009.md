@@ -33,17 +33,5 @@ date: Sun Mar 01 2020 22:24:33 GMT-0500 (Eastern Standard Time)
 
 ###### Discourse Context
 
-- **Informs::** [[CLM - Prevailing incentives in academia are bad for science]]
+- **Informs::** [CLM - Prevailing incentives in academia are bad for science.md](CLM - Prevailing incentives in academia are bad for science.md)
 
-###### References
-
-[[CLM - Prevailing incentives in academia are bad for science]]
-
-- [[@fortnowViewpointTimeComputer2009]]
-
-    - Discusses (mostly from personal experience) the issues with a conference-driven publication culture, including deadline-driven, [[least-publishable unit]] stuff, possibly [[short-termism]] too
-[[CL - Scientists prefer to pursue safer incremental advances rather than risky breakthroughs]]
-
-- [[@fortnowViewpointTimeComputer2009]]
-
-    - Discusses (mostly from personal experience) the issues with a conference-driven publication culture, including deadline-driven, [[least-publishable unit]] stuff, possibly [[short-termism]] too

@@ -35,13 +35,6 @@ date: Thu Feb 06 2020 21:34:20 GMT-0500 (Eastern Standard Time)
 
 ###### Discourse Context
 
-- **Informs::** [[CLM - Compression is necessary for synthesis]]
-- **Informs::** [[QUE - What makes for an excellent systems research contribution]]
+- **Informs::** [CLM - Compression is necessary for synthesis.md](CLM - Compression is necessary for synthesis.md)
+- **Informs::** [QUE - What makes for an excellent systems research contribution.md](QUE - What makes for an excellent systems research contribution.md)
 
-###### References
-
-[[February 6th, 2020]]
-
-- Also check out new thread of research thinking about how [[prototypes]] carry knowledge or “argues” [[@galeyHowPrototypeArgues2010]], or “[[strong concepts]]”; these might be new primitives to think about, other than “claims” or “concepts” [[@hookStrongConceptsIntermediatelevel2012]], that we might see people working up towards through [[[[CL]] - People process complex information in multiple levels and stages of processing]]
-
-    - Relevant to [[D/Synthesis Infrastructure]]

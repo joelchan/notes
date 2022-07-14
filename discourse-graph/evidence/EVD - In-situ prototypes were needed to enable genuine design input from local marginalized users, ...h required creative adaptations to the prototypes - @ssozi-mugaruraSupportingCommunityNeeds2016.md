@@ -24,13 +24,6 @@ date: Wed Jul 14 2021 13:52:13 GMT-0400 (Eastern Daylight Time)
 
 ###### Discourse Context
 
-- **Informs::** [[QUE - What tension points exist between the goals of diversity and depth of user participation in participatory design]]
-- **FromSource::** [[@ssozi-mugaruraSupportingCommunityNeeds2016]]
+- **Informs::** [QUE - What tension points exist between the goals of diversity and depth of user participation in participatory design.md](QUE - What tension points exist between the goals of diversity and depth of user participation in participatory design.md)
+- **FromSource::** [@ssozi-mugaruraSupportingCommunityNeeds2016.md](@ssozi-mugaruraSupportingCommunityNeeds2016.md)
 
-###### References
-
-[[July 13th, 2021]]
-
-- secondarily, there was a reflection on the need for more high-fidelity prototypes __in situ__ for meaningful design feedback to emerge, which required some creative re-rigging of the prototypes (local-first, offline data capture, etc.): [[[[EVD]] - In-situ prototypes were needed to enable genuine design input from local marginalized users, which required creative adaptations to the prototypes - [[@ssozi-mugaruraSupportingCommunityNeeds2016]]]]
-
-    - this connects with our discussions of the tensions and tradeoffs around space, and possibly also design compromises due to limitations of the users (e.g., [physical prototypes for users with dementia]([[[[EVD]] - physical prototypes were necessary to prompt aid discussion with codesigners with dementia, but also led to fixation on unfinished aspects of the design - [[@lindsayEmpathyParticipatoryDesign2012b]]]]), or [concrete exemplars with 3rd-graders]([[[[EVD]] - Designers experienced issues with (and had to compromise) design activities, such as analogies and giving concrete examplers, with 3rd-graders due to cognitive and difficulties with focus and abstract ideas - [[@largeBondedDesignNovel2006]]]]))

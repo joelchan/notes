@@ -51,32 +51,7 @@ date: Fri Apr 17 2020 23:56:58 GMT-0400 (Eastern Daylight Time)
 
 ###### Discourse Context
 
-- **Informs::** [[CLM - In interdisciplinary domains, network-based foraging is more powerful than search-based foraging]]
-- **Informs::** [[CLM - Interdisciplinary synthesis is hard because of scatter in the literature]]
-- **Informs::** [[QUE - What are the most efficient routes to useful cross-boundary knowledge]]
+- **Informs::** [CLM - In interdisciplinary domains, network-based foraging is more powerful than search-based foraging.md](CLM - In interdisciplinary domains, network-based foraging is more powerful than search-based foraging.md)
+- **Informs::** [CLM - Interdisciplinary synthesis is hard because of scatter in the literature.md](CLM - Interdisciplinary synthesis is hard because of scatter in the literature.md)
+- **Informs::** [QUE - What are the most efficient routes to useful cross-boundary knowledge.md](QUE - What are the most efficient routes to useful cross-boundary knowledge.md)
 
-###### References
-
-[[@fisherTheoriesInformationBehavior2005]]
-
-- [[Scatter]] introduced by [[@moteReasonsVariationInformation1962]]  - low scatter domain = underlying principles well-developed (paradigmatic??), lit well organized, width of subject area relatively small and clearly defined
-
-    - [[@bates1996learning]] claims [[interdisciplinarity]] typically characterized by high degree of [[Scatter]]
-
-        - Intriguing: there is an idea of [[SDI]] (Selective Dissemination of Information) as a way to deal with [[Scatter]], documented in part in [[@packerImportanceSDICurrent1979]]
-
-            - As described in [[@bates1996learning]], [[SDI]] is basically librarian-powered recommendation systems for scholars :) Really curious to see how these stack up against a rec sys.
-
-                - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fmegacoglab%2F6NJsCxC0cc?alt=media&token=ae62b9e5-10ba-4eba-9080-98ce6b1d1567)
-[[CLM - Interdisciplinary synthesis is hard because of scatter in the literature]]
-
-- [[interdisciplinarity]] is hard because of [[Scatter]] ([[@moteReasonsVariationInformation1962]]
-
-    - [[@bates1996learning]] claims [[interdisciplinarity]] typically characterized by high degree of [[Scatter]]
-
-    - Ah! As I suspected: some are arguing ([[@bates1996learning]]; [[@palmerAligningStudiesInformation1999]]) that [[interdisciplinarity]] influences scholars' information practices. SHould dig into that to get into what they're really saying about __how__ precisely the practices are impacted by degree of [[interdisciplinarity]]
-[[QUE - What are the most efficient routes to useful cross-boundary knowledge]]
-
-- {{[[DONE]]}} [[@moteReasonsVariationInformation1962]]
-
-    - Scholars in fields of study with high degree of [[Scatter]] self-reported needing longer searches (> 30 mins) about 20x more frequently compared to scholars in low [[Scatter]] fields

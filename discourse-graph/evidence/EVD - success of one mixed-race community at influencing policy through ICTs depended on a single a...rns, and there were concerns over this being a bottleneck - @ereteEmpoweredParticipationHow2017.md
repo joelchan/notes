@@ -34,14 +34,7 @@ date: Wed Jul 14 2021 11:51:12 GMT-0400 (Eastern Daylight Time)
 
 ###### Discourse Context
 
-- **Informs::** [[QUE - What tension points exist between the goals of diversity and depth of user participation in participatory design]]
-- **Supports::** [[CLM - Marginalized user populations may require involvement of extra stakeholders who may complicate hearing the users' voices]]
-- **FromSource::** [[@ereteEmpoweredParticipationHow2017]]
+- **Informs::** [QUE - What tension points exist between the goals of diversity and depth of user participation in participatory design.md](QUE - What tension points exist between the goals of diversity and depth of user participation in participatory design.md)
+- **Supports::** [CLM - Marginalized user populations may require involvement of extra stakeholders who may complicate hearing the users' voices.md](CLM - Marginalized user populations may require involvement of extra stakeholders who may complicate hearing the users' voices.md)
+- **FromSource::** [@ereteEmpoweredParticipationHow2017.md](@ereteEmpoweredParticipationHow2017.md)
 
-###### References
-
-[[July 13th, 2021]]
-
-- something here about bottleneck - [[[[EVD]] - success of one mixed-race community at influencing policy through ICTs depended on a single appointed community leader to funnel concerns, and there were concerns over this being a bottleneck - [[@ereteEmpoweredParticipationHow2017]]]]
-
-    - again reminds me of [[[[CL]] - There is a tension between analyzing participants' direct inputs, and respecting their actual insights (vs. designers' interpretation) that is intensified when working with design partners who struggle to contribute more directly to design artifacts]] and the stuff about stakeholders

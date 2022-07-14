@@ -9,12 +9,5 @@ date: Fri Jan 14 2022 10:23:07 GMT-0500 (Eastern Standard Time)
 
 ###### Discourse Context
 
-- **Informed By::** [[@finkeImageryCreativityEmergent1996]]
+- **Informed By::** [@finkeImageryCreativityEmergent1996.md](@finkeImageryCreativityEmergent1996.md)
 
-###### References
-
-[[THE - interaction-oriented theory of creative inspiration from examples]]
-
-- [[[[THE]] - Geneplore model]] talks about how people generate "preinventive structures" first (their version of ideas, not exactly sure ), and then creatively explore their emergent properties to construct new ideas; this latter part of not just taking the ^^p^^
-
-    - cc [[[[CLM]] - The notion of an 'idea' is very complicated]]

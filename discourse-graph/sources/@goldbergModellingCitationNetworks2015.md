@@ -16,19 +16,5 @@ date: Sun Aug 09 2020 21:38:32 GMT-0400 (Eastern Daylight Time)
 
 ###### Discourse Context
 
-- **Informs::** [[CLM - Scientists frequently cite papers they haven't read]]
+- **Informs::** [CLM - Scientists frequently cite papers they haven't read.md](CLM - Scientists frequently cite papers they haven't read.md)
 
-###### References
-
-[[August 9th, 2020]]
-
-- [[@goldbergModellingCitationNetworks2015]]
-
-    - #quotes
-
-        - "In particular our model and data suggest that around 70% to 80% of papers cited are 'subsidiary papers', that is papers which are also cited by the other papers in the bibliography, the 'core papers'. Similar results have been seen by [[@simkinStochasticModelingCitation2005]] who use a similar model but different data and methods to arrive at this result. From a different perspective, [[@cloughTransitiveReductionCitation2015]] have also shown that around 80% of citations are removed from arXiv citation networks through the process of transitive reduction (an extended version of the declustering algorithm used here).…”
-[[CLM - Scientists frequently cite papers they haven't read]]
-
-- [[@goldbergModellingCitationNetworks2015]]
-
-    - "In particular our model and data suggest that around 70% to 80% of papers cited are 'subsidiary papers', that is papers which are also cited by the other papers in the bibliography, the 'core papers'. Similar results have been seen by [[@simkinStochasticModelingCitation2005]] who use a similar model but different data and methods to arrive at this result. From a different perspective, [[@cloughTransitiveReductionCitation2015]] have also shown that around 80% of citations are removed from arXiv citation networks through the process of transitive reduction (an extended version of the declustering algorithm used here).…”

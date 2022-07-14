@@ -67,28 +67,7 @@ date: Sun Aug 02 2020 22:42:02 GMT-0400 (Eastern Daylight Time)
 
 ###### Discourse Context
 
-- **Informs::** [[QUE - What is context for the purposes of scholarly synthesis]]
-- **Informs::** [[QUE - What (existing) systems facilitate individual synthesis]]
-- **Informs::** [[QUE - What user behaviors are scholars doing already that specifies structure for synthesis]]
+- **Informs::** [QUE - What is context for the purposes of scholarly synthesis.md](QUE - What is context for the purposes of scholarly synthesis.md)
+- **Informs::** [QUE - What (existing) systems facilitate individual synthesis.md](QUE - What (existing) systems facilitate individual synthesis.md)
+- **Informs::** [QUE - What user behaviors are scholars doing already that specifies structure for synthesis.md](QUE - What user behaviors are scholars doing already that specifies structure for synthesis.md)
 
-###### References
-
-[[QUE - What (existing) systems facilitate individual synthesis]]
-
-- [[@blakeCollaborativeInformationSynthesis2006]]
-
-    - some types of [[context]] information were more contextual, depending on the particular "hypothesis projection" of the review, which varied across the lifecycle of the project studied (e.g., location of medical condition, amount of exposure, confounding risk factors), while others were more constant regardless of hypothesis (e.g., study- and population-context information)
-
-    - [[@blakeCollaborativeInformationSynthesis2006]]: director of the public health group estimated that she spent ~3 hrs per article to extract [[context]] information required  for a particular [[systematic review]]
-[[QUE - What is context for the purposes of scholarly synthesis]]
-
-- However, as theories of context and [[reuse]] in CSCW would predict, what specific kinds of contextual information are required for a literature review can often vary substantially across research projects. For instance, [[@blakeCollaborativeInformationSynthesis2006]] discovered in their cognitive work analysis of a team of medical researchers conducting systematic reviews that [the particulars of information needed can vary substantially by the nature of the research question](some types of [[context]] information were more contextual, depending on the particular "hypothesis projection" of the review, which varied across the lifecycle of the project studied (e.g., location of medical condition, amount of exposure, confounding risk factors), while others were more constant regardless of hypothesis (e.g., study- and population-context information)). In interdisciplinary fields such as HCI, the nature of contextual information needed to critically assess and synthesize past work can be found in handbooks like the popular "Ways of Knowing in HCI" book [[Ways of Knowing in HCI]] that includes discussions, and to a lesser extent in research methods texts, where questions of internal and external validity (which map to validity and applicability) are discussed, and the information required to judge these questions, are enumerated.
-
-    - [[[[CL]] - Compression and contextualizability are in tension]]
-
-    - [[[[CLM]] - Specifying context for future reuse requires predicting trajectories of future reuse]], but [[[[CL]] - Predicting trajectories of future reuse of information objects is hard]]
-[[Writing inbox for week of August 3rd, 2020]]
-
-- [[@blakeCollaborativeInformationSynthesis2006]]
-
-    - is an #example-of how [[context]] is critical for synthesis (in this case, showing the kinds of [[context queries]] scientists look for to try to do [[synthesis]] over contradictory findings in a [[systematic review]])

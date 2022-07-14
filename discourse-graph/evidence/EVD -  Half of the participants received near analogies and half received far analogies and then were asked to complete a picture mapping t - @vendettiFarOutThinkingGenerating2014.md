@@ -9,4 +9,4 @@ date: Thu Dec 16 2021 14:27:41 GMT-0500 (Eastern Standard Time)
 
 ###### Discourse Context
 
-- **FromSource::** [[@vendettiFarOutThinkingGenerating2014]]
+- **FromSource::** [@vendettiFarOutThinkingGenerating2014.md](@vendettiFarOutThinkingGenerating2014.md)

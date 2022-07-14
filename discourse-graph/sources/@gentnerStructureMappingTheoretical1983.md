@@ -21,18 +21,6 @@ date: Mon Jun 29 2020 12:41:26 GMT-0400 (Eastern Daylight Time)
 
 ###### Discourse Context
 
-- **Informs::** [[CLM - Analogies are fundamentally about relational similarity]]
-- **Informs::** [[QUE - What is analogy]]
+- **Informs::** [CLM - Analogies are fundamentally about relational similarity.md](CLM - Analogies are fundamentally about relational similarity.md)
+- **Informs::** [QUE - What is analogy.md](QUE - What is analogy.md)
 
-###### References
-
-[[Writing inbox for week of June 29th, 2020]]
-
-- ideas about alignable / non-alignable differences in analogical mappings from [[Structure-Mapping Theory]] #[[@gentnerStructureMappingTheoretical1983]]
-
-    - k let's start with #[[@gentnerAnalogicalProcessesHuman2010]]
-[[Z Alignable differences]]
-
-- foundational idea (building off of what is kind of latent in genter's [[Structure-Mapping Theory]][[@gentnerStructureMappingTheoretical1983]]) explored in [[@markmanSplittingDifferencesStructural1993]]
-
-    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fmegacoglab%2FzlmNvnsjRn.png?alt=media&token=c55a7052-0b70-41a8-8ce7-b545f8437c73)

@@ -66,20 +66,8 @@ date: Sat Jun 27 2020 10:43:35 GMT-0400 (Eastern Daylight Time)
 
 ###### Discourse Context
 
-- **Informs::** [[CLM - Scholarly argumentation operates on atomic statements and concepts as fundamental units]]
-- **Informs::** [[QUE - Do scholarly synthesis infrastructures already exist]]
-- **Informs::** [[QUE - How can we support explicit contention with evidence when synthesizing knowledge claims]]
-- **Informs::** [[PTN - discourse graph]]
+- **Informs::** [CLM - Scholarly argumentation operates on atomic statements and concepts as fundamental units.md](CLM - Scholarly argumentation operates on atomic statements and concepts as fundamental units.md)
+- **Informs::** [QUE - Do scholarly synthesis infrastructures already exist.md](QUE - Do scholarly synthesis infrastructures already exist.md)
+- **Informs::** [QUE - How can we support explicit contention with evidence when synthesizing knowledge claims.md](QUE - How can we support explicit contention with evidence when synthesizing knowledge claims.md)
+- **Informs::** [PTN - discourse graph.md](PTN - discourse graph.md)
 
-###### References
-
-[[QUE - How can we support explicit contention with evidence when synthesizing knowledge claims]]
-
-- ON the flip side, a more qualitative approach (e.g., [[evidence lines]]), as exemplified by [[@clarkMicropublicationsSemanticModel2014]] and [[@brushSEPIOSemanticModel2016]], is less readily quantifiable in a sophisticated sense, but possibly more useful for the early stages of [[synthesis]], particularly where there is [[interdisciplinarity]]
-
-    - One challenge maybe is that not all subdomains have a nice ontology of evidence types, although it's
-[[QUE - How can we support explicit contention with evidence when synthesizing knowledge claims]]
-
-- [[@brushSEPIOSemanticModel2016]]'s [[std/SEPIO]] feels similar to [[@clarkMicropublicationsSemanticModel2014]], in that it doesn't really care about assigning numbers, and is more about making sure that there is direct documentation of "lines of evidence" - what *kind* of support is there for each claim?
-
-    - They support connecting to the [[std/Evidence and Conclusion (ECO)]] ontology, which describes types of scientific evidence (but NOT strength!) in bio

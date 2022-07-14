@@ -38,4 +38,4 @@ date: Sat Dec 18 2021 08:17:31 GMT-0500 (Eastern Standard Time)
 
 ###### Discourse Context
 
-- **FromSource::** [[@vendettiFarOutThinkingGenerating2014]]
+- **FromSource::** [@vendettiFarOutThinkingGenerating2014.md](@vendettiFarOutThinkingGenerating2014.md)

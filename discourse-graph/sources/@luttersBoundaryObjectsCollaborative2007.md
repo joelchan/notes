@@ -57,33 +57,6 @@ date: Tue Feb 11 2020 15:50:55 GMT-0500 (Eastern Standard Time)
 
 ###### Discourse Context
 
-- **Informs::** [[QUE - How can we best bridge private vs. public knowledge]]
-- **Informs::** [[PTN - flexible compression]]
+- **Informs::** [QUE - How can we best bridge private vs. public knowledge.md](QUE - How can we best bridge private vs. public knowledge.md)
+- **Informs::** [PTN - flexible compression.md](PTN - flexible compression.md)
 
-###### References
-
-[[#AnnotatedBib for Synthesis Infrastructures]]
-
-- [[@luttersBoundaryObjectsCollaborative2007]]
-[[January 7th, 2021]]
-
-- {{[[DONE]]}} [[@luttersBoundaryObjectsCollaborative2007]]
-
-    - words from chi submission:
-
-        - > Information may lose context over time which can make reusing it difficult. For example, in a field study of collaborative information reuse in aircraft technical support, engineers lamented reusing old records because information was missing, outdated, or not appropriate anymore because of procedural changes. Over the years if any changes to the records were not tagged, the context of those changes were lost.
-[[QUE - How can we best bridge private vs. public knowledge]]
-
-- [[@luttersBoundaryObjectsCollaborative2007]]
-
-    - In a field study ([1](((wZTjEVa0W))), [2](((PxBZyhifs)))) of collaborative information reuse in aircraft technical support, [engineers](((bN1lFNGQF))) lamented reusing [old records](((hiZNe4PgH))) because information was [missing, outdated, or not appropriate anymore](((iMmo84-Q5))) because of procedural changes. Over the years if any changes to the records were [not tagged](((u6oO3mu-M))), the context of those changes were lost.
-[[PTN - flexible compression]]
-
-- [[@luttersBoundaryObjectsCollaborative2007]]
-
-    - Concept of [[punctuated crystallization]]: [[[[PTN]] - boundary object]]s that exist within information flows in organizations that get "crystallized" into temporary static artifacts. To understand object, must understand its place in the flow of information/work, past and future, and how it changes.
-[[CL - People need information about authorship to reuse information]]
-
-- #[[@luttersBoundaryObjectsCollaborative2007]]
-
-    - engineers sometimes included information about who they had talked to about the case in the ROC references section, to facilitate downstream judgments of reliability (p. 357)

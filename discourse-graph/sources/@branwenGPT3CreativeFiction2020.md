@@ -9,4 +9,4 @@ date: Wed Nov 10 2021 12:43:25 GMT-0500 (Eastern Standard Time)
 
 ###### Discourse Context
 
-- **Informs::** [[QUE - What do we know about transformer language models' natural language generation capabilities]]
+- **Informs::** [QUE - What do we know about transformer language models' natural language generation capabilities.md](QUE - What do we know about transformer language models' natural language generation capabilities.md)

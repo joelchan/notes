@@ -65,41 +65,6 @@ date: Fri Oct 30 2020 11:49:55 GMT-0400 (Eastern Daylight Time)
 
 ###### Discourse Context
 
-- **Informs::** [[QUE - How might domain distance modulate the effects of analogies on creative output]]
-- **SourceFor::** [[EVD - No significant correlation between analogical distance of cross-industry inspirations and deg...tcome (incremental, market or breakthrough, and radical) - @enkelCreativeImitationExploring2010]]
+- **Informs::** [QUE - How might domain distance modulate the effects of analogies on creative output.md](QUE - How might domain distance modulate the effects of analogies on creative output.md)
+- **SourceFor::** [EVD - No significant correlation between analogical distance of cross-industry inspirations and deg...tcome (incremental, market or breakthrough, and radical) - @enkelCreativeImitationExploring2010.md](EVD - No significant correlation between analogical distance of cross-industry inspirations and deg...tcome (incremental, market or breakthrough, and radical) - @enkelCreativeImitationExploring2010.md)
 
-###### References
-
-[[June 28th, 2021]]
-
-- [[@enkelCreativeImitationExploring2010]]
-
-    - repurposing NACE for this is suspect. meant for something different than comparing distance of
-
-        - there's a paper
-
-    - "good papers" use patent classification system and use cosine similarity between "class vectors" (number of patents)
-[[QUE - How might domain distance modulate the effects of analogies on creative output]]
-
-- Admittedly underpowered correlational case study from industry: [[[[EVD]] - No significant correlation between analogical distance of cross-industry inspirations and degree of innovation outcome (incremental, market or breakthrough, and radical) - [[@enkelCreativeImitationExploring2010]]]].
-
-    - Note: Most of the cases were drawn from other industries that were quite close by and ((E4MwwsilX)), so probably there is range restriction.
-
-        - Telling that I previously classified this study as "anecdotal"! Yikes... This was a rigorously done multiple-case-study analysis.
-
-        - 25 cases is also really really small for a correlation analysis.
-
-        - I think the most we can say from this is an existence proof that relatively [[near analogies]] can frequently lead to quite innovative outcomes.
-[[Playground ]]
-
-- [[EVD]] - No significant correlation between analogical distance of cross-industry inspirations and degree of innovation outcome (incremental, market or breakthrough, and radical) - [[@enkelCreativeImitationExploring2010]]
-
-    - x
-
-        - 2322.520881137142
-
-    - y
-
-        - 589.4917281155244
-
-    - color

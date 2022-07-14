@@ -18,5 +18,5 @@ date: Mon Feb 17 2020 09:34:17 GMT-0500 (Eastern Standard Time)
 
 ###### Discourse Context
 
-- **Informs::** [[CLM - Doctoral students struggle to effectively synthesize literature]]
-- **Informs::** [[QUE - How might we conceptualize and measure synthesis quality]]
+- **Informs::** [CLM - Doctoral students struggle to effectively synthesize literature.md](CLM - Doctoral students struggle to effectively synthesize literature.md)
+- **Informs::** [QUE - How might we conceptualize and measure synthesis quality.md](QUE - How might we conceptualize and measure synthesis quality.md)

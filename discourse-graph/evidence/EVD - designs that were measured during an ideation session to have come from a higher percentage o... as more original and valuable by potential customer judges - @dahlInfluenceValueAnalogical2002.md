@@ -75,24 +75,8 @@ date: Tue Jun 15 2021 14:22:50 GMT-0400 (Eastern Daylight Time)
 
 ###### Discourse Context
 
-- **Informs::** [[QUE - How might domain distance modulate the effects of analogies on creative output]]
-- **Supports::** [[CLM - Analogical distance of inspirations for an idea are positively related to the idea's creativity]]
-- **Consistent With::** [[EVD - Engineering students who were given one or more near analogies as stimuli generated design id...tential customer judges, compared to being given no stimuli - @dahlInfluenceValueAnalogical2002]]
-- **FromSource::** [[@dahlInfluenceValueAnalogical2002]]
+- **Informs::** [QUE - How might domain distance modulate the effects of analogies on creative output.md](QUE - How might domain distance modulate the effects of analogies on creative output.md)
+- **Supports::** [CLM - Analogical distance of inspirations for an idea are positively related to the idea's creativity.md](CLM - Analogical distance of inspirations for an idea are positively related to the idea's creativity.md)
+- **Consistent With::** [EVD - Engineering students who were given one or more near analogies as stimuli generated design id...tential customer judges, compared to being given no stimuli - @dahlInfluenceValueAnalogical2002.md](EVD - Engineering students who were given one or more near analogies as stimuli generated design id...tential customer judges, compared to being given no stimuli - @dahlInfluenceValueAnalogical2002.md)
+- **FromSource::** [@dahlInfluenceValueAnalogical2002.md](@dahlInfluenceValueAnalogical2002.md)
 
-###### References
-
-[[June 15th, 2021]]
-
-- on its own it is a bit of a reinforcement of the negative effect of given near analogies observed in [[[[EVD]] - designs that were measured during an ideation session to have come from a higher percentage of far analogies were perceived as more original and valuable by potential customer judges - [[@dahlInfluenceValueAnalogical2002]]]]
-
-    - also very similar to [[🧱 fixation]] effects found in [[@janssonDesignFixation1991]]: [Senior mechanical engineering students](((L9Pert3wW))) who [were shown an example](((wifdfiVqs))) (flawed, with flaws stated) design for a bike rack were approximately 2X more likely to [include key features from the example design](((EhzLUIP8e))) in [their own brainstormed designs](((I6nlnuhu7))), compared to students who didn't see the example; both sets of students generated similar numbers of total design ideas
-[[June 15th, 2021]]
-
-- the main result of interest for our question is the correlation between the observed dependent variable of % far analogies: [[[[EVD]] - designs that were measured during an ideation session to have come from a higher percentage of far analogies were perceived as more original and valuable by potential customer judges - [[@dahlInfluenceValueAnalogical2002]]]]
-
-    - it's an odd choice to control for expert judge effects by making them dummies, but... ok i guess? more sensible might be to aggregate the judgments somehow. the worst thing here is that the analysis seems to be at the judgment level, not even at the design level, and i don't understand how they would compute % far at that level??? and there are no corrections or attempts to model within-design (bc these are repeated measures) OR within-person (also repeated measures) dependencies
-
-    - this is a weak result overall, imo. i would probably have complained as a reviewer, and asked to see degrees of freedom, and/or descriptives. the relatively high p value and small effect (with no measures of variability given) make me quite nervous.
-
-    - in any case, it's really important to note here that the far analogies were *NOT* given to the designers in a controlled fashion as stimuli, as in [[@chanBenefitsPitfallsAnalogies2011]] and similar, BUT were observed and correlated with a suboptimal statistical modeling approach. so this is essentially an observational correlational result.

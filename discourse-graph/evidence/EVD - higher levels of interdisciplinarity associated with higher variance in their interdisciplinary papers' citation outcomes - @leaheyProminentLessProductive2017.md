@@ -14,12 +14,5 @@ date: Mon Aug 09 2021 12:06:26 GMT-0400 (Eastern Daylight Time)
 
 ###### Discourse Context
 
-- **FromSource::** [[@leaheyProminentLessProductive2017]]
+- **FromSource::** [@leaheyProminentLessProductive2017.md](@leaheyProminentLessProductive2017.md)
 
-###### References
-
-[[August 9th, 2021]]
-
-- [[[[EVD]] - higher levels of interdisciplinarity associated with higher variance in their interdisciplinary papers' citation outcomes - [[@leaheyProminentLessProductive2017]]]]
-
-    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fmegacoglab%2FnMWVoEwbDH.png?alt=media&token=288ab618-c1ed-4d8f-9bbd-2393bb8e6042)

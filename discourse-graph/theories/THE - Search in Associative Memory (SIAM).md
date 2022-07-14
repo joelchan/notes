@@ -11,4 +11,4 @@ date: Wed Aug 19 2020 10:47:08 GMT-0400 (Eastern Daylight Time)
 
 ###### Discourse Context
 
-- **Informed By::** [[@nijstadHowGroupAffects2006]]
+- **Informed By::** [@nijstadHowGroupAffects2006.md](@nijstadHowGroupAffects2006.md)

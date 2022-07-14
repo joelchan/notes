@@ -39,42 +39,5 @@ date: Sun Mar 22 2020 15:19:36 GMT-0400 (Eastern Daylight Time)
 
 ###### Discourse Context
 
-- **Informs::** [[CLM - Paths to creative breakthroughs are frequently oblique]]
+- **Informs::** [CLM - Paths to creative breakthroughs are frequently oblique.md](CLM - Paths to creative breakthroughs are frequently oblique.md)
 
-###### References
-
-[[@gruberDarwinManPsychological1974]]
-
-- If Gruber means transitional in the sense of "ideas that turned out to be "incorrect" when the final theory was formed, but were nonetheless important ideas in the **development** of the theory", then possible shades of [[@sosaAccretionTheoryIdeation2019]] here, and also what we've been thinking about in terms of the often non-obvious and downstream value of [[analogy]] and [[🧱 conceptual combination]]: not always leading to a directly valuable idea, but opening up a space (e.g., [[@chanImportanceIterationCreative2015]])
-
-    - Reminds me also of [[Preparation for Future Learning]] perspective on [[Transfer]] #[[R: bransfordRethinkingTransferSimple1999]]
-[[August 8th, 2021]]
-
-- [[@harrisonWhatDifferenceDiversity2007]] came back into orbit, this was foundation for my thinking on [[@chanImportanceIterationCreative2015]]
-
-    - also relevant for conceptualizing [[diversity]] for [[D/Solution-Diversity]]. Makes sense to start a new question: [[[[QUE]] - How can we conceptualize diversity in creative knowledge work?]]
-[[August 12th, 2020]]
-
-- [[@sosaAccretionTheoryIdeation2019]] and [[@chanImportanceIterationCreative2015]] too
-
-    - build on this lit note:
-
-        - If Gruber means transitional in the sense of "ideas that turned out to be "incorrect" when the final theory was formed, but were nonetheless important ideas in the **development** of the theory", then possible shades of [[@sosaAccretionTheoryIdeation2019]] here, and also what we've been thinking about in terms of the often non-obvious and downstream value of [[analogy]] and [[🧱 conceptual combination]]: not always leading to a directly valuable idea, but opening up a space (e.g., [[@chanImportanceIterationCreative2015]])
-
-        - and this one about [[by-productive thinking]]: A few main examples of these
-
-            - [[Darwin's theory of coral formation]]
-
-                - p. 101-102 --> struggle, branching
-
-                - p. 111-112
-
-            - [[Darwin's monad theory of evolution]]
-
-                - discarded quite quickly, but gave the image of the [[irregularly branching tree of nature]], which was super important in his thought, including fueling his rejection of key implicit assumptions of contemporary theories about symmetry in the structure of species (cf. e.g., [[Quinarian system of classification]], p. 112)
-
-            - search for causes of variation, including concept of [[hybridization]] (p. 103-106)
-
-                - crucial preparation for recognizing significance of [[Malthus]] and the analogy between artifical selection and natural selection
-
-                    - led him down a "rabbit hole" of literature and field work on breeding

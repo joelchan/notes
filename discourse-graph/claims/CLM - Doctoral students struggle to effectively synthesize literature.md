@@ -33,24 +33,7 @@ date: Thu Feb 27 2020 10:16:51 GMT-0500 (Eastern Standard Time)
 
 ###### Discourse Context
 
-- **Informed By::** [[@holbrookLevelsSuccessUse2008]]
-- **Informed By::** [[@lovittsMakingImplicitExplicit2007]]
-- **Informed By::** [[@holbrookInvestigatingPhDThesis2004]]
+- **Informed By::** [@holbrookLevelsSuccessUse2008.md](@holbrookLevelsSuccessUse2008.md)
+- **Informed By::** [@lovittsMakingImplicitExplicit2007.md](@lovittsMakingImplicitExplicit2007.md)
+- **Informed By::** [@holbrookInvestigatingPhDThesis2004.md](@holbrookInvestigatingPhDThesis2004.md)
 
-###### References
-
-[[April 9th, 2020]]
-
-- Fun discussion with [[Yongsung Kim]] about ideas for tools for improving [[synthesis]] for novices (cf. [[challenges that students face doing lit reviews]] and [[[[CLM]] - Doctoral students struggle to effectively synthesize literature]])
-
-    - Two main buckets of ideas:
-
-        - 1: [[Metacognition]] - task is extremely complex, and it's tough to keep track of the many goals you have and assess how things are going. Wondering if this metacognitive and process-level expertise is what can be learned (still have to do some hard work of learning a new domain, but armed with process expertise, you can "[trust the process](Really inspired by this thought from [[Beck Tench]]: https://www.becktench.com/blog/2018/11/12/using-zettelkasten-and-tinderbox-to-document-a-literature-review - do you have a process that you can trust and lean on, like the design process, for example?)").
-
-            - It might be useful to try to learn the components of this process expertise by studying what experts do, but not just in their wheelhouse: inspired by [[R: schunnGeneralitySpecificityExpertise1999]], we could have experts try to synthesize literature for a topic that is outside their core expertise (or even discipline, maybe), and analyze what process-level expertise they might bring in that a novice (to both the process and the domain) might not.
-
-            - One caution: strategies that are available to experts might not be viable/tractable for novices (e.g., chunking requirements, confidence, etc.); and some of the steps that an expert might skip might be necessary [[desirable difficulty]] for a novice
-
-        - 2: Aiding in the {{alias: [[Learning Loop Complex]] search for representations}} during the [[🧱 sensemaking]] process, maybe with some of the tools we've developed in [[D/Computational Analogy]]
-
-            - Labeling purposes and mechanisms and clustering based on that

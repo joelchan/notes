@@ -29,4 +29,4 @@ date: Mon Jun 01 2020 12:17:33 GMT-0400 (Eastern Daylight Time)
 
 ###### Discourse Context
 
-- **Informs::** [[CLM - Scholars repurpose qualitative data analysis software to facilitate synthesis]]
+- **Informs::** [CLM - Scholars repurpose qualitative data analysis software to facilitate synthesis.md](CLM - Scholars repurpose qualitative data analysis software to facilitate synthesis.md)

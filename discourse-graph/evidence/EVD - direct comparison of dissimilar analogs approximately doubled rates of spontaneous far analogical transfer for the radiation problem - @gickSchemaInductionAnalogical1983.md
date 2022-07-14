@@ -28,7 +28,7 @@ date: Thu Dec 02 2021 14:53:20 GMT-0500 (Eastern Standard Time)
 
 ###### Discourse Context
 
-- **Informs::** [[THE - interaction-oriented theory of creative inspiration from examples]]
-- **Supports::** [[CLM - People are more likely to benefit from analogies if they encounterprocess them with an active goal or license to use them for inspiration]]
-- **Consistent With::** [[EVD - Replicated the results of Gick and Holyoak in providing results showing that when providing a hint and an analogy students were more likely to produce a convergent solution]]
-- **FromSource::** [[@gickSchemaInductionAnalogical1983]]
+- **Informs::** [THE - interaction-oriented theory of creative inspiration from examples.md](THE - interaction-oriented theory of creative inspiration from examples.md)
+- **Supports::** [CLM - People are more likely to benefit from analogies if they encounterprocess them with an active goal or license to use them for inspiration.md](CLM - People are more likely to benefit from analogies if they encounterprocess them with an active goal or license to use them for inspiration.md)
+- **Consistent With::** [EVD - Replicated the results of Gick and Holyoak in providing results showing that when providing a hint and an analogy students were more likely to produce a convergent solution.md](EVD - Replicated the results of Gick and Holyoak in providing results showing that when providing a hint and an analogy students were more likely to produce a convergent solution.md)
+- **FromSource::** [@gickSchemaInductionAnalogical1983.md](@gickSchemaInductionAnalogical1983.md)

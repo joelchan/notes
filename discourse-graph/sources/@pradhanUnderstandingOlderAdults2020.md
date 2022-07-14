@@ -39,16 +39,5 @@ date: Wed Apr 07 2021 01:21:11 GMT-0400 (Eastern Daylight Time)
 
 ###### Discourse Context
 
-- **Informs::** [[QUE - What tension points exist between the goals of diversity and depth of user participation in participatory design]]
+- **Informs::** [QUE - What tension points exist between the goals of diversity and depth of user participation in participatory design.md](QUE - What tension points exist between the goals of diversity and depth of user participation in participatory design.md)
 
-###### References
-
-[[June 9th, 2021]]
-
-- [[@pradhanUnderstandingOlderAdults2020]] for [[[[QUE]] - What tension points exist between the goals of diversity and depth of user participation in participatory design?]] | challenges around self-stereotyping (+ some ideas for how to overcome) for PD with older adults
-
-    - [[Joel Chan]] read this paper and extracted the findings. he was also a co-author on the paper.
-
-    - The main finding that resonates with our question was this:
-
-        - [[[[EVD]] - Older adults needed to use special take-home activities to escape self-stereotyping - @pradhanUnderstandingOlderAdults2020]]

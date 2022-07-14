@@ -43,18 +43,6 @@ date: Sun Feb 16 2020 17:12:28 GMT-0500 (Eastern Standard Time)
 
 ###### Discourse Context
 
-- **Informs::** [[CLM - Scholarly argumentation operates on atomic statements and concepts as fundamental units]]
-- **Informs::** [[QUE - What (existing) systems facilitate individual synthesis]]
+- **Informs::** [CLM - Scholarly argumentation operates on atomic statements and concepts as fundamental units.md](CLM - Scholarly argumentation operates on atomic statements and concepts as fundamental units.md)
+- **Informs::** [QUE - What (existing) systems facilitate individual synthesis.md](QUE - What (existing) systems facilitate individual synthesis.md)
 
-###### References
-
-[[#AnnotatedBib for Synthesis Infrastructures]]
-
-- [[@liddoContestedCollectiveIntelligence2012]]
-
-    - Probably the only one I can think of that has a similar aim to us (except maybe [[@kuhnBroadeningScopeNanopublications2013]])
-[[September 1st, 2021]]
-
-- A key reference here is [[@liddoContestedCollectiveIntelligence2012]], the idea that in complex domains we do not want to rush to consensus, but rather allow for contestation, and disagreement, to be preserved
-
-    - A related point here is [[@strikeTypesSynthesisTheir1983]]'s claim that > A quality [[synthesis]] will clarify and resolve, rather than obscure inconsistencies or tensions between material synthesized

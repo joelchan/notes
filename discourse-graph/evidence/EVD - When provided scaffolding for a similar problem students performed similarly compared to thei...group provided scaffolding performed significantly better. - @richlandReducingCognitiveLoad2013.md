@@ -48,8 +48,8 @@ date: Sun Dec 19 2021 10:20:39 GMT-0500 (Eastern Standard Time)
 
 ###### Discourse Context
 
-- **Informs::** [[QUE - What factors control whether people appropriately benefit from analogies (especially far-field ones) during creative problem solving]]
-- **Supports::** [[CLM - Bridging analogies can help students understand difficult new concepts]]
-- **Consistent With::** [[EVD - teachers in countries with high math and science achievement scores also displayed more cogni... in a country with lower math and science achievement - @richlandCognitiveSupportsAnalogies2007]]
-- **Consistent With::** [[EVD - giving a bridging analogy to a far analogy for a numerical representations led to better stud...wers) on a math post test compared to no or just the analogy - @vamvakoussiBridgingGapDense2012]]
-- **FromSource::** [[@richlandReducingCognitiveLoad2013]]
+- **Informs::** [QUE - What factors control whether people appropriately benefit from analogies (especially far-field ones) during creative problem solving.md](QUE - What factors control whether people appropriately benefit from analogies (especially far-field ones) during creative problem solving.md)
+- **Supports::** [CLM - Bridging analogies can help students understand difficult new concepts.md](CLM - Bridging analogies can help students understand difficult new concepts.md)
+- **Consistent With::** [EVD - teachers in countries with high math and science achievement scores also displayed more cogni... in a country with lower math and science achievement - @richlandCognitiveSupportsAnalogies2007.md](EVD - teachers in countries with high math and science achievement scores also displayed more cogni... in a country with lower math and science achievement - @richlandCognitiveSupportsAnalogies2007.md)
+- **Consistent With::** [EVD - giving a bridging analogy to a far analogy for a numerical representations led to better stud...wers) on a math post test compared to no or just the analogy - @vamvakoussiBridgingGapDense2012.md](EVD - giving a bridging analogy to a far analogy for a numerical representations led to better stud...wers) on a math post test compared to no or just the analogy - @vamvakoussiBridgingGapDense2012.md)
+- **FromSource::** [@richlandReducingCognitiveLoad2013.md](@richlandReducingCognitiveLoad2013.md)

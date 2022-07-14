@@ -73,51 +73,7 @@ date: Sun Jan 02 2022 15:34:00 GMT-0500 (Eastern Standard Time)
 
 ###### Discourse Context
 
-- **Informs::** [[QUE - How can we measure efficacy of creativity support systems]]
-- **Informs::** [[QUE - Can hypertext notetaking systems enhance cognitive flexibility]]
-- **SourceFor::** [[EVD - Starbucks baristas used a paper cup to support complex coordination to reduce the cost struct...ght, multi-tasking and interruption-intensive environment - @kirshMultitaskingCostStructure2005]]
+- **Informs::** [QUE - How can we measure efficacy of creativity support systems.md](QUE - How can we measure efficacy of creativity support systems.md)
+- **Informs::** [QUE - Can hypertext notetaking systems enhance cognitive flexibility.md](QUE - Can hypertext notetaking systems enhance cognitive flexibility.md)
+- **SourceFor::** [EVD - Starbucks baristas used a paper cup to support complex coordination to reduce the cost struct...ght, multi-tasking and interruption-intensive environment - @kirshMultitaskingCostStructure2005.md](EVD - Starbucks baristas used a paper cup to support complex coordination to reduce the cost struct...ght, multi-tasking and interruption-intensive environment - @kirshMultitaskingCostStructure2005.md)
 
-###### References
-
-[[NowReading]]
-
-- #NowReading [[@kirshMultitaskingCostStructure2005]]
-
-    - problematizes the core notion of [[🧱 cost structure]] (see, e.g., [[@russellCostStructureSensemaking1993]] and [[@pirolliInformationForagingInformation1995]])
-
-    - key assertions:
-
-        - cost structure != efficiency - also robustness, and cognitive costs (enable more task complexity with constant cognitive costs)
-
-        - cost structure analysis is incomplete if it does not account explicitly for multitasking (since basically all real tasks happen in environments where multitasking is happening; even complex single tasks have multiple subgoals!)
-
-    - has a case study (of Starbucks cups!), but it's more illustrative than a formal analysis, IMO
-
-    - > task environments are not realistic containers for tasks if we recognize the universality of such events as interruption, disruption, multi-person activity, and multitasking in the same physical space
-[[January 22nd, 2022]]
-
-- this came back into orbit: interesting theme about how [[🧱 cost structure]] varies wiht one-off vs. ongoing projects while reading [[@kirshMultitaskingCostStructure2005]]
-
-    - connects to [[that can't pin it down local optimum tradeoff thing]] - cost structure is fine, great even, for now, for one-off projects, but cannot stretch to sustained and distributed/collaborative settings very well at all. at least that's my hypothesis!
-[[January 2nd, 2022]]
-
-- on a bit of a [[David Kirsh]] tear rn - new gem (cites [[@kirshMultitaskingCostStructure2005]]): [[@kirshEmbodiedCognitionMagical2013]]
-
-    - pair with [[@klemmerHowBodiesMatter2006]] for sure (fascinating that it's not cited in this paper, and equally fascinating that [[Scott R. Klemmer]] is now also at at [[UCSD]]!)
-[[February 16th, 2022]]
-
-- [[@chenInteractingHypertextMetaAnalysis1996]] super highly cited [[m/meta-analysis]], including [response from Shapiro](https://scite.ai/reports/promoting-active-learning-the-role-bbprD1?page=1) - basically says "idk, too noisy, but lots of extenunating factors, including student characteristics, task complexity, and basically we don't have a good handle on how to compare studies" - also, more effective but less efficient for hypertext vs. trad. (cc [[@kirshMultitaskingCostStructure2005]])
-
-    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fmegacoglab%2FpEPDEblwd6.png?alt=media&token=944ae3f7-e68e-4d83-b310-ad66022801af)
-
-    - scite [trail](https://scite.ai/reports/interacting-with-hypertext-a-meta-analysis-WWprbw?contradicting=false&mentioning=false&page=1&publishedRangeMax=2021&publishedRangeMin=1997&unclassified=false&utm_campaign=plugin&utm_medium=plugin&utm_source=generic)
-
-        - [[@graffConstructingMaintainingEffective2006]] - more dense maps
-
-            - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fmegacoglab%2FrhDKrLrb29.png?alt=media&token=0036ee51-9aaa-41c5-b95a-7e519625342b)
-
-            - basically the same in [[@graffDifferencesConceptMapping2005]]
-
-        - [[@clareboutToolUseOpen2008]] paper > online (no matter structure) for reading comprehension, but nonlinear > linear
-
-            - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fmegacoglab%2FP_9zxtt_IH.png?alt=media&token=757cf51d-1243-4e82-b8e2-165d4b43bd54)

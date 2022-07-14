@@ -37,4 +37,4 @@ date: Tue May 18 2021 22:37:46 GMT-0400 (Eastern Daylight Time)
 
 ###### Discourse Context
 
-- **Informs::** [[CLM - Synthesis work requires explicit (usually external) representations of both evidence and claims]]
+- **Informs::** [CLM - Synthesis work requires explicit (usually external) representations of both evidence and claims.md](CLM - Synthesis work requires explicit (usually external) representations of both evidence and claims.md)

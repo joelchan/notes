@@ -93,50 +93,7 @@ date: Sun Feb 16 2020 17:17:29 GMT-0500 (Eastern Standard Time)
 
 ###### Discourse Context
 
-- **Informs::** [[CLM - The central bottleneck to synthesis infrastructures is authoring]]
-- **Informs::** [[CLM - Sustaining authorship for semantic publishing is hard]]
-- **Informs::** [[QUE - Do scholarly synthesis infrastructures already exist]]
+- **Informs::** [CLM - The central bottleneck to synthesis infrastructures is authoring.md](CLM - The central bottleneck to synthesis infrastructures is authoring.md)
+- **Informs::** [CLM - Sustaining authorship for semantic publishing is hard.md](CLM - Sustaining authorship for semantic publishing is hard.md)
+- **Informs::** [QUE - Do scholarly synthesis infrastructures already exist.md](QUE - Do scholarly synthesis infrastructures already exist.md)
 
-###### References
-
-[[#AnnotatedBib for Synthesis Infrastructures]]
-
-- [[@kuhnGenuineSemanticPublishing2017]]
-
-    - Reviews [[std/Micropublication]]s, [[std/Nanopublications]]s, [[std/Research Objects]] and other similar models for semantic publishing
-[[CLM - The central bottleneck to synthesis infrastructures is authoring]]
-
-- #[[@kuhnGenuineSemanticPublishing2017]]
-
-    - "It turns out that all the technologies needed for applying genuine semantic publishing are already available and most of them are very mature and reliable. There are no __technical__ obstacles preventing us from releasing our results from today on as genuine semantic publications, even though more work is needed on ontologies that cover all relevant aspects and areas and on nice and intuitive end-user interfaces to make this process as easy as possible." (p. 148)
-[[QUE - Do scholarly synthesis infrastructures already exist]]
-
-- Within the sciences / scholarship, led by bioinformatics, best are under the rubric of "genuine" [[semantic publishing]] (term I've seen from #[[@kuhnGenuineSemanticPublishing2017]])
-
-    - [[std/Nanopublications]]
-
-    - [[std/Micropublication]]
-
-    - [[std/BEL]]
-
-    - [[digital libraries]]
-
-    - [[standard/Claims]]
-
-    - [[std/SWAN]]
-
-    - [[Scholarly HTML]]
-
-    - [[Structured Digital Abstracts]]
-
-    - [[sys/Compendium]]
-
-        - More generally, there is a set of projects in this space around the orbit of the [[Knowledge Media Institute]], led for a time by [[Simon Buckingham Shum]]
-
-            - [[Jack Park]] is related to this thread, and now in the Telegram group for [[Digital Garden]]ing
-
-                - See, e.g., [[@parkKnowledgeGardeningKnowledge2009]]
-
-    - [[std/Research Objects]]
-
-    - [[Enhanced Publications]]

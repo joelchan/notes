@@ -45,15 +45,8 @@ date: Thu Oct 15 2020 20:25:29 GMT-0400 (Eastern Daylight Time)
 
 ###### Discourse Context
 
-- **Informed By::** [[@chanSOLVENTMixedInitiative2018]]
-- **Informed By::** [[@gilonAnalogyMiningSpecific2018]]
-- **Informed By::** [[@zhuContingencyViewTransferring2016]]
-- **Informed By::** [[@yuDistributedAnalogicalIdea2016]]
+- **Informed By::** [@chanSOLVENTMixedInitiative2018.md](@chanSOLVENTMixedInitiative2018.md)
+- **Informed By::** [@gilonAnalogyMiningSpecific2018.md](@gilonAnalogyMiningSpecific2018.md)
+- **Informed By::** [@zhuContingencyViewTransferring2016.md](@zhuContingencyViewTransferring2016.md)
+- **Informed By::** [@yuDistributedAnalogicalIdea2016.md](@yuDistributedAnalogicalIdea2016.md)
 
-###### References
-
-[[October 29th, 2020]]
-
-- example screenshot shown of a [micropub](#[[observation-notes]] Crowd workers generated the most novel and practical ideas when given analogical inspirations found from [domain-independent, concrete constraint problem descriptions](((M8KfyPUsY))), compared to inspirations from [domain-independent abstract constraints](((TUj6U8Fv9))), [domain-dependent concrete constraints](((Aw21pCePA))), or [domain-dependent abstract constraints](((r6_rbDIRA))) (which were about equal)) (with markdown-aliased links to key contextualizing details, and nested under a source page) in the sidebar (highlighted in yellow), and a [higher-level zettel]([[[[CLM]] - "Core" attribute mismatches in analogical inspiration harm creativity]]) that uses the micropub as evidence.
-
-    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fmegacoglab%2FH14Ndh9NYx.png?alt=media&token=aba0f12c-78f8-4e00-a645-55c854266b55)

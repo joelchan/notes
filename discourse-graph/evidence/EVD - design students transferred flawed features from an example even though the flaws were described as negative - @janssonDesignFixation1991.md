@@ -16,21 +16,7 @@ date: Wed Jan 12 2022 12:45:41 GMT-0500 (Eastern Standard Time)
 
 ###### Discourse Context
 
-- **Informs::** [[QUE - What is the relationship between prior knowledge and new ideas]]
-- **Informs::** [[THE - interaction-oriented theory of creative inspiration from examples]]
-- **FromSource::** [[@janssonDesignFixation1991]]
+- **Informs::** [QUE - What is the relationship between prior knowledge and new ideas.md](QUE - What is the relationship between prior knowledge and new ideas.md)
+- **Informs::** [THE - interaction-oriented theory of creative inspiration from examples.md](THE - interaction-oriented theory of creative inspiration from examples.md)
+- **FromSource::** [@janssonDesignFixation1991.md](@janssonDesignFixation1991.md)
 
-###### References
-
-[[THE - interaction-oriented theory of creative inspiration from examples]]
-
-- [[[[EVD]] - design students transferred flawed features from an example even though the flaws were described as negative - [[@janssonDesignFixation1991]]]]
-
-    - a few other problems, and [also for professionals]([Professional structural design engineers](((ThoPyJe5b))) who [were shown an example](((XNP7iOLs5))) (flawed, but flaws not stated) design for a disposable coffee cup were approximately 2X more likely to include key features from the example design in [their own brainstormed designs](((vlqhHRHsI))), compared to engineers who didn't see the example; both sets of engineers generated similar numbers of total design ideas) (though not domain experts; structural design doing product design)
-[[@janssonDesignFixation1991]]
-
-- [[[[EVD]] - design students transferred flawed features from an example even though the flaws were described as negative - [[@janssonDesignFixation1991]]]]
-
-    - #appraisal NOTE: the N is really small (~12 per cell in a between-subjects), and we aren't given information about the coding procedure (why these three features of the example design? who coded them, with what reliability?), and no statistics are run, so by itself this isn't very strong result.
-
-        - although the raw numbers are quite high (I believe these are proportion of all designs, vs. average of proportions per subject, which is also kind of sketchy)

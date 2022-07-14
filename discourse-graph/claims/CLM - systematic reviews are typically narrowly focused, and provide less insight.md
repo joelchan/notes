@@ -13,15 +13,8 @@ date: Thu Oct 21 2021 11:58:37 GMT-0400 (Eastern Daylight Time)
 
 ###### Discourse Context
 
-- **Informs::** [[QUE - What is synthesis]]
-- **Informed By::** [[@strikeTypesSynthesisTheir1983]]
-- **Informed By::** [[@greenhalghTimeChallengeSpurious2018]]
-- **Informed By::** [[@thorneRediscoveringNarrativeReview2018]]
+- **Informs::** [QUE - What is synthesis.md](QUE - What is synthesis.md)
+- **Informed By::** [@strikeTypesSynthesisTheir1983.md](@strikeTypesSynthesisTheir1983.md)
+- **Informed By::** [@greenhalghTimeChallengeSpurious2018.md](@greenhalghTimeChallengeSpurious2018.md)
+- **Informed By::** [@thorneRediscoveringNarrativeReview2018.md](@thorneRediscoveringNarrativeReview2018.md)
 
-###### References
-
-[[@greenhalghTimeChallengeSpurious2018]]
-
-- #CLlaim [[[[CLM]] - [[systematic review]]s are typically narrowly focused, and provide less insight]]
-
-    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fmegacoglab%2FFwx5u5uydK.png?alt=media&token=b5fb6497-9fb0-4f04-9b00-ddd7a5f4cd76)

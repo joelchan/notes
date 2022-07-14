@@ -14,18 +14,5 @@ date: Sat Jan 30 2021 23:28:09 GMT-0500 (Eastern Standard Time)
 
 ###### Discourse Context
 
-- **Informs::** [[QUE - What are the most efficient routes to useful cross-boundary knowledge]]
+- **Informs::** [QUE - What are the most efficient routes to useful cross-boundary knowledge.md](QUE - What are the most efficient routes to useful cross-boundary knowledge.md)
 
-###### References
-
-[[QUE - What are the most efficient routes to useful cross-boundary knowledge]]
-
-- [[@HowMicrosoftUsed2016]] Nielsen et al. (2016): a case study on Microsoft's relocation, [[Travel costs of innovation]] cut by 46%
-
-    - Open office maximizes random encounters
-
-        - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fmegacoglab%2FbZb8qyNAFD.png?alt=media&token=9aab3fa9-f011-4721-afad-50617eeaf6da)
-
-    - While a tradeoff, as open office brings noise that reduce morale [[@kimWorkspaceSatisfactionPrivacycommunication2013]]
-
-        - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fmegacoglab%2FdUNrLSCPHr.png?alt=media&token=4e780ded-ffdf-4053-b452-1065f4cd0dff)

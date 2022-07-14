@@ -11,14 +11,5 @@ date: Fri May 15 2020 14:15:31 GMT-0400 (Eastern Daylight Time)
 
 ###### Discourse Context
 
-- **Informs::** [[CLM - Compressing complex ideas into more manageable chunks facilitates more complex thought]]
+- **Informs::** [CLM - Compressing complex ideas into more manageable chunks facilitates more complex thought.md](CLM - Compressing complex ideas into more manageable chunks facilitates more complex thought.md)
 
-###### References
-
-[[@knoblichConstraintRelaxationChunk1999]]
-
-- To [[@chaseMindEyeChess1973]] on the idea of [[Chunking]] as a mechanism for expert performance #expertise
-
-    - Which itself goes back fruther to [[de Groot]], back in the mid-1960's
-
-    - Be careful, though! Their idea of [[Chunking]] is closer to the idea of [[compression]] - packing a huge amount of information into a smaller unit, abstracting away a lot of things.

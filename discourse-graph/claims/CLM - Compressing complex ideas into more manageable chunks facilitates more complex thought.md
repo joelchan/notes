@@ -25,23 +25,7 @@ date: Thu May 14 2020 16:58:56 GMT-0400 (Eastern Daylight Time)
 
 ###### Discourse Context
 
-- **Informed By::** [[@mccrickardMakingClaimsKnowledge2012]]
-- **Informed By::** [[@cowanMagicalNumberShortterm2000]]
-- **Informed By::** [[@chaseMindEyeChess1973]]
+- **Informed By::** [@mccrickardMakingClaimsKnowledge2012.md](@mccrickardMakingClaimsKnowledge2012.md)
+- **Informed By::** [@cowanMagicalNumberShortterm2000.md](@cowanMagicalNumberShortterm2000.md)
+- **Informed By::** [@chaseMindEyeChess1973.md](@chaseMindEyeChess1973.md)
 
-###### References
-
-[[WP TOCHI Requirements framework for synthesis systems]]
-
-- Third, if ideas are available in "unchunked" form, they are also easier to externalize in a system, which can help overcome cognitive limitations of memory. In other words, #[[[[CLM]] - Compressing complex ideas into more manageable chunks facilitates more complex thought]]
-
-    - For example...
-[[September 18th, 2021]]
-
-- [[[[CLM]] - Compressing complex ideas into more manageable chunks facilitates more complex thought]]
-
-    - __decomposing__ ideas into smaller pieces also enables us to **connect ideas in richer and more meaningful ways**. For example, we learn from creativity theory that [[Z: Representing ideas in atomic units facilitates conceptual combination]]. This is because [[Z: Synthesis is a creative act]], and [[[[CLM]] - Conceptual combination is-fundamental-to creative knowledge production]].
-
-    - It is important to distinguish [[Atomicity]] from [[compression]]: in creative thought, it is less about [[Decomposition]] in the atomic and disconnected sense, and more about flexibly using [[compression]] to move between different levels and states of "granularity".
-
-        - [[Atomicity]] isn't just about breaking things down. It's also about [[compression]]. We "shrink" and "chunk" things so we can think bigger thoughts. This is important to keep in mind. I keep going back and forth between the two terms, but they are far from synonymous. They describe a syndrome of affordances around a common surface feature of "smallness". But choosing one or the other might risk losing essential aspects of the requirement.

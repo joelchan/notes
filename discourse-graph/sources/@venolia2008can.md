@@ -38,12 +38,5 @@ Olson 2002]
 
 ###### Discourse Context
 
-- **SourceFor::** [[EVD - People were really reluctant to share their private notes with anyone else - @venolia2008can]]
+- **SourceFor::** [EVD - People were really reluctant to share their private notes with anyone else - @venolia2008can.md](EVD - People were really reluctant to share their private notes with anyone else - @venolia2008can.md)
 
-###### References
-
-[[August 14th, 2021]]
-
-- reproduce bug. pretend i'm reading [[@venolia2008can]]
-
-    - a new claim: people are amazing

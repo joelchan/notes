@@ -35,11 +35,11 @@ date: Wed Jan 22 2020 10:59:50 GMT-0500 (Eastern Standard Time)
 
         - enable [[[[PTN]] - incremental formalization]] by providing "play space" and mechanism for "**publishing**" claims
 
-        - #appraisal although potentially relevant for answering #[[[[QUE]] - What is the user experience of semantic authoring within regular scholarly workflows?]], since [[sys/ClaiMapper]] was designed to be integrated into a normal [[scholarly workflows]] of making sense of a set of papers, this paper doesn't include any empirical insight into that question, since the system was only tested by the authors of the paper (p. 433)
+        - #appraisal although potentially relevant for answering #[[[[QUE]] - What is the user experience of semantic authoring within regular scholarly workflows?]], since [[[[ART]] - ClaiMapper]] was designed to be integrated into a normal [[scholarly workflows]] of making sense of a set of papers, this paper doesn't include any empirical insight into that question, since the system was only tested by the authors of the paper (p. 433)
 
             - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fmegacoglab%2F32a9H4UqNk.png?alt=media&token=da8cd86a-c2e5-47c3-8170-a790df616d4e)
 
 ###### Discourse Context
 
-- **Informs::** [[CLM - Scholarly argumentation operates on atomic statements and concepts as fundamental units]]
-- **Informs::** [[QUE - What (existing) systems facilitate individual synthesis]]
+- **Informs::** [CLM - Scholarly argumentation operates on atomic statements and concepts as fundamental units.md](CLM - Scholarly argumentation operates on atomic statements and concepts as fundamental units.md)
+- **Informs::** [QUE - What (existing) systems facilitate individual synthesis.md](QUE - What (existing) systems facilitate individual synthesis.md)

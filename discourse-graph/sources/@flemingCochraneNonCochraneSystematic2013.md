@@ -41,12 +41,5 @@ date: Fri May 08 2020 22:22:42 GMT-0400 (Eastern Daylight Time)
 
 ###### Discourse Context
 
-- **Informs::** [[CLM - Effective synthesis is rare]]
+- **Informs::** [CLM - Effective synthesis is rare.md](CLM - Effective synthesis is rare.md)
 
-###### References
-
-[[CLM - Effective synthesis is rare]]
-
-- #[[@flemingCochraneNonCochraneSystematic2013]]
-
-    - #Claim Only about 20% of published [[systematic review]]s in orthondotics are "good" by [[AMSTAR standards of review quality]]; 20% are considered "poor"! (Table 2, p.246) #synthesis

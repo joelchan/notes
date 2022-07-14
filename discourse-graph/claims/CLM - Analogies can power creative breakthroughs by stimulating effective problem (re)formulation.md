@@ -29,21 +29,12 @@ date: Wed Nov 25 2020 17:17:03 GMT-0500 (Eastern Standard Time)
 
 ###### Discourse Context
 
-- **Informs::** [[QUE - How do people effectively (re)formulate creative problems]]
-- **Supported By::** [[EVD - Engineering design students used multiple cross-domain analogies to fulfill design needs, and...on of how to decompose the problem and find new analogies. - @helmsCompoundAnalogicalDesign2008]]
-- **Supported By::** [[EVD - Two artists used individual artworks to shape not just their ideas, but used a process of ana...ion. This process unfolded over the course of years. - @okadaAnalogicalModificationCreation2009]]
-- **Informed By::** [[@knoblichConstraintRelaxationChunk1999]]
-- **Informed By::** [[@bhattaInnovationAnalogicalDesign1994]]
-- **Informed By::** [[@dorstFrameInnovationCreate2015]]
-- **Informed By::** [[@okadaAnalogicalModificationCreation2009]]
-- **Informed By::** [[@jeppesenMarginalityProblemsolvingEffectiveness2010]]
+- **Informs::** [QUE - How do people effectively (re)formulate creative problems.md](QUE - How do people effectively (re)formulate creative problems.md)
+- **Supported By::** [EVD - Engineering design students used multiple cross-domain analogies to fulfill design needs, and...on of how to decompose the problem and find new analogies. - @helmsCompoundAnalogicalDesign2008.md](EVD - Engineering design students used multiple cross-domain analogies to fulfill design needs, and...on of how to decompose the problem and find new analogies. - @helmsCompoundAnalogicalDesign2008.md)
+- **Supported By::** [EVD - Two artists used individual artworks to shape not just their ideas, but used a process of ana...ion. This process unfolded over the course of years. - @okadaAnalogicalModificationCreation2009.md](EVD - Two artists used individual artworks to shape not just their ideas, but used a process of ana...ion. This process unfolded over the course of years. - @okadaAnalogicalModificationCreation2009.md)
+- **Informed By::** [@knoblichConstraintRelaxationChunk1999.md](@knoblichConstraintRelaxationChunk1999.md)
+- **Informed By::** [@bhattaInnovationAnalogicalDesign1994.md](@bhattaInnovationAnalogicalDesign1994.md)
+- **Informed By::** [@dorstFrameInnovationCreate2015.md](@dorstFrameInnovationCreate2015.md)
+- **Informed By::** [@okadaAnalogicalModificationCreation2009.md](@okadaAnalogicalModificationCreation2009.md)
+- **Informed By::** [@jeppesenMarginalityProblemsolvingEffectiveness2010.md](@jeppesenMarginalityProblemsolvingEffectiveness2010.md)
 
-###### References
-
-[[February 20th, 2022]]
-
-- And theory and data from [[[[CLM]] - Analogies can power creative breakthroughs by stimulating effective problem (re)formulation]]
-
-    - [[[[EVD]] - Engineering design students used multiple cross-domain analogies to fulfill design needs, and they could use analogies to get inspiration of how to decompose the problem and find new analogies. - [[@helmsCompoundAnalogicalDesign2008]]]]
-
-    - [[[[EVD]] - Two artists used individual artworks to shape not just their ideas, but used a process of "analogical modification" to search for and modify higher-order concepts, and their creative vision. This process unfolded over the course of years. - [[@okadaAnalogicalModificationCreation2009]]]]

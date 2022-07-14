@@ -29,14 +29,5 @@ date: Fri Sep 10 2021 21:56:37 GMT-0400 (Eastern Daylight Time)
 
 ###### Discourse Context
 
-- **Informs::** [[QUE - (How) do fields of innovation vary in their legibility of quality]]
+- **Informs::** [QUE - (How) do fields of innovation vary in their legibility of quality.md](QUE - (How) do fields of innovation vary in their legibility of quality.md)
 
-###### References
-
-[[February 28th, 2022]]
-
-- [[@kuhnStructureScientificRevolutions1996]] is crucial for moving away form just ideas to studying scientific communities --> [[scientific paradigms]]
-
-    - see endnotes in 3rd edition
-
-    - great entry point

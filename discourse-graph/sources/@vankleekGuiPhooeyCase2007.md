@@ -33,4 +33,4 @@ date: Fri Apr 10 2020 22:49:18 GMT-0400 (Eastern Daylight Time)
 
 ###### Discourse Context
 
-- **Informs::** [[CLM - PTN - incremental formalization can mitigate risks of formalism in interactive systems]]
+- **Informs::** [CLM - PTN - incremental formalization can mitigate risks of formalism in interactive systems.md](CLM - PTN - incremental formalization can mitigate risks of formalism in interactive systems.md)

@@ -12,4 +12,4 @@ date: Thu Aug 19 2021 12:28:39 GMT-0400 (Eastern Daylight Time)
 
 ###### Discourse Context
 
-- **FromSource::** [[@venolia2008can]]
+- **FromSource::** [@venolia2008can.md](@venolia2008can.md)

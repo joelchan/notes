@@ -63,41 +63,6 @@ studies. " (P.247)
 
 ###### Discourse Context
 
-- **Informs::** [[CLM - Effective problem formulation is-necessary-for creative knowledge work]]
-- **Informs::** [[CLM - Scientific fields stall without adequate theoretical synthesis]]
+- **Informs::** [CLM - Effective problem formulation is-necessary-for creative knowledge work.md](CLM - Effective problem formulation is-necessary-for creative knowledge work.md)
+- **Informs::** [CLM - Scientific fields stall without adequate theoretical synthesis.md](CLM - Scientific fields stall without adequate theoretical synthesis.md)
 
-###### References
-
-[[CLM - Effective problem formulation is-necessary-for creative knowledge work]]
-
-- We focus only on problematizing assumptions
-that underlie existing literature as a way to construct research questions: problematization challenges existing theories to develop more interesting and influential theories [[@alvessonGeneratingResearchQuestions2011]] [[R: Alvesson2011]].
-
-    - [[R: Sandberg2011]] is another Alvesson work that also applies, e.g. "Ways of constructing research questions: gap-spotting or problematization?" in 2010
-[[April 8th, 2022]]
-
-- question/modify an assumption/constraint --> [[constraint relaxation]] [[@alvessonGeneratingResearchQuestions2011]]
-
-    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fmegacoglab%2FO30GDo45c_.png?alt=media&token=18dc051e-a859-4c3d-9969-cb26173c45d0)
-[[CL - Synthesis is-necessary-for effective problem formulation]]
-
-- We focus only on problematizing assumptions
-that underlie existing literature as a way to construct research questions: problematization challenges existing theories to develop more interesting and influential theories [[R: Alvesson2011]]/[[@alvessonGeneratingResearchQuestions2011]]
-
-    - [[R: Sandberg2011]] is another Alvesson work that also applies, e.g. "Ways of constructing research questions: gap-spotting or problematization?" in 2010
-[[July 9th, 2021]]
-
-- Makes me think of [[@alvessonGeneratingResearchQuestions2011]] and the idea of *assumptions*. What is an assumption?
-
-    - Connecting it to [[[[PTN]] - discourse graph]], we might formally model assumptions as `claims` with some pattern of properties:
-
-        - "deep" in an argument chain, where if removed, large edit distance from current state
-
-        - controversial or lower evidentiary support/coherence than warranted by distance
-[[October 12th, 2021]]
-
-- [[@alvessonGeneratingResearchQuestions2011]] - target key assumptions
-
-    - similar to: [[riskiest risks]]
-
-        - and [[Premortem]]

@@ -47,12 +47,5 @@ date: Tue Jun 22 2021 15:54:23 GMT-0400 (Eastern Daylight Time)
 
 ###### Discourse Context
 
-- **FromSource::** [[@lindsayEngagingOlderPeople2012b]]
+- **FromSource::** [@lindsayEngagingOlderPeople2012b.md](@lindsayEngagingOlderPeople2012b.md)
 
-###### References
-
-[[EVD - Older adults found it difficult to engage productively with a design topic around personal security, despite engaging productively with two other topics - @lindsayEngagingOlderPeople2012b]]
-
-- For example, video prompts, which [worked well for a few other topics]([[[[EVD]] - Older adults responded well to the use of video prompts to frame discussion about invisible future technologies - [[@lindsayEngagingOlderPeople2012b]]]]), didn't work well for one case (personal security) when they used TV characters instead of older adults: participants said "that for me is not serious"
-
-    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fmegacoglab%2Fy-daMe3d01.png?alt=media&token=577849e0-bf07-4c5d-a0c8-3af8aaf40972) (p. 1204)

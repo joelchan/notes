@@ -47,12 +47,5 @@ date: Wed Jun 16 2021 11:13:06 GMT-0400 (Eastern Daylight Time)
 
 ###### Discourse Context
 
-- **Informs::** [[QUE - What tension points exist between the goals of diversity and depth of user participation in participatory design]]
+- **Informs::** [QUE - What tension points exist between the goals of diversity and depth of user participation in participatory design.md](QUE - What tension points exist between the goals of diversity and depth of user participation in participatory design.md)
 
-###### References
-
-[[June 15th, 2021]]
-
-- they initially thought of doing a story-writing  exercise, but decided against it when the [sister-survivors told them that they had very difficult negative experiences with writing their stories in the past]([[[[EVD]] - Sex trafficking survivors shared concerns about painful experiences from writing their stories in design exercises. A future-focused photo elicitation method seemed to be a viable alternative - @gautamParticipatoryTensionsWorking2018]])
-
-    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fmegacoglab%2FNZV6-vcrJO.png?alt=media&token=3c6715a1-f1c1-4edb-9a22-69836fae567f)

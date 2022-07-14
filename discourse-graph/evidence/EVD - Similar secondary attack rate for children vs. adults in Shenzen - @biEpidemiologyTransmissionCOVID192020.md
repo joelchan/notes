@@ -46,31 +46,8 @@ date: Wed Dec 08 2021 16:43:39 GMT-0500 (Eastern Standard Time)
 
 ###### Discourse Context
 
-- **Informs::** [[QUE - How susceptible are young children to COVID-19 infection, given equivalent exposure]]
-- **Consistent With::** [[EVD - similar secondary attack rate for household contacts 18yo or less (compared to other age groups) in Midwestern US - @yousafProspectiveCohortStudy2020]]
-- **Consistent With::** [[EVD - Comparable secondary attack rate in households in China for children under 3 compared to other age groups - @wuHouseholdTransmissionSARSCoV22020]]
-- **FromSource::** [[@biEpidemiologyTransmissionCOVID192020]]
+- **Informs::** [QUE - How susceptible are young children to COVID-19 infection, given equivalent exposure.md](QUE - How susceptible are young children to COVID-19 infection, given equivalent exposure.md)
+- **Consistent With::** [EVD - similar secondary attack rate for household contacts 18yo or less (compared to other age groups) in Midwestern US - @yousafProspectiveCohortStudy2020.md](EVD - similar secondary attack rate for household contacts 18yo or less (compared to other age groups) in Midwestern US - @yousafProspectiveCohortStudy2020.md)
+- **Consistent With::** [EVD - Comparable secondary attack rate in households in China for children under 3 compared to other age groups - @wuHouseholdTransmissionSARSCoV22020.md](EVD - Comparable secondary attack rate in households in China for children under 3 compared to other age groups - @wuHouseholdTransmissionSARSCoV22020.md)
+- **FromSource::** [@biEpidemiologyTransmissionCOVID192020.md](@biEpidemiologyTransmissionCOVID192020.md)
 
-###### References
-
-[[roam-synthesis_discourse-graph_202112081045]]
-
-- [[[[EVD]] - Similar secondary attack rate for children vs. adults in Shenzen - [[@biEpidemiologyTransmissionCOVID192020]]]]
-
-    - Informs
-
-        - [[[[QUE]] - How susceptible are young children to COVID-19 infection, given equivalent exposure?]]
-[[roam-synthesis_discourse-graph_202112081045]]
-
-- [[[[EVD]] - Similar secondary attack rate for children vs. adults in Shenzen - [[@biEpidemiologyTransmissionCOVID192020]]]]
-
-    - Supports
-
-        - [[undefined]]
-[[roam-synthesis_discourse-graph_202112081045]]
-
-- [[[[EVD]] - Similar secondary attack rate for children vs. adults in Shenzen - [[@biEpidemiologyTransmissionCOVID192020]]]]
-
-    - Informs
-
-        - [[[[QUE]] - How susceptible are young children to COVID-19 infection, given equivalent exposure?]]

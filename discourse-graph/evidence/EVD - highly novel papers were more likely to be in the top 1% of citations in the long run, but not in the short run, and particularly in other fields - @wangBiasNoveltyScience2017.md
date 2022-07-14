@@ -80,51 +80,9 @@ date: Mon Jul 19 2021 11:27:49 GMT-0400 (Eastern Daylight Time)
 
 ###### Discourse Context
 
-- **Informs::** [[QUE - How might domain distance modulate the effects of analogies on creative output]]
-- **Supports::** [[CLM - Analogical distance of inspirations for an idea are positively related to the idea's creativity]]
-- **Consistent With::** [[EVD - papers with high median conventionality and high tail atypical combinations of journals they ...erage to be in top 5 percent of citation distribution - @uzziAtypicalCombinationsScientific2013]]
-- **Consistent With::** [[EVD - highly novel papers had higher variance in their citation outcomes over a 15-year window, biased towards the higher impact tail of the distribution - @wangBiasNoveltyScience2017]]
-- **FromSource::** [[@wangBiasNoveltyScience2017]]
+- **Informs::** [QUE - How might domain distance modulate the effects of analogies on creative output.md](QUE - How might domain distance modulate the effects of analogies on creative output.md)
+- **Supports::** [CLM - Analogical distance of inspirations for an idea are positively related to the idea's creativity.md](CLM - Analogical distance of inspirations for an idea are positively related to the idea's creativity.md)
+- **Consistent With::** [EVD - papers with high median conventionality and high tail atypical combinations of journals they ...erage to be in top 5 percent of citation distribution - @uzziAtypicalCombinationsScientific2013.md](EVD - papers with high median conventionality and high tail atypical combinations of journals they ...erage to be in top 5 percent of citation distribution - @uzziAtypicalCombinationsScientific2013.md)
+- **Consistent With::** [EVD - highly novel papers had higher variance in their citation outcomes over a 15-year window, biased towards the higher impact tail of the distribution - @wangBiasNoveltyScience2017.md](EVD - highly novel papers had higher variance in their citation outcomes over a 15-year window, biased towards the higher impact tail of the distribution - @wangBiasNoveltyScience2017.md)
+- **FromSource::** [@wangBiasNoveltyScience2017.md](@wangBiasNoveltyScience2017.md)
 
-###### References
-
-[[August 9th, 2021]]
-
-- emphasizing a lot the so-called "reception side" of things (cf. [[[[EVD]] - highly novel papers were more likely to be in the top 1% of citations in the long run, but not in the short run, and particularly in other fields - [[@wangBiasNoveltyScience2017]]]])
-
-    - Lo and Kennedy mentioned a couple times:
-
-        - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fmegacoglab%2FQTbvYLIHNM.png?alt=media&token=d36b60a5-ea5b-4fef-b234-f73a757c89de)
-
-    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fmegacoglab%2FiFUJ2rIIc4.png?alt=media&token=5d099fce-44b6-46ac-8514-c9dccb48d6a6)
-
-    - Zuckerman an important ref i think, probably theory, seminal claims/hypotheses (but probably not empirical evdience?) interesting: coming at it from sociology, and grounded in film industry. be careful!
-
-        - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fmegacoglab%2Fh-s0tKiYni.png?alt=media&token=ac087ac4-e6c5-4030-b299-03aad89e2ba9)
-[[December 21st, 2021]]
-
-- the primary task will be to replicate and extend these results from Wang et al on [bias against novelty]([[[[EVD]] - highly novel papers were more likely to be in the top 1% of citations in the long run, but not in the short run, and particularly in other fields - [[@wangBiasNoveltyScience2017]]]]) - we want to know if the basic result varies by field according to the [[hierarchy of the sciences]]
-
-    - secondarily, we might see if the effect in Uzzi et al (where a [mix of conventional and atypical combinations of citations led to much higher p(home run)]([[[[EVD]] - papers with high median conventionality and high tail atypical combinations of journals they cited were 2x more likely than average to be in top 5 percent of citation distribution - [[@uzziAtypicalCombinationsScientific2013]]]])) varies across fields
-
-    - this will involve the following steps:
-
-        - gain access to a suitable dataset (ideally from the authors) with enough variation in fields ([Wang's](sample: 661,643 papers published in 2001 from 251 subject categories, retrieved from  [[Web of Science]] ) for comparison; other leads include [[@mairesseNoveltyScienceImpact2018]]
-
-        - prepare dataset, with these substeps:
-
-            - compute combination / novelty scores (from [Wang](novelty = difficulty-adjusted first-time combination of journals))
-
-                - note: wang et al normalized these measures across fields for easier comparison. we will likely need to finesse and refine the measure to account for a priori field-varying factors in things like article length, citation practice,s etc.
-
-            - impute [hierarchy of sciences]([[hierarchy of the sciences]]) [classification](classify journals by [[hierarchy of the sciences]]) to articles: roughly, math, physical sciences, biological sciences, social sciences, and humanities (see [this ordering](((CaQWGh1pG))), for example)
-
-            - (bonus): do more detailed subfield analyses to classify and identify subsets of data where we have a more direct measure of degree of [[codification]] (see [definition](core definitions of [[codification]] on pp. 303-305) from [[@zuckermanAgeAgingAge1972]])
-
-            - compute citation outcome measures, including not just raw total cituations, but citations at long and short run (15-year and 3-year windows, respectively, as per [[@wangBiasNoveltyScience2017]])
-
-            - classify journals by [[hierarchy of the sciences]]
-
-        - construct appropriate regression models to test hypotheses
-
-            - [[Generalized Negative Binomial (GNB) model]] and [[logistic regression]]

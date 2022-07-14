@@ -27,12 +27,5 @@ date: Thu Jan 30 2020 17:29:21 GMT-0500 (Eastern Standard Time)
 
 ###### Discourse Context
 
-- **Informs::** [[QUE - Under what conditions is it possible to transfer expertise from one person to another]]
+- **Informs::** [QUE - Under what conditions is it possible to transfer expertise from one person to another.md](QUE - Under what conditions is it possible to transfer expertise from one person to another.md)
 
-###### References
-
-[[WP KNEXT library paper]]
-
-- There is a long and mature history of ideas in [[CSCW]] about how to support this kind of community and knowledge network-building, from the seminal [[sys/Answer Garden]] work by [[Mark Ackerman]], to the very successful [[sys/Eureka]] that built [[@bobrowCommunityKnowledgeSharing2002]]
-
-    - Modern examples of this are [[Stack Overflow]] and other community forums

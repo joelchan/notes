@@ -16,23 +16,5 @@ date: Tue Dec 07 2021 09:40:13 GMT-0500 (Eastern Standard Time)
 
 ###### Discourse Context
 
-- **Informs::** [[QUE - Under what conditions do diverse initial examples lead to better final design solutions]]
+- **Informs::** [QUE - Under what conditions do diverse initial examples lead to better final design solutions.md](QUE - Under what conditions do diverse initial examples lead to better final design solutions.md)
 
-###### References
-
-[[April 7th, 2022]]
-
-- I'm thinking about the role of **curation**. See maybe [[@kerneStrategiesFreeFormWeb2017]], although... I don't love the distance between the students and design experts. But worth a look.
-
-    - I think the part of this that is catching my interest is the distinction between classification/categorization and curation (where the latter is much more goal-oriented, particularly in the individual case). I expect to see "categories" and groupings and connections that are much more oriented to and aligned with idiosyncratic parts of the evolving model of the problem/solution space.
-
-    - In curation interfaces, the distance between examples and model of the space approaches zero, similar to ours.
-
-    - We might expect greater flexibility in problem formulations, then, for people who are able to curate examples in a much closer fashion.
-[[Week of July 4th, 2022]]
-
-- really neat [[sys/ConnectedPapers]] neighborhood too, including familiar favorites like [[@sharminUnderstandingKnowledgeManagement2009b]] and [[@herringGettingInspiredUnderstanding2009]] and [[@kerneStrategiesFreeFormWeb2017]]
-
-    - https://www.connectedpapers.com/main/a8cc6f38857986bb82ff083cace814cd11b19449/ReflectionSpace%3A-an-interactive-visualization-tool-for-supporting-reflection%20on%20action-in-design/graph
-
-    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fmegacoglab%2Fk7ZbZ1_9Uv.57.47.gif?alt=media&token=11a6a742-96da-454f-b25b-111834e9bd55)

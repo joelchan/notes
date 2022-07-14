@@ -111,70 +111,9 @@ date: Wed Jun 15 2022 10:19:42 GMT-0400 (Eastern Daylight Time)
 
 ###### Discourse Context
 
-- **Informs::** [[THE - interaction-oriented theory of creative inspiration from examples]]
-- **Informs::** [[PTN - design mood board]]
-- **SourceFor::** [[EVD - expert designers used mood boards in their practice to frame the design problem, both alone and in conjunction with a client - @luceroFramingAligningParadoxing2012]]
-- **SourceFor::** [[EVD - Designers constructed mood boards primarily from concrete design materials and examples, usua...evel as appropriate when using them to shape design work - @luceroFramingAligningParadoxing2012]]
-- **SourceFor::** [[EVD - Designers reported that visual juxtaposition of often contradictory themes, in the context of... essential for productively reframing the design problem - @luceroFramingAligningParadoxing2012]]
+- **Informs::** [THE - interaction-oriented theory of creative inspiration from examples.md](THE - interaction-oriented theory of creative inspiration from examples.md)
+- **Informs::** [PTN - design mood board.md](PTN - design mood board.md)
+- **SourceFor::** [EVD - expert designers used mood boards in their practice to frame the design problem, both alone and in conjunction with a client - @luceroFramingAligningParadoxing2012.md](EVD - expert designers used mood boards in their practice to frame the design problem, both alone and in conjunction with a client - @luceroFramingAligningParadoxing2012.md)
+- **SourceFor::** [EVD - Designers constructed mood boards primarily from concrete design materials and examples, usua...evel as appropriate when using them to shape design work - @luceroFramingAligningParadoxing2012.md](EVD - Designers constructed mood boards primarily from concrete design materials and examples, usua...evel as appropriate when using them to shape design work - @luceroFramingAligningParadoxing2012.md)
+- **SourceFor::** [EVD - Designers reported that visual juxtaposition of often contradictory themes, in the context of... essential for productively reframing the design problem - @luceroFramingAligningParadoxing2012.md](EVD - Designers reported that visual juxtaposition of often contradictory themes, in the context of... essential for productively reframing the design problem - @luceroFramingAligningParadoxing2012.md)
 
-###### References
-
-[[@luceroFramingAligningParadoxing2012]]
-
-- [[[[EVD]] - Designers reported that visual juxtaposition of often contradictory themes, in the context of a coherent whole, on mood boards was essential for productively reframing the design problem - [[@luceroFramingAligningParadoxing2012]]]]
-
-    - this [[Supports]] [[[[CLM]] - diverse examples improve creative outcomes by enabling novel conceptual integrations]]
-[[Week of July 4th, 2022]]
-
-- found through [[scite report]] thread from [[@luceroFramingAligningParadoxing2012]]
-
-    - https://scite.ai/reports/framing-aligning-paradoxing-abstracting-and-18Del6?contradicting=false&mentioning=false&page=1&utm_campaign=badge&utm_medium=badge&utm_source=roamresearch.com
-
-        - supporting cite from section 'implications for design' of publication:
-
-Lindley, S., Cao, X., Helmes, J., Morris, R., Meek, S. (2013). Towards a Tool for Design Ideation: Insights from Use of SketchStorm. Electronic Workshops in Computing. https://doi.org/10.14236/ewic/hci2013.13
-
-----------------------------------------------------------------
-“…Here, images might be thought of as artefacts to be gathered and manipulated, combined and annotated. Ways of supporting these activities have been highlighted before; our findings are in line with analyses of the ways in which existing tools, such as mood boards, are used ([Lucero, 2012]([[@luceroFramingAligningParadoxing2012]])), as well with recommendations that highlight the need to support the management and laying out of collected examples ([Keller et al, 2009]([[@kellerCollectingCabinetHow2009]]);[Mendels et al, 2011]([[@mendelsFreedSystemCreating2011]])) and their flexible annotation ([Herring et al, 2009]([[@herringGettingInspiredUnderstanding2009]]);[Sharmin et al, 2009]([[@sharminUnderstandingKnowledgeManagement2009b]])). We will not reiterate those arguments here.…”
-----------------------------------------------------------------
-
-        - then https://scite.ai/reports/towards-a-tool-for-design-2lnAlOm?page=1
-
-            - the title caught my eye
-
-            - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fmegacoglab%2FsXqRpZrkwW.png?alt=media&token=a9754fdc-73da-4c6f-95db-bffa507e4fc9)
-[[@luceroFramingAligningParadoxing2012]]
-
-- [[[[EVD]] - Designers constructed mood boards primarily from concrete design materials and examples, usually not from the immediate domain of the problem, and manipulate their abstraction level as appropriate when using them to shape design work - [[@luceroFramingAligningParadoxing2012]]]]
-
-    - this i think [[Supports]] the claim that [[[[CLM]] - Analogical distance of inspirations for an idea are positively related to the idea's creativity]]
-[[Week of June 27th, 2022]]
-
-- {{[[DONE]]}} finish up [[@luceroFramingAligningParadoxing2012]] reading notes
-
-    - finished on [[June 29th, 2022]]
-[[PTN - design mood board]]
-
-- from [[@luceroFramingAligningParadoxing2012]]
-
-    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fmegacoglab%2FUxkmH1_uaw.png?alt=media&token=804d3381-09ed-4720-9973-474c05e86bd1) (p. 439)
-
-    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fmegacoglab%2FLUPidmvtRG.png?alt=media&token=4f786bed-e62e-44eb-bc47-3d1f2ce9d840) (p. 445)
-
-    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fmegacoglab%2FAZnaYuGyGJ.png?alt=media&token=66528564-91e2-4b4d-9d47-4a62504887d2) (p. 439)
-[[@luceroFramingAligningParadoxing2012]]
-
-- [[[[EVD]] - expert designers used mood boards in their practice to frame the design problem, both alone and in conjunction with a client - [[@luceroFramingAligningParadoxing2012]]]]
-
-    - i think this [[Supports]] the claim that [[[[CLM]] - creative workers use examples to support problem (re)formulation]] because mood boards contain concrete examples, though [often not from the same domain]([[[[EVD]] - Designers constructed mood boards primarily from concrete design materials and examples, usually not from the immediate domain of the problem, and manipulate their abstraction level as appropriate when using them to shape design work - [[@luceroFramingAligningParadoxing2012]]]])
-[[June 15th, 2022]]
-
-- Reading [[@luceroFramingAligningParadoxing2012]] for [[[[THE]] - interaction-oriented theory of creative inspiration from examples]]
-
-    - We're spanning two literatures that don't interact as much: the fundamental cognitive literature, which provides mechanisms ([[analogy]], [[🧱 conceptual combination]]), and more applied/design literature, that is rich in context, and respects differences and similarities across design disciplines. Keep this in mind, and counteract the cognitive tendency to collapse them under "creative work". Look for the generative differences and nuances. Synthesize!
-
-    - There are also methodological implications of this theory, mostly for experimental studies: we cannot divorce the effects of examples from the means of interaction with them. That much is clear from studies of design practice with examples. I am now much more suspicious of negative findings about diverse or distant examples.
-
-    - I'm struck by the discussion of out of domain examples. Really really really reminiscent of [[[[CLM]] - A significant proportion of the benefits of analogical stimuli is oblique or indirect]]: it's not about direct transfer of features, but of.... *stimulating a conversation*, a rethinking. How does this happen? Through juxtaposition, reinterpretation, conversation.
-
-        - Again, reminds me so much of the richness in [[[[EVD]] - designers used a range of strategies for working with sources of inspiration, ranging from simpler, more source-driven strategies like direct source adaptation, to more complex and reflective strategies like source analysis and schema-driven source selection; complex strategies were more likely to be used by professionals and also more associated with radical transformation of sources - [[@eckertAdaptationSourcesInspiration2003]]]]

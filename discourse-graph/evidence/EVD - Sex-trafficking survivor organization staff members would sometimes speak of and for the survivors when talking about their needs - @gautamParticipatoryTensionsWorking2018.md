@@ -45,30 +45,15 @@ date: Wed Jun 16 2021 11:21:27 GMT-0400 (Eastern Daylight Time)
 
 ###### Discourse Context
 
-- **Informs::** [[QUE - What tension points exist between the goals of diversity and depth of user participation in participatory design]]
-- **Supports::** [[CLM - Marginalized user populations may require involvement of extra stakeholders who may complicate hearing the users' voices]]
-- **Consistent With::** [[EVD - in design sessions with children, there were tensions between interpretation of the participant voice v. the stakeholder @frauenbergerInterpretingInputChildren2012b]]
-- **Consistent With::** [[EVD - Designers inadvertently made assumptions while analyzing transcripts from design sessions whi...ted important desires from participants with dementia - @lindsayEmpathyParticipatoryDesign2012b]]
-- **Consistent With::** [[EVD - Intermediaries such as local government officials were necessary for accessing and co-designi...ople in ways that opposed what they really wanted - @ssozi-mugaruraSupportingCommunityNeeds2016]]
-- **Consistent With::** [[EVD - Teachers and helpers needed to be present in the beginning of PD session to help and make sur...were comfortable but were not needed in future sessions @frauenbergerDesigningSmartObjects2016a]]
-- **Consistent With::** [[EVD - Black and LatinX codesign participants were reluctant to fully disclose past experiences bc t...ider authorities who could harm them - @harringtonDeconstructingCommunityBasedCollaborative2019]]
-- **Consistent With::** [[EVD - Working with an advocate within the prison system allowed researchers to navigate bureaucratic hierarchy with relative ease - @tengParticipatoryDesignVirtual2019b]]
-- **FromSource::** [[@gautamParticipatoryTensionsWorking2018]]
+- **Informs::** [QUE - What tension points exist between the goals of diversity and depth of user participation in participatory design.md](QUE - What tension points exist between the goals of diversity and depth of user participation in participatory design.md)
+- **Supports::** [CLM - Marginalized user populations may require involvement of extra stakeholders who may complicate hearing the users' voices.md](CLM - Marginalized user populations may require involvement of extra stakeholders who may complicate hearing the users' voices.md)
+- **Supports::** [CLM - There is a tension between analyzing participants' direct inputs, and respecting their actual... when working with design partners who struggle to contribute more directly to design artifacts.md](CLM - There is a tension between analyzing participants' direct inputs, and respecting their actual... when working with design partners who struggle to contribute more directly to design artifacts.md)
+- **Consistent With::** [EVD - in design sessions with children, there were tensions between interpretation of the participant voice v. the stakeholder @frauenbergerInterpretingInputChildren2012a.md](EVD - in design sessions with children, there were tensions between interpretation of the participant voice v. the stakeholder @frauenbergerInterpretingInputChildren2012a.md)
+- **Consistent With::** [EVD - Designers inadvertently made assumptions while analyzing transcripts from design sessions whi...ted important desires from participants with dementia - @lindsayEmpathyParticipatoryDesign2012b.md](EVD - Designers inadvertently made assumptions while analyzing transcripts from design sessions whi...ted important desires from participants with dementia - @lindsayEmpathyParticipatoryDesign2012b.md)
+- **Consistent With::** [EVD - in one European municipality involved in a citizen participatory design project, progress was...neglected to budget for a dedicated community coordinator - @fitzpatrickQuadrupleHelixModel2018.md](EVD - in one European municipality involved in a citizen participatory design project, progress was...neglected to budget for a dedicated community coordinator - @fitzpatrickQuadrupleHelixModel2018.md)
+- **Consistent With::** [EVD - Intermediaries such as local government officials were necessary for accessing and co-designi...ople in ways that opposed what they really wanted - @ssozi-mugaruraSupportingCommunityNeeds2016.md](EVD - Intermediaries such as local government officials were necessary for accessing and co-designi...ople in ways that opposed what they really wanted - @ssozi-mugaruraSupportingCommunityNeeds2016.md)
+- **Consistent With::** [EVD - Teachers and helpers needed to be present in the beginning of PD session to help and make sur...were comfortable but were not needed in future sessions @frauenbergerDesigningSmartObjects2016a.md](EVD - Teachers and helpers needed to be present in the beginning of PD session to help and make sur...were comfortable but were not needed in future sessions @frauenbergerDesigningSmartObjects2016a.md)
+- **Consistent With::** [EVD - Black and LatinX codesign participants were reluctant to fully disclose past experiences bc t...ider authorities who could harm them - @harringtonDeconstructingCommunityBasedCollaborative2019.md](EVD - Black and LatinX codesign participants were reluctant to fully disclose past experiences bc t...ider authorities who could harm them - @harringtonDeconstructingCommunityBasedCollaborative2019.md)
+- **Consistent With::** [EVD - Working with an advocate within the prison system allowed researchers to navigate bureaucratic hierarchy with relative ease - @tengParticipatoryDesignVirtual2019b.md](EVD - Working with an advocate within the prison system allowed researchers to navigate bureaucratic hierarchy with relative ease - @tengParticipatoryDesignVirtual2019b.md)
+- **FromSource::** [@gautamParticipatoryTensionsWorking2018.md](@gautamParticipatoryTensionsWorking2018.md)
 
-###### References
-
-[[June 15th, 2021]]
-
-- from the ethnographic work, the team noticed that the [survivor organization staff members would sometimes speak of and for the sister-survivors]([[[[EVD]] - Sex-trafficking survivor organization staff members would sometimes speak of and for the survivors when talking about their needs - [[@gautamParticipatoryTensionsWorking2018]]]]). Sometimes this manifested as "**gentle correction**" of their statements about their goals
-
-    - [[Salma Elsayed-Ali]] thought about two papers where the danger of things getting lost in translatino with proxies in [[Participatory Design]] - maybe this was with neurodiverse children
-
-        - The challenges of proxies shows up in "Three tensions in participatory design for inclusion"
-
-    - [[Elizabeth Bonsignore]] thinks that might show up with users who are nonverbal - probably [[Christopher Frauenberger]] has done some stuff with this?
-
-        - see also JP Hourcade
-
-        - and storykit
-
-    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fmegacoglab%2FlrNnjgs1UR.png?alt=media&token=7ded0fe3-b2e8-4dea-a3ec-bbd870957100) (p. 3)

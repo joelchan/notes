@@ -29,12 +29,5 @@ date: Wed Nov 04 2020 16:28:04 GMT-0500 (Eastern Standard Time)
 
 ###### Discourse Context
 
-- **Informs::** [[CLM - Expert designers are solution-oriented]]
+- **Informs::** [CLM - Expert designers are solution-oriented.md](CLM - Expert designers are solution-oriented.md)
 
-###### References
-
-[[CLM - Expert designers are solution-oriented]]
-
-- More sources possibly in [[@fjaellegaardDesignersDeterminantsDesign2019]]
-
-    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fmegacoglab%2FYm3hUCjR6M.png?alt=media&token=66049e26-8a8b-4945-881d-9b086f013b0b)

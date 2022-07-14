@@ -78,13 +78,6 @@ date: Mon Dec 27 2021 22:37:32 GMT-0500 (Eastern Standard Time)
 
 ###### Discourse Context
 
-- **Informs::** [[THE - interaction-oriented theory of creative inspiration from examples]]
-- **FromSource::** [[@eckertAdaptationSourcesInspiration2003]]
+- **Informs::** [THE - interaction-oriented theory of creative inspiration from examples.md](THE - interaction-oriented theory of creative inspiration from examples.md)
+- **FromSource::** [@eckertAdaptationSourcesInspiration2003.md](@eckertAdaptationSourcesInspiration2003.md)
 
-###### References
-
-[[December 29th, 2021]]
-
-- [[[[EVD]] - designers used a range of strategies for working with sources of inspiration, ranging from simpler, more source-driven strategies like direct source adaptation, to more complex and reflective strategies like source analysis and schema-driven source selection; complex strategies were more likely to be used by professionals and also more associated with radical transformation of sources - [[@eckertAdaptationSourcesInspiration2003]]]] has some pointers to this, but the more general idea of **modeling** - not just the items themselves, but their underlying structure
-
-    - thankfully pulling on this thread recently with [[[[THE]] - interaction-oriented theory of creative inspiration from examples]]

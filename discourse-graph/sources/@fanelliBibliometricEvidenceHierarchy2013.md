@@ -39,45 +39,7 @@ date: Wed Sep 01 2021 22:04:26 GMT-0400 (Eastern Daylight Time)
 
 ###### Discourse Context
 
-- **Informs::** [[QUE - (How) do fields of innovation vary in their legibility of quality]]
-- **Informs::** [[QUE - How can we measure quality legibility of a field]]
-- **SourceFor::** [[EVD - statistically significant but small differences in bibliometric measures of consensus across ...cal, hard and soft biological, and social sciences  - @fanelliBibliometricEvidenceHierarchy2013]]
+- **Informs::** [QUE - (How) do fields of innovation vary in their legibility of quality.md](QUE - (How) do fields of innovation vary in their legibility of quality.md)
+- **Informs::** [QUE - How can we measure quality legibility of a field.md](QUE - How can we measure quality legibility of a field.md)
+- **SourceFor::** [EVD - statistically significant but small differences in bibliometric measures of consensus across ...cal, hard and soft biological, and social sciences  - @fanelliBibliometricEvidenceHierarchy2013.md](EVD - statistically significant but small differences in bibliometric measures of consensus across ...cal, hard and soft biological, and social sciences  - @fanelliBibliometricEvidenceHierarchy2013.md)
 
-###### References
-
-[[September 17th, 2021]]
-
-- [[@fanelliBibliometricEvidenceHierarchy2013]] for [[[[QUE]] - How can we measure quality legibility of a field?]] and [[[[QUE]] - (How) do fields of innovation vary in their legibility of quality?]]
-
-    - thread back from [[Auguste Comte]], ties back to ideas of "hard science" and "soft science". i do like that they acknowledge here the move in post-positivism as well as alternative views.
-
-        - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fmegacoglab%2FFRxRBrAVx0.png?alt=media&token=c3ff1b37-e259-493e-92d9-635f4acaf3ec) (p. 1)
-
-    - possible reason for "softness" - increased "complexity". this reminds me of [[@howardFaceMasksCOVID192020]], and makes me wonder about the ratio of lit reviews to primary papers as one noisy proxy for the softness of a field (more = softer)
-
-        - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fmegacoglab%2FONI-qIoAF_.png?alt=media&token=773e292c-35a2-4288-81ce-9de3c758b986) 
-![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fmegacoglab%2F7jaWWXyd10.png?alt=media&token=44f016bb-0a24-49bc-b401-3ba5949d10b3)(pp. 1-2)
-
-        - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fmegacoglab%2F1Rc_IWtZEz.png?alt=media&token=c44a4484-2bc1-459f-9dea-f3f1524851d2) (p. 2)
-
-    - methods notes
-
-        - same hypothesized ordering here as in [[@coleHierarchySciences1983]] and [[@simontonVarietiesScientificCreativity2009]], from physics to biology to social science
-
-            - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fmegacoglab%2FjWysvSGtjC.png?alt=media&token=167979b3-c1bc-46ac-9b1a-bea2418ff71f) (p. 2)
-
-        - sample: ~29k papers published in first issue of 2012 across 12 disciplines, ranging from physical sciences (space science, physics, chemistry) to hard (molecular biology, biology and biochemistry) and soft biological sciences (plant and animal sciences, environment/ecology), to social sciences (psychiatry/psychology, econ & business, social sciences general)
-
-            - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fmegacoglab%2FKKYGlx4Jbp.png?alt=media&token=ad6bbcd1-8a2a-4db5-a20f-7b89f2fe1718) (p. 3)
-
-        - measures included number of authors (+), length of article (-), number of references (-), references to monographs (-), age of references (aka [[Price's index]]) (-), diversity of sources (-), relative title length (+), first-person (-), sharing of references degree (-), sharing of references intensity (+)
-
-            - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fmegacoglab%2F562g7HBU7C.png?alt=media&token=14d06539-8276-4eec-93bf-b0ed91b7ac47) (p. 3)
-
-        - analytic approach: multivariate analysis with an ordinal regression in a generalized linear model
-
-            - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fmegacoglab%2FhlHEmoqLZn.png?alt=media&token=96d7b3e9-37d0-478b-b24c-24de2433403f) (p. 8)
-
-    - results
-
-        - [[[[EVD]] - statistically significant but small differences in bibliometric measures of consensus across papers in physical, hard and soft biological, and social sciences  - [[@fanelliBibliometricEvidenceHierarchy2013]]]]

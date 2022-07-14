@@ -21,14 +21,5 @@ date: Fri Apr 17 2020 23:04:04 GMT-0400 (Eastern Daylight Time)
 
 ###### Discourse Context
 
-- **Informs::** [[CLM - In interdisciplinary domains, network-based foraging is more powerful than search-based foraging]]
+- **Informs::** [CLM - In interdisciplinary domains, network-based foraging is more powerful than search-based foraging.md](CLM - In interdisciplinary domains, network-based foraging is more powerful than search-based foraging.md)
 
-###### References
-
-[[@fisherTheoriesInformationBehavior2005]]
-
-- [[Domain-Analysis]] traced back to introduction of term "domain analysis" by [[@hjorlandNewHorizonInformation1995]]: basic idea is need to incorporate [[context]] when thinking about users' information behaviors, not just generic "users" (p.123)
-
-    - Softer version of [[[[CLM]] - Knowledge is fundamentally contextual]]
-
-    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fmegacoglab%2F4LppppxOk9?alt=media&token=11164832-86e5-4962-941e-9a4baa023e45)

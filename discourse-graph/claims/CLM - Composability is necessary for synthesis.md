@@ -75,64 +75,8 @@ date: Sat Mar 07 2020 17:22:46 GMT-0500 (Eastern Standard Time)
 
 ###### Discourse Context
 
-- **Informed By::** [[@holbrookLevelsSuccessUse2008]]
-- **Informed By::** [[@harsDesigningScientificKnowledge2001]]
-- **Informed By::** [[@russellCostStructureSensemaking1993]]
-- **Informed By::** [[@pirolliSensemakingProcessLeverage2005]]
+- **Informed By::** [@holbrookLevelsSuccessUse2008.md](@holbrookLevelsSuccessUse2008.md)
+- **Informed By::** [@harsDesigningScientificKnowledge2001.md](@harsDesigningScientificKnowledge2001.md)
+- **Informed By::** [@russellCostStructureSensemaking1993.md](@russellCostStructureSensemaking1993.md)
+- **Informed By::** [@pirolliSensemakingProcessLeverage2005.md](@pirolliSensemakingProcessLeverage2005.md)
 
-###### References
-
-[[WP TOCHI Requirements framework for synthesis systems]]
-
-- [[[[CLM]] - Composability is necessary for synthesis]]
-
-    - Different word maybe? Formalism challenge, making it formality, need to have some formal structure e.g. Shipman paper Have to have some explicit representation
-[[WP TOCHI Requirements framework for synthesis systems]]
-
-- [[compositionality]] (which [[Katrina Fenlon]] thinks, and I think is worth considering, should be renamed to [[composability]]) #[[[[CLM]] - Composability is necessary for synthesis]]
-
-    - Synthesizers should be able to ^^put ideas together^^ into more complex compositions. These compositions shouldn't be limited to simple clustering or aggregation, but should afford richer compositions like graphs, causal models, theories, arguments, facets, timelines, and so on.
-
-        - cf. #[[@faisalClassificationSensemakingRepresentations2009]]
-[[@halfordDigitalFuturesSociological2013]]
-
-- This has significant implications for how we think about precisely in what sense [[[[CLM]] - Composability is necessary for synthesis]], and how [[formality]] plays into it
-
-    - #[[Z: [[context]] and [[formality]] are in tension]]
-[[May 30th, 2020]]
-
-- Processing a real paper [[@liuOntologyFolksonomyStudy2008]] (actually really relevant to [[[[CLM]] - Composability is necessary for synthesis]])(there are others too)
-
-    - {{youtube: https://www.youtube.com/watch?v=y65psAw-h4o&t=668s}}
-
-    - also sparked citation thread to find this paper on multiple viewpoint [[ontologies]]: [[@zhitomirsky-geffetMultiviewpointOntologyConstruction2017]]
-[[WP Synthesis requirements Theory and practice blog post series]]
-
-- the **system **needs to enable you to [compose these units into various larger representations]([[[[CLM]] - Composability is necessary for synthesis]])
-
-    - examples:
-
-        - evergreen note structures
-
-        - comparison tables
-
-        - hierarchies (a la [[sys/NVIVO]] et al)
-
-        - outlines and arguments
-
-    - we can also potentially see how making the units compressable and contextualizable can aid in composability
-
-    - the core idea here is of system affordances for **explicitly** composing/linking items
-
-        - so [[bi-directional links]] help
-
-        - spatial proximity is a nice start, but has limits
-
-        - [[formality]] can help support richer composition motifs, but needs to be approached with caution (e.g., make sure it doesn't [destroy contextualizability]([[Z: [[context]] and [[formality]] are in tension]]), or [mess too much with multiplicity]([[Z: [[Multiplicity]] and [[Composability]] are in tension]]))
-
-            - it may also be less necessary now that AI/ML can help us do more approximate similarity, perhaps in a more "scruffy" way, than relying on trustworthy, ontological sameness to do reasoning
-[[October 22nd, 2021]]
-
-- Structured: (composable): [[[[CLM]] - Composability is necessary for synthesis]]
-
-    - so we can query it, and use computational support to help find new ideas (graph merge) as well as test and iterate on and develop ideas (synthesis queries)

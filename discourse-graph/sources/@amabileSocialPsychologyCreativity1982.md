@@ -20,14 +20,5 @@ date: Wed Feb 09 2022 15:20:58 GMT-0500 (Eastern Standard Time)
 
 ###### Discourse Context
 
-- **Informs::** [[QUE - Is it possible to measure creativity in a scientifically precise way If so, how]]
+- **Informs::** [QUE - Is it possible to measure creativity in a scientifically precise way If so, how.md](QUE - Is it possible to measure creativity in a scientifically precise way If so, how.md)
 
-###### References
-
-[[February 9th, 2022]]
-
-- [[@amabileSocialPsychologyCreativity1982]]'s [[Consensual Assessment Technique (CAT)]] is a commonly employed and thoughtfully justified measure of the creativity of products, and relies on not just novelty, but consensual assessment of valuable novelty by a jury of  appropriate experts (or, in [[Mihaly Csikszentmihalyi]]'s terms, appropriately qualified representatives of a relevant field).
-
-    - As [[@sawyerExplainingCreativityScience2012]] notes:
-
-        - > "The CAT depends on the sociocultural criterion of appropriateness as evaluated by a community" (p. 42)

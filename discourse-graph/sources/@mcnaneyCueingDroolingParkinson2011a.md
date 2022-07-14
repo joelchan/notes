@@ -29,12 +29,5 @@ date: Fri May 14 2021 11:27:45 GMT-0400 (Eastern Daylight Time)
 
 ###### Discourse Context
 
-- **Informs::** [[QUE - What tension points exist between the goals of diversity and depth of user participation in participatory design]]
+- **Informs::** [QUE - What tension points exist between the goals of diversity and depth of user participation in participatory design.md](QUE - What tension points exist between the goals of diversity and depth of user participation in participatory design.md)
 
-###### References
-
-[[June 29th, 2021]]
-
-- and also observed some similar themes in some work with people with parkinson's [23] [[@mcnaneyCueingDroolingParkinson2011a]], but this time around motivation/engagement
-
-    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fmegacoglab%2FxpiuyEHRMK.png?alt=media&token=db439725-4dd1-4cae-974a-c64e49b1ae2f)

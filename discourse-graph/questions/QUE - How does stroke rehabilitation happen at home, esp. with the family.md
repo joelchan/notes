@@ -26,3 +26,7 @@ date: Mon Feb 28 2022 11:27:11 GMT-0500 (Eastern Standard Time)
 - # Meta
 
     - Tags:
+
+###### Discourse Context
+
+- **Informed By::** [@hofmannLivingDisabilityTheory2020.md](@hofmannLivingDisabilityTheory2020.md)

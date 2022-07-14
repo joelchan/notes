@@ -23,10 +23,8 @@ date: Tue Sep 22 2020 10:51:40 GMT-0400 (Eastern Daylight Time)
 
         - [[@chanWhereRubberMeets2020]]
 
-###### References
+###### Discourse Context
 
-[[RP Sociotechnical integration of semantic integration in scholarly workflows]]
+- **Informed By::** [CLM - Effective individual synthesis systems (seem to mostly) exist (for a select few).md](CLM - Effective individual synthesis systems (seem to mostly) exist (for a select few).md)
+- **Informed By::** [@chanWhereRubberMeets2020.md](@chanWhereRubberMeets2020.md)
 
-- --> [[[[QUE]] - What semantic publishing work is already being done by scholars in their scholarly workflows?]]
-
-    - building on [[@chanWhereRubberMeets2020]]

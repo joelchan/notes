@@ -10,4 +10,4 @@ date: Thu Mar 31 2022 20:31:48 GMT-0400 (Eastern Daylight Time)
 
 ###### Discourse Context
 
-- **FromSource::** [[@rhyscoxDirectedDiversityLeveraging2021]]
+- **FromSource::** [@rhyscoxDirectedDiversityLeveraging2021.md](@rhyscoxDirectedDiversityLeveraging2021.md)

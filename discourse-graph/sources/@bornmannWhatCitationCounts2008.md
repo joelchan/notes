@@ -9,4 +9,4 @@ date: Tue Jun 30 2020 23:18:21 GMT-0400 (Eastern Daylight Time)
 
 ###### Discourse Context
 
-- **Informs::** [[CLM - Citation practices in science are far from optimal]]
+- **Informs::** [CLM - Citation practices in science are far from optimal.md](CLM - Citation practices in science are far from optimal.md)

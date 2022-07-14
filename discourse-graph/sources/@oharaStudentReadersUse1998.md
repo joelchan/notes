@@ -47,19 +47,7 @@ date: Tue Apr 28 2020 13:22:36 GMT-0400 (Eastern Daylight Time)
 
 ###### Discourse Context
 
-- **Informs::** [[CLM - Scholars constantly need to reread during a literature review]]
-- **Informs::** [[QUE - How can we best bridge private vs. public knowledge]]
-- **Informs::** [[QUE - What (existing) systems facilitate individual synthesis]]
+- **Informs::** [CLM - Scholars constantly need to reread during a literature review.md](CLM - Scholars constantly need to reread during a literature review.md)
+- **Informs::** [QUE - How can we best bridge private vs. public knowledge.md](QUE - How can we best bridge private vs. public knowledge.md)
+- **Informs::** [QUE - What (existing) systems facilitate individual synthesis.md](QUE - What (existing) systems facilitate individual synthesis.md)
 
-###### References
-
-[[@tashmanLiquidTextFlexibleMultitouch2011]]
-
-- cites [[@oharaStudentReadersUse1998]] as justification
-
-    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fmegacoglab%2FBAOos0FfjB?alt=media&token=b0c45a1a-6c22-40ea-9d0f-7dbed9b0198b)
-[[WP JCDL Where the semantic publishing rubber meets the scholarly practice road]]
-
-- Many of these in isolation are not new! Lots of beautifully detailed work in [[active reading]]; see as far back as #[[@oharaStudentReadersUse1998]] for rich examples, or even... as far back as [[Charles Darwin]] and, arguably, as old as external representations ;). What we see here is a different lens with which to view these data, to consider what these behaviors (could) do.
-
-    - The sophistication of the *system* (vs. the medium or tool) might explain [[[[CLM]] - Analog media are stubbornly effective for supporting creative knowledge work]]

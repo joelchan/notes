@@ -16,19 +16,5 @@ date: Mon Dec 13 2021 14:28:00 GMT-0500 (Eastern Standard Time)
 
 ###### Discourse Context
 
-- **Informs::** [[THE - interaction-oriented theory of creative inspiration from examples]]
+- **Informs::** [THE - interaction-oriented theory of creative inspiration from examples.md](THE - interaction-oriented theory of creative inspiration from examples.md)
 
-###### References
-
-[[December 13th, 2021]]
-
-- [[@kochSemanticCollageEnrichingDigital2020]]
-
-    - this bit overlaps a bit with [[Salma Elsayed-Ali]]'s stuff on collages!
-[[April 7th, 2022]]
-
-- [[mood board]]s are similar. [[@kochSemanticCollageEnrichingDigital2020]] and [[@kochImageSenseIntelligentCollaborative2020]]
-
-    - what is interesting about [[sys/SemanticCollage]] and [[sys/ImageSense]] I think is the ability of the designers to *define* the model of the example space, in conversation with their model of the "problem/solution space" (on the mood board)
-
-    - in fact, [[Andrés Lucero]] (who is on these papers) also has a bunch of papers digging into this (found through this [[sys/ConnectedPapers]] [map](https://www.connectedpapers.com/main/dc90eab30d08907c810fd12ebe9723609f49a0cd/Understanding-knowledge-management-practices-for-early-design-activity-and-its-implications-for-reuse/graph) around [[@sharminUnderstandingKnowledgeManagement2009b]])

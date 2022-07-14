@@ -40,18 +40,11 @@ date: Mon Oct 04 2021 22:52:22 GMT-0400 (Eastern Daylight Time)
 
 ###### Discourse Context
 
-- **Informs::** [[QUE - Under what conditions do diverse initial examples lead to better final design solutions]]
-- **Informs::** [[THE - interaction-oriented theory of creative inspiration from examples]]
-- **Supports::** [[CLM - diverse examples improve creative outcomes by enabling novel conceptual integrations]]
-- **Consistent With::** [[EVD - undergraduates used more complex integration approaches (vs. property transfer and hybridizat...n phrases from dissimilar vs. similar noun pairs - @wilkenfeldSimilarityEmergenceConceptual2001]]
-- **Consistent With::** [[EVD - undergraduates generated novel word combination noun phrases with more emergent features when noun pairs were dissimilar vs. similar - @wilkenfeldSimilarityEmergenceConceptual2001]]
-- **Consistent With::** [[EVD - designers used examples by re-appropriating and recombining solution components into novel ideas - @herringGettingInspiredUnderstanding2009]]
-- **FromSource::** [[@zengFosteringCreativityProduct2011]]
+- **Informs::** [QUE - Under what conditions do diverse initial examples lead to better final design solutions.md](QUE - Under what conditions do diverse initial examples lead to better final design solutions.md)
+- **Informs::** [THE - interaction-oriented theory of creative inspiration from examples.md](THE - interaction-oriented theory of creative inspiration from examples.md)
+- **Supports::** [CLM - diverse examples improve creative outcomes by enabling novel conceptual integrations.md](CLM - diverse examples improve creative outcomes by enabling novel conceptual integrations.md)
+- **Consistent With::** [EVD - undergraduates used more complex integration approaches (vs. property transfer and hybridizat...n phrases from dissimilar vs. similar noun pairs - @wilkenfeldSimilarityEmergenceConceptual2001.md](EVD - undergraduates used more complex integration approaches (vs. property transfer and hybridizat...n phrases from dissimilar vs. similar noun pairs - @wilkenfeldSimilarityEmergenceConceptual2001.md)
+- **Consistent With::** [EVD - undergraduates generated novel word combination noun phrases with more emergent features when noun pairs were dissimilar vs. similar - @wilkenfeldSimilarityEmergenceConceptual2001.md](EVD - undergraduates generated novel word combination noun phrases with more emergent features when noun pairs were dissimilar vs. similar - @wilkenfeldSimilarityEmergenceConceptual2001.md)
+- **Consistent With::** [EVD - designers used examples by re-appropriating and recombining solution components into novel ideas - @herringGettingInspiredUnderstanding2009.md](EVD - designers used examples by re-appropriating and recombining solution components into novel ideas - @herringGettingInspiredUnderstanding2009.md)
+- **FromSource::** [@zengFosteringCreativityProduct2011.md](@zengFosteringCreativityProduct2011.md)
 
-###### References
-
-[[October 4th, 2021]]
-
-- [[[[EVD]] - Design students generated more creative web service ideas when combining interdomain web service examples, compared to intradomain examples - [[@zengFosteringCreativityProduct2011]]]] #Informs
-
-    - Note: evidence is fairly weak from an N perspective, but the overall effect is fairly large (though no SD reported)

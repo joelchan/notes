@@ -15,14 +15,7 @@ date: Mon Jan 18 2021 22:59:31 GMT-0500 (Eastern Standard Time)
 
             - So carefully distinguish from work on [[synthesis centers]], and also [[science of team science]]
 
-###### References
+###### Discourse Context
 
-[[January 22nd, 2021]]
+- **Informed By::** [@laneEngineeringSerendipityWhen.md](@laneEngineeringSerendipityWhen.md)
 
-- [[[[QUE]] - What is the range of expected "benefits" of engineered interactions with potential "informants" across knowledge boundaries?]]
-
-    - base rate is probably ~10% for starting up collaborations of some kind
-
-        - maybe current max is highly costly collocated, curated conference-y interactions (also have socialization activities)
-
-        - lakhani went from ~0.5% to ~1% - a big relative increase, but still a tiny overall absolute success rate

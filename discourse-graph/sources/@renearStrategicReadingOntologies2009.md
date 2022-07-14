@@ -55,18 +55,6 @@ date: Wed Apr 08 2020 22:28:40 GMT-0400 (Eastern Daylight Time)
 
 ###### Discourse Context
 
-- **Informs::** [[CLM - Scientists read strategically, not linearly]]
-- **Informs::** [[CLM - The central bottleneck to synthesis infrastructures is authoring]]
+- **Informs::** [CLM - Scientists read strategically, not linearly.md](CLM - Scientists read strategically, not linearly.md)
+- **Informs::** [CLM - The central bottleneck to synthesis infrastructures is authoring.md](CLM - The central bottleneck to synthesis infrastructures is authoring.md)
 
-###### References
-
-[[CLM - The central bottleneck to synthesis infrastructures is authoring]]
-
-- #[[@renearStrategicReadingOntologies2009]]
-
-    - "There are no technical obstacles to this trajectory [towards enhanced literature and ontology-aware tools], and it is already under way" (p. 832)
-[[July 28th, 2020]]
-
-- [[@renearStrategicReadingOntologies2009]]
-
-    - "Scientists will still read narrative prose, even as text mining and automated processing become common; however, these reading practices will become increasingly strategic, supported by enhanced literature and ontology-aware tools. As part of the publishing workflow, scientific terminology will be indexed routinely against rich ontologies. More importantly, formalized assertions, perhaps maintained in specialized 'structured abstracts' (27), wil provide indexing and browsing tools with computational access to causal and ontological relationships. Hypertext linking will be extensive, generated both automatically and by readers providing commentary on blogs and through shared annotation databases. At the same time, more tools for enhanced searching, scanning and analyzing will appear and exploit the increasingly rich layer of indexing, linking, and annotation information." (p. 832)

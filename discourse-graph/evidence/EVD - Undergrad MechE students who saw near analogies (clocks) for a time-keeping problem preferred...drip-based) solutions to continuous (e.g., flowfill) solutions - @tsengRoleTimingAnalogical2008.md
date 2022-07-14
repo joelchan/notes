@@ -70,14 +70,7 @@ date: Thu Jul 01 2021 10:57:04 GMT-0400 (Eastern Daylight Time)
 
 ###### Discourse Context
 
-- **Informs::** [[QUE - How might domain distance modulate the effects of analogies on creative output]]
-- **Supports::** [[CLM - Analogical distance of inspirations for an idea are positively related to the idea's creativity]]
-- **FromSource::** [[@tsengRoleTimingAnalogical2008]]
+- **Informs::** [QUE - How might domain distance modulate the effects of analogies on creative output.md](QUE - How might domain distance modulate the effects of analogies on creative output.md)
+- **Supports::** [CLM - Analogical distance of inspirations for an idea are positively related to the idea's creativity.md](CLM - Analogical distance of inspirations for an idea are positively related to the idea's creativity.md)
+- **FromSource::** [@tsengRoleTimingAnalogical2008.md](@tsengRoleTimingAnalogical2008.md)
 
-###### References
-
-[[July 1st, 2021]]
-
-- [[[[EVD]] - Undergrad MechE students who saw near analogies (clocks) for a time-keeping problem preferred discrete (drip-based) solutions to continuous (e.g., flow/fill) solutions - [[@tsengRoleTimingAnalogical2008]]]]
-
-    - this might be an example of [[🧱 fixation]], cc [[@janssonDesignFixation1991]] and [[@linseyStudyDesignFixation2010]]

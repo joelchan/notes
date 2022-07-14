@@ -23,13 +23,6 @@ date: Thu Jun 18 2020 16:48:11 GMT-0400 (Eastern Daylight Time)
 
 ###### Discourse Context
 
-- **Informs::** [[CLM - Design proceeds by co-evolution of problem and solution space]]
-- **Informs::** [[CLM - Expert designers are solution-oriented]]
+- **Informs::** [CLM - Design proceeds by co-evolution of problem and solution space.md](CLM - Design proceeds by co-evolution of problem and solution space.md)
+- **Informs::** [CLM - Expert designers are solution-oriented.md](CLM - Expert designers are solution-oriented.md)
 
-###### References
-
-[[CLM - Design proceeds by co-evolution of problem and solution space]]
-
-- see also [[problem (re)formulation]], although there is a fair amount of argument in design research that the way this happens with designers is fundamentally different in flavor, in that [[[[CLM]] - Expert designers are solution-oriented]]: (much more "jump in", iterative) than a "scientific" approach (although it is debatable whether the scientific approach being contrasted with is a "strawman") - one early #canonical paper for this is [[@lawsonCognitiveStrategiesArchitectural1979]] (cited in [[@crossExpertiseDesignOverview2004]])
-
-    - [[@crossExpertiseDesignOverview2004]], though, summarizes that this experienced designers' solution-orientation is a function of experience with the problem type (possibly making it less ill-structured)

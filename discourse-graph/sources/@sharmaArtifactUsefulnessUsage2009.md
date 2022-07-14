@@ -29,20 +29,5 @@ date: Fri Apr 24 2020 13:46:42 GMT-0400 (Eastern Daylight Time)
 
 ###### Discourse Context
 
-- **Informs::** [[QUE - How can we best bridge private vs. public knowledge]]
+- **Informs::** [QUE - How can we best bridge private vs. public knowledge.md](QUE - How can we best bridge private vs. public knowledge.md)
 
-###### References
-
-[[April 24th, 2020]]
-
-- [[@sharmaArtifactUsefulnessUsage2009]] #> __ A detailed analysis of essential attributes of sensemaking tasks, and elements identified in the computer supported collaborative work literature were combined to yield insight into handoff sensemaking and guide empirical work. A lab‐study showed that handoffs relying only on artifacts from previous sensemaking could be successful. The lab studies also indicated timing and quality affects on the sensemaking handoffs, with different quality materials used differently, and early efforts possibly being particularly difficult to hand off. __ — via [Artifact usefulness and usage in sensemaking handoffs - Sharma - 2009 - Proceedings of the American Society for Information Science and Technology - Wiley Online Library](https://asistdl.onlinelibrary.wiley.com/doi/full/10.1002/meet.2009.1450460219) [[+Roam]]
-
-    - Relevant for [[WP: Synthesis empirical paper]], more grounding in [[🧱 sensemaking]] lit and bridging to [[reuse]]
-
-        - cf. [[Aniket Kittur]]'s distributed sensemaking stuff [[@fisherDistributedSensemakingImproving2012]], which similarly found that handoffs from previous sensemakers could be useful
-
-        - and contra [[@marshallExploringRelationshipPersonal2004]], where People frequently need to make substantial changes to [[annotation]]s ot make them useful to other people (p. 354)
-
-        - synthesis might be in the complexity of the task and what [[context]] is needed
-
-    - Second author [[George Furnas]] is important in [[🧱 sensemaking]], including [[@furnasRepresentationalChangeSensemaking2008]]

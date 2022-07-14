@@ -31,5 +31,5 @@ date: Tue Jun 08 2021 15:51:04 GMT-0400 (Eastern Daylight Time)
 
 ###### Discourse Context
 
-- **Informs::** [[QUE - What tension points exist between the goals of diversity and depth of user participation in participatory design]]
-- **FromSource::** [[@harringtonDeconstructingCommunityBasedCollaborative2019]]
+- **Informs::** [QUE - What tension points exist between the goals of diversity and depth of user participation in participatory design.md](QUE - What tension points exist between the goals of diversity and depth of user participation in participatory design.md)
+- **FromSource::** [@harringtonDeconstructingCommunityBasedCollaborative2019.md](@harringtonDeconstructingCommunityBasedCollaborative2019.md)

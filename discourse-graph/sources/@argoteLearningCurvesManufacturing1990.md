@@ -29,14 +29,5 @@ date: Wed Feb 17 2021 13:36:53 GMT-0500 (Eastern Standard Time)
 
 ###### Discourse Context
 
-- **Informs::** [[QUE - Under what conditions is it possible to transfer expertise from one person to another]]
+- **Informs::** [QUE - Under what conditions is it possible to transfer expertise from one person to another.md](QUE - Under what conditions is it possible to transfer expertise from one person to another.md)
 
-###### References
-
-[[QUE - Under what conditions is it possible to transfer expertise from one person to another]]
-
-- [[@argoteLearningCurvesManufacturing1990]]
-
-    - Managers were reluctant to seek knowledge from other plant, arguing that they are not relevant to their operations in truck assembly plants.
-
-    - Case Study/Experiment

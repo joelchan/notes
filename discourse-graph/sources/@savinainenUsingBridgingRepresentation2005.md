@@ -23,14 +23,5 @@ date: Mon Dec 06 2021 15:42:18 GMT-0500 (Eastern Standard Time)
 
 ###### Discourse Context
 
-- **SourceFor::** [[EVD - When provided instruction using a bridging analogies students had a better understanding of t... but had trouble putting into the correct context. - @savinainenUsingBridgingRepresentation2005]]
+- **SourceFor::** [EVD - When provided instruction using a bridging analogies students had a better understanding of t... but had trouble putting into the correct context. - @savinainenUsingBridgingRepresentation2005.md](EVD - When provided instruction using a bridging analogies students had a better understanding of t... but had trouble putting into the correct context. - @savinainenUsingBridgingRepresentation2005.md)
 
-###### References
-
-[[November 18th, 2021]]
-
-- [[@savinainenUsingBridgingRepresentation2005]]
-
-    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fmegacoglab%2FWPxY_hicCq.png?alt=media&token=17927524-e777-4e45-b2cf-3790f1041e8c)
-
-    - Pulled from Vamvakoussi and demonstrates effects of teaching using bridging analogies

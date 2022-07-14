@@ -31,14 +31,5 @@ date: Sun Mar 22 2020 15:21:30 GMT-0400 (Eastern Daylight Time)
 
 ###### Discourse Context
 
-- **Informs::** [[QUE - How can we augment scientific creativity with computational analogy]]
+- **Informs::** [QUE - How can we augment scientific creativity with computational analogy.md](QUE - How can we augment scientific creativity with computational analogy.md)
 
-###### References
-
-[[November 5th, 2021]]
-
-- However, either effective problem formulation or generating analogies for a problem is hard for human ([[@gentnerAnalogicalRemindingGood1985]], [[@gentnerRolesSimilarityTransfer1993]], [[@gickSchemaInductionAnalogical1983]], [[@holyoakMentalLeapsAnalogy1996]], [[@halfordHowManyVariablesHumans2005]][[@hopeAcceleratingInnovationAnalogy2017]])
-
-    - Whether to mention: especially for design novices?
-
-    - [[[[CLM]] - Analogical retrieval in humans is dominated by surface similarity]]

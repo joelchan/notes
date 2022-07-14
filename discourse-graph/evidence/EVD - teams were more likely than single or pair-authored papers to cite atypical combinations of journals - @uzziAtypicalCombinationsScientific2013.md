@@ -50,12 +50,5 @@ date: Fri Aug 06 2021 17:22:37 GMT-0400 (Eastern Daylight Time)
 
 ###### Discourse Context
 
-- **FromSource::** [[@uzziAtypicalCombinationsScientific2013]]
+- **FromSource::** [@uzziAtypicalCombinationsScientific2013.md](@uzziAtypicalCombinationsScientific2013.md)
 
-###### References
-
-[[July 22nd, 2021]]
-
-- [[[[EVD]] - teams were more likely than single or pair-authored papers to cite atypical combinations of journals - [[@uzziAtypicalCombinationsScientific2013]]]]
-
-    - relevant for later work on [[science of team science]]

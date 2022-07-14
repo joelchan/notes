@@ -23,25 +23,6 @@ date: Fri May 22 2020 21:49:41 GMT-0400 (Eastern Daylight Time)
 
 ###### Discourse Context
 
-- **Informed By::** [[@martinExploringLimitsPrediction2016]]
-- **Informed By::** [[@salganikMeasuringPredictabilityLife2020]]
+- **Informed By::** [@martinExploringLimitsPrediction2016.md](@martinExploringLimitsPrediction2016.md)
+- **Informed By::** [@salganikMeasuringPredictabilityLife2020.md](@salganikMeasuringPredictabilityLife2020.md)
 
-###### References
-
-[[CLM - Prestige substantially controls how scientific ideas spread]]
-
-- [[@morganPrestigeDrivesEpistemic2018]], although result by itself is weak: it's based on results from #m/Model repurposing an SIS model from epidemiology, with ((JUFsOhKV5)), since [[[[CLM]] - Prediction in complex social systems is fundamentally limited]]
-
-    - Although there are priors from other investigations: recent example here (in the film industry) #[[@juhaszBrokeringCorePeriphery2020]]
-
-    - And we also have empirical evidence of inequalities in hiring controlled by prestige [[@clausetSystematicInequalityHierarchy2015]]
-[[October 25th, 2021]]
-
-- (shades of speed of light? and [limits of prediction]([[[[CLM]] - Prediction in complex social systems is fundamentally limited]])?
-
-    - the latter point here might be related to why [[[[CLM]] - Paths to creative breakthroughs are frequently oblique]], and it's really really hard to judge creative ideas! [[[[QUE]] - Is it possible to measure creativity in a scientifically precise way? If so, how?]]
-[[November 12th, 2021]]
-
-- [[[[CLM]] - Prediction in complex social systems is fundamentally limited]]
-
-    - (shades of speed of light? and [limits of prediction]([[[[CLM]] - Prediction in complex social systems is fundamentally limited]])?

@@ -41,18 +41,5 @@ date: Wed Jan 27 2021 21:12:09 GMT-0500 (Eastern Standard Time)
 
 ###### Discourse Context
 
-- **Informs::** [[QUE - How might we characterize scientists' synthesis practices from a processtool perspective]]
+- **Informs::** [QUE - How might we characterize scientists' synthesis practices from a processtool perspective.md](QUE - How might we characterize scientists' synthesis practices from a processtool perspective.md)
 
-###### References
-
-[[QUE - How might we characterize scientists' synthesis practices from a processtool perspective]]
-
-- [[@bosmanInnovationsScholarlyCommunication2016]] - can see by far most popular tools are "iTunes for papers": Reference management tools like [[sys/EndNote]], [[sys/Mendeley]], and [[sys/Zotero]] were the most frequently mentioned "cite" tools by [researchers](((TqJhckxKb))) worldwide responding to an online survey in [[2015]]. These top 3 tools collectively accounted for ~60% of responses.
-
-    - European-leaning, but we get some confirmation/corroboration in smaller, more focused samples
-
-        - [[@willisDocumentsDistributedScientific2014]] Sample of 12 social scientists used mix of Endnote and Mendeley for reference management
-
-        - [[@qianOpeningBlackBox2020]] [ecology of tools](![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fmegacoglab%2FpfGp_fY99U.png?alt=media&token=db2472d9-6884-467c-8ae0-5db27fcb6643)) includes Zotero and Mendeley
-
-        - [[@hoangOpportunitiesComputerSupport2018]][researchers](((R4yIJzOBs))) basically never used specialized software for their [[systematic review]]s: instead, the most common tools were [[sys/Microsoft Excel]] and [[sys/EndNote]]

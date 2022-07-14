@@ -75,46 +75,23 @@ date: Thu Feb 27 2020 14:30:21 GMT-0500 (Eastern Standard Time)
 
 ###### Discourse Context
 
-- **Informs::** [[QUE - What (existing) systems facilitate individual synthesis]]
-- **Supported By::** [[EVD - Four positivist epistemological models from philosophy of science, including Popper, emphasiz... statements as a core component of scientific knowledge - @harsDesigningScientificKnowledge2001]]
-- **Informed By::** [[@shumScholOntoOntologybasedDigital2000]]
-- **Informed By::** [[@harsDesigningScientificKnowledge2001]]
-- **Informed By::** [[@clarkMicropublicationsSemanticModel2014]]
-- **Informed By::** [[@mccrickardMakingClaimsKnowledge2012]]
-- **Informed By::** [[@urenSensemakingToolsUnderstanding2006]]
-- **Informed By::** [[@dewaardHypothesesEvidenceRelationships2009]]
-- **Informed By::** [[@clarkAlzforumSWANPresent2007]]
-- **Informed By::** [[@brushSEPIOSemanticModel2016]]
-- **Informed By::** [[@bungePhilosophyScience1998]]
-- **Informed By::** [[@dubinTheoryBuilding1978]]
-- **Informed By::** [[@liddoContestedCollectiveIntelligence2012]]
-- **Informed By::** [[@ciccareseSWANBiomedicalDiscourse2008]]
-- **Informed By::** [[@nagelStructureScienceProblems1979]]
-- **Informed By::** [[@grothAnatomyNanopublication2010]]
-- **Informed By::** [[@shumModelingNaturalisticArgumentation2006]]
-- **Informed By::** [[@deWaardProteinsFairytalesDirections2010]]
-- **Informed By::** [[@popperLogicScientificDiscovery1959]]
+- **Informs::** [QUE - What (existing) systems facilitate individual synthesis.md](QUE - What (existing) systems facilitate individual synthesis.md)
+- **Supported By::** [EVD - Four positivist epistemological models from philosophy of science, including Popper, emphasiz... statements as a core component of scientific knowledge - @harsDesigningScientificKnowledge2001.md](EVD - Four positivist epistemological models from philosophy of science, including Popper, emphasiz... statements as a core component of scientific knowledge - @harsDesigningScientificKnowledge2001.md)
+- **Informed By::** [@shumScholOntoOntologybasedDigital2000.md](@shumScholOntoOntologybasedDigital2000.md)
+- **Informed By::** [@harsDesigningScientificKnowledge2001.md](@harsDesigningScientificKnowledge2001.md)
+- **Informed By::** [@clarkMicropublicationsSemanticModel2014.md](@clarkMicropublicationsSemanticModel2014.md)
+- **Informed By::** [@mccrickardMakingClaimsKnowledge2012.md](@mccrickardMakingClaimsKnowledge2012.md)
+- **Informed By::** [@urenSensemakingToolsUnderstanding2006.md](@urenSensemakingToolsUnderstanding2006.md)
+- **Informed By::** [@dewaardHypothesesEvidenceRelationships2009.md](@dewaardHypothesesEvidenceRelationships2009.md)
+- **Informed By::** [@clarkAlzforumSWANPresent2007.md](@clarkAlzforumSWANPresent2007.md)
+- **Informed By::** [@brushSEPIOSemanticModel2016.md](@brushSEPIOSemanticModel2016.md)
+- **Informed By::** [@bungePhilosophyScience1998.md](@bungePhilosophyScience1998.md)
+- **Informed By::** [@dubinTheoryBuilding1978.md](@dubinTheoryBuilding1978.md)
+- **Informed By::** [@liddoContestedCollectiveIntelligence2012.md](@liddoContestedCollectiveIntelligence2012.md)
+- **Informed By::** [@ciccareseSWANBiomedicalDiscourse2008.md](@ciccareseSWANBiomedicalDiscourse2008.md)
+- **Informed By::** [@nagelStructureScienceProblems1979.md](@nagelStructureScienceProblems1979.md)
+- **Informed By::** [@grothAnatomyNanopublication2010.md](@grothAnatomyNanopublication2010.md)
+- **Informed By::** [@shumModelingNaturalisticArgumentation2006.md](@shumModelingNaturalisticArgumentation2006.md)
+- **Informed By::** [@deWaardProteinsFairytalesDirections2010.md](@deWaardProteinsFairytalesDirections2010.md)
+- **Informed By::** [@popperLogicScientificDiscovery1959.md](@popperLogicScientificDiscovery1959.md)
 
-###### References
-
-[[stdScholOnto]]
-
-- also has something to say about the badness of [[[[CLM]] - Most scholarly communication infrastructure operates on the document as the base unit]] (vs. [[[[CLM]] - Scholarly argumentation operates on atomic statements and concepts as fundamental units]])
-
-    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fmegacoglab%2FB6_0-0LEbO.png?alt=media&token=a9142a15-bd5c-4db7-b90d-635ab565bad2) (p. 238)
-[[QUE - What (existing) systems facilitate individual synthesis]]
-
-- [[[[CLM]] - Scholarly argumentation operates on atomic statements and concepts as fundamental units]]
-
-    - [[SupportedBy]]
-
-        - [[[[EVD]] - Four positivist epistemological models from philosophy of science, including Popper, emphasized scientific statements as a core component of scientific knowledge - [[@harsDesigningScientificKnowledge2001]]]]
-[[February 3rd, 2021]]
-
-- Granular representation of scientific ideas at the claim level [matches the kinds of queries that you would want to ask of an evidence collection during synthesis]([[[[CLM]] - Scholarly argumentation operates on atomic statements and concepts as fundamental units]]), and exploration is enhanced through the networked structure.
-
-    - This network structure is worth reemphasizing, since keyword-based search often fails when crossing knowledge boundaries: you often don't know what terms are relevant or the most fitting for search. Even when crossing relatively near knowledge boundaries, there can be idiosyncratic differences in the exact terms used. In these instances, network-based foraging through associative trails is superior to keyword search.
-
-        - [[Z: Interdisciplinary synthesis is hard because you have to navigate multiple, sometimes competing epistemologies]]
-
-        - [[[[CLM]] - In interdisciplinary domains, network-based foraging is more powerful than search-based foraging]]

@@ -37,31 +37,5 @@ date: Tue Jun 01 2021 14:17:26 GMT-0400 (Eastern Daylight Time)
 
 ###### Discourse Context
 
-- **Informs::** [[QUE - What makes for an excellent systems research contribution]]
+- **Informs::** [QUE - What makes for an excellent systems research contribution.md](QUE - What makes for an excellent systems research contribution.md)
 
-###### References
-
-[[February 11th, 2021]]
-
-- he references [[Jan van den Akker]] from designerly approaches to education research, who has a "litany" in [[@vandenakkerPrinciplesMethodsDevelopment1999b]]
-
-    - resembles [[Glassman Lab Design Argument]] in terms of being closer to the kind of knowledge designers want to have if they want to design enabling environments
-
-    - litany about what kind of knowledge is gained from design research: "if you want to support person P in context C for goal G, then design D will help because of theory T, and we know this because of evidence E
-
-        - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fmegacoglab%2FMFcyQA8qaN.png?alt=media&token=0ce43418-8907-4091-aad6-8aa4bdd1bece) (p. 9)
-[[June 1st, 2021]]
-
-- two templates (inspired by [[Jan van den Akker]]'s litany in [[@vandenakkerPrinciplesMethodsDevelopment1999b]]):
-
-    - claim note:
-
-        - then design D will help because of "theory" T
-
-        - if you want to support person P in context C for goal G
-
-        - > "If you want to design intervention X [for the purpose/function Y in context Z] then you are best advised to give that intervention the characteristics C, B, and C [substantive emphasis], and to do that via procedures K, L, and M [procedural emphasis], because of arguments P, Q, and R"
-
-    - evidence note:
-
-        - and we know this because of evidence E

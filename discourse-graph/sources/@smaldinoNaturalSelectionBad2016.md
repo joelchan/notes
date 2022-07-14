@@ -45,35 +45,5 @@ date: Tue Oct 27 2020 14:54:43 GMT-0400 (Eastern Daylight Time)
 
 ###### Discourse Context
 
-- **Informs::** [[CLM - Prevailing incentives in academia are bad for science]]
+- **Informs::** [CLM - Prevailing incentives in academia are bad for science.md](CLM - Prevailing incentives in academia are bad for science.md)
 
-###### References
-
-[[CLM - Prevailing incentives in academia are bad for science]]
-
-- [[@smaldinoNaturalSelectionBad2016]]
-
-    - In a similar fashion to what is seen in empirical observations of scientific practice, selecting for high output in [the model](((DRG86XRFt))) led to the proliferation of poorer methods, such as low statistical power, and increasingly high false discovery rates
-[[January 31st, 2021]]
-
-- wow! [[Paul E. Smaldino]] was also author on [that classic paper on natural selection of bad science]([[@smaldinoNaturalSelectionBad2016]])???
-
-    - credibility++ then: this person has been thinking deeply about this problem (to the extent of creating a significant (recognized by community as such by publication and citations) model of the dynamics of methods selection/persistence) for a significant period of time (at minimum 5ish years)
-
-    - [supporting cites](https://scite.ai/reports/the-natural-selection-of-bad-WL8RV5?contradicting=false&mentioning=false&page=1&utm_campaign=badge_generic&utm_medium=plugin&utm_source=generic) (via [[sys/scite.ai]]) for [[@smaldinoNaturalSelectionBad2016]] are a goldmine of evidence for thinking through [[[[CLM]] - Prevailing incentives in academia are bad for science]]
-
-        - of particular interest is [[@brembsPrestigiousScienceJournals2018]], which reviews a few lines of unique evidence where some fields have fairly "objective" (quantifiable) indices of methods quality that can be computed and compared, and this is used to observe whether/how methods quality varies with journal "rank" (finding is that there is an *inverse* correlation: worse methods in higher-ranking journals)
-
-            - addresses concerns about [[retraction]] as an index of methods quality
-[[January 31st, 2021]]
-
-- [supporting cites](https://scite.ai/reports/the-natural-selection-of-bad-WL8RV5?contradicting=false&mentioning=false&page=1&utm_campaign=badge_generic&utm_medium=plugin&utm_source=generic) (via [[sys/scite.ai]]) for [[@smaldinoNaturalSelectionBad2016]] are a goldmine of evidence for thinking through [[[[CLM]] - Prevailing incentives in academia are bad for science]]
-
-    - of particular interest is [[@brembsPrestigiousScienceJournals2018]], which reviews a few lines of unique evidence where some fields have fairly "objective" (quantifiable) indices of methods quality that can be computed and compared, and this is used to observe whether/how methods quality varies with journal "rank" (finding is that there is an *inverse* correlation: worse methods in higher-ranking journals)
-
-        - addresses concerns about [[retraction]] as an index of methods quality
-[[May 20th, 2021]]
-
-- Provocative counterpoint to [[@smaldinoNaturalSelectionBad2016]], focusing on the role of theory - very reminiscent of [[Iris van Rooij]]'s work
-
-    - cc [[[[CLM]] - Scientific fields stall without adequate theoretical synthesis]]

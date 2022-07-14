@@ -72,16 +72,5 @@ date: Tue Jun 29 2021 14:59:16 GMT-0400 (Eastern Daylight Time)
 
 ###### Discourse Context
 
-- **FromSource::** [[@lindsayEngagingOlderPeople2012b]]
+- **FromSource::** [@lindsayEngagingOlderPeople2012b.md](@lindsayEngagingOlderPeople2012b.md)
 
-###### References
-
-[[June 29th, 2021]]
-
-- [[[[EVD]] - Older adults found it difficult to engage productively with a design topic around personal security, despite engaging productively with two other topics - [[@lindsayEngagingOlderPeople2012b]]]]
-
-    - I wonder how much of this is due to teh topic itself, and the mismatch between its seriousness and complex nature, and the whimsical nature of the design process.
-
-        - this reminds me very much of what we saw in [[@harringtonDeconstructingCommunityBasedCollaborative2019]] around difficulties with [traditional design materials]([[[[EVD]] - Low-income, African-American older adults perceived ideation materials used for brainstorming as infantilizing and belittling - [[@harringtonDeconstructingCommunityBasedCollaborative2019]]]]) and ["blue sky" ideation]([[[[EVD]] - Low-income, African-American older adults preferred "realistic" local-governance-based solutions over "blue sky" ideas - [[@harringtonDeconstructingCommunityBasedCollaborative2019]]]]) for serious topics. with
-
-    - here, definitely, it seems there is a tension around disclosure that resembles [what Gautam et al found with sex trafficking survivors]([[[[EVD]] - Sex trafficking survivors shared concerns about painful experiences from writing their stories in design exercises. A future-focused photo elicitation method seemed to be a viable alternative - @gautamParticipatoryTensionsWorking2018]])

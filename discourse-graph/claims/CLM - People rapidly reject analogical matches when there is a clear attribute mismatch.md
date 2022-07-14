@@ -19,12 +19,5 @@ date: Wed Oct 07 2020 13:19:00 GMT-0400 (Eastern Daylight Time)
 
 ###### Discourse Context
 
-- **Informed By::** [[@chanSOLVENTMixedInitiative2018]]
+- **Informed By::** [@chanSOLVENTMixedInitiative2018.md](@chanSOLVENTMixedInitiative2018.md)
 
-###### References
-
-[[CLM - Core attribute mismatches in analogical inspiration harm creativity]]
-
-- There is some anecdotal and experimental evidence that [[[[CLM]] - People rapidly reject analogical matches when there is a clear attribute mismatch]].
-
-    - {{embed: Description}}

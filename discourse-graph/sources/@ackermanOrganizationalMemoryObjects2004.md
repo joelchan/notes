@@ -86,20 +86,6 @@ date: Wed May 20 2020 11:33:57 GMT-0400 (Eastern Daylight Time)
 
 ###### Discourse Context
 
-- **Informs::** [[CLM - Specifying context for future reuse requires predicting trajectories of future reuse]]
-- **Informs::** [[QUE - How can we best bridge private vs. public knowledge]]
+- **Informs::** [CLM - Specifying context for future reuse requires predicting trajectories of future reuse.md](CLM - Specifying context for future reuse requires predicting trajectories of future reuse.md)
+- **Informs::** [QUE - How can we best bridge private vs. public knowledge.md](QUE - How can we best bridge private vs. public knowledge.md)
 
-###### References
-
-[[QUE - How can we best bridge private vs. public knowledge]]
-
-- [[@ackermanOrganizationalMemoryObjects2004]]
-
-    - To properly deal with a [discrepancy in benefits from the caller](((aJyU_lBdO))), a [HLG employee](((95SLsSLsN))) needed to [[reuse]] information from the [CARL database](((OLechJ6p6))), among other sources of information, to create an escalation to the benefits group. To do this, she needed important [[context]] that was missing from the CARL record itself, such as details of the record's creation or maintenance (was it authoritative?), and any circumstances surrounding the caller's employment. The HLG employee dealt with this missing context by consulting an expert (a senior agent) and her own memory, rather than searching databases for additional information, even though that information could in principle be in there.
-[[January 7th, 2021]]
-
-- Let's go back and consider a concrete example from [[@ackermanOrganizationalMemoryObjects2004]]
-
-    - To properly deal with a [discrepancy in benefits from the caller](((aJyU_lBdO))), a [HLG employee](((95SLsSLsN))) needed to [[reuse]] information from the [CARL database](((OLechJ6p6))), among other sources of information, to create an escalation to the benefits group. To do this, she needed important [[context]] that was missing from the CARL record itself, such as details of the record's creation or maintenance (was it authoritative?), and any circumstances surrounding the caller's employment. The HLG employee dealt with this missing context by consulting an expert (a senior agent) and her own memory, rather than searching databases for additional information, even though that information could in principle be in there.
-
-    - In this case, the notion of "correctness"/completeness was central, since the job to be done was to resolve a discrepancy. Was there an error to fix? One way to figure that out is to determine whether there were any errors in the employee record in CARL, and whether there was a need to correct it. To make this judgment, the employee needed to know whether the record had been completed, whether there were any issues that might hold up or explain the discrepancy (to be able to properly escalate to the benefits group).

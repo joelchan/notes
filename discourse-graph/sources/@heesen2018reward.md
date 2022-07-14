@@ -31,12 +31,5 @@ date: Sun Mar 01 2020 22:05:03 GMT-0500 (Eastern Standard Time)
 
 ###### Discourse Context
 
-- **Informs::** [[CLM - Prevailing incentives in academia are bad for science]]
+- **Informs::** [CLM - Prevailing incentives in academia are bad for science.md](CLM - Prevailing incentives in academia are bad for science.md)
 
-###### References
-
-[[CLM - Prevailing incentives in academia are bad for science]]
-
-- [[@heesen2018reward]]
-
-    - #Claim Imperfections in [[peer review]] and the way credit is awarded systematically favor lower levels of reproducibility

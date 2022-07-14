@@ -69,28 +69,7 @@ date: Mon Jul 20 2020 13:15:22 GMT-0400 (Eastern Daylight Time)
 
 ###### Discourse Context
 
-- **Informs::** [[CLM - Specifying context for future reuse is costly]]
-- **Informs::** [[CLM - Context is a slippery notion]]
-- **Informs::** [[QUE - How can we best bridge private vs. public knowledge]]
+- **Informs::** [CLM - Specifying context for future reuse is costly.md](CLM - Specifying context for future reuse is costly.md)
+- **Informs::** [CLM - Context is a slippery notion.md](CLM - Context is a slippery notion.md)
+- **Informs::** [QUE - How can we best bridge private vs. public knowledge.md](QUE - How can we best bridge private vs. public knowledge.md)
 
-###### References
-
-[[@ackermanSharingKnowledgeExpertise2013]]
-
-- #ClaimSecondary people tend to use the category with the lowest cognitive effort [[@andersonDataBaseMent2008]]
-
-    - [[@andersonDataBaseMent2008]] call these "residual categories"
-
-    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fmegacoglab%2FFvtyx1Wepe.png?alt=media&token=fee6554d-969c-4033-a6b7-b6b9d5e5a32b) (p. 540)
-
-    - it can be quite hard to standardize (and therefore make efficient) expressions of [[context]] (e.g., in a dropdown menu of possible "contexts")
-[[January 7th, 2021]]
-
-- {{[[DONE]]}} [[@andersonDataBaseMent2008]]
-
-    - > However, manually adding context, to support information reuse and retrieval, can be a challenge. Anderson and colleagues [5] explore this in a field study of the information management systems in the healthcare setting. Healthcare workers used a system which featured a drop-down menu that would allow them to select relevant contextual information to attach to a file where they recorded patient interactions. However, the options in the drop-down menu were frequently not specific enough, or too many options were available, which led to the employees choosing the closest option, or a catch all “Not Specified” option. This all led to ambiguous contextual information capture which proved problematic down the line.
-[[QUE - How can we best bridge private vs. public knowledge]]
-
-- [[@andersonDataBaseMent2008]]
-
-    - In a [case study](((1NQJ4Lkwn))) (methods [1](((HH7e2hyT2))), [2](((8pTMoQtJD)))), Healthcare workers used a system which featured a drop-down menu that would allow them to select relevant contextual information to attach to a file where they recorded patient interactions. However, the options in the [drop-down menu](((SdDwD5xWe))) were frequently [not specific enough, or too many options were available](((_b8X5Ey1Z))), which led to the employees [choosing the closest option, or a catch all “Not Specified” option](((w-26O9uLq))). This all led to ambiguous contextual information capture which [proved problematic down the line](((IxXKHy5DM))).

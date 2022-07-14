@@ -31,5 +31,5 @@ date: Fri May 22 2020 12:12:36 GMT-0400 (Eastern Daylight Time)
 
 ###### Discourse Context
 
-- **Informs::** [[QUE - What is synthesis]]
-- **Informs::** [[QUE - How do people effectively (re)formulate creative problems]]
+- **Informs::** [QUE - What is synthesis.md](QUE - What is synthesis.md)
+- **Informs::** [QUE - How do people effectively (re)formulate creative problems.md](QUE - How do people effectively (re)formulate creative problems.md)

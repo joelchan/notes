@@ -33,14 +33,5 @@ date: Wed Jun 17 2020 13:46:04 GMT-0400 (Eastern Daylight Time)
 
 ###### Discourse Context
 
-- **Informs::** [[QUE - What are the most efficient routes to useful cross-boundary knowledge]]
+- **Informs::** [QUE - What are the most efficient routes to useful cross-boundary knowledge.md](QUE - What are the most efficient routes to useful cross-boundary knowledge.md)
 
-###### References
-
-[[June 17th, 2020]]
-
-- 7 #example-of real discoveries coming from the [[literature-based discovery]] approach pioneered by [[Don R. Swanson]] [[@swansonUndiscoveredPublicKnowledge1996]]
-
-    - I recall there being some more pessimistic takes on this in later pieces. I believe it was this review [[@kostoffLiteraturerelatedDiscovery2009]]
-
-    - Original idea proposed in [[@swansonFishOilRaynaud1986]]

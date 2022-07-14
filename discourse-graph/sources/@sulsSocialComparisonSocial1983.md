@@ -29,12 +29,5 @@ date: Fri Sep 17 2021 13:03:49 GMT-0400 (Eastern Daylight Time)
 
 ###### Discourse Context
 
-- **Informs::** [[QUE - (How) do fields of innovation vary in their legibility of quality]]
+- **Informs::** [QUE - (How) do fields of innovation vary in their legibility of quality.md](QUE - (How) do fields of innovation vary in their legibility of quality.md)
 
-###### References
-
-[[QUE - (How) do fields of innovation vary in their legibility of quality]]
-
-- Suls and Fletcher 1983 - peer consultation rate [[@sulsSocialComparisonSocial1983]]
-
-    - Suls, J., & Fletcher, B. (1983). Social comparison in the social and physical sciences: An archival study. Journal of Personality and Social Psychology, 44, 575–580.

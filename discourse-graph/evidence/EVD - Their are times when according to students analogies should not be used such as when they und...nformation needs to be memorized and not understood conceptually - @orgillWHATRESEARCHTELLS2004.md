@@ -10,4 +10,4 @@ date: Sun Dec 19 2021 10:31:17 GMT-0500 (Eastern Standard Time)
 
 ###### Discourse Context
 
-- **FromSource::** [[@orgillWHATRESEARCHTELLS2004]]
+- **FromSource::** [@orgillWHATRESEARCHTELLS2004.md](@orgillWHATRESEARCHTELLS2004.md)

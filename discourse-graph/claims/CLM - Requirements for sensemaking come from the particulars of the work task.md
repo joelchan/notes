@@ -23,21 +23,7 @@ date: Thu Apr 23 2020 11:53:37 GMT-0400 (Eastern Daylight Time)
 
 ###### Discourse Context
 
-- **Informs::** [[QUE - What is synthesis]]
-- **Informed By::** [[@zhangpengyiComprehensiveModelCognitive2014]]
-- **Informed By::** [[@faisalClassificationSensemakingRepresentations2009]]
+- **Informs::** [QUE - What is synthesis.md](QUE - What is synthesis.md)
+- **Informed By::** [@zhangpengyiComprehensiveModelCognitive2014.md](@zhangpengyiComprehensiveModelCognitive2014.md)
+- **Informed By::** [@faisalClassificationSensemakingRepresentations2009.md](@faisalClassificationSensemakingRepresentations2009.md)
 
-###### References
-
-[[@zhangpengyiComprehensiveModelCognitive2014]]
-
-- The task matters (cf. [[[[CLM]] - Requirements for sensemaking come from the particulars of the work task]]) (p. 1750)
-
-    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fmegacoglab%2FyY8nJD47RC?alt=media&token=cd95f1f2-16d8-410c-b6ed-8a3b140b44ed)
-[[May 26th, 2022]]
-
-- much richer than [[[[CLM]] - Requirements for sensemaking come from the particulars of the work task]]
-
-    - it's all about the partial analogies.... (rep fluency here is a connection here to... [[D/Synthesis Infrastructure]] somehow.... and also... [[Jason Ding]]'s stuff)
-
-        - but also the bit about partial analogies really suggests that we need to provide

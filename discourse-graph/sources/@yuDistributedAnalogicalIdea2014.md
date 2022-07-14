@@ -29,17 +29,5 @@ date: Mon Jan 11 2021 21:38:32 GMT-0500 (Eastern Standard Time)
 
 ###### Discourse Context
 
-- **Informs::** [[THE - interaction-oriented theory of creative inspiration from examples]]
+- **Informs::** [THE - interaction-oriented theory of creative inspiration from examples.md](THE - interaction-oriented theory of creative inspiration from examples.md)
 
-###### References
-
-[[March 9th, 2021]]
-
-- Tried: principle, diagram, summary; best is dissimilar analogs (similar to [[@yuDistributedAnalogicalIdea2014]]) - again, here it's **interaction** between more than one analog/source
-
-    - but also the base rate overall is still lower than the hint conditions
-[[THE - interaction-oriented theory of creative inspiration from examples]]
-
-- [[@yuDistributedAnalogicalIdea2014]] if you see an exemplar, you do worse than a schema, but if you see exemplar + schema, you do as well as schema
-
-    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fmegacoglab%2F3GP_dhB-_y.png?alt=media&token=1981365b-baa3-4078-852e-94f52fd3f1bd)

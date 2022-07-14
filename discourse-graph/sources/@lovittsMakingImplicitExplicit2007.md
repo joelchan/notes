@@ -68,31 +68,7 @@ date: Mon Feb 17 2020 09:34:11 GMT-0500 (Eastern Standard Time)
 
 ###### Discourse Context
 
-- **Informs::** [[CLM - Doctoral students struggle to effectively synthesize literature]]
-- **Informs::** [[QUE - How might we conceptualize and measure synthesis quality]]
-- **SourceFor::** [[EVD - Doctoral examiners reported that many acceptable or even very good dissertations across a ran...iteria for effective synthesis in their literature reviews - @lovittsMakingImplicitExplicit2007]]
+- **Informs::** [CLM - Doctoral students struggle to effectively synthesize literature.md](CLM - Doctoral students struggle to effectively synthesize literature.md)
+- **Informs::** [QUE - How might we conceptualize and measure synthesis quality.md](QUE - How might we conceptualize and measure synthesis quality.md)
+- **SourceFor::** [EVD - Doctoral examiners reported that many acceptable or even very good dissertations across a ran...iteria for effective synthesis in their literature reviews - @lovittsMakingImplicitExplicit2007.md](EVD - Doctoral examiners reported that many acceptable or even very good dissertations across a ran...iteria for effective synthesis in their literature reviews - @lovittsMakingImplicitExplicit2007.md)
 
-###### References
-
-[[CLM - Doctoral students struggle to effectively synthesize literature]]
-
-- #[[@lovittsMakingImplicitExplicit2007]]
-
-    - Ineffective [[synthesis]] is not a reason to fail a dissertation! Qualities associated with literature reviews in "acceptable" (or even "very good")  dissertations fall well short of implicit and explicit criteria for effective synthesis (e.g., [[@strikeTypesSynthesisTheir1983]], [[@booteScholarsResearchersCentrality2005]]
-[[June 29th, 2021]]
-
-- [[@lovittsMakingImplicitExplicit2007]] has rubrics from a bunch of fields
-
-    - intuition quote:
-
-        - > Students who write acceptable literature reviews often take the literature they have read at face value and do not (or cannot) discriminate between good papers and bad ones. Their literature reviews are descriptive summaries, “so-and-so and so-and-so said,”, that make obvious points. Similarly, unacceptable literature reviews lack an organizing intelligence. (p. 45)
-[[@lovittsMakingImplicitExplicit2007]]
-
-- [[[[EVD]] - Doctoral examiners reported that many acceptable or even "very good" dissertations across a range of disciplines fell well short of implicit and explicit criteria for effective synthesis in their literature reviews - [[@lovittsMakingImplicitExplicit2007]]]]
-
-    - Ineffective [[synthesis]] is not a reason to fail a dissertation! Qualities associated with literature reviews in "acceptable" (or even "very good")  dissertations fall well short of implicit and explicit criteria for effective synthesis (e.g., [[@strikeTypesSynthesisTheir1983]], [[@booteScholarsResearchersCentrality2005]]
-[[Teach INST 802 Week 8 (Mar 14) - Process - Synthesis 1]]
-
-- From [[@lovittsMakingImplicitExplicit2007]]
-
-    - > Students who write acceptable literature reviews often take the literature they have read at face value and do not (or cannot) discriminate between good papers and bad ones. Their literature reviews are descriptive summaries, “so-and-so and so-and-so said,”, that make obvious points. Similarly, unacceptable literature reviews lack an organizing intelligence. (p. 45)

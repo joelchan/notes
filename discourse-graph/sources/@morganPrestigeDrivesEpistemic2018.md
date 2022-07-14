@@ -57,24 +57,5 @@ date: Fri May 22 2020 21:43:12 GMT-0400 (Eastern Daylight Time)
 
 ###### Discourse Context
 
-- **Informs::** [[CLM - Prestige substantially controls how scientific ideas spread]]
+- **Informs::** [CLM - Prestige substantially controls how scientific ideas spread.md](CLM - Prestige substantially controls how scientific ideas spread.md)
 
-###### References
-
-[[CLM - Prestige substantially controls how scientific ideas spread]]
-
-- [[@morganPrestigeDrivesEpistemic2018]], although result by itself is weak: it's based on results from #m/Model repurposing an SIS model from epidemiology, with ((JUFsOhKV5)), since [[[[CLM]] - Prediction in complex social systems is fundamentally limited]]
-
-    - Although there are priors from other investigations: recent example here (in the film industry) #[[@juhaszBrokeringCorePeriphery2020]]
-
-    - And we also have empirical evidence of inequalities in hiring controlled by prestige [[@clausetSystematicInequalityHierarchy2015]]
-[[@clausetSystematicInequalityHierarchy2015]]
-
-- Made a prediction that was later tested in #[[@morganPrestigeDrivesEpistemic2018]], that #[[[[CLM]] - Prestige substantially controls how scientific ideas spread]]
-
-    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fmegacoglab%2FzMbfwhIbjc.png?alt=media&token=6b3b7430-87b8-45fe-8a2b-d7af74fac11f)
-[[September 10th, 2021]]
-
-- similar to [[@morganPrestigeDrivesEpistemic2018]] - if equal quant / citations, person from higher prestige institution rated more highly than person from lower prestige institution
-
-    - cc [[[[CLM]] - Prestige substantially controls how scientific ideas spread]]

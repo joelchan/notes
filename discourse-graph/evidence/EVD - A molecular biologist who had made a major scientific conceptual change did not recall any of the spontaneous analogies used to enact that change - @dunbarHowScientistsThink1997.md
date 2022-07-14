@@ -70,5 +70,5 @@ date: Mon Jun 28 2021 14:35:26 GMT-0400 (Eastern Daylight Time)
 
 ###### Discourse Context
 
-- **Informs::** [[QUE - How might domain distance modulate the effects of analogies on creative output]]
-- **FromSource::** [[@dunbarHowScientistsThink1997]]
+- **Informs::** [QUE - How might domain distance modulate the effects of analogies on creative output.md](QUE - How might domain distance modulate the effects of analogies on creative output.md)
+- **FromSource::** [@dunbarHowScientistsThink1997.md](@dunbarHowScientistsThink1997.md)

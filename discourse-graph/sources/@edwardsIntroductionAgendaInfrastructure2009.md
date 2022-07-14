@@ -37,21 +37,5 @@ date: Tue Apr 28 2020 12:51:57 GMT-0400 (Eastern Daylight Time)
 
 ###### Discourse Context
 
-- **Informs::** [[PTN - Prefer to grow rather than build  design new infrastructures a priori]]
+- **Informs::** [PTN - Prefer to grow rather than build  design new infrastructures a priori.md](PTN - Prefer to grow rather than build  design new infrastructures a priori.md)
 
-###### References
-
-[[April 28th, 2020]]
-
-- Starting seed: [[@edwardsIntroductionAgendaInfrastructure2009]]
-
-    - [[R: ureDevelopmentDataInfrastructures2009]] examines the rich sociotechnical [[context]] behind data that is often ignored, putting up barriers to effective data [[reuse]]
-[[PTN - Prefer to grow rather than build  design new infrastructures a priori]]
-
-- [[@edwardsIntroductionAgendaInfrastructure2009]]
-
-    - Need to "grow" an infrastructure, not design it a priori, for it to be successful (p. 369)
-
-        - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fmegacoglab%2Fdz3DA2vwBu.png?alt=media&token=9ec1f4a7-eaa2-4d25-b296-6844498d2ea0)
-
-    - Summarizes thoughts from [[@edwardsUnderstandingInfrastructureDynamics2007]], which is itself a workshop report. Still need to dig into the cases. It's probably in the book?

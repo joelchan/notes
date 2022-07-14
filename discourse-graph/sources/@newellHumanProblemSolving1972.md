@@ -9,18 +9,5 @@ date: Wed Aug 19 2020 22:53:47 GMT-0400 (Eastern Daylight Time)
 
 ###### Discourse Context
 
-- **Informs::** [[CLM - Design proceeds by co-evolution of problem and solution space]]
+- **Informs::** [CLM - Design proceeds by co-evolution of problem and solution space.md](CLM - Design proceeds by co-evolution of problem and solution space.md)
 
-###### References
-
-[[March 3rd, 2022]]
-
-- in simon's theory of problem solving (many refs, but see, eg., [[@simonStructureIllStructured1973]]; canonical cite is [[@newellElementsTheoryHuman1958]], and later on, the book: [[@newellHumanProblemSolving1972]]), it's a [[problem space]], which consists of
-
-    - similar in [[@goelStructureDesignProblem1992]]
-
-    - states, which is like reward model / distribution of "good" solutions?
-
-    - operators, which are basically space of possible moves
-
-    - tests / goal, which distinguishes constraints / requirements

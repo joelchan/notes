@@ -41,24 +41,5 @@ date: Sat Nov 28 2020 16:12:18 GMT-0500 (Eastern Standard Time)
 
 ###### Discourse Context
 
-- **Informs::** [[CLM - Vector-space models of language struggle with relational similarity]]
+- **Informs::** [CLM - Vector-space models of language struggle with relational similarity.md](CLM - Vector-space models of language struggle with relational similarity.md)
 
-###### References
-
-[[CLM - Vector-space models of language struggle with relational similarity]]
-
-- although this provocative paper [[@linWhyDoesDeep2017]], which i dont' fully understand yet, suggests there might be something about the family of functions that deep learning approximates, that is well-tuned to certain kinds of phenomena, and not others: basically argues that success of deep/cheap learning hinges on the shared physics properties of processes it is good at modeling (i.e., symmetry, locality, polynomial log-probability in data)
-
-    - makes me wonder: are words/sentences compositional, local, symmetrical in the same sense as images?
-
-    - it's not clear to me that this is a fundamental limitation of the model itself (e.g., the optimization objective of predicting a masked word given its context, for example).
-
-        - there's some evidence that if you change the type of context used for training, you can close some of the gap between "[[entity categories]]" and "[[relational categories]]"
-
-            - for example, [[@schwartzSymmetricPatternsCoordinations2016]] showed that [skip-gram model](((4xz52frAQ))) with [[symmetric pattern contexts]][*](((b_Wq1X-o3))) performed about as well on verbs compared to sg-bow predictions for nouns and adjectives in terms of predicting [human similarity judgments on SimLex999](((n3Xi0Tp0B))); there was a slight reduction in performance for nouns with sg model using symmetric pattern contexts
-
-        - could well be the data it's trained on
-
-    - some work on [[relational categories]] (e.g., [[@gentnerRelationalCategories2005]]), suggests these properties might hold better for some kinds of words/sentences (e.g., nouns or [[entity categories]]) than others (e.g., verbs, [[relational categories]])
-
-    - more thoughts here: [what we're learning about openIE, KB, BOW stuff](https://docs.google.com/document/d/1TfLHKx0UoDY5MPIaYr4xvBd6b21K7IhR5qwOlhkz5QQ/edit?usp=sharing)

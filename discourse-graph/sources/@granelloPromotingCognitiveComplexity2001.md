@@ -54,20 +54,6 @@ date: Tue Dec 24 2019 10:12:47 GMT-0500 (Eastern Standard Time)
 
 ###### Discourse Context
 
-- **Informs::** [[CLM - Contextualizability is necessary for synthesis]]
-- **Informs::** [[QUE - How might we conceptualize and measure synthesis quality]]
+- **Informs::** [CLM - Contextualizability is necessary for synthesis.md](CLM - Contextualizability is necessary for synthesis.md)
+- **Informs::** [QUE - How might we conceptualize and measure synthesis quality.md](QUE - How might we conceptualize and measure synthesis quality.md)
 
-###### References
-
-[[Knowledge Compressor Lit]]
-
-- [[@granelloPromotingCognitiveComplexity2001]]
-
-    - is also lame, empirically, but interesting conceptually: applies [[Bloom's taxonomy]] to describe the levels of lit-reviewing complexity, where we have a qualitative shift from analysis level (still mostly lists of papers, paper-centric) to synthesis (thematically organized, argument-based), and eventually going to evaluation (gap-finding - this is what i trust, where i'm uncertain, etc.). No rigorous empirical data here, though, still anecdotal, largely
-
-        - the idea of evaluation and clear criteria for gaps is an important observation that connects with why context matters.
-[[challenges that students face doing lit reviews]]
-
-- [[@granelloPromotingCognitiveComplexity2001]] is also lame, empirically, but interesting conceptually: applies Bloom's taxonomy to describe the levels of lit-reviewing complexity, where we have a qualitative shift from analysis level (still mostly lists of papers, paper-centric) to synthesis (thematically organized, argument-based), and eventually going to evaluation (gap-finding - this is what i trust, where i'm uncertain, etc.). No rigorous empirical data here, though, still anecdotal, largely
-
-    - the idea of evaluation and clear criteria for gaps is an important observation that connects with why context matters.

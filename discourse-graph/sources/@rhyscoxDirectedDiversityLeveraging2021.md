@@ -89,17 +89,6 @@ date: Mon Aug 02 2021 22:17:01 GMT-0400 (Eastern Daylight Time)
 
 ###### Discourse Context
 
-- **Informs::** [[QUE - Under what conditions do diverse initial examples lead to better final design solutions]]
-- **SourceFor::** [[EVD - Diverse prompts will be perceived as more unexpectedness but of poorer quality and understandability - @rhyscoxDirectedDiversityLeveraging2021]]
+- **Informs::** [QUE - Under what conditions do diverse initial examples lead to better final design solutions.md](QUE - Under what conditions do diverse initial examples lead to better final design solutions.md)
+- **SourceFor::** [EVD - Diverse prompts will be perceived as more unexpectedness but of poorer quality and understandability - @rhyscoxDirectedDiversityLeveraging2021.md](EVD - Diverse prompts will be perceived as more unexpectedness but of poorer quality and understandability - @rhyscoxDirectedDiversityLeveraging2021.md)
 
-###### References
-
-[[March 18th, 2022]]
-
-- reminds me of [[@rhyscoxDirectedDiversityLeveraging2021]]
-
-    - there's follow up work on this (forthcoming at [[CHI]] 2022) that added [[explainable AI]] mechanisms to try to manage the interaction
-
-        - https://arxiv.org/pdf/2109.10149.pdf
-
-        - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fmegacoglab%2FaOMiPGNPmv.png?alt=media&token=fe24d2d4-353d-4c7c-9b3e-2960727d1b86)

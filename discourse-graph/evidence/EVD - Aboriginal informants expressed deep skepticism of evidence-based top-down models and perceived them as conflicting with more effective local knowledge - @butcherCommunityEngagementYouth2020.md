@@ -30,13 +30,6 @@ date: Tue Jul 20 2021 15:02:18 GMT-0400 (Eastern Daylight Time)
 
 ###### Discourse Context
 
-- **Informs::** [[QUE - What tension points exist between the goals of diversity and depth of user participation in participatory design]]
-- **FromSource::** [[@butcherCommunityEngagementYouth2020]]
+- **Informs::** [QUE - What tension points exist between the goals of diversity and depth of user participation in participatory design.md](QUE - What tension points exist between the goals of diversity and depth of user participation in participatory design.md)
+- **FromSource::** [@butcherCommunityEngagementYouth2020.md](@butcherCommunityEngagementYouth2020.md)
 
-###### References
-
-[[July 20th, 2021]]
-
-- [[[[EVD]] - Aboriginal informants expressed deep skepticism of "evidence-based" top-down models and perceived them as conflicting with more effective local knowledge - [[@butcherCommunityEngagementYouth2020]]]]
-
-    - really calls to mind ideas around stakeholders and layers of interpretation again

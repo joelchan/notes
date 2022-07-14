@@ -53,15 +53,6 @@ Conclusion Citation is both an impartial scholarly method and a powerful form of
 
 ###### Discourse Context
 
-- **Informs::** [[CLM - Synthesis work requires explicit (usually external) representations of both evidence and claims]]
-- **Informs::** [[CLM - Citation practices in science are far from optimal]]
+- **Informs::** [CLM - Synthesis work requires explicit (usually external) representations of both evidence and claims.md](CLM - Synthesis work requires explicit (usually external) representations of both evidence and claims.md)
+- **Informs::** [CLM - Citation practices in science are far from optimal.md](CLM - Citation practices in science are far from optimal.md)
 
-###### References
-
-[[CLM - Citation practices in science are far from optimal]]
-
-- Citations of a particular finding about an Alzheimer's relevant protein in the brain tended to be biased against refutation, and biased towards amplifications, leading to substantial distortions in judgments of the reliability of the finding #[[@greenbergHowCitationDistortions2009]]
-
-    - maybe explains ((a5h3DL58I)) [[@letrudAffirmativeCitationBias2019]] (not just inaccuracies or sloppiness)
-
-    - #supported-by a later paper [[@letrudAffirmativeCitationBias2019]], which finds that even later "debunking" cites do little to nothing to slow the spread

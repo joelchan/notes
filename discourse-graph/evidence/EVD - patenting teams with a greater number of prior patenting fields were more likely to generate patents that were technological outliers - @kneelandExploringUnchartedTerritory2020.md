@@ -44,24 +44,8 @@ date: Tue Jul 27 2021 23:37:41 GMT-0400 (Eastern Daylight Time)
 
 ###### Discourse Context
 
-- **Informs::** [[QUE - How might domain distance modulate the effects of analogies on creative output]]
-- **Supports::** [[CLM - Analogical distance of inspirations for an idea are positively related to the idea's creativity]]
-- **Consistent With::** [[EVD - patents filed by inventors who was new to the patent's field tended to be more novel; this was less true if they collaborated with an expert in the new field - @artsParadiseNoveltyLoss2018a]]
-- **FromSource::** [[@kneelandExploringUnchartedTerritory2020]]
+- **Informs::** [QUE - How might domain distance modulate the effects of analogies on creative output.md](QUE - How might domain distance modulate the effects of analogies on creative output.md)
+- **Supports::** [CLM - Analogical distance of inspirations for an idea are positively related to the idea's creativity.md](CLM - Analogical distance of inspirations for an idea are positively related to the idea's creativity.md)
+- **Consistent With::** [EVD - patents filed by inventors who was new to the patent's field tended to be more novel; this was less true if they collaborated with an expert in the new field - @artsParadiseNoveltyLoss2018a.md](EVD - patents filed by inventors who was new to the patent's field tended to be more novel; this was less true if they collaborated with an expert in the new field - @artsParadiseNoveltyLoss2018a.md)
+- **FromSource::** [@kneelandExploringUnchartedTerritory2020.md](@kneelandExploringUnchartedTerritory2020.md)
 
-###### References
-
-[[Auto generated from Playground]]
-
-- Some block text  [[[[EVD]] - patenting teams with a greater number of prior patenting fields were more likely to generate patents that were technological outliers - [[@kneelandExploringUnchartedTerritory2020]]]]
-
-    - Some block text  [[SupportedBy]]
-
-        - Some block text  [[[[EVD]] - In general, MechE students' ideas when given near analogies were at least as novel, and sometimes moreso, then ideas generated with far analogies, or seeing nothing - [[@tsengRoleTimingAnalogical2008]]]]
-[[Auto generated from Playground]]
-
-- Some block text  [[[[EVD]] - patenting teams with a greater number of prior patenting fields were more likely to generate patents that were technological outliers - [[@kneelandExploringUnchartedTerritory2020]]]]
-
-    - Some block text  [[SupportedBy]]
-
-        - Some block text  [[[[EVD]] - In general, MechE students' ideas when given near analogies were at least as novel, and sometimes moreso, then ideas generated with far analogies, or seeing nothing - [[@tsengRoleTimingAnalogical2008]]]]

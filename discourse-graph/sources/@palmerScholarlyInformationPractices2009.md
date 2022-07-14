@@ -57,17 +57,5 @@ date: Thu Feb 06 2020 15:24:51 GMT-0500 (Eastern Standard Time)
 
 ###### Discourse Context
 
-- **Informs::** [[CLM - Scholars constantly need to reread during a literature review]]
+- **Informs::** [CLM - Scholars constantly need to reread during a literature review.md](CLM - Scholars constantly need to reread during a literature review.md)
 
-###### References
-
-[[#AnnotatedBib for Synthesis Infrastructures]]
-
-- [[@palmerScholarlyInformationPractices2009]]
-
-    - key thread of work for understanding information practices, including idea of [[scholarly primitives]]
-[[March 19th, 2020]]
-
-- {{[[TODO]]}} verify this. we have intuition, but need to do more due diligence. we definitely know that it doesn't show up explicitly in [[@palmerScholarlyInformationPractices2009]] [[synthesis]] is notably lacking in the model, but can be sort of mapped to the Assembling sub-primitive of Writing
-
-    - Also: Diuscussion of Notetaking doesn't really distinguish systematically between levels/stages of processing as we do; might need more distinctions to better design infotech

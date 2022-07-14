@@ -23,15 +23,8 @@ date: Fri Feb 28 2020 16:56:58 GMT-0500 (Eastern Standard Time)
 
 ###### Discourse Context
 
-- **Informs::** [[QUE - What (existing) systems facilitate individual synthesis]]
-- **Informed By::** [[@palmerScholarlyInformationPractices2009]]
-- **Informed By::** [[@oharaStudentReadersUse1998]]
-- **Informed By::** [[@qianOpeningBlackBox2020]]
+- **Informs::** [QUE - What (existing) systems facilitate individual synthesis.md](QUE - What (existing) systems facilitate individual synthesis.md)
+- **Informed By::** [@palmerScholarlyInformationPractices2009.md](@palmerScholarlyInformationPractices2009.md)
+- **Informed By::** [@oharaStudentReadersUse1998.md](@oharaStudentReadersUse1998.md)
+- **Informed By::** [@qianOpeningBlackBox2020.md](@qianOpeningBlackBox2020.md)
 
-###### References
-
-[[QUE - What (existing) systems facilitate individual synthesis]]
-
-- [[scholarly primitives]] work that includes [[[[CLM]] - Scholars constantly need to reread during a literature review]]
-
-    - [[@oharaStudentReadersUse1998]] re-reading

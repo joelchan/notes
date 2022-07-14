@@ -10,12 +10,5 @@ date: Thu Jan 16 2020 03:35:58 GMT-0500 (Eastern Standard Time)
 
 ###### Discourse Context
 
-- **Informed By::** [[@shipmanFormalityConsideredHarmful1999]]
+- **Informed By::** [@shipmanFormalityConsideredHarmful1999.md](@shipmanFormalityConsideredHarmful1999.md)
 
-###### References
-
-[[February 18th, 2022]]
-
-- Need to leave sapce for speculation, informality, [[[[CLM]] - (premature) formalism considered harmful]]
-
-    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fmegacoglab%2FDwu9DFCvtF.png?alt=media&token=04e7f1f2-b197-4198-9efe-f81023857462)

@@ -51,26 +51,10 @@ date: Tue Feb 11 2020 15:55:26 GMT-0500 (Eastern Standard Time)
 
                 - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fmegacoglab%2FGUr-EZwtiw.png?alt=media&token=3738e421-f4f3-4699-aab1-95e92da98743)
 
-            - [[sys/ClaiMapper]], built on top of [[sys/Compendium]]'s visual [[std/Hypertext]] engine. this work built most directly on the problems with [[formality]] described by [[@shipmanFormalityConsideredHarmful1999]], and includes a deliberate attempt to enable [[[[PTN]] - incremental formalization]]
+            - [[[[ART]] - ClaiMapper]], built on top of [[[[ART]] - Compendium]]'s visual [[[[PTN]] - Hypertext]] engine. this work built most directly on the problems with [[formality]] described by [[@shipmanFormalityConsideredHarmful1999]], and includes a deliberate attempt to enable [[[[PTN]] - incremental formalization]]
 
 ###### Discourse Context
 
-- **Informs::** [[CLM - Scholarly argumentation operates on atomic statements and concepts as fundamental units]]
-- **Informs::** [[QUE - How can we best bridge private vs. public knowledge]]
+- **Informs::** [CLM - Scholarly argumentation operates on atomic statements and concepts as fundamental units.md](CLM - Scholarly argumentation operates on atomic statements and concepts as fundamental units.md)
+- **Informs::** [QUE - How can we best bridge private vs. public knowledge.md](QUE - How can we best bridge private vs. public knowledge.md)
 
-###### References
-
-[[#AnnotatedBib for Synthesis Infrastructures]]
-
-- [[@shumModelingNaturalisticArgumentation2006]]
-
-    - has also data model (similar to micropubs)
-
-        - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fmegacoglab%2F1W5rsyQGIv?alt=media&token=ce304f8b-597a-4909-898a-0b954242e899)
-[[June 29th, 2020]]
-
-- bunch of prototypes, from [[sys/ClaiMapper]] to [[sys/ClaiMaker Word plugin]], described well in [[@shumModelingNaturalisticArgumentation2006]]
-
-    - Describes the representation scheme behind the [[std/ScholOnto]] ontology for formally modeling [[discourse]] ([[Claim]]s and so on), but also more significantly, a suite of real {{alias: [[system-for]] systems for}} getting scholars to actually do this in a way that integrates with their existing [[scholarly workflows]] - that is, a [[scholar-powered model of semantic publishing]]
-
-    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fmegacoglab%2Fl0RLQaqzI5.png?alt=media&token=0884d6df-7757-4da8-ad97-7d4f23a26ba0)

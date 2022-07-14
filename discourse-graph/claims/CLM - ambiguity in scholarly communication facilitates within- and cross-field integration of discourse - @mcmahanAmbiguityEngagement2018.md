@@ -9,21 +9,6 @@ date: Mon Jul 12 2021 12:40:45 GMT-0400 (Eastern Daylight Time)
 
 ###### Discourse Context
 
-- **Supported By::** [[EVD - increased word ambiguity in abstracts was associated with slightly lower modularity of citation networks for those abstracts - @mcmahanAmbiguityEngagement2018]]
-- **Supported By::** [[CLM - ambiguity can be measured using word-level synonym entropy - @mcmahanAmbiguityEngagement2018]]
+- **Supported By::** [EVD - increased word ambiguity in abstracts was associated with slightly lower modularity of citation networks for those abstracts - @mcmahanAmbiguityEngagement2018.md](EVD - increased word ambiguity in abstracts was associated with slightly lower modularity of citation networks for those abstracts - @mcmahanAmbiguityEngagement2018.md)
+- **Supported By::** [CLM - ambiguity can be measured using word-level synonym entropy - @mcmahanAmbiguityEngagement2018.md](CLM - ambiguity can be measured using word-level synonym entropy - @mcmahanAmbiguityEngagement2018.md)
 
-###### References
-
-[[July 12th, 2021]]
-
-- [[[[CLM]] - ambiguity in scholarly communication facilitates within- and cross-field integration of discourse - [[@mcmahanAmbiguityEngagement2018]]]]
-
-    - [[SupportedBy]]
-
-        - [[[[EVD]] - increased word ambiguity in abstracts was associated with slightly lower modularity of citation networks for those abstracts - [[@mcmahanAmbiguityEngagement2018]]]]
-
-        - [[[[CLM]] - ambiguity can be measured using word-level synonym entropy - [[@mcmahanAmbiguityEngagement2018]]]] (warrant)
-
-            - see Appendix C
-
-            - [[[[EVD]] - LDA-powered measure of ambiguity significantly predicted crowd workers' judgment of sentence ambiguity - [[@mcmahanAmbiguityEngagement2018]]]]

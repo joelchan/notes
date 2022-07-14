@@ -51,13 +51,15 @@ date: Wed Jan 27 2021 21:21:35 GMT-0500 (Eastern Standard Time)
 
     - so we lack a good understanding, beyond weak circumstantial/anecdotal evidence of the value of these design patterns
 
-###### References
+###### Discourse Context
 
-[[February 3rd, 2021]]
+- **Informed By::** [CLM - Effective individual synthesis systems (seem to mostly) exist (for a select few).md](CLM - Effective individual synthesis systems (seem to mostly) exist (for a select few).md)
+- **Informed By::** [@hoangOpportunitiesComputerSupport2018.md](@hoangOpportunitiesComputerSupport2018.md)
+- **Informed By::** [@qianOpeningBlackBox2020.md](@qianOpeningBlackBox2020.md)
+- **Informed By::** [@willisDocumentsDistributedScientific2014.md](@willisDocumentsDistributedScientific2014.md)
+- **Informed By::** [@chanWhereRubberMeets2020.md](@chanWhereRubberMeets2020.md)
+- **Informed By::** [@blakeCollaborativeInformationSynthesis2006a.md](@blakeCollaborativeInformationSynthesis2006a.md)
+- **Informed By::** [@qianITunesPapersRedefining2019a.md](@qianITunesPapersRedefining2019a.md)
+- **Informed By::** [@wareSTMReportOverview2015.md](@wareSTMReportOverview2015.md)
+- **Informed By::** [@bosmanInnovationsScholarlyCommunication2016.md](@bosmanInnovationsScholarlyCommunication2016.md)
 
-- [[[[QUE]] - How might we characterize scientists' synthesis practices from a process/tool perspective?]]
-[[January 28th, 2021]]
-
-- SOTA: any pointers for [[[[QUE]] - How might we characterize scientists' synthesis practices from a process/tool perspective?]]
-
-    - {{embed: Draft [section](((SbUohk-At))) on "we don't have this stuff in practice and don't know how much it really works and under what conditions"}}

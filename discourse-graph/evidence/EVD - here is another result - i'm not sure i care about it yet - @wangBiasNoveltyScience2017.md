@@ -10,4 +10,4 @@ date: Wed Apr 06 2022 11:58:35 GMT-0400 (Eastern Daylight Time)
 
 ###### Discourse Context
 
-- **FromSource::** [[@wangBiasNoveltyScience2017]]
+- **FromSource::** [@wangBiasNoveltyScience2017.md](@wangBiasNoveltyScience2017.md)

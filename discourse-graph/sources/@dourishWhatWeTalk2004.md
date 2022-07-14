@@ -41,31 +41,7 @@ date: Wed May 20 2020 11:20:00 GMT-0400 (Eastern Daylight Time)
 
 ###### Discourse Context
 
-- **Informs::** [[CLM - Context is a slippery notion]]
-- **Informs::** [[CLM - Knowledge is fundamentally contextual]]
-- **Informs::** [[QUE - How can we best bridge private vs. public knowledge]]
+- **Informs::** [CLM - Context is a slippery notion.md](CLM - Context is a slippery notion.md)
+- **Informs::** [CLM - Knowledge is fundamentally contextual.md](CLM - Knowledge is fundamentally contextual.md)
+- **Informs::** [QUE - How can we best bridge private vs. public knowledge.md](QUE - How can we best bridge private vs. public knowledge.md)
 
-###### References
-
-[[May 20th, 2020]]
-
-- [[@dourishWhatWeTalk2004]]
-
-    - Could have sworn I've seen this paper before: why isn't it in my collection? Where is it??? Haha. POrobably in evernote?
-
-        - Ah indeed in Evernote
-
-            - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fmegacoglab%2FcpFqc0lkjT.png?alt=media&token=10d95dbb-924e-43d5-8185-5fbdbe21852b)
-
-        - Nice #example-of something that was "lost" but not really "lost" (came back around eventually). Q is how much was lost in the meantime.
-
-    - anyway, #[[➰ breadcrumbs]] this is a foundational paper to deep-read and create lit-notes on for [[[[CLM]] - Contextualizability is necessary for synthesis]], along with [[@ackermanOrganizationalMemoryObjects2004]] and [[@luttersBoundaryObjectsCollaborative2007]]
-[[July 18th, 2020]]
-
-- [[@dourishWhatWeTalk2004]] would likely bristle at the prospect of somehow enumerating possible sets of [[context]]-relevant information bits to make available for [[[[PTN]] - flexible compression]].
-
-    - At minimum, we should be careful not to make [[one-to-one]] mappings between some feature and whether it is or isn't [[context]]
-
-    - One salient point to keep in mind is that [[[[CLM]] - Context is a slippery notion]].
-
-    - This doesn't mean the task is impossible. We just shouldn't be naive about it.

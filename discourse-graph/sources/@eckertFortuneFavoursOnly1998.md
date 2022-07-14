@@ -35,12 +35,5 @@ date: Mon Nov 16 2020 17:39:25 GMT-0500 (Eastern Standard Time)
 
 ###### Discourse Context
 
-- **Informs::** [[QUE - What are the most efficient routes to useful cross-boundary knowledge]]
+- **Informs::** [QUE - What are the most efficient routes to useful cross-boundary knowledge.md](QUE - What are the most efficient routes to useful cross-boundary knowledge.md)
 
-###### References
-
-[[November 16th, 2020]]
-
-- [[@eckertFortuneFavoursOnly1998]]
-
-    - has Nice detailed model of where sources of inspiration come from and how they are used in the knitwear design process

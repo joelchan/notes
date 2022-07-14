@@ -26,50 +26,5 @@ date: Wed Aug 19 2020 10:58:21 GMT-0400 (Eastern Daylight Time)
 
 ###### Discourse Context
 
-- **Informs::** [[QUE - What are some major phenomena around designers' exploration of design spaces and how might these map to characteristics of optimizers]]
+- **Informs::** [QUE - What are some major phenomena around designers' exploration of design spaces and how might these map to characteristics of optimizers.md](QUE - What are some major phenomena around designers' exploration of design spaces and how might these map to characteristics of optimizers.md)
 
-###### References
-
-[[CL - Synthesis is-necessary-for effective problem formulation]]
-
-- In the language of [[Herbert Simon]], a deep engagement with the problem domain (including prior unsuccessful attempts to solve the problem, as well as related efforts from other problems/domains) is fundamental for clearly understanding the goal state, their current [undesirable] state, and what "moves" might be able to transform their current state into the goal state) [[R: newellHumanProblemSolving1972]] [[@simonStructureIllStructured1973]]
-
-    - The house designing metaphor in [[@simonStructureIllStructured1973]], maybe also the combining of multiple discrete tasks into unified task formulation
-[[@goelStructureDesignProblem1992]]
-
-- similar to [[@simonStructureIllStructured1973]] and [[@rittelDilemmasGeneralTheory1973]], lays out characteristics of [[Ill-structured problem]]s, specifically a set of dimensions on which to contrast them with [[well-structured problem]]s
-
-    - distribution of information
-
-    - nature of constraints
-
-    - size and complexity of problems
-
-    - component parts
-
-    - interconnectivity of parts
-
-    - right and wrong answers
-
-    - input/output
-
-    - feedback loop
-
-    - cost of errors
-
-    - independent functioning of artifact
-
-    - distinction between specification and delivery
-
-    - temporal separation between specification and delivery
-[[March 3rd, 2022]]
-
-- in simon's theory of problem solving (many refs, but see, eg., [[@simonStructureIllStructured1973]]; canonical cite is [[@newellElementsTheoryHuman1958]], and later on, the book: [[@newellHumanProblemSolving1972]]), it's a [[problem space]], which consists of
-
-    - similar in [[@goelStructureDesignProblem1992]]
-
-    - states, which is like reward model / distribution of "good" solutions?
-
-    - operators, which are basically space of possible moves
-
-    - tests / goal, which distinguishes constraints / requirements

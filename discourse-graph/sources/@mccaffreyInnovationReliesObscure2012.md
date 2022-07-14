@@ -56,14 +56,7 @@ date: Thu May 14 2020 16:36:09 GMT-0400 (Eastern Daylight Time)
 
 ###### Discourse Context
 
-- **Informs::** [[CLM - Breaking ideas down into component parts facilitates creative reinterpretation]]
-- **Informs::** [[QUE - How do people effectively (re)formulate creative problems]]
-- **Informs::** [[THE - interaction-oriented theory of creative inspiration from examples]]
+- **Informs::** [CLM - Breaking ideas down into component parts facilitates creative reinterpretation.md](CLM - Breaking ideas down into component parts facilitates creative reinterpretation.md)
+- **Informs::** [QUE - How do people effectively (re)formulate creative problems.md](QUE - How do people effectively (re)formulate creative problems.md)
+- **Informs::** [THE - interaction-oriented theory of creative inspiration from examples.md](THE - interaction-oriented theory of creative inspiration from examples.md)
 
-###### References
-
-[[NowReading]]
-
-- [[@mccaffreyInnovationReliesObscure2012]] for [[[[QUE]] - What factors control whether people appropriately benefit from analogies (especially far-field ones) during creative problem solving?]] | Using the Generic-parts technique(GPT) users were able to solve more problems than users who were simply attempting to solve a problem without using GPT. Being able to create function free descriptions of each part of the object were more successful in solving the problems. Being able to identify more obscure features of an object allowed participants to solve the problem presented to them. They were able to overcome functional fixedness.
-
-    - __<your notes>__

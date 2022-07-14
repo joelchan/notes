@@ -45,46 +45,6 @@ date: Fri May 01 2020 23:48:54 GMT-0400 (Eastern Daylight Time)
 
 ###### Discourse Context
 
-- **Informs::** [[CLM - Scientific fields vary substantially in terms of ease of consensus on judging what constitutes a valuable new contribution]]
-- **Informs::** [[QUE - (How) do fields of innovation vary in their legibility of quality]]
+- **Informs::** [CLM - Scientific fields vary substantially in terms of ease of consensus on judging what constitutes a valuable new contribution.md](CLM - Scientific fields vary substantially in terms of ease of consensus on judging what constitutes a valuable new contribution.md)
+- **Informs::** [QUE - (How) do fields of innovation vary in their legibility of quality.md](QUE - (How) do fields of innovation vary in their legibility of quality.md)
 
-###### References
-
-[[August 27th, 2021]]
-
-- Also [[Dean Simonton]] has some really interesting provocations in [[@simontonVarietiesScientificCreativity2009]]: #Claim Domains vary substantially in terms of "hardness" vs. "softeness" with one central differentiator being the degree to which the field (can) agree on what constitutes a contribution to the domain  (p. 442)
-
-    - [[[[CLM]] - Scientific fields vary substantially in terms of ease of consensus on judging what constitutes a valuable new contribution]]
-[[August 27th, 2021]]
-
-- More in [[@simontonVarietiesScientificCreativity2009]]: he uses it to order sciences in a hierarchy, which is a bit sus, but the features of variation might be instructive for us
-
-    - Hierarchy:
-
-        - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fmegacoglab%2FlC7QRALUx0.png?alt=media&token=ffee79df-5598-4d90-932b-2e28b4f9403d)
-
-    - Features
-
-        - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fmegacoglab%2F0Nf9DeUZ_l.png?alt=media&token=ab2e40fa-41bc-44f8-818d-e29e252a067f)
-
-        - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fmegacoglab%2FOZnBwyhgi2.png?alt=media&token=fb57c2be-4c90-405b-8cf5-02205c8983d8)
-[[QUE - (How) do fields of innovation vary in their legibility of quality]]
-
-- [[@simontonVarietiesScientificCreativity2009]] (secondary source, can dig into the primary sources)
-
-    - Simonton 2002 and Simonton 2004
-
-        - Simonton, D.K. (2004). Psychology’s status as a scientific discipline: Its empirical placement within an implicit hierarchy of the sciences. Review of General Psychology, 8, 59–67
-
-    - {{[[DONE]]}} Cole 1983 - Citation concentration to specific articles and peer evaluation consensu
-
-        - [[@coleHierarchySciences1983]]
-
-    - Suls and Fletcher 1983 - peer consultation rate [[@sulsSocialComparisonSocial1983]]
-
-        - Suls, J., & Fletcher, B. (1983). Social comparison in the social and physical sciences: An archival study. Journal of Personality and Social Psychology, 44, 575–580.
-[[September 17th, 2021]]
-
-- same hypothesized ordering here as in [[@coleHierarchySciences1983]] and [[@simontonVarietiesScientificCreativity2009]], from physics to biology to social science
-
-    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fmegacoglab%2FjWysvSGtjC.png?alt=media&token=167979b3-c1bc-46ac-9b1a-bea2418ff71f) (p. 2)

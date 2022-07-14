@@ -37,24 +37,5 @@ date: Thu Jan 23 2020 09:54:15 GMT-0500 (Eastern Standard Time)
 
 ###### Discourse Context
 
-- **Informs::** [[CLM - Effective synthesis is hard]]
+- **Informs::** [CLM - Effective synthesis is hard.md](CLM - Effective synthesis is hard.md)
 
-###### References
-
-[[synthesis-Lit]]
-
-- [[@knightEnslavedTrappedData2019]]
-
-    - transition friction between low data-level and high synthesis-level for systeamtic reviews
-[[#AnnotatedBib for Synthesis Infrastructures]]
-
-- [[@knightEnslavedTrappedData2019]]
-
-    - rare ethnography of the [[systematic review]] process
-
-        - transition friction between low data-level and high synthesis-level for systeamtic reviews
-[[February 3rd, 2021]]
-
-- Studies of systematic review practice, where the formality of data structures extracted from literature approximates [[[[PTN]] - discourse graph]], also have a similar phenomenology, with some studies documenting that this step of extracting data from papers feels like being "enslaved to the trapped data" [[@knightEnslavedTrappedData2019]].
-
-    - cc [[[[CLM]] - Effective synthesis is hard]]

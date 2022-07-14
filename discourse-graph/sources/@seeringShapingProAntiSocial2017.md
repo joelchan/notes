@@ -16,45 +16,6 @@ date: Sun Oct 24 2021 16:19:40 GMT-0400 (Eastern Daylight Time)
 
 ###### Discourse Context
 
-- **Informs::** [[QUE - Are bans an effective strategy for dealing with bad behaviors in online social media settings]]
-- **SourceFor::** [[EVD - viewers in Twitch chat engaged in less bad behaviors after a user was banned by a moderator for that bad behavior - @seeringShapingProAntiSocial2017]]
+- **Informs::** [QUE - Are bans an effective strategy for dealing with bad behaviors in online social media settings.md](QUE - Are bans an effective strategy for dealing with bad behaviors in online social media settings.md)
+- **SourceFor::** [EVD - viewers in Twitch chat engaged in less bad behaviors after a user was banned by a moderator for that bad behavior - @seeringShapingProAntiSocial2017.md](EVD - viewers in Twitch chat engaged in less bad behaviors after a user was banned by a moderator for that bad behavior - @seeringShapingProAntiSocial2017.md)
 
-###### References
-
-[[IDPS Workshop on Scalable Strategies for Combating Online Harassment]]
-
-- Reading [[@seeringShapingProAntiSocial2017]] to explore whether bans make sense.. Our moderator-in-residence says it can work.
-
-    - Looks like they found that [[[[EVD]] - viewers in Twitch chat engaged in less bad behaviors after a user was banned by a moderator for that bad behavior - [[@seeringShapingProAntiSocial2017]]]]
-
-        - note! they actually measured and banned three types of behaviors (spam, questions, and smiles), not necessarily just bad behaviors in general. the important thing is the attenuation/reversal or imitation that happened after an event + ban, vs. event without ban
-
-            - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fmegacoglab%2FFrj9i0ZggX.png?alt=media&token=edac68fd-536e-48d3-a364-b6b17958408e)
-
-            - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fmegacoglab%2FMknhTq3nsv.png?alt=media&token=f67bb77b-f29c-4b60-a6f0-0c9744fa79d5)
-
-    - Based on this they claim that [[[[CL]] - bans for antisocial behaviors can mitigate contagion of those behaviors to other users via norm-setting]]
-[[Playground Misinformation]]
-
-- [[EVD]] - viewers in Twitch chat engaged in less bad behaviors after a user was banned by a moderator for that bad behavior - [[@seeringShapingProAntiSocial2017]]
-
-    - x
-
-        - 848.4944789614334
-
-    - y
-
-        - 729.0469460119662
-
-    - color
-
-        - 85200c
-[[IDPS Workshop on Scalable Strategies for Combating Online Harassment]]
-
-- Looks like they found that [[[[EVD]] - viewers in Twitch chat engaged in less bad behaviors after a user was banned by a moderator for that bad behavior - [[@seeringShapingProAntiSocial2017]]]]
-
-    - note! they actually measured and banned three types of behaviors (spam, questions, and smiles), not necessarily just bad behaviors in general. the important thing is the attenuation/reversal or imitation that happened after an event + ban, vs. event without ban
-
-        - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fmegacoglab%2FFrj9i0ZggX.png?alt=media&token=edac68fd-536e-48d3-a364-b6b17958408e)
-
-        - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fmegacoglab%2FMknhTq3nsv.png?alt=media&token=f67bb77b-f29c-4b60-a6f0-0c9744fa79d5)

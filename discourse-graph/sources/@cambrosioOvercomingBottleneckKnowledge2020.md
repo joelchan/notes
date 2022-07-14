@@ -91,21 +91,6 @@ date: Sat Oct 24 2020 17:26:21 GMT-0400 (Eastern Daylight Time)
 
 ###### Discourse Context
 
-- **Informs::** [[CLM - Universal Semantic Webs are neither feasible nor useful]]
-- **Informs::** [[QUE - How can we best bridge private vs. public knowledge]]
+- **Informs::** [CLM - Universal Semantic Webs are neither feasible nor useful.md](CLM - Universal Semantic Webs are neither feasible nor useful.md)
+- **Informs::** [QUE - How can we best bridge private vs. public knowledge.md](QUE - How can we best bridge private vs. public knowledge.md)
 
-###### References
-
-[[October 23rd, 2020]]
-
-- [[@cambrosioOvercomingBottleneckKnowledge2020]]
-
-    - cc [[[[CLM]] - Universal Semantic Webs are neither feasible nor useful]], and [[[[CLM]] - Knowledge is fundamentally contextual]]
-[[March 9th, 2022]]
-
-- [[sys/OncoKB]]  (observed and discussed in [[@cambrosioOvercomingBottleneckKnowledge2020]])
-
-    - https://www.oncokb.org/cancerGenes
-[[March 9th, 2022]]
-
-- [[@cambrosioOvercomingBottleneckKnowledge2020]]

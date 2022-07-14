@@ -49,5 +49,5 @@ date: Tue Jul 28 2020 20:56:30 GMT-0400 (Eastern Daylight Time)
 
 ###### Discourse Context
 
-- **Informs::** [[CLM - Universal Semantic Webs are neither feasible nor useful]]
-- **Informs::** [[CLM - Distinction between neat vs scruffy in Semantic Web engineering]]
+- **Informs::** [CLM - Universal Semantic Webs are neither feasible nor useful.md](CLM - Universal Semantic Webs are neither feasible nor useful.md)
+- **Informs::** [CLM - Distinction between neat vs scruffy in Semantic Web engineering.md](CLM - Distinction between neat vs scruffy in Semantic Web engineering.md)

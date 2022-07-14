@@ -35,4 +35,4 @@ date: Sun May 10 2020 18:42:53 GMT-0400 (Eastern Daylight Time)
 
 ###### Discourse Context
 
-- **Informs::** [[PTN - Organize by using]]
+- **Informs::** [PTN - Organize by using.md](PTN - Organize by using.md)

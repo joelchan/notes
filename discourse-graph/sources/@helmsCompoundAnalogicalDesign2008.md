@@ -59,38 +59,13 @@ date: Wed Sep 09 2020 21:57:16 GMT-0400 (Eastern Daylight Time)
 
 ###### Discourse Context
 
-- **Informs::** [[CLM - Design proceeds by co-evolution of problem and solution space]]
-- **Informs::** [[CLM - Core mismatches in analogical inspiration improve creativity]]
-- **Informs::** [[QUE - Under what conditions do diverse initial examples lead to better final design solutions]]
-- **Informs::** [[QUE - What are the mechanisms by which analogies help drive creative breakthroughs]]
-- **Informs::** [[QUE - How might domain distance modulate the effects of analogies on creative output]]
-- **Informs::** [[QUE - What are the most efficient routes to useful cross-boundary knowledge]]
-- **Informs::** [[QUE - How do people effectively (re)formulate creative problems]]
-- **Informs::** [[THE - interaction-oriented theory of creative inspiration from examples]]
-- **SourceFor::** [[EVD - Engineering design students used multiple cross-domain analogies to fulfill design needs, and...on of how to decompose the problem and find new analogies. - @helmsCompoundAnalogicalDesign2008]]
+- **Informs::** [CLM - Design proceeds by co-evolution of problem and solution space.md](CLM - Design proceeds by co-evolution of problem and solution space.md)
+- **Informs::** [CLM - Core mismatches in analogical inspiration improve creativity.md](CLM - Core mismatches in analogical inspiration improve creativity.md)
+- **Informs::** [QUE - Under what conditions do diverse initial examples lead to better final design solutions.md](QUE - Under what conditions do diverse initial examples lead to better final design solutions.md)
+- **Informs::** [QUE - What are the mechanisms by which analogies help drive creative breakthroughs.md](QUE - What are the mechanisms by which analogies help drive creative breakthroughs.md)
+- **Informs::** [QUE - How might domain distance modulate the effects of analogies on creative output.md](QUE - How might domain distance modulate the effects of analogies on creative output.md)
+- **Informs::** [QUE - What are the most efficient routes to useful cross-boundary knowledge.md](QUE - What are the most efficient routes to useful cross-boundary knowledge.md)
+- **Informs::** [QUE - How do people effectively (re)formulate creative problems.md](QUE - How do people effectively (re)formulate creative problems.md)
+- **Informs::** [THE - interaction-oriented theory of creative inspiration from examples.md](THE - interaction-oriented theory of creative inspiration from examples.md)
+- **SourceFor::** [EVD - Engineering design students used multiple cross-domain analogies to fulfill design needs, and...on of how to decompose the problem and find new analogies. - @helmsCompoundAnalogicalDesign2008.md](EVD - Engineering design students used multiple cross-domain analogies to fulfill design needs, and...on of how to decompose the problem and find new analogies. - @helmsCompoundAnalogicalDesign2008.md)
 
-###### References
-
-[[October 30th, 2020]]
-
-- Digging back into this was also substantively useful, for resurfacing the idea of "expertise mediation" as another spin on the [attribute problem]([[[[CLM]] - Core attribute (mis)matches mediate the benefits of analogies in real-world, complex problem solving]]): if I show you something from a far domain, and your understanding of that domain is shallow, it's not going to be very useful to you, probably even if it's quite thoroughly explained - what needs to happen is a fruitful iteration or co-evolution (a la [[@dorstCreativityDesignProcess2001]] and [[@helmsCompoundAnalogicalDesign2008]]) between your problem space and the other problem space
-
-    - See these excerpts from the dissertation discussion on this point
-
-        - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fmegacoglab%2FopBJK2rVAv.png?alt=media&token=80011078-0c6b-475d-8160-4c3254e94409)
-
-        - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fmegacoglab%2FT-C1RHKiE5.png?alt=media&token=fbbec25e-f1d6-4aca-823b-408595611b2b)
-
-            - [[@hargadonTechnologyBrokeringInnovation1997]]
-
-    - A subtle variation of a "find collaborators" model might be a variation on Julie Hui's [[sys/IntroAssist]] [[@huiIntroAssistToolSupport2018]]
-
-        - Where might we test something like this? In ConservationX????
-
-        - What would we need to get started?
-
-            - Would be easiest with academic work, can leverage citation network.
-
-            - Just specify papers you've written, or ones you know really well, and those define your "network position"
-
-            - Then whenever we find analogical matches that overlap with your network position, we suggest an intro between you and the seeker

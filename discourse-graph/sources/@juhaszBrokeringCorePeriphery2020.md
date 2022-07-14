@@ -9,4 +9,4 @@ date: Fri May 22 2020 22:39:47 GMT-0400 (Eastern Daylight Time)
 
 ###### Discourse Context
 
-- **Informs::** [[CLM - Prestige substantially controls how scientific ideas spread]]
+- **Informs::** [CLM - Prestige substantially controls how scientific ideas spread.md](CLM - Prestige substantially controls how scientific ideas spread.md)

@@ -31,16 +31,5 @@ date: Mon May 25 2020 12:16:52 GMT-0400 (Eastern Daylight Time)
 
 ###### Discourse Context
 
-- **Informs::** [[QUE - What (existing) systems facilitate individual synthesis]]
+- **Informs::** [QUE - What (existing) systems facilitate individual synthesis.md](QUE - What (existing) systems facilitate individual synthesis.md)
 
-###### References
-
-[[February 9th, 2021]]
-
-- Roots in the practices of [[Niklas Luhmann]] (good intro in [[@schmidtNiklasLuhmannCard2018]]; popularized to the English-speaking world through [[@ahrensHowTakeSmart2017]])
-
-    - Has [[Atomicity]]/[[compression]] (granularity)
-
-    - And [[context]] (literature notes), although not quite as strong on this front, perhaps owing a little to the context of its development: social theory
-
-    - And a strong emphasis on the graph component

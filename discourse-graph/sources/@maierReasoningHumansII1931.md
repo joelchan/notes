@@ -29,12 +29,5 @@ date: Sat Dec 26 2020 21:53:28 GMT-0500 (Eastern Standard Time)
 
 ###### Discourse Context
 
-- **Informs::** [[THE - interaction-oriented theory of creative inspiration from examples]]
+- **Informs::** [THE - interaction-oriented theory of creative inspiration from examples.md](THE - interaction-oriented theory of creative inspiration from examples.md)
 
-###### References
-
-[[@kaplanSearchInsight1990]]
-
-- they make a key connection back to [[@maierReasoningHumansII1931]]'s two-string problem, and how the accidental brushing of the string by an experimenter could trigger the requisite reformulation of the problem. i think it's an example in the sense of being a concrete (albeit) partial instantiation of a move
-
-    - this now reminds me of the theory of [[[[THE]] - Opportunistic Assimilation Theory]], though i will have to dig into this a bit more deeply.

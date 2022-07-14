@@ -14,14 +14,5 @@ date: Mon Aug 09 2021 12:08:04 GMT-0400 (Eastern Daylight Time)
 
 ###### Discourse Context
 
-- **FromSource::** [[@leaheyProminentLessProductive2017]]
+- **FromSource::** [@leaheyProminentLessProductive2017.md](@leaheyProminentLessProductive2017.md)
 
-###### References
-
-[[August 9th, 2021]]
-
-- [[[[EVD]] - scientists in boundary-spanning collaborations self-reported more communication and other collaboration overheads that hindered productivity (and got better over time) - [[@leaheyProminentLessProductive2017]]]]
-
-    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fmegacoglab%2FTQoxekh7lz.png?alt=media&token=891309eb-d292-46b8-90e8-147bfbe04782) (p. 124-125)
-
-    - cc [[[[CLM]] - Interdisciplinary teamwork is hard]]

@@ -43,21 +43,39 @@ date: Tue Dec 14 2021 16:31:46 GMT-0500 (Eastern Standard Time)
 
         - experiment 1a
 
+            - time: 30 min
+
+            - participants: 77 psychology undergrads participating for course credit
+
+                - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fmegacoglab%2Fe0-zjCclyv.png?alt=media&token=cad353d8-575c-495e-a7fd-a997feafb50a)(p. 930)
+
+            - verbal analogy task: [[four-term analogy problems]]
+
+                - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fmegacoglab%2FYmsDBNrHAQ.png?alt=media&token=23f8ef8e-a408-4460-b424-38d6364beb3c)
+
+            - transfer task: picture-mapping:
+
+                - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fmegacoglab%2Fruj2YG3D0I.png?alt=media&token=c06c3e6d-ca90-4a48-b3d3-1c8a67d9a9bf) (p. 930)
+
+            - procedure: in each trial do a 500ms-fixation cross followed by the verbal analogy task: [[four-term analogy problems]]. it is time controlled (8s max) and visual feedback is provided ("Wrong" or "Too Slow" as red text). then do [picture mapping task](((6kd5j85za)))
+
+                - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fmegacoglab%2FozGYTDAEix.png?alt=media&token=19ac663f-0cd9-48cc-a38a-dfbbbf9d24f8)(p.930)
+
+                - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fmegacoglab%2FVa1fLwy_vH.png?alt=media&token=f2b2683f-9a82-470b-a950-d560cd8adb03)(p.930)
+
         - experiment 1b
+
+            - time: 45 min
 
             - participants: 54 psychology undergrads participating for course credit
 
                 - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fmegacoglab%2FKxacM1ZWzE.png?alt=media&token=bf930d9f-98ab-4c48-a1b2-0454946ea7b0) (p. 930)
 
-            - task: [[four-term analogy problems]]
+            - verbal analogy task: [[four-term analogy problems]] with only valid problems without time-limit and feedback
 
-                - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fmegacoglab%2FYmsDBNrHAQ.png?alt=media&token=23f8ef8e-a408-4460-b424-38d6364beb3c)
+            - transfer task: picture-mapping:
 
-            - task: picture-mapping:
-
-                - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fmegacoglab%2Fruj2YG3D0I.png?alt=media&token=c06c3e6d-ca90-4a48-b3d3-1c8a67d9a9bf) (p. 93)
-
-            - procedure: do abridged [[RAVENS progressive matrices]] to measure fluid intelligence, then do verbal analogy task as in experiment 1a (but only valid analogy problems), then do picture mapping task
+            - procedure: do abridged [[RAVENS progressive matrices]] to measure fluid intelligence, then do ((WIjywcBgp)) with only valid problems without time-limit and feedback, then  [picture mapping task](((6kd5j85za)))
 
                 - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fmegacoglab%2FHUYL2NwmuJ.png?alt=media&token=bd01d7e4-aa63-4784-90cb-7d188741e38d) (p. 931)
 
@@ -65,77 +83,69 @@ date: Tue Dec 14 2021 16:31:46 GMT-0500 (Eastern Standard Time)
 
         - __One block for each result of interest. we'll refactor this together into EVD notes__
 
-            - ### summary
+            - __One block for each result of interest. we'll refactor this together into EVD notes__
 
-                - [[[[EVD]] - Generating (but not evaluating) solutions to far analogy problems positively predicted performance on a subsequent analogy task (compared to generating or evaluating near analogy problems) - [[@vendettiFarOutThinkingGenerating2014]]]]
+                - ### summary
 
-            - ### grounding context
+                    - [[[[EVD]] - Generating (but not evaluating) solutions to far analogy problems positively predicted performance on a subsequent analogy task (compared to generating or evaluating near analogy problems) - [[@vendettiFarOutThinkingGenerating2014]]]]
 
-                - __block ref in major methods details from the source methods / context block we might need later to make sense of this result, particularly as they might conflict with others. __
+                - ### grounding context
 
-            - __also discuss possible critiques/claims. create source CLM notes for author conclusions (if you like), or reference other CLMs that we have that engage with this__
+                    - __block ref in major methods details from the source methods / context block we might need later to make sense of this result, particularly as they might conflict with others. __
 
-        - __Also can discuss meta-results (combinations of results) in a similar template.____
+                - __also discuss possible critiques/claims. create source CLM notes for author conclusions (if you like), or reference other CLMs that we have that engage with this__
+
+            - __One block for each result of interest. we'll refactor this together into EVD notes__
+
+                - ### summary
+
+                    - Once the relational mindset is triggered by generating solutions for far analogies, the fluid intelligence test did not predict relational responding in the picture-mapping task.
+
+                    - In my opinion, this shows that, although intelligence indicates the susceptibility of a person to achieve the relational mindset for creative thinking, once such a state of mind is reached, it becomes hard to evaluate.
+
+                        - This means that, if the results are better than predicted, the users might have had the necessary prior knowledge to map the results of retrieval.
+
+                            - related to [[relational mindset]] in [[@goldwaterCanRelationalMindset2019]]
+
+                        - the emphasis on the state of mind supports the claim [[[[CLM]] - Inspiration favors the prepared mind]]
+
+                    - impact on the relationship with fluid intelligence found in general discussion
+
+                        - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fmegacoglab%2FhCJMTzXpIc.png?alt=media&token=91e4474d-7341-4328-ac26-820f5da43f0d)(p.932)
+
+                - ### grounding context
+
+                    - __block ref in major methods details from the source methods / context block we might need later to make sense of this result, particularly as they might conflict with others. __
+
+                        - experiment 1a
+
+                        - experiment 1b
+
+                            - participants: 54 psychology undergrads participating for course credit
+
+                                - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fmegacoglab%2FKxacM1ZWzE.png?alt=media&token=bf930d9f-98ab-4c48-a1b2-0454946ea7b0) (p. 930)
+
+                            - verbal analogy task: [[four-term analogy problems]]
+
+                                - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fmegacoglab%2FYmsDBNrHAQ.png?alt=media&token=23f8ef8e-a408-4460-b424-38d6364beb3c)
+
+                            - transfer task: picture-mapping:
+
+                                - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fmegacoglab%2Fruj2YG3D0I.png?alt=media&token=c06c3e6d-ca90-4a48-b3d3-1c8a67d9a9bf) (p. 930)
+
+                            - procedure: do abridged [[RAVENS progressive matrices]] to measure fluid intelligence, then do ((jxWcWder-)), then  [picture mapping task](((6kd5j85za)))
+
+                                - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fmegacoglab%2FHUYL2NwmuJ.png?alt=media&token=bd01d7e4-aa63-4784-90cb-7d188741e38d) (p. 931)
+
+                - __also discuss possible critiques/claims. create source CLM notes for author conclusions (if you like), or reference other CLMs that we have that engage with this__
+
+        - __Also can discuss meta-results (combinations of results) in a similar template.__
 
 ###### Discourse Context
 
-- **Informs::** [[QUE - What factors control whether people appropriately benefit from analogies (especially far-field ones) during creative problem solving]]
-- **SourceFor::** [[EVD -  Half of the participants received near analogies and half received far analogies and then were asked to complete a picture mapping t - @vendettiFarOutThinkingGenerating2014]]
-- **SourceFor::** [[EVD - Generating (but not evaluating) solutions to far analogy problems positively predicted perfor...ared to generating or evaluating near analogy problems) - @vendettiFarOutThinkingGenerating2014]]
-- **SourceFor::** [[EVD - Students who were provided near analogies produced more accurate analogical solutions than students provided far reaching analogies - @vendettiFarOutThinkingGenerating2014]]
-- **SourceFor::** [[EVD - Participants given the far reaching analogies produced more of x result than those in the nea...y group, and it was found to be tied to generation task - @vendettiFarOutThinkingGenerating2014]]
+- **Informs::** [QUE - What factors control whether people appropriately benefit from analogies (especially far-field ones) during creative problem solving.md](QUE - What factors control whether people appropriately benefit from analogies (especially far-field ones) during creative problem solving.md)
+- **SourceFor::** [EVD -  Half of the participants received near analogies and half received far analogies and then were asked to complete a picture mapping t - @vendettiFarOutThinkingGenerating2014.md](EVD -  Half of the participants received near analogies and half received far analogies and then were asked to complete a picture mapping t - @vendettiFarOutThinkingGenerating2014.md)
+- **SourceFor::** [EVD - Generating (but not evaluating) solutions to far analogy problems positively predicted perfor...ared to generating or evaluating near analogy problems) - @vendettiFarOutThinkingGenerating2014.md](EVD - Generating (but not evaluating) solutions to far analogy problems positively predicted perfor...ared to generating or evaluating near analogy problems) - @vendettiFarOutThinkingGenerating2014.md)
+- **SourceFor::** [EVD - Students who were provided near analogies produced more accurate analogical solutions than students provided far reaching analogies - @vendettiFarOutThinkingGenerating2014.md](EVD - Students who were provided near analogies produced more accurate analogical solutions than students provided far reaching analogies - @vendettiFarOutThinkingGenerating2014.md)
+- **SourceFor::** [EVD - Participants given the far reaching analogies produced more of x result than those in the nea...y group, and it was found to be tied to generation task - @vendettiFarOutThinkingGenerating2014.md](EVD - Participants given the far reaching analogies produced more of x result than those in the nea...y group, and it was found to be tied to generation task - @vendettiFarOutThinkingGenerating2014.md)
 
-###### References
-
-[[December 16th, 2021]]
-
-- [[@vendettiFarOutThinkingGenerating2014]]
-
-    - [[[[EVD]] - Participants given the far reaching analogies produced more of x result than those in the near analogy group, and it was found to be tied to generation task? - [[@vendettiFarOutThinkingGenerating2014]]]] #Informs
-
-        - Not sure about this note. Wording used in the paragraphs is confusing. Need to come back to see exactly it going on here
-[[@vendettiFarOutThinkingGenerating2014]]
-
-- [[[[EVD]] - Generating (but not evaluating) solutions to far analogy problems positively predicted performance on a subsequent analogy task (compared to generating or evaluating near analogy problems) - [[@vendettiFarOutThinkingGenerating2014]]]]
-
-    - from this they conclude that [[[[CLM]] - generating far analogies can induce a "relational mindset" that enhances downstream analogical thinking]]
-[[MeetingNotes  Arvind Srinivasan - Joel Chan  June 27th, 2022]]
-
-- {{[[DONE]]}} Verify and add details for [[[[EVD]] - Generating (but not evaluating) solutions to far analogy problems positively predicted performance on a subsequent analogy task (compared to generating or evaluating near analogy problems) - [[@vendettiFarOutThinkingGenerating2014]]]]
-
-    - concept of [[relational mindset]]?
-
-        - https://scite.ai/reports/far-out-thinking-EbO83K?mentioning=false&page=1&showMobile=false&unclassified=false&utm_campaign=badge&utm_medium=badge&utm_source=roamresearch.com
-
-        - https://scite.ai/reports/can-a-relational-mindset-boost-DZGzZAZ?page=1 [[@goldwaterCanRelationalMindset2019]]
-
-            - supporting cite from section 'results' of publication:
-
-Goldwater, M. B., Jamrozik, A. (2019). Can a relational mindset boost analogical retrieval?. Cogn. Research, 1(4). https://doi.org/10.1186/s41235-019-0198-8
-
-----------------------------------------------------------------
-“…In summary, although neither experiment 1 nor experiment 2 alone replicate the pattern from Vendetti et al (2014) exactly, combining the results of experiments 1 and 2 show quite similar values to the prior research. This raises our confidence that the current experiments successfully tapped into the same cognitive processes as Vendetti et al (2014), while highlighting the need to compare the magnitude of relationships across conditions without relying on a difference between a statistically significant versus nonsignificant finding.…”
-----------------------------------------------------------------
-
-            - supporting cite from section 'results' of publication:
-
-Goldwater, M. B., Jamrozik, A. (2019). Can a relational mindset boost analogical retrieval?. Cogn. Research, 1(4). https://doi.org/10.1186/s41235-019-0198-8
-
-----------------------------------------------------------------
-“…In summary, although neither experiment 1 nor experiment 2 alone replicate the pattern from Vendetti et al (2014) exactly, combining the results of experiments 1 and 2 show quite similar values to the prior research. This raises our confidence that the current experiments successfully tapped into the same cognitive processes as Vendetti et al (2014), while highlighting the need to compare the magnitude of relationships across conditions without relying on a difference between a statistically significant versus nonsignificant finding.…”
-----------------------------------------------------------------
-
-            - contradicting cite from section 'discussion' of publication:
-
-Goldwater, M. B., Jamrozik, A. (2019). Can a relational mindset boost analogical retrieval?. Cogn. Research, 1(4). https://doi.org/10.1186/s41235-019-0198-8
-
-----------------------------------------------------------------
-“…In summary, although neither experiment 1 nor experiment 2 alone replicate the pattern from Vendetti et al (2014) exactly, combining the results of experiments 1 and 2 show quite similar values to the prior research. This raises our confidence that the current experiments successfully tapped into the same cognitive processes as Vendetti et al (2014), while highlighting the need to compare the magnitude of relationships across conditions without relying on a difference between a statistically significant versus nonsignificant finding.…”
-----------------------------------------------------------------
-
-            - the trail goes cold here..... :( no more follow-up supporting or opposing cites. we have stopped with two sets of studies with western undergrads!!!!!
-[[December 16th, 2021]]
-
-- Key result for [[@vendettiFarOutThinkingGenerating2014]] was this:
-
-    - [[[[EVD]] - Generating (but not evaluating) solutions to far analogy problems positively predicted performance on a subsequent analogy task (compared to generating or evaluating near analogy problems) - [[@vendettiFarOutThinkingGenerating2014]]]]

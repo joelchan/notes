@@ -15,10 +15,9 @@ date: Tue Sep 07 2021 11:28:17 GMT-0400 (Eastern Daylight Time)
 
     - [[[[QUE]] - What is the user experience of semantic authoring within regular scholarly workflows?]]
 
-###### References
+###### Discourse Context
 
-[[QUE - What (existing) systems facilitate individual synthesis]]
+- **Informed By::** [@qianOpeningBlackBox2020.md](@qianOpeningBlackBox2020.md)
+- **Informed By::** [@blakeCollaborativeInformationSynthesis2006.md](@blakeCollaborativeInformationSynthesis2006.md)
+- **Informed By::** [@morabitoManagingContextScholarly2021.md](@morabitoManagingContextScholarly2021.md)
 
-- Subquestion: [[[[QUE]] - What user behaviors are scholars doing already that specifies structure for synthesis?]]
-
-    - This should draw on [[WP: JCDL Where the semantic publishing rubber meets the scholarly practice road]]

@@ -29,20 +29,5 @@ date: Wed Feb 17 2021 13:19:18 GMT-0500 (Eastern Standard Time)
 
 ###### Discourse Context
 
-- **Informs::** [[QUE - Under what conditions is it possible to transfer expertise from one person to another]]
+- **Informs::** [QUE - Under what conditions is it possible to transfer expertise from one person to another.md](QUE - Under what conditions is it possible to transfer expertise from one person to another.md)
 
-###### References
-
-[[QUE - Under what conditions is it possible to transfer expertise from one person to another]]
-
-- [[@langerWhenPracticeMakes1979]]
-
-    - Citation statements from the book
-
-        - Experts' lists less specific steps than novice.
-
-        - Experts oversimplified the steps and methods (abstracting the tasks) in order to process information rapidly and view task holistically.
-
-        - This make it harder to transfer knowledge
-
-        - Case Study/Experiment

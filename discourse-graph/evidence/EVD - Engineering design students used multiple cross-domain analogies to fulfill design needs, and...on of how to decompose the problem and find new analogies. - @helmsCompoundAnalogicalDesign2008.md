@@ -54,11 +54,11 @@ date: Wed Feb 16 2022 19:48:09 GMT-0500 (Eastern Standard Time)
 
 ###### Discourse Context
 
-- **Informs::** [[THE - interaction-oriented theory of creative inspiration from examples]]
-- **Supports::** [[CLM - examples can improve creative outcomes by enabling more robust (re)modeling of the problem space]]
-- **Supports::** [[CLM - creative workers use examples to support problem (re)formulation]]
-- **Supports::** [[CLM - Analogies can power creative breakthroughs by stimulating effective problem (re)formulation]]
-- **Consistent With::** [[EVD - Two artists used individual artworks to shape not just their ideas, but used a process of ana...ion. This process unfolded over the course of years. - @okadaAnalogicalModificationCreation2009]]
-- **Consistent With::** [[EVD - professional designers curated examples to understand trends and design approaches to inform .... simple direct transfer of solution approaches - @sharminUnderstandingKnowledgeManagement2009b]]
-- **Consistent With::** [[EVD - designers used examples to shape their understanding of the problem before generating solutions - @herringGettingInspiredUnderstanding2009]]
-- **FromSource::** [[@helmsCompoundAnalogicalDesign2008]]
+- **Informs::** [THE - interaction-oriented theory of creative inspiration from examples.md](THE - interaction-oriented theory of creative inspiration from examples.md)
+- **Supports::** [CLM - examples can improve creative outcomes by enabling more robust (re)modeling of the problem space.md](CLM - examples can improve creative outcomes by enabling more robust (re)modeling of the problem space.md)
+- **Supports::** [CLM - creative workers use examples to support problem (re)formulation.md](CLM - creative workers use examples to support problem (re)formulation.md)
+- **Supports::** [CLM - Analogies can power creative breakthroughs by stimulating effective problem (re)formulation.md](CLM - Analogies can power creative breakthroughs by stimulating effective problem (re)formulation.md)
+- **Consistent With::** [EVD - Two artists used individual artworks to shape not just their ideas, but used a process of ana...ion. This process unfolded over the course of years. - @okadaAnalogicalModificationCreation2009.md](EVD - Two artists used individual artworks to shape not just their ideas, but used a process of ana...ion. This process unfolded over the course of years. - @okadaAnalogicalModificationCreation2009.md)
+- **Consistent With::** [EVD - professional designers curated examples to understand trends and design approaches to inform .... simple direct transfer of solution approaches - @sharminUnderstandingKnowledgeManagement2009b.md](EVD - professional designers curated examples to understand trends and design approaches to inform .... simple direct transfer of solution approaches - @sharminUnderstandingKnowledgeManagement2009b.md)
+- **Consistent With::** [EVD - designers used examples to shape their understanding of the problem before generating solutions - @herringGettingInspiredUnderstanding2009.md](EVD - designers used examples to shape their understanding of the problem before generating solutions - @herringGettingInspiredUnderstanding2009.md)
+- **FromSource::** [@helmsCompoundAnalogicalDesign2008.md](@helmsCompoundAnalogicalDesign2008.md)

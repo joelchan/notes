@@ -81,19 +81,5 @@ date: Tue Mar 03 2020 16:39:16 GMT-0500 (Eastern Standard Time)
 
 ###### Discourse Context
 
-- **Informs::** [[CLM - Dedicated business centers are an effective way for libraries to serve information needs of businesses in a comprehensive way]]
+- **Informs::** [CLM - Dedicated business centers are an effective way for libraries to serve information needs of businesses in a comprehensive way.md](CLM - Dedicated business centers are an effective way for libraries to serve information needs of businesses in a comprehensive way.md)
 
-###### References
-
-[[March 17th, 2020]]
-
-- Tightened narrative around question of informal/formal sources (since we know from past work (e.g., [[@vaughanValuePublicLibrary1996a]]) that businesses frequently consult and even prefer informal sources to formal sources such as the library; cf. [[Z: Businesses frequently prefer informal to formal sources for their information needs]]): **what info needs are informal sources providing, and what does that tell us about how we might partner with or index those informal sources?**
-
-    - See revised outline here: https://roamresearch.com/#/app/megacoglab/page/B_Lk3iuNi
-[[R trott87information]]
-
-- Cited in [[@vaughanValuePublicLibrary1996a]]: "the experience of the business librarian in London Public LIbrary and others, including Trott, suggests that younger business have more need of library service than mature, well-established businesses" on p268-269 #>
-
-    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fmegacoglab%2FXv0tdXc0Yv?alt=media&token=3bcc716d-11fb-491e-b90f-5db9026b5317)
-
-    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fmegacoglab%2FEOYn_eWgl1?alt=media&token=a4a7ea54-5e19-4143-b837-904e69fb9c56)

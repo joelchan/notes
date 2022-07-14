@@ -28,7 +28,7 @@ date: Wed Dec 08 2021 16:43:42 GMT-0500 (Eastern Standard Time)
 
 ###### Discourse Context
 
-- **Informs::** [[QUE - How susceptible are young children to COVID-19 infection, given equivalent exposure]]
-- **Consistent With::** [[EVD - Comparable secondary attack rate in households in China for children under 3 compared to other age groups - @wuHouseholdTransmissionSARSCoV22020]]
-- **Consistent With::** [[EVD - Similar secondary attack rate for children vs. adults in Shenzen - @biEpidemiologyTransmissionCOVID192020]]
-- **FromSource::** [[@yousafProspectiveCohortStudy2020]]
+- **Informs::** [QUE - How susceptible are young children to COVID-19 infection, given equivalent exposure.md](QUE - How susceptible are young children to COVID-19 infection, given equivalent exposure.md)
+- **Consistent With::** [EVD - Comparable secondary attack rate in households in China for children under 3 compared to other age groups - @wuHouseholdTransmissionSARSCoV22020.md](EVD - Comparable secondary attack rate in households in China for children under 3 compared to other age groups - @wuHouseholdTransmissionSARSCoV22020.md)
+- **Consistent With::** [EVD - Similar secondary attack rate for children vs. adults in Shenzen - @biEpidemiologyTransmissionCOVID192020.md](EVD - Similar secondary attack rate for children vs. adults in Shenzen - @biEpidemiologyTransmissionCOVID192020.md)
+- **FromSource::** [@yousafProspectiveCohortStudy2020.md](@yousafProspectiveCohortStudy2020.md)

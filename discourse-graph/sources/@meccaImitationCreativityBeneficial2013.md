@@ -22,19 +22,5 @@ date: Sat Jan 15 2022 15:47:38 GMT-0500 (Eastern Standard Time)
 
 ###### Discourse Context
 
-- **Informs::** [[THE - interaction-oriented theory of creative inspiration from examples]]
+- **Informs::** [THE - interaction-oriented theory of creative inspiration from examples.md](THE - interaction-oriented theory of creative inspiration from examples.md)
 
-###### References
-
-[[THE - interaction-oriented theory of creative inspiration from examples]]
-
-- [[@meccaImitationCreativityBeneficial2013]] - people who used [[propulsion strategies]] when they worked with examples had more original, high-quality ideas
-
-    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fmegacoglab%2FWjA3cLQ4bg.png?alt=media&token=f483c1c9-72aa-418a-9032-5ca05de1b4fc)
-[[propulsion strategies]]
-
-- tested in [[@meccaImitationCreativityBeneficial2013]]
-
-    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fmegacoglab%2FhUlGqA3bG4.png?alt=media&token=ea53bbfa-910a-490e-bb7b-7aedd1e90107) (p. 3)
-
-    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fmegacoglab%2FOcxh3R4Vn-.png?alt=media&token=c35e6727-bb4c-4c68-b336-1ff796132927) (p. 4)

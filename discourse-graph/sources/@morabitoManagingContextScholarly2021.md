@@ -29,41 +29,7 @@ date: Wed Jun 23 2021 10:37:21 GMT-0400 (Eastern Daylight Time)
 
 ###### Discourse Context
 
-- **Informs::** [[QUE - How can we best bridge private vs. public knowledge]]
-- **Informs::** [[QUE - What (existing) systems facilitate individual synthesis]]
-- **Informs::** [[QUE - What user behaviors are scholars doing already that specifies structure for synthesis]]
+- **Informs::** [QUE - How can we best bridge private vs. public knowledge.md](QUE - How can we best bridge private vs. public knowledge.md)
+- **Informs::** [QUE - What (existing) systems facilitate individual synthesis.md](QUE - What (existing) systems facilitate individual synthesis.md)
+- **Informs::** [QUE - What user behaviors are scholars doing already that specifies structure for synthesis.md](QUE - What user behaviors are scholars doing already that specifies structure for synthesis.md)
 
-###### References
-
-[[June 23rd, 2021]]
-
-- [[@morabitoManagingContextScholarly2021]]
-
-    - q from audience
-
-        - [[Sneha R. Krishna Kumaran]]: anyone use no tools?
-
-            - Layne Hubbard says
-
-                - Reminds me of [[Andy Clark]] ’ Natural Born Cyborgs [[@clarkSupersizingMindEmbodiment2010]]
-
-                - https://www.researchgate.net/publication/266603199_Natural-Born_Cyborgs_Minds_Technologies_and_the_Future_of_Human_Intelligence
-
-            - thought about [[transactive memory]] came up
-
-        - [[Jason Ding]]: what could we teach to novices?
-[[QUE - What (existing) systems facilitate individual synthesis]]
-
-- [[@morabitoManagingContextScholarly2021]]
-
-    - notice desire path of context
-[[WP JCDL Where the semantic publishing rubber meets the scholarly practice road]]
-
-- P2 from [[John Thesis]] [[@morabitoManagingContextScholarly2021]]: multiple highlight colors - green = "context", blue = "quote/idea":
-
-    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fmegacoglab%2FJqNuJfGznt.png?alt=media&token=90298b35-9650-47f5-8f73-4ec067e99fa0)
-[[September 7th, 2021]]
-
-- [[@morabitoManagingContextScholarly2021]]
-
-    - CBB as context - want to manipulate it on its own, independent of source

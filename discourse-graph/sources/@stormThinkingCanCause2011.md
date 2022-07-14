@@ -19,18 +19,5 @@ date: Fri Jan 14 2022 11:20:12 GMT-0500 (Eastern Standard Time)
 
 ###### Discourse Context
 
-- **Informs::** [[QUE - What is the relationship between prior knowledge and new ideas]]
+- **Informs::** [QUE - What is the relationship between prior knowledge and new ideas.md](QUE - What is the relationship between prior knowledge and new ideas.md)
 
-###### References
-
-[[January 16th, 2022]]
-
-- Thinking about [[retrieval-induced forgetting]]: it's not really directly related to example exposure - here, people are practicing for memory retrieval, and the idea is related to inhibitory processes, which [[@stormThinkingCanCause2011]] hypothesizes (and shows evidence) that it is actually a way to *reduce* [[🧱 fixation]], not an index of fixation per se.
-
-    - So it's really about how [[[[CL]] - Executive functions, such as cognitive control and inhibition, are a net positive for generating creative ideas]]
-
-    - Which is why I moved it out of the CLM about stimulating exploration from examples
-
-    - In other words, people who have more inhibition ability are less susceptible to fixation from examples
-
-        - this kind of relates to the relationship between [[cognitive control]] and creativity (see lots of stuff by [[Roger E. Beaty]], like [[@beatyWhyIdeasGet2012]] and [[@frithKeepingCreativityControl2021]])

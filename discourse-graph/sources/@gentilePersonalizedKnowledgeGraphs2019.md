@@ -74,37 +74,5 @@ date: Tue Jun 09 2020 11:27:08 GMT-0400 (Eastern Daylight Time)
 
 ###### Discourse Context
 
-- **Informs::** [[PTN - Prefer to accrete new infrastructures on top of existing ones]]
+- **Informs::** [PTN - Prefer to accrete new infrastructures on top of existing ones.md](PTN - Prefer to accrete new infrastructures on top of existing ones.md)
 
-###### References
-
-[[PTN - Prefer to accrete new infrastructures on top of existing ones]]
-
-- #[[@gentilePersonalizedKnowledgeGraphs2019]]
-
-    - Key motivation for augmenting existing PDFs __in situ__, instead of extracting elements: preserve ability to get [[context]]!
-[[@gentilePersonalizedKnowledgeGraphs2019]]
-
-- [[@gentilePersonalizedKnowledgeGraphs2019]]
-
-    - #[[references]]
-
-        - Title: Personalized Knowledge Graphs for the Pharmaceutical Domain
-
-        - Meta:
-
-            - Authored by:: [[Anna Lisa Gentile]] [[Daniel Gruhl]] [[Petar Ristoski]] [[Steve Welch]] [[Chiara Ghidini]] [[Olaf Hartig]] [[Maria Maleshkova]] [[Vojtěch Svátek]] [[Isabel Cruz]] [[Aidan Hogan]] [[Jie Song]] [[Maxime Lefrançois]] [[Fabien Gandon]]
-
-            - Year: [[2019]]
-
-            - Publication: The Semantic Web – ISWC 2019
-
-            - Zotero link: [Zotero Link](zotero://select/items/1_HGZZQ7PZ)
-
-            - URL: [Gentile et al. (2019). Personalized Knowledge Graphs for the Pharmaceutical Domain. The Semantic Web – ISWC 2019](undefined)
-
-        - Content
-
-            - Abstract
-
-                - A considerable amount of scientific and technical content is still locked behind data formats which are not machine readable, especially PDF files - and this is particularly true in the healthcare domain. While the Semantic Web has nourished the shift to more accessible formats, in business scenarios it is critical to be able to tap into this type of content, both to extract as well as embed machine readable semantic information.We present our solution in the pharmaceutical domain and describe a fully functional pipeline to maintain up-to-date knowledge resources extracted from medication Package Inserts. We showcase how subject matter expert(s) can have their own view on the available documents, served by a personalized Knowledge Graph - or rather a view on the graph which is specific to them. We share lessons learned from our initial pilot study with a team of medical professionals. Our solution is fully integrated within the standard PDF data format and does not require the use of any external software - nor to be aware of the underlying graph.

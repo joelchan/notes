@@ -17,9 +17,13 @@ date: Wed Jun 09 2021 11:38:47 GMT-0400 (Eastern Daylight Time)
 
     - ## **Grounding Context**
 
-        - __<describe how this result might be reconstructed/reproduced>__
+        - The study was conducted over 4 years in Baltimore with 35 different children. The study focuses on the 4th year due to issues obtaining participants from racially and economic backgrounds. The goal was achieved during the 4th year which had 14 participants in a co-design process. at libraries in Baltimore City.
 
-        - Source:: [[@walshEquityEqualityAmerican2018]]
+            - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fmegacoglab%2FYG9Hv5P0UA.png?alt=media&token=0f6da7e8-8534-4206-a242-6a0b61be6643)  pg435
+
+        - During the 4th year Studies were conducted at a libraries in underserved communities with a total of 14 children participating throughout the year. Attendance was voluntary. Children could leave the session at any time without question.
+
+            - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fmegacoglab%2FtE70UheBHe.png?alt=media&token=1da6ae1d-d74b-4034-857a-aff5a0914ac2) pg 438
 
     - ## **Discourse Context**
 
@@ -31,5 +35,5 @@ date: Wed Jun 09 2021 11:38:47 GMT-0400 (Eastern Daylight Time)
 
 ###### Discourse Context
 
-- **Informs::** [[QUE - What tension points exist between the goals of diversity and depth of user participation in participatory design]]
-- **FromSource::** [[@walshEquityEqualityAmerican2018]]
+- **Informs::** [QUE - What tension points exist between the goals of diversity and depth of user participation in participatory design.md](QUE - What tension points exist between the goals of diversity and depth of user participation in participatory design.md)
+- **FromSource::** [@walshEquityEqualityAmerican2018.md](@walshEquityEqualityAmerican2018.md)

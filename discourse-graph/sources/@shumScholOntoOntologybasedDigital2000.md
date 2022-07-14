@@ -29,18 +29,5 @@ date: Mon Jun 29 2020 15:01:16 GMT-0400 (Eastern Daylight Time)
 
 ###### Discourse Context
 
-- **Informs::** [[CLM - Scholarly argumentation operates on atomic statements and concepts as fundamental units]]
+- **Informs::** [CLM - Scholarly argumentation operates on atomic statements and concepts as fundamental units.md](CLM - Scholarly argumentation operates on atomic statements and concepts as fundamental units.md)
 
-###### References
-
-[[stdScholOnto]]
-
-- [[@shumScholOntoOntologybasedDigital2000]] describes the initial model
-
-    - a scholarly claim:
-
-        - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fmegacoglab%2FM9PIjMHOAM.png?alt=media&token=8537e6d7-ab49-46bd-a69c-f771de4e90a6) (p. 240)
-
-    - also has something to say about the badness of [[[[CLM]] - Most scholarly communication infrastructure operates on the document as the base unit]] (vs. [[[[CLM]] - Scholarly argumentation operates on atomic statements and concepts as fundamental units]])
-
-        - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fmegacoglab%2FB6_0-0LEbO.png?alt=media&token=a9142a15-bd5c-4db7-b90d-635ab565bad2) (p. 238)

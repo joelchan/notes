@@ -139,83 +139,10 @@ date: Tue May 19 2020 22:40:57 GMT-0400 (Eastern Daylight Time)
 
 ###### Discourse Context
 
-- **Informs::** [[CLM - People are more likely to benefit from analogies if they encounterprocess them with an active goal or license to use them for inspiration]]
-- **Informs::** [[QUE - What factors control whether people appropriately benefit from analogies (especially far-field ones) during creative problem solving]]
-- **Informs::** [[QUE - What are the mechanisms by which analogies help drive creative breakthroughs]]
-- **Informs::** [[QUE - How might domain distance modulate the effects of analogies on creative output]]
-- **Informs::** [[THE - interaction-oriented theory of creative inspiration from examples]]
-- **SourceFor::** [[EVD - direct comparison of dissimilar analogs approximately doubled rates of spontaneous far analogical transfer for the radiation problem - @gickSchemaInductionAnalogical1983]]
+- **Informs::** [CLM - People are more likely to benefit from analogies if they encounterprocess them with an active goal or license to use them for inspiration.md](CLM - People are more likely to benefit from analogies if they encounterprocess them with an active goal or license to use them for inspiration.md)
+- **Informs::** [QUE - What factors control whether people appropriately benefit from analogies (especially far-field ones) during creative problem solving.md](QUE - What factors control whether people appropriately benefit from analogies (especially far-field ones) during creative problem solving.md)
+- **Informs::** [QUE - What are the mechanisms by which analogies help drive creative breakthroughs.md](QUE - What are the mechanisms by which analogies help drive creative breakthroughs.md)
+- **Informs::** [QUE - How might domain distance modulate the effects of analogies on creative output.md](QUE - How might domain distance modulate the effects of analogies on creative output.md)
+- **Informs::** [THE - interaction-oriented theory of creative inspiration from examples.md](THE - interaction-oriented theory of creative inspiration from examples.md)
+- **SourceFor::** [EVD - direct comparison of dissimilar analogs approximately doubled rates of spontaneous far analogical transfer for the radiation problem - @gickSchemaInductionAnalogical1983.md](EVD - direct comparison of dissimilar analogs approximately doubled rates of spontaneous far analogical transfer for the radiation problem - @gickSchemaInductionAnalogical1983.md)
 
-###### References
-
-[[QUE - What factors control whether people appropriately benefit from analogies (especially far-field ones) during creative problem solving]]
-
-- downstream citations from [[@gickAnalogicalProblemSolving1980]] and [[@gickSchemaInductionAnalogical1983]]
-
-    - {{embed: #[[➰ breadcrumbs]]}}
-[[@spencerContextdependentEffectsAnalogical1986]]
-
-- A replication of [[@gickSchemaInductionAnalogical1983]], but added giving the analogies and targets in different contexts
-
-    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fmegacoglab%2FbKT-GVB5C5.png?alt=media&token=0ba9e4e5-0fe0-4f57-9718-ee561c9d95e6) (Pg 442)
-
-    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fmegacoglab%2F9m3HAG6igK.png?alt=media&token=ecd0f3d8-ff53-4dc3-882e-4e4e45db0a98) (Pg 443)
-[[@spencerContextdependentEffectsAnalogical1986]]
-
-- Results were similar to [[@gickSchemaInductionAnalogical1983]]. The number of convergent solutions produced increased with the introduction of a hint.
-
-    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fmegacoglab%2FBy1wCULMKj.png?alt=media&token=2399937b-9ea7-4768-a9c2-45f09242aa7b) (Pg 444)
-
-    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fmegacoglab%2Fy3g0XRddP_.png?alt=media&token=755e3be3-9e76-474a-917f-340d412d5e3c) (Pg 444)
-
-    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fmegacoglab%2FOAXbHeCgC6.png?alt=media&token=874e1361-658d-4131-9e8b-1b97ffff434b) (Pg 444)
-[[NowReading]]
-
-- [[@gickSchemaInductionAnalogical1983]] for [[[[QUE]] - What factors control whether people appropriately benefit from analogies (especially far-field ones) during creative problem solving?]]
-
-    - everything is terrible with only one analog without a hint: [summarization](No advantage of summary over recall.), [statement of principle](((jPHrhJ99T))), and [diagram of principle](((Q9SmOi4Nv))), all fail to move the needle up from the base rate of ~30% without hint.
-
-    - with [two analogs and no hint](slight advantage of similar analog pairs compared to one analog; biggest advantage for dissimilar analog pairs, although still quite a bit lower than ceiling (~50% before hint)), the base rate goes up to ~50% (for dissimilar analog pairs), though still lower than with hint
-
-        - [statements of the principle](statement of principle helps) and [diagrams of the principle](((JRBCiy3Fh))) each have additive positive effects, further bumping up performance to about 60%
-
-    - note: #[[➰ breadcrumbs]] - these are barebones observation notes, not yet quite polished to stand on their own with context from the experimental materials
-
-    - these findings add to [[@gickAnalogicalProblemSolving1980]]'s core claim that [[[[CLM]] - People are more likely to benefit from analogies if they encounter/process them with an active goal or license to use them for inspiration]]
-[[March 9th, 2021]]
-
-- Additional replications in first set of experiments in [[@gickSchemaInductionAnalogical1983]], which is basically about trying to up the success rate from the "no hint" condition
-
-    - Tried: principle, diagram, summary; best is dissimilar analogs (similar to [[@yuDistributedAnalogicalIdea2014]]) - again, here it's **interaction** between more than one analog/source
-
-        - but also the base rate overall is still lower than the hint conditions
-[[November 5th, 2021]]
-
-- However, either effective problem formulation or generating analogies for a problem is hard for human ([[@gentnerAnalogicalRemindingGood1985]], [[@gentnerRolesSimilarityTransfer1993]], [[@gickSchemaInductionAnalogical1983]], [[@holyoakMentalLeapsAnalogy1996]], [[@halfordHowManyVariablesHumans2005]][[@hopeAcceleratingInnovationAnalogy2017]])
-
-    - Whether to mention: especially for design novices?
-
-    - [[[[CLM]] - Analogical retrieval in humans is dominated by surface similarity]]
-[[March 16th, 2021]]
-
-- Quick thoughts while reading [[@gickSchemaInductionAnalogical1983]]
-
-    - The typical situation for analogical problem solving is that a seeker has a problem that is less-well-understood, and draws on some other analog to try to understand/solve it better. This implies that the other analog must be.... understandable!
-
-        - It is important to distinguish cases where the cross-domain analog is within the knowledge bounds of the seeker
-
-        - Is it a fool's errand to try to expose people to cross-boundary knowledge that is new to them?
-
-            - Probably yes, in isolation? Or at least, they won't really be able to *do* anything useful with it, and may even be led astray??
-[[July 1st, 2021]]
-
-- the way the devices were described makes me wonder how they compare to encountering these devices in the wild, vs. "curated" to facilitate noticing of the analogical mapping, like in [[@gickSchemaInductionAnalogical1983]] and [[@reedRoleAnalogyTransfer1974]]
-
-    - cf. [[[[QUE]] - What factors control whether people appropriately benefit from analogies (especially far-field ones) during creative problem solving?]] and [[[[CLM]] - People are more likely to benefit from analogies if they encounter/process them with an active goal or license to use them for inspiration]]
-[[QUE - What factors control whether people appropriately benefit from analogies (especially far-field ones) during creative problem solving]]
-
-- {{[[DONE]]}} [[@gickSchemaInductionAnalogical1983]]
-
-    - diagram of analogical shcmea only helped when people could compare contrasting analogs; no effect
-
-    - #observation-notes

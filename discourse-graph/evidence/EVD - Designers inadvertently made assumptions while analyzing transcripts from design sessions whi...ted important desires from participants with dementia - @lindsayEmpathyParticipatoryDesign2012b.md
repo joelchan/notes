@@ -39,8 +39,9 @@ date: Fri May 21 2021 09:18:22 GMT-0400 (Eastern Daylight Time)
 
 ###### Discourse Context
 
-- **Informs::** [[QUE - What tension points exist between the goals of diversity and depth of user participation in participatory design]]
-- **Supports::** [[CLM - Marginalized user populations may require involvement of extra stakeholders who may complicate hearing the users' voices]]
-- **Consistent With::** [[EVD - in design sessions with children, there were tensions between interpretation of the participant voice v. the stakeholder @frauenbergerInterpretingInputChildren2012b]]
-- **Consistent With::** [[EVD - Sex-trafficking survivor organization staff members would sometimes speak of and for the survivors when talking about their needs - @gautamParticipatoryTensionsWorking2018]]
-- **FromSource::** [[@lindsayEmpathyParticipatoryDesign2012b]]
+- **Informs::** [QUE - What tension points exist between the goals of diversity and depth of user participation in participatory design.md](QUE - What tension points exist between the goals of diversity and depth of user participation in participatory design.md)
+- **Supports::** [CLM - Marginalized user populations may require involvement of extra stakeholders who may complicate hearing the users' voices.md](CLM - Marginalized user populations may require involvement of extra stakeholders who may complicate hearing the users' voices.md)
+- **Supports::** [CLM - There is a tension between analyzing participants' direct inputs, and respecting their actual... when working with design partners who struggle to contribute more directly to design artifacts.md](CLM - There is a tension between analyzing participants' direct inputs, and respecting their actual... when working with design partners who struggle to contribute more directly to design artifacts.md)
+- **Consistent With::** [EVD - in design sessions with children, there were tensions between interpretation of the participant voice v. the stakeholder @frauenbergerInterpretingInputChildren2012a.md](EVD - in design sessions with children, there were tensions between interpretation of the participant voice v. the stakeholder @frauenbergerInterpretingInputChildren2012a.md)
+- **Consistent With::** [EVD - Sex-trafficking survivor organization staff members would sometimes speak of and for the survivors when talking about their needs - @gautamParticipatoryTensionsWorking2018.md](EVD - Sex-trafficking survivor organization staff members would sometimes speak of and for the survivors when talking about their needs - @gautamParticipatoryTensionsWorking2018.md)
+- **FromSource::** [@lindsayEmpathyParticipatoryDesign2012b.md](@lindsayEmpathyParticipatoryDesign2012b.md)

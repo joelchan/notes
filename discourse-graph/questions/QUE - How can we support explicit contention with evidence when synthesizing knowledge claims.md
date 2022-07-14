@@ -81,17 +81,14 @@ date: Wed Oct 21 2020 16:58:53 GMT-0400 (Eastern Daylight Time)
 
             - One challenge maybe is that not all subdomains have a nice ontology of evidence types, although it's
 
-###### References
+###### Discourse Context
 
-[[May 26th, 2022]]
+- **Informed By::** [@brushSEPIOSemanticModel2016.md](@brushSEPIOSemanticModel2016.md)
+- **Informed By::** [@niccolucciExpressingReliabilityCIDOC2017.md](@niccolucciExpressingReliabilityCIDOC2017.md)
+- **Informed By::** [@suriAdvancementsResearchSynthesis2009.md](@suriAdvancementsResearchSynthesis2009.md)
+- **Informed By::** [@greenhalghTimeChallengeSpurious2018.md](@greenhalghTimeChallengeSpurious2018.md)
+- **Informed By::** [@thorneRediscoveringNarrativeReview2018.md](@thorneRediscoveringNarrativeReview2018.md)
+- **Informed By::** [@clarkMicropublicationsSemanticModel2014.md](@clarkMicropublicationsSemanticModel2014.md)
+- **Informed By::** [@dewaardFormalisingUncertaintyOntology2012.md](@dewaardFormalisingUncertaintyOntology2012.md)
+- **Informed By::** [@grothAnatomyNanopublication2010.md](@grothAnatomyNanopublication2010.md)
 
-- weight of evidence approach --> [[[[QUE]] - How can we support explicit contention with evidence when synthesizing knowledge claims?]]
-
-    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fmegacoglab%2Fhejndigd7J.png?alt=media&token=96033f01-df0c-44f5-9d98-e390163b2766)
-[[MeetingNotes  joel - jay  June 28th, 2022]]
-
-- Use of evidence: [[[[QUE]] - How can we support explicit contention with evidence when synthesizing knowledge claims?]]
-
-    - Public vs. private, in motion: [[[[QUE]] - How can we best bridge private vs. public knowledge?]]
-
-    - [[[[CLM]] - Diversity in epistemology and methodology is critical for scientific progress]]

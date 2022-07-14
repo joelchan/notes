@@ -49,13 +49,6 @@ date: Wed Jun 29 2022 11:16:31 GMT-0400 (Eastern Daylight Time)
 
 ###### Discourse Context
 
-- **Supports::** [[CLM - Analogical distance of inspirations for an idea are positively related to the idea's creativity]]
-- **FromSource::** [[@luceroFramingAligningParadoxing2012]]
+- **Supports::** [CLM - Analogical distance of inspirations for an idea are positively related to the idea's creativity.md](CLM - Analogical distance of inspirations for an idea are positively related to the idea's creativity.md)
+- **FromSource::** [@luceroFramingAligningParadoxing2012.md](@luceroFramingAligningParadoxing2012.md)
 
-###### References
-
-[[@luceroFramingAligningParadoxing2012]]
-
-- [[[[EVD]] - Designers constructed mood boards primarily from concrete design materials and examples, usually not from the immediate domain of the problem, and manipulate their abstraction level as appropriate when using them to shape design work - [[@luceroFramingAligningParadoxing2012]]]]
-
-    - this i think [[Supports]] the claim that [[[[CLM]] - Analogical distance of inspirations for an idea are positively related to the idea's creativity]]

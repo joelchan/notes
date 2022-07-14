@@ -25,28 +25,6 @@ date: Thu May 28 2020 22:46:43 GMT-0400 (Eastern Daylight Time)
 
 ###### Discourse Context
 
-- **Informs::** [[QUE - How can we best bridge private vs. public knowledge]]
-- **Informed By::** [[@marshallExploringRelationshipPersonal2004]]
+- **Informs::** [QUE - How can we best bridge private vs. public knowledge.md](QUE - How can we best bridge private vs. public knowledge.md)
+- **Informed By::** [@marshallExploringRelationshipPersonal2004.md](@marshallExploringRelationshipPersonal2004.md)
 
-###### References
-
-[[QUE - How can we best bridge private vs. public knowledge]]
-
-- [[[[CLM]] - Most private annotations aren't useful to other people]]
-
-    - Possibly because [[[[CLM]] - Knowledge must be recontextualized to be usefully reused]], and [[[[CLM]] - Specifying context for future reuse is costly]]
-
-    - But also possibly because a lot of what we do in terms of externalization is [[Epistemic Action]] that *is* thinking in the moment, not necessarily producing a record that will be in any way useful after the moment. #[[🌲 zettels]]
-
-        - See, e.g, [[@americaninstituteofphysicsInterviewRichardFeyman2015]]
-
-        - Related: gestures, [[distributed cognition]] / [[Morphological Computation]]?
-[[August 20th, 2020]]
-
-- Problem 3: [[[[CLM]] - Most private annotations aren't useful to other people]]
-
-    - Study sharing dynamics as functino of note characteristics
-
-        - Can do in parallel to  / before [[[[PTN]] - flexible compression]] prototyps are done
-
-        - And also with design probes

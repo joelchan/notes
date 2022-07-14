@@ -32,13 +32,6 @@ date: Sat Jan 15 2022 15:32:34 GMT-0500 (Eastern Standard Time)
 
 ###### Discourse Context
 
-- **Informs::** [[THE - interaction-oriented theory of creative inspiration from examples]]
-- **FromSource::** [[@wardRoleSpecificityAbstraction2004]]
+- **Informs::** [THE - interaction-oriented theory of creative inspiration from examples.md](THE - interaction-oriented theory of creative inspiration from examples.md)
+- **FromSource::** [@wardRoleSpecificityAbstraction2004.md](@wardRoleSpecificityAbstraction2004.md)
 
-###### References
-
-[[January 15th, 2022]]
-
-- [[[[EVD]] - College students imagined novel alien creatures with more atypical features vs. Earth creatures when they were instructed to consider survival-critical features of life forms, vs. building on specific Earth animal exemplars - [[@wardRoleSpecificityAbstraction2004]]]]
-
-    - A little obvious that if you ask people to think of general principles rather than specific exemplars, you'll have more distance in features in your ideas from the exemplar. But there it is.

@@ -54,16 +54,7 @@ date: Mon Jul 05 2021 23:16:10 GMT-0400 (Eastern Daylight Time)
 
 ###### Discourse Context
 
-- **Informs::** [[QUE - How might domain distance modulate the effects of analogies on creative output]]
-- **Supports::** [[CLM - Analogical distance of inspirations for an idea are positively related to the idea's creativity]]
-- **FromSource::** [[@jeppesenMarginalityProblemsolvingEffectiveness2010]]
+- **Informs::** [QUE - How might domain distance modulate the effects of analogies on creative output.md](QUE - How might domain distance modulate the effects of analogies on creative output.md)
+- **Supports::** [CLM - Analogical distance of inspirations for an idea are positively related to the idea's creativity.md](CLM - Analogical distance of inspirations for an idea are positively related to the idea's creativity.md)
+- **FromSource::** [@jeppesenMarginalityProblemsolvingEffectiveness2010.md](@jeppesenMarginalityProblemsolvingEffectiveness2010.md)
 
-###### References
-
-[[July 5th, 2021]]
-
-- [[[[EVD]] - Self-rated technical distance from open innovation contest problems was slightly positively correlated with submitting winning solutions - [[@jeppesenMarginalityProblemsolvingEffectiveness2010]]]]
-
-    - Important, important context here: the magnitude of the effect of being female is WAYYYYYY bigger than the effect of being technically distant. This might be a first-order approximation of the relative contributions of perspectives (roughly [[problem (re)formulation]]) and heuristics (roughly "direct transfer") of being "distant"/marginal from the domain
-
-        - Teasing out each of these dimensions of distance seems crucial!!

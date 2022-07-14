@@ -38,5 +38,5 @@ date: Thu Jul 15 2021 09:58:45 GMT-0400 (Eastern Daylight Time)
 
 ###### Discourse Context
 
-- **Informs::** [[QUE - Under what conditions is it possible to transfer expertise from one person to another]]
-- **FromSource::** [[@ganttGardenersGurusPatterns1992]]
+- **Informs::** [QUE - Under what conditions is it possible to transfer expertise from one person to another.md](QUE - Under what conditions is it possible to transfer expertise from one person to another.md)
+- **FromSource::** [@ganttGardenersGurusPatterns1992.md](@ganttGardenersGurusPatterns1992.md)

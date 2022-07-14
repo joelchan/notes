@@ -18,14 +18,5 @@ date: Mon Nov 22 2021 09:15:09 GMT-0500 (Eastern Standard Time)
 
 ###### Discourse Context
 
-- **Informs::** [[QUE - How can we measure efficacy of creativity support systems]]
+- **Informs::** [QUE - How can we measure efficacy of creativity support systems.md](QUE - How can we measure efficacy of creativity support systems.md)
 
-###### References
-
-[[June 30th, 2022]]
-
-- organizational studies x IT [[@orlikowskiTechnologyInstitutionsWhat2001]] [[@orlikowskiUsingTechnologyConstituting2000]]
-
-    - https://www.connectedpapers.com/main/6ae96bad7e6612cc2217211eb7249adff84e3a4c/Technology-and-Institutions%3A-What-Can-Research-on-Information-Technology-and-Research-on-Organizations-Learn-from-Each-Other%3F/prior
-
-    - [[technologies-in-practice]]

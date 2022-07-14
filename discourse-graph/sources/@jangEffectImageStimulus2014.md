@@ -29,52 +29,5 @@ date: Thu Aug 12 2021 23:17:05 GMT-0400 (Eastern Daylight Time)
 
 ###### Discourse Context
 
-- **Informs::** [[QUE - Under what conditions do diverse initial examples lead to better final design solutions]]
+- **Informs::** [QUE - Under what conditions do diverse initial examples lead to better final design solutions.md](QUE - Under what conditions do diverse initial examples lead to better final design solutions.md)
 
-###### References
-
-[[November 18th, 2021]]
-
-- read [[@jangEffectImageStimulus2014]] THIS IS A VERY WEIRD PAPER - lots of methodological weirdness - don't do evidence notes for this
-
-    - An effective way to promote design idea generation and fostering creativity by presenting similar concept images selected from different categories.
-
-        - (However) visual stimuli fostered more creativity than textual stimuli for concept pairs in different categories.
-
-        - In regards to the creativity of the design idea sketches, the concept pairs from different categories obtained higher creativity scores than the concept pairs in the same category.
-
-        - (However) there was no significant correlation between similarity and creativity, and the mode of representation of the concept pairs did not affect their perceived level of similarity.
-
-        - Although there was no correlation between the similarity and creativity for concept pairs in the same category, we found that for concept pairs from different categories, the higher the similarity, the higher the creativity of the idea sketches. -> same to [[@fuMeaningFarImpact2013]] a recurring theme in this area is the notion of a “sweet spot” for inspiration: not too similar to a given problem that a user aims to solve, and not too far afield
-
-    - what did they do?
-
-        - task 1: generate new concepts from pairs of objects (basic [[🧱 conceptual combination]])
-
-        - manipulated: whether the objects from the pair were in the same category or not
-
-            - screenshot table 2
-
-            - category similarity also independently rated (p. 5)
-
-        - participants: 77 design freshmen
-
-        - measures: novelty, resotluiion, elab, creativity
-
-            - Table 4 gives [[inter-rater reliability]]
-
-        - task 2: assess similarity of concepts??
-
-        - design
-
-    - results
-
-        - concept basis
-
-            - more novelty
-
-                - table 6 -  BUT note N = 100ish, which suggest tehy are ignoring within-person dependence for concepts (unit is person-concept combo) - BE VERY SKEPTICAL OF THE STATS
-
-                    - check how many concept pairs given to each participant
-
-                    - see also 4.2 - dropped some data, not sure we understand why (threw out concept pairs that had v high inter-participant vairability)

@@ -37,43 +37,6 @@ date: Fri May 14 2021 11:27:44 GMT-0400 (Eastern Daylight Time)
 
 ###### Discourse Context
 
-- **Informs::** [[QUE - What tension points exist between the goals of diversity and depth of user participation in participatory design]]
-- **SourceFor::** [[EVD - Due to liabilities of potentially inducing physical illness Usability testing was not possible -@tengParticipatoryDesignVirtual2019b]]
+- **Informs::** [QUE - What tension points exist between the goals of diversity and depth of user participation in participatory design.md](QUE - What tension points exist between the goals of diversity and depth of user participation in participatory design.md)
+- **SourceFor::** [EVD - Due to liabilities of potentially inducing physical illness Usability testing was not possible -@tengParticipatoryDesignVirtual2019b.md](EVD - Due to liabilities of potentially inducing physical illness Usability testing was not possible -@tengParticipatoryDesignVirtual2019b.md)
 
-###### References
-
-[[Playground PD diversity tension points]]
-
-- [[EVD]] - Due to liabilities of potentially inducing physical illness Usability testing was not possible -[[@tengParticipatoryDesignVirtual2019b]]
-
-    - x
-
-        - 925.3960086128307
-
-    - y
-
-        - 582.0539587604965
-
-    - color
-
-        - 008b8b
-[[June 9th, 2021]]
-
-- In particular, there's something similar here in the following observation and [[@tengParticipatoryDesignVirtual2019b]]'s observation of the [need for an advocate]([[[[EVD]] - Working with an advocate within the prison system allowed researchers to navigate bureaucratic hierarchy with relative ease - @tengParticipatoryDesignVirtual2019b]]):
-
-    - [Issues with obtaining consent](![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fmegacoglab%2Ff3Om-CxLTN.png?alt=media&token=6c96ef43-9dfb-4b32-97a2-1729fb91f933) pg 437) from [children](((slZCVGK1p))) presented a challenge being that there were no parents at the libraries with the children. The IRB met and came to the conclusion that being that no harm could come to the children consent wouldn't be required but that a consent form would be sent home with the children.
-
-        - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fmegacoglab%2Ff3Om-CxLTN.png?alt=media&token=6c96ef43-9dfb-4b32-97a2-1729fb91f933) pg 437
-[[June 9th, 2021]]
-
-- [[@tengParticipatoryDesignVirtual2019b]] for [[[[QUE]] - What tension points exist between the goals of diversity and depth of user participation in participatory design?]] | challenges around liability/ethics doing PD with people in prison system
-
-    - [[AJ Rudd Jr]] read this paper and extracted findings. Then discussed with [[Joel Chan]] to refine some of the ideas.
-
-    - Three main evidence notes emerged.
-
-        - [[E - Due to restrictions Prison environments weren't conducive for developing relationships with participants. -@tengParticipatoryDesignVirtual2019b]]
-
-        - [[[[EVD]] - Due to liabilities of potentially inducing physical illness Usability testing was not possible -[[@tengParticipatoryDesignVirtual2019b]]]]
-
-        - [[[[EVD]] - Working with an advocate within the prison system allowed researchers to navigate bureaucratic hierarchy with relative ease - @tengParticipatoryDesignVirtual2019b]]

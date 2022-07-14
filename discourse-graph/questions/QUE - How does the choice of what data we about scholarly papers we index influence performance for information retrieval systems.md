@@ -6,3 +6,8 @@ date: Fri Jan 28 2022 11:33:43 GMT-0500 (Eastern Standard Time)
 ---
 
 - [[[[EVD]] - crowd workers were at chance accuracy in distinguishing human-written from GPT-3-written stories, news stories, and recipes - [[@clarkAllThatHuman2021]]]]
+
+###### Discourse Context
+
+- **Informed By::** [EVD - crowd workers were at chance accuracy in distinguishing human-written from GPT-3-written stories, news stories, and recipes - @clarkAllThatHuman2021.md](EVD - crowd workers were at chance accuracy in distinguishing human-written from GPT-3-written stories, news stories, and recipes - @clarkAllThatHuman2021.md)
+- **Informed By::** [@clarkAllThatHuman2021.md](@clarkAllThatHuman2021.md)

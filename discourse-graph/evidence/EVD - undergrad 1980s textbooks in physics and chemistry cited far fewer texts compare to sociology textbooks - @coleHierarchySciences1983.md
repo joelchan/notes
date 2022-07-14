@@ -24,16 +24,9 @@ date: Fri Sep 10 2021 22:47:05 GMT-0400 (Eastern Daylight Time)
 
 ###### Discourse Context
 
-- **Informs::** [[QUE - (How) do fields of innovation vary in their legibility of quality]]
-- **Supports::** [[CLM - Scientific fields vary substantially in terms of ease of consensus on judging what constitutes a valuable new contribution]]
-- **Supports::** [[CLM - There is systematic variation in consensus of the core knowledge of fields - @coleHierarchySciences1983]]
-- **Consistent With::** [[EVD - most undergrad 1980s textbooks in physics and chemistry cited work published before 1960; sociology texts mostly cited work published after 1960 - @coleHierarchySciences1983]]
-- **FromSource::** [[@coleHierarchySciences1983]]
+- **Informs::** [QUE - (How) do fields of innovation vary in their legibility of quality.md](QUE - (How) do fields of innovation vary in their legibility of quality.md)
+- **Supports::** [CLM - Scientific fields vary substantially in terms of ease of consensus on judging what constitutes a valuable new contribution.md](CLM - Scientific fields vary substantially in terms of ease of consensus on judging what constitutes a valuable new contribution.md)
+- **Supports::** [CLM - There is systematic variation in consensus of the core knowledge of fields - @coleHierarchySciences1983.md](CLM - There is systematic variation in consensus of the core knowledge of fields - @coleHierarchySciences1983.md)
+- **Consistent With::** [EVD - most undergrad 1980s textbooks in physics and chemistry cited work published before 1960; sociology texts mostly cited work published after 1960 - @coleHierarchySciences1983.md](EVD - most undergrad 1980s textbooks in physics and chemistry cited work published before 1960; sociology texts mostly cited work published after 1960 - @coleHierarchySciences1983.md)
+- **FromSource::** [@coleHierarchySciences1983.md](@coleHierarchySciences1983.md)
 
-###### References
-
-[[September 10th, 2021]]
-
-- [[[[EVD]] - undergrad 1980s textbooks in physics and chemistry cited far fewer texts compare to sociology textbooks - [[@coleHierarchySciences1983]]]]
-
-    - take this and [previous result]([[[[EVD]] - most undergrad 1980s textbooks in physics and chemistry cited work published before 1960; sociology texts mostly cited work published after 1960 - [[@coleHierarchySciences1983]]]]) with a big grain of salt! no justification for textbook selection, and it's basically ~2-3 texts per discipline; they look like intro texts

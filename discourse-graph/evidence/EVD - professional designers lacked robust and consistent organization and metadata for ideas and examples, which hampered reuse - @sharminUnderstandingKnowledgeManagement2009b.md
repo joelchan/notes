@@ -34,13 +34,6 @@ date: Thu Dec 30 2021 16:26:00 GMT-0500 (Eastern Standard Time)
 
 ###### Discourse Context
 
-- **Informs::** [[QUE - How can we best bridge private vs. public knowledge]]
-- **FromSource::** [[@sharminUnderstandingKnowledgeManagement2009b]]
+- **Informs::** [QUE - How can we best bridge private vs. public knowledge.md](QUE - How can we best bridge private vs. public knowledge.md)
+- **FromSource::** [@sharminUnderstandingKnowledgeManagement2009b.md](@sharminUnderstandingKnowledgeManagement2009b.md)
 
-###### References
-
-[[December 30th, 2021]]
-
-- [[[[EVD]] - professional designers lacked robust and consistent organization and metadata for ideas and examples, which hampered reuse - [[@sharminUnderstandingKnowledgeManagement2009b]]]]
-
-    - i really really wonder what the findings would be if the study were repeated today! my guess is not that much has changed... [[@herringGettingInspiredUnderstanding2009]] was also around the same time, and has similar results around the lack of organization as a problem

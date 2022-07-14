@@ -9,4 +9,4 @@ date: Fri Jan 14 2022 11:21:54 GMT-0500 (Eastern Standard Time)
 
 ###### Discourse Context
 
-- **Informs::** [[QUE - What is the relationship between prior knowledge and new ideas]]
+- **Informs::** [QUE - What is the relationship between prior knowledge and new ideas.md](QUE - What is the relationship between prior knowledge and new ideas.md)

@@ -35,10 +35,5 @@ date: Wed Jan 27 2021 21:42:44 GMT-0500 (Eastern Standard Time)
 
 ###### Discourse Context
 
-- **Informs::** [[CLM - Sustaining authorship for semantic publishing is hard]]
+- **Informs::** [CLM - Sustaining authorship for semantic publishing is hard.md](CLM - Sustaining authorship for semantic publishing is hard.md)
 
-###### References
-
-[[CLM - Sustaining authorship for semantic publishing is hard]]
-
-- the amazing [[sys/Mark2Cure]] effort [[@tsuengApplyingCitizenScience2019]] had to shutter their effort in September of [[2019]]: the stated reason was that they did not feel that they could curate enough knowledge to uncover clues for identifying potential treatment strategies for NGLY1-deficiency [[@gingerThankYouVolunteers2019]]

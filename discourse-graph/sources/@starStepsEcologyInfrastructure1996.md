@@ -131,73 +131,7 @@ date: Tue Apr 27 2021 14:37:23 GMT-0400 (Eastern Daylight Time)
 
 ###### Discourse Context
 
-- **Informs::** [[CLM - Infrastructure is invisible until it fails]]
-- **Informs::** [[QUE - How can we best bridge private vs. public knowledge]]
-- **Informs::** [[PTN - Prefer to grow rather than build  design new infrastructures a priori]]
+- **Informs::** [CLM - Infrastructure is invisible until it fails.md](CLM - Infrastructure is invisible until it fails.md)
+- **Informs::** [QUE - How can we best bridge private vs. public knowledge.md](QUE - How can we best bridge private vs. public knowledge.md)
+- **Informs::** [PTN - Prefer to grow rather than build  design new infrastructures a priori.md](PTN - Prefer to grow rather than build  design new infrastructures a priori.md)
 
-###### References
-
-[[February 23rd, 2022]]
-
-- Here's [[@starStepsEcologyInfrastructure1996]] again on [[the 'any day now' user]]:
-
-    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fmegacoglab%2FAnHzCO3OX_.png?alt=media&token=770ca66d-9e88-4a3f-91c9-6e6325a9075f) (p. 122)
-[[@edwardsUnderstandingInfrastructureDynamics2007]]
-
-- has a nice figure that places [[@starStepsEcologyInfrastructure1996]]'s dimensions of [[infrastructure]] on axes of local/global and social/technical
-
-    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fmegacoglab%2F5ppt7vdS03.png?alt=media&token=9fae9aa5-cf16-421f-923b-b05e09367166) (p. 6)
-[[February 23rd, 2022]]
-
-- notes from [[@starStepsEcologyInfrastructure1996]]: [Star & Ruhleder (1996). Steps toward an ecology of infrastructure: Design and access for large information spaces. Information systems research](https://pubsonline.informs.org/doi/abs/10.1287/isre.7.1.111)
-
-    - links with conventions of practice
-
-        - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fmegacoglab%2FOXbJaOQP-J.png?alt=media&token=f4d27599-d492-4ed3-9d09-832e262c1e72)
-
-    - learned as part of membership in [[communities of practice]]
-
-        - cf. [[@laveSituatedLearningLegitimate1991]]
-
-        - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fmegacoglab%2F2QZvIo9qVq.png?alt=media&token=ac57314f-a656-4ee0-86b6-a64b3189b0b4)
-[[Week of January 17th, 2022]]
-
-- Pulling on thread from [[@starStepsEcologyInfrastructure1996]], uncovering more explorations relevant for [[[[QUE]] - Do scholarly synthesis infrastructures already exist?]]
-
-    - Steps Toward an Ecology of Infrastructure: Design and Access for Large Information Spaces - [[[scite report]]]: https://scite.ai/reports/steps-toward-an-ecology-of-gyan0A?contradicting=false&mentioning=false&page=1&unclassified=false&utm_campaign=plugin&utm_medium=plugin&utm_source=generic
-
-    - Science Friction: Data, Metadata, and Collaboration - [[[scite report]]]: https://scite.ai/reports/science-friction-data-metadata-and-89g5RG?mentioning=false&page=1&unclassified=false
-
-    - Exploring visual representations to support data re‐use for interdisciplinary science - Wiggins - 2018 - Proceedings of the Association for Information Science and Technology - Wiley Online Library: https://asistdl.onlinelibrary.wiley.com/doi/10.1002/pra2.2018.14505501060
-[[February 23rd, 2022]]
-
-- notes from [[@starStepsEcologyInfrastructure1996]]: [Star & Ruhleder (1996). Steps toward an ecology of infrastructure: Design and access for large information spaces. Information systems research](https://pubsonline.informs.org/doi/abs/10.1287/isre.7.1.111)
-
-    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fmegacoglab%2FPCapB_H7a2.png?alt=media&token=d097ff12-e380-4272-8c22-019362d9ac94)
-
-    - for example, it is ((tL8tDQYcX)), and has ((MTlAdz7cf))
-
-    - built on an [[installed base]]
-
-        - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fmegacoglab%2FqHi-R6tVwY.png?alt=media&token=5d687c71-6c6d-4842-91bb-f8cff8870a4e)
-[[CSCW 2019 notes]]
-
-- on [[@starStepsEcologyInfrastructure1996]]
-
-    - WCS collect all knowledge! didn't really work
-
-    - [[infrastructure]] as relationship, not just "thing"
-
-    - "when" is infrastructure? not just what is it?
-
-    - infrastructure is endlessly changing
-
-    - when you're trying to figure out what to study, look for the trouble. where is the trouble? where is the tension?
-
-    - check out [[Charlotte Lee]]'s papers
-
-    - key idea for our grant: embeddedness (dependent on existing practices, structures, and systems)
-
-    - pivot for next-generation ethnographer-designers
-
-    - [[infrastructure]] is not a thing, but it it encompasses things that need to be designed

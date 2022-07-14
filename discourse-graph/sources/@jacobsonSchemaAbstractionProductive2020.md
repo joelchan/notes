@@ -23,6 +23,6 @@ date: Mon Jan 17 2022 11:19:17 GMT-0500 (Eastern Standard Time)
 
 ###### Discourse Context
 
-- **SourceFor::** [[EVD -  - @jacobsonSchemaAbstractionProductive2020]]
-- **SourceFor::** [[EVD - Students provided expert instruction(A teacher with a P.H.D in physics) performed as well as ...ifferent teacher and provided analogical instruction - @jacobsonSchemaAbstractionProductive2020]]
-- **SourceFor::** [[EVD - Students given analogical instruction performed better on far domain problems than students p...pert instruction(A teacher with a P.H.D in physics). - @jacobsonSchemaAbstractionProductive2020]]
+- **SourceFor::** [EVD -  - @jacobsonSchemaAbstractionProductive2020.md](EVD -  - @jacobsonSchemaAbstractionProductive2020.md)
+- **SourceFor::** [EVD - Students provided expert instruction(A teacher with a P.H.D in physics) performed as well as ...ifferent teacher and provided analogical instruction - @jacobsonSchemaAbstractionProductive2020.md](EVD - Students provided expert instruction(A teacher with a P.H.D in physics) performed as well as ...ifferent teacher and provided analogical instruction - @jacobsonSchemaAbstractionProductive2020.md)
+- **SourceFor::** [EVD - Students given analogical instruction performed better on far domain problems than students p...pert instruction(A teacher with a P.H.D in physics). - @jacobsonSchemaAbstractionProductive2020.md](EVD - Students given analogical instruction performed better on far domain problems than students p...pert instruction(A teacher with a P.H.D in physics). - @jacobsonSchemaAbstractionProductive2020.md)

@@ -29,16 +29,5 @@ date: Wed Feb 17 2021 13:31:13 GMT-0500 (Eastern Standard Time)
 
 ###### Discourse Context
 
-- **Informs::** [[QUE - Under what conditions is it possible to transfer expertise from one person to another]]
+- **Informs::** [QUE - Under what conditions is it possible to transfer expertise from one person to another.md](QUE - Under what conditions is it possible to transfer expertise from one person to another.md)
 
-###### References
-
-[[QUE - Under what conditions is it possible to transfer expertise from one person to another]]
-
-- [[@singleyTransferCognitiveSkill1989]]
-
-    - Knowledge transfer will be greater if the tasks are more similar.
-
-    - There can be negative transfer when the context of the tasks does not match.
-
-    - Book

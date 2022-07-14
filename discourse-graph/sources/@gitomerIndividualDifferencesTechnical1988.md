@@ -29,20 +29,5 @@ date: Wed Feb 17 2021 13:27:23 GMT-0500 (Eastern Standard Time)
 
 ###### Discourse Context
 
-- **Informs::** [[QUE - Under what conditions is it possible to transfer expertise from one person to another]]
+- **Informs::** [QUE - Under what conditions is it possible to transfer expertise from one person to another.md](QUE - Under what conditions is it possible to transfer expertise from one person to another.md)
 
-###### References
-
-[[QUE - Under what conditions is it possible to transfer expertise from one person to another]]
-
-- [[@gitomerIndividualDifferencesTechnical1988]]
-
-    - Expert vs Novice in electronic repair.
-
-    - Expert tends to view the electronic devices as a system of components and follow abstract conceptual model of the way the device work. (more abstract and conceptual)
-
-    - Novice tends to use trail-and-error procedure and see see the device as unrelated parts.
-
-    - doi: 10.1207/s15327043hup0102_3
-
-    - Case Study/Experiment

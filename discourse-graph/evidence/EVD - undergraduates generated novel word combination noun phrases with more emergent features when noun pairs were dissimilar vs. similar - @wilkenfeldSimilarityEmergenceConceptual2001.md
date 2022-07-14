@@ -53,26 +53,10 @@ date: Tue Dec 28 2021 20:56:18 GMT-0500 (Eastern Standard Time)
 
 ###### Discourse Context
 
-- **Informs::** [[THE - interaction-oriented theory of creative inspiration from examples]]
-- **Supports::** [[CLM - diverse examples improve creative outcomes by enabling novel conceptual integrations]]
-- **Consistent With::** [[EVD - undergraduates used more complex integration approaches (vs. property transfer and hybridizat...n phrases from dissimilar vs. similar noun pairs - @wilkenfeldSimilarityEmergenceConceptual2001]]
-- **Consistent With::** [[EVD - designers used examples by re-appropriating and recombining solution components into novel ideas - @herringGettingInspiredUnderstanding2009]]
-- **Consistent With::** [[EVD - Design students generated more creative web service ideas when combining interdomain web service examples, compared to intradomain examples - @zengFosteringCreativityProduct2011]]
-- **FromSource::** [[@wilkenfeldSimilarityEmergenceConceptual2001]]
+- **Informs::** [THE - interaction-oriented theory of creative inspiration from examples.md](THE - interaction-oriented theory of creative inspiration from examples.md)
+- **Supports::** [CLM - diverse examples improve creative outcomes by enabling novel conceptual integrations.md](CLM - diverse examples improve creative outcomes by enabling novel conceptual integrations.md)
+- **Consistent With::** [EVD - undergraduates used more complex integration approaches (vs. property transfer and hybridizat...n phrases from dissimilar vs. similar noun pairs - @wilkenfeldSimilarityEmergenceConceptual2001.md](EVD - undergraduates used more complex integration approaches (vs. property transfer and hybridizat...n phrases from dissimilar vs. similar noun pairs - @wilkenfeldSimilarityEmergenceConceptual2001.md)
+- **Consistent With::** [EVD - designers used examples by re-appropriating and recombining solution components into novel ideas - @herringGettingInspiredUnderstanding2009.md](EVD - designers used examples by re-appropriating and recombining solution components into novel ideas - @herringGettingInspiredUnderstanding2009.md)
+- **Consistent With::** [EVD - Design students generated more creative web service ideas when combining interdomain web service examples, compared to intradomain examples - @zengFosteringCreativityProduct2011.md](EVD - Design students generated more creative web service ideas when combining interdomain web service examples, compared to intradomain examples - @zengFosteringCreativityProduct2011.md)
+- **FromSource::** [@wilkenfeldSimilarityEmergenceConceptual2001.md](@wilkenfeldSimilarityEmergenceConceptual2001.md)
 
-###### References
-
-[[December 28th, 2021]]
-
-- [[[[EVD]] - undergraduates generated novel word combination noun phrases with more emergent features when noun pairs were dissimilar vs. similar - [[@wilkenfeldSimilarityEmergenceConceptual2001]]]]
-
-    - some prior studies that are probably consistent with these results: Kunda et al (1990), Hastie et al 1990, and Hampton 1997, all observe more emergence with more surprising, less congruent, and less overlapping constituents
-
-    - #[[➰ breadcrumbs]] some later stuff via [[sys/scite.ai]]: with similar alien drawing task as [[@wardStructuredImaginationRole1994]], [[@birdsellCreativeCognitionConceptual2019]] find that dissimilar combinations led to more creative and complex ideas (though the method of assessment is uncertain from the snippet):
-
-        - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fmegacoglab%2Fcid3tVHowd.png?alt=media&token=c49b1ef0-6349-4f46-a6a8-5370f50908aa)
-[[June 7th, 2022]]
-
-- send stuff on [[[[EVD]] - undergraduates generated novel word combination noun phrases with more emergent features when noun pairs were dissimilar vs. similar - [[@wilkenfeldSimilarityEmergenceConceptual2001]]]]
-
-    - [[[[CLM]] - Conceptual combination is-fundamental-to creative knowledge production]]

@@ -32,37 +32,7 @@ date: Thu Feb 24 2022 10:11:11 GMT-0500 (Eastern Standard Time)
 
 ###### Discourse Context
 
-- **Informs::** [[THE - interaction-oriented theory of creative inspiration from examples]]
-- **Consistent With::** [[EVD - estimated semantic networks of animal concepts from montessori-educated children were more in...orks from traditional-schooled but comparable children - @denervaudEducationShapesStructure2021]]
-- **FromSource::** [[@betzDevelopmentConceptualFlexibility2020]]
+- **Informs::** [THE - interaction-oriented theory of creative inspiration from examples.md](THE - interaction-oriented theory of creative inspiration from examples.md)
+- **Consistent With::** [EVD - estimated semantic networks of animal concepts from montessori-educated children were more in...orks from traditional-schooled but comparable children - @denervaudEducationShapesStructure2021.md](EVD - estimated semantic networks of animal concepts from montessori-educated children were more in...orks from traditional-schooled but comparable children - @denervaudEducationShapesStructure2021.md)
+- **FromSource::** [@betzDevelopmentConceptualFlexibility2020.md](@betzDevelopmentConceptualFlexibility2020.md)
 
-###### References
-
-[[@betzDevelopmentConceptualFlexibility2020]]
-
-- [[[[EVD]] - higher conceptual flexibility to classify organisms based on taxonomic and ecological relations if children were older, from more rural areas, and engaged in more unstructured interactions with organisms - [[@betzDevelopmentConceptualFlexibility2020]]]]
-
-    - discusses this in light of previous study [[@coleyWhereWildThings2012]]
-
-        - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fmegacoglab%2FtY3Af963Xs.png?alt=media&token=a0e85c92-110a-4ced-98b9-fa94986c034f)
-[[March 15th, 2022]]
-
-- for [theory paper]([[[[THE]] - interaction-oriented theory of creative inspiration from examples]]): [[[[EVD]] - higher conceptual flexibility to classify organisms based on taxonomic and ecological relations if children were older, from more rural areas, and engaged in more unstructured interactions with organisms - [[@betzDevelopmentConceptualFlexibility2020]]]] is really about **goal-directed/integrated** interactions (unstructured != unstructured! it's really self-directed, through play) vs. imposed org from others
-
-    - idea then: interfaces that allow for self-imposed, *goal-directed* classification and remodeling according to constraints of task, are far better for modeling than interfaces that enable self-imposed classification, but not integrated into the goal-directed work (e.g., organize beforehand, but not during task), or are classified by others (i'm think actually that this latter one is really how most scholarly comm interfaces are!)
-
-    - this connects back to finding of network differences between montessori and "regular" kids from that paper from [[Roger E. Beaty]]: [[[[EVD]] - estimated semantic networks of animal concepts from montessori-educated children were more interconnected, with shorter paths between concepts and fewer subcommunities, compared to networks from traditional-schooled but comparable children - [[@denervaudEducationShapesStructure2021]]]]
-
-        - uses this [[m/Triangulated Maximally Filtered Graph (TMFG)]] method for estimating a network. it's a bit strange, but seems.... useful? roots in big data. lots of usage by [[Yoed N. Kenett]] and friends
-
-            - motivation: something about efficiency and having some kind of computable structure
-
-                - from [here](https://link.springer.com/article/10.3758/s13428-018-1032-9)
-
-                    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fmegacoglab%2FS9htkrUjpQ.png?alt=media&token=3c08566a-f7f4-483a-96c1-0e9d1284a761)
-
-                - from [here](https://journals.sagepub.com/doi/10.1002/per.2157)
-
-                    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fmegacoglab%2FTktx1l4kEY.png?alt=media&token=c64bfbfc-11c0-44a1-9823-5419401c83dc)
-
-    - makes me think of a study #idea

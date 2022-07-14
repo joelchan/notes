@@ -93,19 +93,6 @@ date: Tue Dec 07 2021 10:01:55 GMT-0500 (Eastern Standard Time)
 
 ###### Discourse Context
 
-- **Informs::** [[QUE - Under what conditions do diverse initial examples lead to better final design solutions]]
-- **Informs::** [[THE - interaction-oriented theory of creative inspiration from examples]]
+- **Informs::** [QUE - Under what conditions do diverse initial examples lead to better final design solutions.md](QUE - Under what conditions do diverse initial examples lead to better final design solutions.md)
+- **Informs::** [THE - interaction-oriented theory of creative inspiration from examples.md](THE - interaction-oriented theory of creative inspiration from examples.md)
 
-###### References
-
-[[January 21st, 2022]]
-
-- Q: I wonder whether the term "contextualize" cannot represent visualizing examples or ideas. For example, [[@xuIdeateRelateExamplesGallery2021]] is to visualize the conceptual distance between a proposed solution and a potential inspiration, but is that "contextualizing" examples?
-
-    - ^^Joel:^^ name is not set in stone yet, still developing
-
-        - v useful to do this with examples of interfaces
-
-        - viz could be contextualizing or other, depending on the details!
-
-            - e.g., visualizing attribtues of a single example might be analysis, comparing and contrasting multiple examples in terms of dimensions that you can modify, is probably closer to contextualizing (whatever we end up calling it)

@@ -30,24 +30,11 @@ date: Fri Oct 15 2021 13:51:09 GMT-0400 (Eastern Daylight Time)
 
 ###### Discourse Context
 
-- **Informed By::** [[@howardFaceMasksCOVID192020]]
-- **Informed By::** [[@vanrooijIntractabilityUseHeuristics2012]]
-- **Informed By::** [[@butcherCommunityEngagementYouth2020]]
-- **Informed By::** [[@oganCollaborationCognitiveTutor2012]]
-- **Informed By::** [[@krohnInterdisciplinaryCasesDisciplinary2017]]
-- **Informed By::** [[@richHowHardCognitive2021]]
-- **Informed By::** [[@wolffeSystematicEvidenceMaps2019]]
+- **Informed By::** [@howardFaceMasksCOVID192020.md](@howardFaceMasksCOVID192020.md)
+- **Informed By::** [@vanrooijIntractabilityUseHeuristics2012.md](@vanrooijIntractabilityUseHeuristics2012.md)
+- **Informed By::** [@butcherCommunityEngagementYouth2020.md](@butcherCommunityEngagementYouth2020.md)
+- **Informed By::** [@oganCollaborationCognitiveTutor2012.md](@oganCollaborationCognitiveTutor2012.md)
+- **Informed By::** [@krohnInterdisciplinaryCasesDisciplinary2017.md](@krohnInterdisciplinaryCasesDisciplinary2017.md)
+- **Informed By::** [@richHowHardCognitive2021.md](@richHowHardCognitive2021.md)
+- **Informed By::** [@wolffeSystematicEvidenceMaps2019.md](@wolffeSystematicEvidenceMaps2019.md)
 
-###### References
-
-[[October 15th, 2021]]
-
-- Because [[[[CLM]] - Diversity in epistemology and methodology is critical for scientific progress]], we don't want to make a universal ontology of epistemic status, because that would require epistemic homogeneity
-
-    - CC [[[[EVD]] - assuming that there is a polynomial-time procedure for choosing solutions for an intractable function implies that P=NP - [[@vanrooijIntractabilityUseHeuristics2012]]]]
-
-    - CC [[[[CLM]] - Universal Semantic Webs are neither feasible nor useful]]
-
-    - CC [[[[CLM]] - Context is necessary for reasoning under uncertainty]]
-
-    - CC [[[[QUE]] - How can we support explicit contention with evidence when synthesizing knowledge claims?]]

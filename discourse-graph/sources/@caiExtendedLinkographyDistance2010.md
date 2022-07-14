@@ -29,19 +29,5 @@ date: Mon Nov 16 2020 17:39:25 GMT-0500 (Eastern Standard Time)
 
 ###### Discourse Context
 
-- **Informs::** [[QUE - What are the most efficient routes to useful cross-boundary knowledge]]
+- **Informs::** [QUE - What are the most efficient routes to useful cross-boundary knowledge.md](QUE - What are the most efficient routes to useful cross-boundary knowledge.md)
 
-###### References
-
-[[February 13th, 2021]]
-
-- [[linkography]] [[@caiExtendedLinkographyDistance2010]] and new stuff from [[@goncalvesLifeCycleCreative2021]]? [archetypes](![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fmegacoglab%2FOv52xmnXy1.png?alt=media&token=8eac3b10-cc56-42ed-b0e4-9f26242f22d5) (p. 12))?
-
-    - or idea of [[[[THE]] - Accretion theory of ideation]] [[@sosaAccretionTheoryIdeation2019]]
-[[October 27th, 2021]]
-
-- taking inspiration from [[linkography]], see [[@caiExtendedLinkographyDistance2010]] as well as [[@goncalvesLifeCycleCreative2021]]
-
-    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fmegacoglab%2Fw3I49J3gXf.png?alt=media&token=653c46ad-4f45-428c-8850-afd068cc7173)
-
-    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fmegacoglab%2FOv52xmnXy1.png?alt=media&token=8eac3b10-cc56-42ed-b0e4-9f26242f22d5) (p. 12)

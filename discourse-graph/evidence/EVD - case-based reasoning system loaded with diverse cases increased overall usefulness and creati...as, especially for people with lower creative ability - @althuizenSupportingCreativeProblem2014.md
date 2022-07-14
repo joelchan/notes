@@ -54,14 +54,7 @@ date: Tue Nov 23 2021 17:12:28 GMT-0500 (Eastern Standard Time)
 
 ###### Discourse Context
 
-- **Informs::** [[QUE - How much variability is there in the effects of diversity of examples on creative design outputs]]
-- **Informs::** [[QUE - Under what conditions do diverse initial examples lead to better final design solutions]]
-- **FromSource::** [[@althuizenSupportingCreativeProblem2014]]
+- **Informs::** [QUE - How much variability is there in the effects of diversity of examples on creative design outputs.md](QUE - How much variability is there in the effects of diversity of examples on creative design outputs.md)
+- **Informs::** [QUE - Under what conditions do diverse initial examples lead to better final design solutions.md](QUE - Under what conditions do diverse initial examples lead to better final design solutions.md)
+- **FromSource::** [@althuizenSupportingCreativeProblem2014.md](@althuizenSupportingCreativeProblem2014.md)
 
-###### References
-
-[[November 23rd, 2021]]
-
-- [[[[EVD]] - case-based reasoning system loaded with diverse cases increased overall usefulness and creativity of ad campaign ideas, especially for people with lower creative ability - [[@althuizenSupportingCreativeProblem2014]]]] #Informs
-
-    - note: this is with n=20 per cell

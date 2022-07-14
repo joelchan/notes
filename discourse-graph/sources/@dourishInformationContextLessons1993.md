@@ -55,19 +55,5 @@ date: Wed Sep 16 2020 22:29:23 GMT-0400 (Eastern Daylight Time)
 
 ###### Discourse Context
 
-- **Informs::** [[QUE - How can we best bridge private vs. public knowledge]]
+- **Informs::** [QUE - How can we best bridge private vs. public knowledge.md](QUE - How can we best bridge private vs. public knowledge.md)
 
-###### References
-
-[[January 7th, 2021]]
-
-- {{[[DONE]]}} [[@dourishInformationContextLessons1993]]
-
-    - words from chi submission:
-
-        - > Similarly, Dourish and colleagues [11] found in a case study of calendar systems that having metadata for event information such as the title of the event or arrival time of the speaker, in addition to who the author of the information is, are critical for the interpretation of the events.
-[[QUE - How can we best bridge private vs. public knowledge]]
-
-- [[@dourishInformationContextLessons1993]]
-
-    - In [a case study of calendar systems](((e021Zn_8X))), having [metadata for event information](((H-T2qFmhr))) such as the title of the event or arrival time of the speaker, in addition to who the author of the information is, were critical for the interpretation of the events.

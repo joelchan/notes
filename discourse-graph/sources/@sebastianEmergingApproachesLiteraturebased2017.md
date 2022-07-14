@@ -57,14 +57,5 @@ date: Fri Mar 26 2021 02:28:52 GMT-0400 (Eastern Daylight Time)
 
 ###### Discourse Context
 
-- **Informs::** [[QUE - What are the most efficient routes to useful cross-boundary knowledge]]
+- **Informs::** [QUE - What are the most efficient routes to useful cross-boundary knowledge.md](QUE - What are the most efficient routes to useful cross-boundary knowledge.md)
 
-###### References
-
-[[March 25th, 2021]]
-
-- Evaluation methods and review of [[literature-based discovery]] in [[@sebastianEmergingApproachesLiteraturebased2017]]
-
-    - The lit seems to have similar problems in evaluation methods (bias towards biased "offline" evaluations, trying to reproduce a small set of past discoveries)
-
-        - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fmegacoglab%2Fj85o3qsbue.png?alt=media&token=502ec961-99bc-4654-97cc-6a9109a853aa) (p. 28)

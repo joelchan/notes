@@ -40,19 +40,12 @@ date: Fri Feb 11 2022 14:42:07 GMT-0500 (Eastern Standard Time)
 
 ###### Discourse Context
 
-- **Informs::** [[THE - interaction-oriented theory of creative inspiration from examples]]
-- **Supports::** [[CLM - examples can improve creative outcomes by enabling more robust (re)modeling of the problem space]]
-- **Supports::** [[CLM - creative workers use examples to support problem (re)formulation]]
-- **Supports::** [[CLM - Analogies can power creative breakthroughs by stimulating effective problem (re)formulation]]
-- **Consistent With::** [[EVD - Engineering design students used multiple cross-domain analogies to fulfill design needs, and...on of how to decompose the problem and find new analogies. - @helmsCompoundAnalogicalDesign2008]]
-- **Consistent With::** [[EVD - professional designers curated examples to understand trends and design approaches to inform .... simple direct transfer of solution approaches - @sharminUnderstandingKnowledgeManagement2009b]]
-- **Consistent With::** [[EVD - designers used examples to shape their understanding of the problem before generating solutions - @herringGettingInspiredUnderstanding2009]]
-- **FromSource::** [[@okadaAnalogicalModificationCreation2009]]
+- **Informs::** [THE - interaction-oriented theory of creative inspiration from examples.md](THE - interaction-oriented theory of creative inspiration from examples.md)
+- **Supports::** [CLM - examples can improve creative outcomes by enabling more robust (re)modeling of the problem space.md](CLM - examples can improve creative outcomes by enabling more robust (re)modeling of the problem space.md)
+- **Supports::** [CLM - creative workers use examples to support problem (re)formulation.md](CLM - creative workers use examples to support problem (re)formulation.md)
+- **Supports::** [CLM - Analogies can power creative breakthroughs by stimulating effective problem (re)formulation.md](CLM - Analogies can power creative breakthroughs by stimulating effective problem (re)formulation.md)
+- **Consistent With::** [EVD - Engineering design students used multiple cross-domain analogies to fulfill design needs, and...on of how to decompose the problem and find new analogies. - @helmsCompoundAnalogicalDesign2008.md](EVD - Engineering design students used multiple cross-domain analogies to fulfill design needs, and...on of how to decompose the problem and find new analogies. - @helmsCompoundAnalogicalDesign2008.md)
+- **Consistent With::** [EVD - professional designers curated examples to understand trends and design approaches to inform .... simple direct transfer of solution approaches - @sharminUnderstandingKnowledgeManagement2009b.md](EVD - professional designers curated examples to understand trends and design approaches to inform .... simple direct transfer of solution approaches - @sharminUnderstandingKnowledgeManagement2009b.md)
+- **Consistent With::** [EVD - designers used examples to shape their understanding of the problem before generating solutions - @herringGettingInspiredUnderstanding2009.md](EVD - designers used examples to shape their understanding of the problem before generating solutions - @herringGettingInspiredUnderstanding2009.md)
+- **FromSource::** [@okadaAnalogicalModificationCreation2009.md](@okadaAnalogicalModificationCreation2009.md)
 
-###### References
-
-[[February 11th, 2022]]
-
-- [[[[EVD]] - Two artists used individual artworks to shape not just their ideas, but used a process of "analogical modification" to search for and modify higher-order concepts, and their creative vision. This process unfolded over the course of years. - [[@okadaAnalogicalModificationCreation2009]]]]
-
-    - helps us understand what might be some useful ways to interact with analogies, beyond direct analogical transfer

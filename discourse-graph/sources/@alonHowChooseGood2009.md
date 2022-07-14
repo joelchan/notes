@@ -33,17 +33,5 @@ date: Thu Feb 06 2020 09:31:08 GMT-0500 (Eastern Standard Time)
 
 ###### Discourse Context
 
-- **Informs::** [[QUE - How can we measure everyday progress in open-ended creative work]]
+- **Informs::** [QUE - How can we measure everyday progress in open-ended creative work.md](QUE - How can we measure everyday progress in open-ended creative work.md)
 
-###### References
-
-[[Notes  questions for panel discussion about process for HCILBBL]]
-
-- From [[Uri Alon]] of Hebrew University of Jerusalem, re: science in [[@alonHowChooseGood2009]]
-
-    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fmegacoglab%2FMAe8WaEHOo?alt=media&token=498e7ac3-c54d-4707-87a2-12c45fa072f7)
-[[September 18th, 2020]]
-
-- Per [[@alonHowChooseGood2009]]
-
-    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fmegacoglab%2FwiDbuwk2b8.png?alt=media&token=037d63d0-548f-409a-a6cd-e822f55ab99f)

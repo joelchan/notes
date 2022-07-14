@@ -47,39 +47,5 @@ date: Wed Aug 19 2020 13:40:00 GMT-0400 (Eastern Daylight Time)
 
 ###### Discourse Context
 
-- **Informs::** [[QUE - What are some major phenomena around designers' exploration of design spaces and how might these map to characteristics of optimizers]]
+- **Informs::** [QUE - What are some major phenomena around designers' exploration of design spaces and how might these map to characteristics of optimizers.md](QUE - What are some major phenomena around designers' exploration of design spaces and how might these map to characteristics of optimizers.md)
 
-###### References
-
-[[QUE - What are some major phenomena around designers' exploration of design spaces and how might these map to characteristics of optimizers]]
-
-- fun empirical demonstration in [[@simontonCreativeProcessPicasso2007]]: sequence of Picasso's sketches of Guernica was nonmonotonic in terms of progression towards final painting
-
-    - seems contra to basic "hill climbing", but probably interaction with problem characteristics
-
-    - we see similar meandering back-and-forth dynamics in analysis of [[Darwin's notebooks]] [[@gruberDarwinManPsychological1974]]
-[[HDCC208Z Hacking the Creative Process]]
-
-- [[@simontonCreativeProcessPicasso2007]]
-
-    - #[[references]]
-
-        - Title: The Creative Process in Picasso's Guernica Sketches: Monotonic Improvements versus Nonmonotonic Variants
-
-        - Meta:
-
-            - Authored by:: [[Dean Simonton]]
-
-            - Year: [[2007]]
-
-            - Publication: Creativity Research Journal
-
-            - Zotero link: [Zotero Link](zotero://select/items/1_ZAV7FVWN)
-
-            - URL: [Simonton (2007). The Creative Process in Picasso's Guernica Sketches: Monotonic Improvements versus Nonmonotonic Variants. Creativity Research Journal](undefined)
-
-        - Content
-
-            - Abstract
-
-                - A controversy has emerged over whether Picassos sketches for Guernica illustrate a Darwinian process of blind-variation and selective-retention (i.e., nonmonotonic variants), rather than a more systematic, expertise-driven process (i.e., monotonic improvements). This issue is objectively addressed by having judges (1 pro-Darwinian, 2 anti-Darwinian, and 2 neutral) rank the figural components according to their perceived progress toward the final version of the painting. Besides strongly agreeing on the perceived order (composite progress score a .85), the independent judges con-curred that this order was conspicuously nonmono-tonic, with minimal tendency to converge on the end result. These conclusions held not only for the sketches as a whole, but also for the sequence of sketches for the separate figural elements of the painting. Hence, Picassos creative process is best described as producing blind nonmonotonic variants, rather than expert monotonic improvements. The general method used in this study can be extended to other documentary evidencesuch as musical sketches, literary drafts, and laboratory note-booksto determine the extent to which creativity operates in a Darwinian manner.

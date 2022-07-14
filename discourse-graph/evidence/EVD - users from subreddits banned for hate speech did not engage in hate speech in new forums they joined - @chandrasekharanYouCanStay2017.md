@@ -28,11 +28,6 @@ date: Sun Oct 24 2021 16:41:54 GMT-0400 (Eastern Daylight Time)
 
 ###### Discourse Context
 
-- **Informs::** [[QUE - Are bans an effective strategy for dealing with bad behaviors in online social media settings]]
-- **FromSource::** [[@chandrasekharanYouCanStay2017]]
+- **Informs::** [QUE - Are bans an effective strategy for dealing with bad behaviors in online social media settings.md](QUE - Are bans an effective strategy for dealing with bad behaviors in online social media settings.md)
+- **FromSource::** [@chandrasekharanYouCanStay2017.md](@chandrasekharanYouCanStay2017.md)
 
-###### References
-
-[[October 24th, 2021]]
-
-- [[[[EVD]] - users from subreddits banned for hate speech did not engage in hate speech in new forums they joined - [[@chandrasekharanYouCanStay2017]]]]

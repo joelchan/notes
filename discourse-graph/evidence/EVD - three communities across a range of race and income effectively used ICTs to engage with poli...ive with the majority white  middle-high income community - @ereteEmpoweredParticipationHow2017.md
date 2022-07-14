@@ -22,15 +22,6 @@ date: Wed Jul 14 2021 12:03:04 GMT-0400 (Eastern Daylight Time)
 
 ###### Discourse Context
 
-- **Informs::** [[QUE - What tension points exist between the goals of diversity and depth of user participation in participatory design]]
-- **FromSource::** [[@ereteEmpoweredParticipationHow2017]]
+- **Informs::** [QUE - What tension points exist between the goals of diversity and depth of user participation in participatory design.md](QUE - What tension points exist between the goals of diversity and depth of user participation in participatory design.md)
+- **FromSource::** [@ereteEmpoweredParticipationHow2017.md](@ereteEmpoweredParticipationHow2017.md)
 
-###### References
-
-[[July 13th, 2021]]
-
-- not sure if useful for our question, but this observation stood out: [[[[EVD]] - three communities across a range of race and income effectively used ICTs to engage with policy and governance, but government officials were most responsive to and proactive with the majority white / middle-high income community - [[@ereteEmpoweredParticipationHow2017]]]]
-
-    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fmegacoglab%2FU_HGMSUOlu.png?alt=media&token=410edfef-601e-48a4-9a0c-11261ae0d0e4) (p. 2315)
-
-    - i think the flip side here is to note the equality in skill of engagement that pushes back against assumptions that they wouldn't be able to speak for themselves (e.g., [[[[CL]] - There is a tension between analyzing participants' direct inputs, and respecting their actual insights (vs. designers' interpretation) that is intensified when working with design partners who struggle to contribute more directly to design artifacts]])

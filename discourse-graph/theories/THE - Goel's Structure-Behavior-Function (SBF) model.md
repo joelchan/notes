@@ -9,4 +9,4 @@ date: Tue Jan 04 2022 12:09:21 GMT-0500 (Eastern Standard Time)
 
 ###### Discourse Context
 
-- **Informed By::** [[@goelStructureBehaviorFunction2009]]
+- **Informed By::** [@goelStructureBehaviorFunction2009.md](@goelStructureBehaviorFunction2009.md)

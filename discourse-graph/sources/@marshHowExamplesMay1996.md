@@ -29,21 +29,6 @@ date: Sat Dec 26 2020 21:58:38 GMT-0500 (Eastern Standard Time)
 
 ###### Discourse Context
 
-- **Informs::** [[CLM - Recent or concurrent exposure to ideas can substantially influence the direction of ideation]]
-- **Informs::** [[THE - interaction-oriented theory of creative inspiration from examples]]
+- **Informs::** [CLM - Recent or concurrent exposure to ideas can substantially influence the direction of ideation.md](CLM - Recent or concurrent exposure to ideas can substantially influence the direction of ideation.md)
+- **Informs::** [THE - interaction-oriented theory of creative inspiration from examples.md](THE - interaction-oriented theory of creative inspiration from examples.md)
 
-###### References
-
-[[December 26th, 2020]]
-
-- example conformity rates also do not necessarily influence other key process measures of creativity, such as quantity or elaboration of concepts generated [[@marshHowExamplesMay1996]]
-
-    - also, might increase quality of ideas
-
-        - [[@wardRoleDomainKnowledge2008]]
-
-    - or novelty of ideas
-
-        - [[@chanBenefitsPitfallsAnalogies2011]]
-
-        - [[@smithWhatYouSee2008]]

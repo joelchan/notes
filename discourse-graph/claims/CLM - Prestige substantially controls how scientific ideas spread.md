@@ -27,23 +27,7 @@ date: Mon Mar 23 2020 21:22:13 GMT-0400 (Eastern Daylight Time)
 
 ###### Discourse Context
 
-- **Informed By::** [[@morganPrestigeDrivesEpistemic2018]]
-- **Informed By::** [[@juhaszBrokeringCorePeriphery2020]]
-- **Informed By::** [[@clausetSystematicInequalityHierarchy2015]]
+- **Informed By::** [@morganPrestigeDrivesEpistemic2018.md](@morganPrestigeDrivesEpistemic2018.md)
+- **Informed By::** [@juhaszBrokeringCorePeriphery2020.md](@juhaszBrokeringCorePeriphery2020.md)
+- **Informed By::** [@clausetSystematicInequalityHierarchy2015.md](@clausetSystematicInequalityHierarchy2015.md)
 
-###### References
-
-[[June 14th, 2020]]
-
-- Some studies in here for [[[[CLM]] - Prestige substantially controls how scientific ideas spread]] - via the [[peer review]] route (so also [[[[CLM]] - Scientific peer review is deeply flawed]])
-
-    - [One reason peer review is broken: it’s biased in favor of prestigious authors](https://www.vox.com/science-and-health/2016/11/29/13770988/peer-review-bias-authors)
-
-        - #quotes
-
-            - - There’s evidence that peer reviewers are more lenient toward prestigious researchers
-[[@clausetSystematicInequalityHierarchy2015]]
-
-- Made a prediction that was later tested in #[[@morganPrestigeDrivesEpistemic2018]], that #[[[[CLM]] - Prestige substantially controls how scientific ideas spread]]
-
-    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fmegacoglab%2FzMbfwhIbjc.png?alt=media&token=6b3b7430-87b8-45fe-8a2b-d7af74fac11f)

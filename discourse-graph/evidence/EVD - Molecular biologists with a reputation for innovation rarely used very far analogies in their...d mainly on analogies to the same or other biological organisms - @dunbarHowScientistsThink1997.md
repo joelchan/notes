@@ -80,21 +80,9 @@ date: Mon Jun 28 2021 12:58:57 GMT-0400 (Eastern Daylight Time)
 
 ###### Discourse Context
 
-- **Informs::** [[QUE - How might domain distance modulate the effects of analogies on creative output]]
-- **Supports::** [[CLM - There is a 'Sweet Spot' in Analogical Distance. Somewhat far analogies lead to better creative outcomes than very near or very far analogies]]
-- **Opposes::** [[CLM - Analogical distance of inspirations for an idea are positively related to the idea's creativity]]
-- **Consistent With::** [[EVD - papers with high median conventionality and high tail atypical combinations of journals they ...erage to be in top 5 percent of citation distribution - @uzziAtypicalCombinationsScientific2013]]
-- **FromSource::** [[@dunbarHowScientistsThink1997]]
+- **Informs::** [QUE - How might domain distance modulate the effects of analogies on creative output.md](QUE - How might domain distance modulate the effects of analogies on creative output.md)
+- **Supports::** [CLM - There is a 'Sweet Spot' in Analogical Distance. Somewhat far analogies lead to better creative outcomes than very near or very far analogies.md](CLM - There is a 'Sweet Spot' in Analogical Distance. Somewhat far analogies lead to better creative outcomes than very near or very far analogies.md)
+- **Opposes::** [CLM - Analogical distance of inspirations for an idea are positively related to the idea's creativity.md](CLM - Analogical distance of inspirations for an idea are positively related to the idea's creativity.md)
+- **Consistent With::** [EVD - papers with high median conventionality and high tail atypical combinations of journals they ...erage to be in top 5 percent of citation distribution - @uzziAtypicalCombinationsScientific2013.md](EVD - papers with high median conventionality and high tail atypical combinations of journals they ...erage to be in top 5 percent of citation distribution - @uzziAtypicalCombinationsScientific2013.md)
+- **FromSource::** [@dunbarHowScientistsThink1997.md](@dunbarHowScientistsThink1997.md)
 
-###### References
-
-[[June 28th, 2021]]
-
-- [[[[EVD]] - Molecular biologists with a reputation for innovation rarely used very far analogies in their lab meetings while generating novel scientific concepts; instead, they relied mainly on analogies to the same or other biological organisms - [[@dunbarHowScientistsThink1997]]]]
-
-    - i've often wondered if there's something fundamentally different about the way [[analogy]] works in science (for understanding) vs. invention (for problem solving); could far analogies be more important in the latter case? how does this jive with findings about [[interdisciplinarity]], such as with [[@uzziAtypicalCombinationsScientific2013]]? in those papers, i recall claims that the distance between the combinations is important, but i don't recall how this is tested.
-[[QUE - How might domain distance modulate the effects of analogies on creative output]]
-
-- For example, Dunbar traced the discovery process of four top molecular biology labs, and found that they rarely used far analogies to generate novel scientific concepts: [[[[EVD]] - Molecular biologists with a reputation for innovation rarely used very far analogies in their lab meetings while generating novel scientific concepts; instead, they relied mainly on analogies to the same or other biological organisms - [[@dunbarHowScientistsThink1997]]]]
-
-    - This is a strong result, even though it isn't experimental, due to its high external validity. Despite lack of experimental controls, it at least puts a cap on the claim about far analogies being important/necessary for creative breakthroughs, at least in molecular biology.

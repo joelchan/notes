@@ -65,17 +65,6 @@ date: Thu Jul 23 2020 14:12:17 GMT-0400 (Eastern Daylight Time)
 
 ###### Discourse Context
 
-- **Informs::** [[CLM - Synthesis work requires explicit (usually external) representations of both evidence and claims]]
-- **Informs::** [[CLM - Citation practices in science are far from optimal]]
+- **Informs::** [CLM - Synthesis work requires explicit (usually external) representations of both evidence and claims.md](CLM - Synthesis work requires explicit (usually external) representations of both evidence and claims.md)
+- **Informs::** [CLM - Citation practices in science are far from optimal.md](CLM - Citation practices in science are far from optimal.md)
 
-###### References
-
-[[July 23rd, 2020]]
-
-- [[@letrudAffirmativeCitationBias2019]] concept of [[affirmative citation bias]] (a complement to [[publication bias]])
-
-    - cc [[[[CLM]] - Citation practices in science are far from optimal]]
-
-    - #graphics for [[[[CLM]] - Citation practices in science are far from optimal]]
-
-        - https://twitter.com/scite/status/1286332504211894272

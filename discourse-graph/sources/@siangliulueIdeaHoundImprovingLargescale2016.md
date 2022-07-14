@@ -39,12 +39,5 @@ date: Sun Mar 22 2020 15:21:01 GMT-0400 (Eastern Daylight Time)
 
 ###### Discourse Context
 
-- **Informs::** [[PTN - Integrated crowdsourcing]]
+- **Informs::** [PTN - Integrated crowdsourcing.md](PTN - Integrated crowdsourcing.md)
 
-###### References
-
-[[April 14th, 2022]]
-
-- love how this connects to what we did with [[sys/Ideahound]] [[@siangliulueIdeaHoundImprovingLargescale2016]]!
-
-    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fmegacoglab%2F9ylsDmEsQg.png?alt=media&token=6061a53b-7948-47e0-9896-5ffe25681258)

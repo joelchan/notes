@@ -23,5 +23,5 @@ date: Fri Feb 28 2020 16:57:35 GMT-0500 (Eastern Standard Time)
 
 ###### Discourse Context
 
-- **Informed By::** [[@russellCostStructureSensemaking1993]]
-- **Informed By::** [[@pirolliSensemakingProcessLeverage2005]]
+- **Informed By::** [@russellCostStructureSensemaking1993.md](@russellCostStructureSensemaking1993.md)
+- **Informed By::** [@pirolliSensemakingProcessLeverage2005.md](@pirolliSensemakingProcessLeverage2005.md)

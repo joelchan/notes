@@ -94,38 +94,9 @@ date: Fri Mar 11 2022 23:26:55 GMT-0500 (Eastern Standard Time)
 
 ###### Discourse Context
 
-- **Informs::** [[CLM - There is a 'Sweet Spot' in Analogical Distance. Somewhat far analogies lead to better creative outcomes than very near or very far analogies]]
-- **Informs::** [[CLM - Core mismatches in analogical inspiration improve creativity]]
-- **Informs::** [[CLM - Core attribute mismatches in analogical inspiration harm creativity]]
-- **Informs::** [[QUE - How might domain distance modulate the effects of analogies on creative output]]
-- **SourceFor::** [[EVD - Crowd workers generated the most novel and practical ideas when given analogical inspirations... with concrete constraints, compared to abstract constraints - @yuDistributedAnalogicalIdea2016]]
+- **Informs::** [CLM - There is a 'Sweet Spot' in Analogical Distance. Somewhat far analogies lead to better creative outcomes than very near or very far analogies.md](CLM - There is a 'Sweet Spot' in Analogical Distance. Somewhat far analogies lead to better creative outcomes than very near or very far analogies.md)
+- **Informs::** [CLM - Core mismatches in analogical inspiration improve creativity.md](CLM - Core mismatches in analogical inspiration improve creativity.md)
+- **Informs::** [CLM - Core attribute mismatches in analogical inspiration harm creativity.md](CLM - Core attribute mismatches in analogical inspiration harm creativity.md)
+- **Informs::** [QUE - How might domain distance modulate the effects of analogies on creative output.md](QUE - How might domain distance modulate the effects of analogies on creative output.md)
+- **SourceFor::** [EVD - Crowd workers generated the most novel and practical ideas when given analogical inspirations... with concrete constraints, compared to abstract constraints - @yuDistributedAnalogicalIdea2016.md](EVD - Crowd workers generated the most novel and practical ideas when given analogical inspirations... with concrete constraints, compared to abstract constraints - @yuDistributedAnalogicalIdea2016.md)
 
-###### References
-
-[[April 29th, 2022]]
-
-- Read [[@yuDistributedAnalogicalIdea2016]], very informative for reasoning the prompt programming "I want you to generate a new situation that has a very different x (stakeholder, context) but very similar y (goal, obstacle) as the output."
-
-    - [[[[EVD]] - Crowd workers generated the most novel and practical ideas when given analogical inspirations found from domain-independent problem descriptions with concrete constraints, compared to abstract constraints - [[@yuDistributedAnalogicalIdea2016]]]]
-
-    - The context of the generated analogy could be different to inspire abstract context, but the obstacle of the generated analogy should be similar which won't be abstracted and will be concrete
-[[CLM - Core attribute mismatches in analogical inspiration harm creativity]]
-
-- For example, [[@yuDistributedAnalogicalIdea2016a]([[@yuDistributedAnalogicalIdea2016]])] found that #[[observation-notes]] Crowd workers generated the most novel and practical ideas when given analogical inspirations found from [domain-independent, concrete constraint problem descriptions](((M8KfyPUsY))), compared to inspirations from [domain-independent abstract constraints](((TUj6U8Fv9))), [domain-dependent concrete constraints](((Aw21pCePA))), or [domain-dependent abstract constraints](((r6_rbDIRA))) (which were about equal).
-
-    - The core observation here is that __not__ abstracting away the constraints led to creativity gains. While the authors did not directly measure attributes and mismatches on them, it is likely that the constraints encoded some attribute information about the chairs - safety can be a function of many many things, depending on the material (how soft it is, how high up it is, how cool or hot it is, etc.), but if we talk specifically about something not tipping over, then know it's solid, we know it's possible to move (not too heavy), we also infer that the kind of harm probably comes from impact, not from burning or some other means of harm.
-
-    - The authors interpret the mechanism of the effect in terms of "applicability", motivating the prediction that concrete constraints would be more helpful than abstract constraints with an example from the famous [[Duncker's radiation problem]]: analogies to ant colonies might not lead to useful ideas because x-rays (in the original problem) have the property of traveling in straight lines, whereas ants can follow arbitrary paths. This straight path property seems crucial to the relational structure of the problem, because the healthy tissue is in danger of being harmed precisely because it is in the direct path between the source of the x-ray and the tumor. That is why a "dilution" schema is a useful solution, and why "divert the path arbitrarily around the healthy tissue" is unlikely to work because of the laws of physics!
-
-        - This "applicability" mechanism reminds me of an effect found by Zhu and colleagues [[@zhuContingencyViewTransferring2016]([[@zhuContingencyViewTransferring2016]])], who talk about mismatches with existing constraints and practices preventing the successful application of organizational innovations from outside an org
-[[@yuDistributedAnalogicalIdea2016]]
-
-- Experiment 2: [[[[EVD]] - Crowd workers generated the most novel and practical ideas when given analogical inspirations found from domain-independent problem descriptions with concrete constraints, compared to abstract constraints - [[@yuDistributedAnalogicalIdea2016]]]]
-
-    - [Crowd workers](Sample: 147 MTurk Crowd workers) generated ideas for a [chair design task](((HD-7uTez8))) with multiple constraints, with [analogical inspirations](((AOok97sgS))) found by crowd workers from a 2 (domain description: abstract or concrete) X 2 (constraint description: abstract or concrete) [design](((sGNqyXOH7))) from a previous experiment.
-
-        - #[[observation-notes]] Crowd workers generated the most novel and practical ideas when given analogical inspirations found from [domain-independent, concrete constraint problem descriptions](Domain-independent, concrete constraint: find something that doesn't tip over easily), compared to inspirations from [domain-independent abstract constraints](((TUj6U8Fv9))), [domain-dependent concrete constraints](((Aw21pCePA))), or [domain-dependent abstract constraints](((r6_rbDIRA))) (which were about equal)
-
-            - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fmegacoglab%2FL70Cq0JGOS.png?alt=media&token=e5a282aa-e8d5-47de-a807-eacf755ef549) (p. 1243)
-
-            - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fmegacoglab%2FA8Wn4LBdj5.png?alt=media&token=9ab065b5-bb20-428b-939b-65f9ba95ff16) (p. 1243)

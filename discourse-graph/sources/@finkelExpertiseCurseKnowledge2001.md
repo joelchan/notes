@@ -29,18 +29,5 @@ date: Wed Feb 17 2021 13:32:24 GMT-0500 (Eastern Standard Time)
 
 ###### Discourse Context
 
-- **Informs::** [[QUE - Under what conditions is it possible to transfer expertise from one person to another]]
+- **Informs::** [QUE - Under what conditions is it possible to transfer expertise from one person to another.md](QUE - Under what conditions is it possible to transfer expertise from one person to another.md)
 
-###### References
-
-[[QUE - Under what conditions is it possible to transfer expertise from one person to another]]
-
-- [[@finkelExpertiseCurseKnowledge2001]]
-
-    - Instructions on how to order a series of abstract shapes
-
-    - Experts uses more abstract idiosyncratic language than those with less expertise when explaining to others.
-
-    - This might not be published
-
-    - Case Study/Experiment

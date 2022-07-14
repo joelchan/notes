@@ -16,19 +16,5 @@ date: Sat Jul 31 2021 21:12:38 GMT-0400 (Eastern Daylight Time)
 
 ###### Discourse Context
 
-- **FromSource::** [[@vanrooijIntractabilityUseHeuristics2012]]
+- **FromSource::** [@vanrooijIntractabilityUseHeuristics2012.md](@vanrooijIntractabilityUseHeuristics2012.md)
 
-###### References
-
-[[September 11th, 2021]]
-
-- i am very skeptical that there is a general solution to this (see, for example [this proof by van Rooij]([[[[EVD]] - assuming that there is a polynomial-time procedure for choosing solutions for an intractable function implies that P=NP - [[@vanrooijIntractabilityUseHeuristics2012]]]]), and [this claim]([[[[CLM]] - intractable problems cannot be solved by a fixed number of parallel procedures - [[@vanrooijIntractabilityUseHeuristics2012]]]])), but curious about local solutions to this, per [[meta-rationality]]: are there relatively stable heuristics, and are there variations in stability/maturity across settings?
-
-    - even if there aren't "rational" and useful general solutions to the demarcation problem
-[[October 30th, 2021]]
-
-- And per [[[[EVD]] - assuming that there is a polynomial-time procedure for choosing solutions for an intractable function implies that P=NP - [[@vanrooijIntractabilityUseHeuristics2012]]]], it doesn't really make sense to define hard boundaries for science in terms of process
-
-    - I think this is [[Paul Feyerabend]]'s point?
-
-        - If we do, the risk of descending into [[Cargo Cult Science]] is SUPER HIGH

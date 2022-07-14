@@ -39,25 +39,6 @@ date: Thu Feb 06 2020 21:34:20 GMT-0500 (Eastern Standard Time)
 
 ###### Discourse Context
 
-- **Informs::** [[CLM - Compression is necessary for synthesis]]
-- **Informs::** [[QUE - What makes for an excellent systems research contribution]]
+- **Informs::** [CLM - Compression is necessary for synthesis.md](CLM - Compression is necessary for synthesis.md)
+- **Informs::** [QUE - What makes for an excellent systems research contribution.md](QUE - What makes for an excellent systems research contribution.md)
 
-###### References
-
-[[February 6th, 2020]]
-
-- Also check out new thread of research thinking about how [[prototypes]] carry knowledge or “argues” [[@galeyHowPrototypeArgues2010]], or “[[strong concepts]]”; these might be new primitives to think about, other than “claims” or “concepts” [[@hookStrongConceptsIntermediatelevel2012]], that we might see people working up towards through [[[[CL]] - People process complex information in multiple levels and stages of processing]]
-
-    - Relevant to [[D/Synthesis Infrastructure]]
-[[P Synthesis requirements theory paper]]
-
-- "Strong concept" [[@hookStrongConceptsIntermediatelevel2012]]
-
-    - The new ideas about "strong concepts" and "how [[prototypes]] argue"
-[[April 11th, 2022]]
-
-- great quote on role of theory in relation to design instances, from [[@hookStrongConceptsIntermediatelevel2012]], for [[[[CLM]] - examples can improve creative outcomes by enabling more robust (re)modeling of the problem space]]
-
-    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fmegacoglab%2F4FA_2bEdId.png?alt=media&token=1b740648-193e-45cc-a7e9-c6f57c70bb19)
-
-    - > the role of theory should be to annotate [a string of design examples] rather than replace them

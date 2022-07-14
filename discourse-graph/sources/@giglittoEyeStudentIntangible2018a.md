@@ -29,21 +29,5 @@ date: Fri May 14 2021 11:27:45 GMT-0400 (Eastern Daylight Time)
 
 ###### Discourse Context
 
-- **Informs::** [[QUE - What tension points exist between the goals of diversity and depth of user participation in participatory design]]
+- **Informs::** [QUE - What tension points exist between the goals of diversity and depth of user participation in participatory design.md](QUE - What tension points exist between the goals of diversity and depth of user participation in participatory design.md)
 
-###### References
-
-[[NowReading]]
-
-- #NowReading [[@giglittoEyeStudentIntangible2018a]] for [[[[QUE]] - What tension points exist between the goals of diversity and depth of user participation in participatory design?]] |
-
-    - extra stakeholders???? may be exacerbated in settings with history of oppressive intervention?
-
-        - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fmegacoglab%2FVue4qYLTx4.png?alt=media&token=5f13607b-e9bc-4a16-a3b1-dbd465b78f8a)
-
-    - difference decoloniality/decolonization (process or work) vs. postcolonialism (state of the social group or country relative to other actors)
-[[July 27th, 2021]]
-
-- [[@giglittoEyeStudentIntangible2018a]]
-
-    - {{embed: #NowReading [[@giglittoEyeStudentIntangible2018a]] for [[[[QUE]] - What tension points exist between the goals of diversity and depth of user participation in participatory design?]] |}}

@@ -22,41 +22,12 @@ date: Wed Nov 10 2021 10:40:00 GMT-0500 (Eastern Standard Time)
 
 ###### Discourse Context
 
-- **Informs::** [[QUE - Can deep learning discover analogical representations]]
-- **Informs::** [[QUE - What do we know about transformer language models' natural language generation capabilities]]
-- **Supported By::** [[EVD - given one set of objects from a few classic analogies such as solar system  atom, sysGPT-3 wa...rresponding objects on the other side for a few examples - @stayMachinamentaFormingExtended2020]]
-- **Informed By::** [[@stayMachinamentaFormingExtended2020]]
-- **Informed By::** [[@teamWorldCreationAnalogy2020]]
-- **Informed By::** [[@brownLanguageModelsAre2020]]
-- **Informed By::** [[@mitchellCanGPT3Make2020]]
-- **Informed By::** [[@mitchellFollowupCanGPT32020]]
+- **Informs::** [QUE - Can deep learning discover analogical representations.md](QUE - Can deep learning discover analogical representations.md)
+- **Informs::** [QUE - What do we know about transformer language models' natural language generation capabilities.md](QUE - What do we know about transformer language models' natural language generation capabilities.md)
+- **Supported By::** [EVD - given one set of objects from a few classic analogies such as solar system  atom, sysGPT-3 wa...rresponding objects on the other side for a few examples - @stayMachinamentaFormingExtended2020.md](EVD - given one set of objects from a few classic analogies such as solar system  atom, sysGPT-3 wa...rresponding objects on the other side for a few examples - @stayMachinamentaFormingExtended2020.md)
+- **Informed By::** [@stayMachinamentaFormingExtended2020.md](@stayMachinamentaFormingExtended2020.md)
+- **Informed By::** [@teamWorldCreationAnalogy2020.md](@teamWorldCreationAnalogy2020.md)
+- **Informed By::** [@brownLanguageModelsAre2020.md](@brownLanguageModelsAre2020.md)
+- **Informed By::** [@mitchellCanGPT3Make2020.md](@mitchellCanGPT3Make2020.md)
+- **Informed By::** [@mitchellFollowupCanGPT32020.md](@mitchellFollowupCanGPT32020.md)
 
-###### References
-
-[[November 10th, 2021]]
-
-- There's also some emerging evidence that [[[[CLM]] - [[transformer language model]]s have some analogical reasoning ability]], contra [[[[QUE]] - Can deep learning discover analogical representations?]]
-
-    - another line of evidence for this might be the insane performance of giant language models like [[sys/GPT-3]]
-[[QUE - Can deep learning discover analogical representations]]
-
-- There is some emerging evidence that [[[[CLM]] - [[transformer language model]]s have some analogical reasoning ability]]
-
-    - #SupportedBy
-
-        - [[[[EVD]] - given one set of objects from a few classic analogies such as solar system / atom, [[sys/GPT-3]] was able to complete the corresponding objects on the other side for a few examples - [[@stayMachinamentaFormingExtended2020]]]]
-[[Week of November 22nd, 2021]]
-
-- super relevant for [[[[CLM]] - [[transformer language model]]s have some analogical reasoning ability]] and [[bet/[[D/Computational Analogy]] - language models can assist with creative problem reformulation]]
-
-    - here are two examples of good results (though they note that there was a "pool" of unusable results, and there is no attempt at evaluating this in any formal way)
-
-        - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fmegacoglab%2F4UsiUzrnRr.png?alt=media&token=d58ced8b-3e26-4dbc-b00c-646e73f5caa9)
-
-        - important note: they also notice some repeating errors, and how this relates to the low frequency and presence penalty parameters #[[➰ breadcrumbs]]
-
-        - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fmegacoglab%2FQthakbkgY7.png?alt=media&token=0a3ee05b-bb28-4190-a5c5-14adb9fcf685)
-
-    - they used Red Dot design examples for [[few-shot learning]] of analogical concept generation.
-
-        - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fmegacoglab%2FHS4Y-ctZFy.png?alt=media&token=ffcd095d-583c-4021-b34f-84c9b4953759)

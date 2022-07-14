@@ -39,21 +39,10 @@ date: Wed Sep 23 2020 16:11:48 GMT-0400 (Eastern Daylight Time)
 
         - An exception might be a "proof of concept", where the knowledge gain is "we thought this was impossible! now we know it's possible". But this is sort of an unusual contribution genre that I'm not as familiar with, in part because it's rare. [[Aniket Kittur]] has more experience with this sort of contribution.
 
-###### References
+###### Discourse Context
 
-[[October 20th, 2021]]
+- **Informed By::** [@galeyHowPrototypeArgues2010.md](@galeyHowPrototypeArgues2010.md)
+- **Informed By::** [@hookStrongConceptsIntermediatelevel2012.md](@hookStrongConceptsIntermediatelevel2012.md)
+- **Informed By::** [@wobbrockResearchContributionsHumancomputer2016.md](@wobbrockResearchContributionsHumancomputer2016.md)
+- **Informed By::** [@vandenakkerPrinciplesMethodsDevelopment1999b.md](@vandenakkerPrinciplesMethodsDevelopment1999b.md)
 
-- More example papers of how to think about really excellent systems contribution: cc [[[[QUE]] - What makes for an excellent systems research contribution?]]
-
-    - [[@oulasvirtaHCIResearchProblemSolving2016]]
-
-        - h/t [[Henrik Korsgaard]] https://hci-theory-conversations.henrikkorsgaard.dk/hci-theory-conversations-session-1.html: https://hci-theory-conversations.henrikkorsgaard.dk/hci-theory-conversations-session-1.html
-
-    - [[@hibschmanIsoplethSupportingSensemaking2019]]
-
-        - this one in particular is discussed in detail in [[Research Research Canvas]] material
-[[April 23rd, 2022]]
-
-- and sort of really is a powerful example of the [need for *conceptual* research contributions]([[[[QUE]] - What makes for an excellent systems research contribution?]]) (lemon juice prevents scurvy and here is *why*)
-
-    - and also... cc [[Research Research Canvas]] - need to understand *why* the thing works, not just that it works, otherwise.... in some cases the actual solution may be lost for a long time!!! and the problem (and its harmful effects) will persist!!

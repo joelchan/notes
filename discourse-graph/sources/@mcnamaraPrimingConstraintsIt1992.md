@@ -19,14 +19,5 @@ date: Fri Jan 14 2022 11:05:06 GMT-0500 (Eastern Standard Time)
 
 ###### Discourse Context
 
-- **Informs::** [[THE - interaction-oriented theory of creative inspiration from examples]]
+- **Informs::** [THE - interaction-oriented theory of creative inspiration from examples.md](THE - interaction-oriented theory of creative inspiration from examples.md)
 
-###### References
-
-[[THE - interaction-oriented theory of creative inspiration from examples]]
-
-- Priming is a means for influencing activation (see, e.g., [[@mcnamaraPrimingConstraintsIt1992]])
-
-    - An example
-
-    - Whether this happens at a more abstract level with social priming is still an open question. However, semantic priming at a cognitive level is well established.

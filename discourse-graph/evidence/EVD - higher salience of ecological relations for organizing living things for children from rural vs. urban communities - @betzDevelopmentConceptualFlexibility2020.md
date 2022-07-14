@@ -31,20 +31,5 @@ date: Thu Feb 24 2022 10:00:27 GMT-0500 (Eastern Standard Time)
 
 ###### Discourse Context
 
-- **FromSource::** [[@betzDevelopmentConceptualFlexibility2020]]
+- **FromSource::** [@betzDevelopmentConceptualFlexibility2020.md](@betzDevelopmentConceptualFlexibility2020.md)
 
-###### References
-
-[[@betzDevelopmentConceptualFlexibility2020]]
-
-- [[[[EVD]] - higher salience of ecological relations for organizing living things for children from rural vs. urban communities - [[@betzDevelopmentConceptualFlexibility2020]]]]
-
-    - #[[➰ breadcrumbs]] this is cited as being #consistentWith prior studies
-
-        - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fmegacoglab%2F7yT2MupOgz.png?alt=media&token=2cd2e105-03e5-42bb-8b11-2c4aef9d1210) (p. 7)
-
-    - preferred explanation from authors, which would be consistent with this idea of contextualizing, is "richer ecological experience" from rural children, which yields knowledge of ecological relations that are not perceptually obvious
-
-        - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fmegacoglab%2FSGWD1N13op.png?alt=media&token=336555ff-d301-4f2b-b163-4a3c1ae3d9de)
-
-    - #replicated-by study 2 of this paper

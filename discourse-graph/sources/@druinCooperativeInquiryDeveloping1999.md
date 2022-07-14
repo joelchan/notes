@@ -29,14 +29,5 @@ date: Tue Jul 06 2021 11:58:40 GMT-0400 (Eastern Daylight Time)
 
 ###### Discourse Context
 
-- **Informs::** [[QUE - What tension points exist between the goals of diversity and depth of user participation in participatory design]]
+- **Informs::** [QUE - What tension points exist between the goals of diversity and depth of user participation in participatory design.md](QUE - What tension points exist between the goals of diversity and depth of user participation in participatory design.md)
 
-###### References
-
-[[July 6th, 2021]]
-
-- [[Cooperative Inquiry]], per [[@druinCooperativeInquiryDeveloping1999]]: expansive! children are full design partners. KidPad is proof-of-concept of the value of the approach (more flexible and creative than they would have suspected with children only as user and tester)
-
-    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fmegacoglab%2F8Lp_xyxb9u.png?alt=media&token=dd178722-f3bb-490d-8e00-5edf0ef9a346) (p. 67-68)
-
-    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fmegacoglab%2Ff2Sz1zXy-p.png?alt=media&token=7f1e9bf7-44a9-49f6-b992-18db0416b5f2) (p. 68-69)

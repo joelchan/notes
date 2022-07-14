@@ -29,18 +29,5 @@ date: Mon Nov 30 2020 18:06:39 GMT-0500 (Eastern Standard Time)
 
 ###### Discourse Context
 
-- **Informs::** [[QUE - How might domain distance modulate the effects of analogies on creative output]]
+- **Informs::** [QUE - How might domain distance modulate the effects of analogies on creative output.md](QUE - How might domain distance modulate the effects of analogies on creative output.md)
 
-###### References
-
-[[December 4th, 2020]]
-
-- [Crowd workers](![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fmegacoglab%2FT1LNXOm7at.png?alt=media&token=c736832b-c1d1-464e-81ee-02c3d0370764) (pg1218)) (different group from study 1) generated more creative solutions taking inspiration from domains far from the original problem when compared to ... (how much detail to include here?) #[[observation-notes]] #@yuEncouragingOutsideBox2016a
-
-    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fmegacoglab%2F-KVz-07bAH.png?alt=media&token=63854ae4-86d5-4d12-a853-507b15fa9e6f) (p1219)
-
-    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fmegacoglab%2FT1LNXOm7at.png?alt=media&token=c736832b-c1d1-464e-81ee-02c3d0370764) (pg1218)
-
-    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fmegacoglab%2FLm1csCBBxn.png?alt=media&token=c84e8b99-4e6f-418e-9084-36be31495b6e) (pg1218)
-
-    - > "Results indicate that searching for inspiration in domains far from the original problem significantly increased the probability of generating a creative solution compared to searching in Problem-driven domains, in Irrelevant schema-driven domains or when given no direction about which domains to search."

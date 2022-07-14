@@ -35,58 +35,7 @@ date: Fri Apr 03 2020 15:30:55 GMT-0400 (Eastern Daylight Time)
 
 ###### Discourse Context
 
-- **Informs::** [[QUE - What (existing) systems facilitate individual synthesis]]
-- **Informed By::** [[@shipmanFormalityConsideredHarmful1999]]
-- **Informed By::** [[@vankleekGuiPhooeyCase2007]]
+- **Informs::** [QUE - What (existing) systems facilitate individual synthesis.md](QUE - What (existing) systems facilitate individual synthesis.md)
+- **Informed By::** [@shipmanFormalityConsideredHarmful1999.md](@shipmanFormalityConsideredHarmful1999.md)
+- **Informed By::** [@vankleekGuiPhooeyCase2007.md](@vankleekGuiPhooeyCase2007.md)
 
-###### References
-
-[[April 11th, 2022]]
-
-- [[[[CLM]] - [[[[PTN]] - incremental formalization]] can mitigate risks of formalism in interactive systems]]
-
-    - #SupportedBy
-
-    - PTN
-
-        - addresses
-
-            - OBST
-
-                - for STAKEHOLDER
-
-                    - in CONTEXT
-
-        - OBST blocks GOAL for STAKEHOLDER in CONTEXT
-
-            - OBST for STAKEHOLDER
-
-                - complement: STAKEHOLDER faces OBST
-
-            - STAKEHOLDER in CONTEXT
-
-                - complement: CONTEXT contains STAKEHOLDER
-
-            - STAKEHOLDER has GOAL
-
-                - CLM
-
-                    - EVD
-
-            - OBST blocks GOAL
-
-    - find all CLM where
-
-        - and
-
-            - OBST is part of CLM
-
-            - OBST for STAKEHOLDER
-
-            - STAKEHOLDER in CONTEXT
-
-    - PTN
-
-        - is-variant-of
-
-            - PTN

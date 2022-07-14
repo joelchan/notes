@@ -34,4 +34,4 @@ date: Sun Mar 01 2020 21:03:04 GMT-0500 (Eastern Standard Time)
 
 ###### Discourse Context
 
-- **Informs::** [[CLM - Substantial portions of knowledge that is critical for innovation are not written down]]
+- **Informs::** [CLM - Substantial portions of knowledge that is critical for innovation are not written down.md](CLM - Substantial portions of knowledge that is critical for innovation are not written down.md)

@@ -29,14 +29,5 @@ date: Fri Jul 02 2021 22:21:24 GMT-0400 (Eastern Daylight Time)
 
 ###### Discourse Context
 
-- **Informs::** [[QUE - How might domain distance modulate the effects of analogies on creative output]]
+- **Informs::** [QUE - How might domain distance modulate the effects of analogies on creative output.md](QUE - How might domain distance modulate the effects of analogies on creative output.md)
 
-###### References
-
-[[MeetingNotes with Jason for comp analogy  June 2nd, 2022]]
-
-- Could build on level/type/depth of mapping measures/approaches from, e.g., [[@ballSpontaneousAnalogisingEngineering2004]], or [[@siangliulueProvidingTimelyExamples2015]] and [[@eckertAdaptationSourcesInspiration2003]]
-
-    - context:
-
-        - {{embed: Inspirations: }}

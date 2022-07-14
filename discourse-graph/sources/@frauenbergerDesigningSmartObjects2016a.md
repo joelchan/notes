@@ -29,58 +29,8 @@ date: Fri May 14 2021 11:27:44 GMT-0400 (Eastern Daylight Time)
 
 ###### Discourse Context
 
-- **Informs::** [[QUE - What tension points exist between the goals of diversity and depth of user participation in participatory design]]
-- **SourceFor::** [[EVD - Neurodiverse children benefited from having design environments tailored to them unique needs for structure and freedom @frauenbergerDesigningSmartObjects2016a]]
-- **SourceFor::** [[EVD - Teachers and helpers needed to be present in the beginning of PD session to help and make sur...were comfortable but were not needed in future sessions @frauenbergerDesigningSmartObjects2016a]]
-- **SourceFor::** [[EVD - Option to move around the physical space allowed for my flexibility and freedom for children @frauenbergerDesigningSmartObjects2016a]]
+- **Informs::** [QUE - What tension points exist between the goals of diversity and depth of user participation in participatory design.md](QUE - What tension points exist between the goals of diversity and depth of user participation in participatory design.md)
+- **SourceFor::** [EVD - Neurodiverse children benefited from having design environments tailored to them unique needs for structure and freedom @frauenbergerDesigningSmartObjects2016a.md](EVD - Neurodiverse children benefited from having design environments tailored to them unique needs for structure and freedom @frauenbergerDesigningSmartObjects2016a.md)
+- **SourceFor::** [EVD - Teachers and helpers needed to be present in the beginning of PD session to help and make sur...were comfortable but were not needed in future sessions @frauenbergerDesigningSmartObjects2016a.md](EVD - Teachers and helpers needed to be present in the beginning of PD session to help and make sur...were comfortable but were not needed in future sessions @frauenbergerDesigningSmartObjects2016a.md)
+- **SourceFor::** [EVD - Option to move around the physical space allowed for my flexibility and freedom for children @frauenbergerDesigningSmartObjects2016a.md](EVD - Option to move around the physical space allowed for my flexibility and freedom for children @frauenbergerDesigningSmartObjects2016a.md)
 
-###### References
-
-[[June 26th, 2021]]
-
-- [[@frauenbergerDesigningSmartObjects2016a]] for [[[[QUE]] - What tension points exist between the goals of diversity and depth of user participation in participatory design?]] | some tensions between structure and freedom when doing PD with neurodiverse children, as well as the need to navigate other stakeholders (teachers and helpers)
-
-    - [[[[EVD]] - Neurodiverse children benefited from having design environments tailored to them unique needs for structure and freedom [[@frauenbergerDesigningSmartObjects2016a]]]]
-
-    - [[[[EVD]] - Teachers and helpers needed to be present in the beginning of PD session to help and make sure children were comfortable but were not needed in future sessions [[@frauenbergerDesigningSmartObjects2016a]]]]
-
-    - [[[[EVD]] - Option to move around the physical space allowed for my flexibility and freedom for children [[@frauenbergerDesigningSmartObjects2016a]]]]
-
-    - {{[[DONE]]}} [[Sarah Dipasquale]] notes on [[@frauenbergerDesigningSmartObjects2016a]]
-
-        - https://docs.google.com/document/d/1fMYy6HoRd18H1xh7ijMKZSOg8gYXCKWg7v7iP5J97ow/edit#heading=h.3emmuwltna5
-
-        - solo
-
-        - [[EVD]]s
-
-            - teachers and helpers needed to be present in the beginning to help them get comfortable
-
-                - also echoed in [[@bentonDevelopingIDEASSupporting2012b]], but there they were there all the team (could be bc it was group)
-
-            - need structure
-
-                - theme of structure connects with [[@bentonDevelopingIDEASSupporting2012b]], who go a bit further
-
-            - negotating the space was necessary (moving to the ground led to better results)
-
-                - reminds [[Salma Elsayed-Ali]] of [[@walshFACITPDFramework2013]]
-
-                    - 8. **Physical Interaction** #barrier (design is messy process that necessitates movement of people and things?)
-
-                    - 6.** Portability**
-[[Playground PD diversity tension points]]
-
-- [[EVD]] - Teachers and helpers needed to be present in the beginning of PD session to help and make sure children were comfortable but were not needed in future sessions [[@frauenbergerDesigningSmartObjects2016a]]
-
-    - x
-
-        - -20.776535339572106
-
-    - y
-
-        - 1016.4652779257075
-
-    - color
-
-        - 008b8b

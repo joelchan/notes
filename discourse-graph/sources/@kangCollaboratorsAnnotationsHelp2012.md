@@ -39,17 +39,5 @@ date: Sun Feb 07 2021 14:16:11 GMT-0500 (Eastern Standard Time)
 
 ###### Discourse Context
 
-- **Informs::** [[QUE - How can we best bridge private vs. public knowledge]]
+- **Informs::** [QUE - How can we best bridge private vs. public knowledge.md](QUE - How can we best bridge private vs. public knowledge.md)
 
-###### References
-
-[[February 7th, 2021]]
-
-- [[@kangCollaboratorsAnnotationsHelp2012]]
-
-    - if see good annotations (where good = annotations that point ou connections across many documents) led to better perofrmance, but seeing (and being aware of) lower-quality annotations from others hurt perforamnc
-[[QUE - How can we best bridge private vs. public knowledge]]
-
-- [[@kangCollaboratorsAnnotationsHelp2012]]
-
-    - if see good annotations (where good = annotations that point ou connections across many documents) led to better perofrmance, but seeing (and being aware of) lower-quality annotations from others hurt perforamnc

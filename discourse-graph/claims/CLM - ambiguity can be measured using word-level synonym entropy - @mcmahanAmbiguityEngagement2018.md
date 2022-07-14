@@ -9,14 +9,5 @@ date: Mon Jul 12 2021 12:39:18 GMT-0400 (Eastern Daylight Time)
 
 ###### Discourse Context
 
-- **Supports::** [[CLM - ambiguity in scholarly communication facilitates within- and cross-field integration of discourse - @mcmahanAmbiguityEngagement2018]]
+- **Supports::** [CLM - ambiguity in scholarly communication facilitates within- and cross-field integration of discourse - @mcmahanAmbiguityEngagement2018.md](CLM - ambiguity in scholarly communication facilitates within- and cross-field integration of discourse - @mcmahanAmbiguityEngagement2018.md)
 
-###### References
-
-[[July 12th, 2021]]
-
-- [[[[CLM]] - ambiguity can be measured using word-level synonym entropy - [[@mcmahanAmbiguityEngagement2018]]]] (warrant)
-
-    - see Appendix C
-
-    - [[[[EVD]] - LDA-powered measure of ambiguity significantly predicted crowd workers' judgment of sentence ambiguity - [[@mcmahanAmbiguityEngagement2018]]]]

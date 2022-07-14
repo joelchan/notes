@@ -94,4 +94,4 @@ From this automatic heuristic parsing experiment we can conclude that (1) such p
 
 ###### Discourse Context
 
-- **FromSource::** [[@marshallSearchingMissingLink1993]]
+- **FromSource::** [@marshallSearchingMissingLink1993.md](@marshallSearchingMissingLink1993.md)

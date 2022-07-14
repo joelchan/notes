@@ -18,12 +18,5 @@ date: Mon Aug 09 2021 15:09:26 GMT-0400 (Eastern Daylight Time)
 
 ###### Discourse Context
 
-- **Informs::** [[QUE - Under what conditions do diverse initial examples lead to better final design solutions]]
+- **Informs::** [QUE - Under what conditions do diverse initial examples lead to better final design solutions.md](QUE - Under what conditions do diverse initial examples lead to better final design solutions.md)
 
-###### References
-
-[[August 9th, 2021]]
-
-- [[@nagleJackAllTrades2020]]: case study of microsoft kinect - basically the researchers who had more diverse backgrounds were more likely to succeed (publish paper in top 10th percentile of citations between 2011 and 2014) in taking advantage of hte novel opportunity that kinect represented
-
-    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fmegacoglab%2F9T3mzgSMjK.png?alt=media&token=31f86294-3701-4745-80d6-c702bee9d47f)

@@ -29,30 +29,8 @@ https://twitter.com/Girish_Kumar72/status/1436532451031937028)
 
 ###### Discourse Context
 
-- **Informs::** [[QUE - How can we measure everyday progress in open-ended creative work]]
-- **Informed By::** [[@gruberDarwinManPsychological1974]]
-- **Informed By::** [[@cattaniDeconstructingOutsiderPuzzle2017]]
-- **Informed By::** [[@kneelandExploringUnchartedTerritory2020]]
+- **Informs::** [QUE - How can we measure everyday progress in open-ended creative work.md](QUE - How can we measure everyday progress in open-ended creative work.md)
+- **Informed By::** [@gruberDarwinManPsychological1974.md](@gruberDarwinManPsychological1974.md)
+- **Informed By::** [@cattaniDeconstructingOutsiderPuzzle2017.md](@cattaniDeconstructingOutsiderPuzzle2017.md)
+- **Informed By::** [@kneelandExploringUnchartedTerritory2020.md](@kneelandExploringUnchartedTerritory2020.md)
 
-###### References
-
-[[July 19th, 2021]]
-
-- idea of "sleeping beauty" seems interesting, also as a keyword related to [[[[CLM]] - True creative breakthroughs often take a long time to develop]]
-
-    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fmegacoglab%2Fej012XkYDp.png?alt=media&token=b6ab2014-c55c-4441-a6b6-0f9aeb97bd5b)
-[[@carkettHeDifferentHe2004]]
-
-- cf. [[[[CLM]] - True creative breakthroughs often take a long time to develop]]
-
-    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fmegacoglab%2FbB8wycffbH.png?alt=media&token=1ebc86bf-1b8d-4c55-8139-7f7aee0c1195) (p. 474)
-[[Week of June 20th, 2022]]
-
-- cc [[[[CLM]] - Paths to creative breakthroughs are frequently oblique]]?? or [[[[CLM]] - True creative breakthroughs often take a long time to develop]] and [[long search paths]]
-
-    - reminds me though of example of need for [[synthesis]] / [[[[CLM]] - Scientific fields stall without adequate theoretical synthesis]], over contradictory, partial evidence, to find a better theory; case of scurvy
-[[slipbox]]
-
-- [[[[CLM]] - True creative breakthroughs often take a long time to develop]]
-
-    - [[[[CLM]] - Paths to creative breakthroughs are frequently oblique]]

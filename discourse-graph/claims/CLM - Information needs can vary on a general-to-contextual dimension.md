@@ -37,19 +37,7 @@ date: Thu Mar 05 2020 22:28:12 GMT-0500 (Eastern Standard Time)
 
 ###### Discourse Context
 
-- **Informed By::** [[@robsonBuildingModelsInformation2013]]
-- **Informed By::** [[@taylorQuestionnegotationInformationseekingLibraries1968]]
-- **Informed By::** [[@agarwalExploringContextInformation2017]]
+- **Informed By::** [@robsonBuildingModelsInformation2013.md](@robsonBuildingModelsInformation2013.md)
+- **Informed By::** [@taylorQuestionnegotationInformationseekingLibraries1968.md](@taylorQuestionnegotationInformationseekingLibraries1968.md)
+- **Informed By::** [@agarwalExploringContextInformation2017.md](@agarwalExploringContextInformation2017.md)
 
-###### References
-
-[[Outline for ALISE extended abstract]]
-
-- [[[[CLM]] - Information needs can vary on a general-to-contextual dimension]]
-
-    - [[Z: General vs. contextual knowledge are best stored/communicated in distinct media]]
-[[July 8th, 2021]]
-
-- Info seekers' information needs and paths [may vary contextually]([[[[CLM]] - Information needs can vary on a general-to-contextual dimension]])
-
-    - Instantiate in wiki instead of static document, to allow for nonlinear (yet structured) information journeys

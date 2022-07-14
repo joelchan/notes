@@ -29,13 +29,6 @@ date: Fri Mar 26 2021 12:11:09 GMT-0400 (Eastern Daylight Time)
 
 ###### Discourse Context
 
-- **Informs::** [[QUE - What factors control whether people appropriately benefit from analogies (especially far-field ones) during creative problem solving]]
-- **Informs::** [[QUE - How might domain distance modulate the effects of analogies on creative output]]
+- **Informs::** [QUE - What factors control whether people appropriately benefit from analogies (especially far-field ones) during creative problem solving.md](QUE - What factors control whether people appropriately benefit from analogies (especially far-field ones) during creative problem solving.md)
+- **Informs::** [QUE - How might domain distance modulate the effects of analogies on creative output.md](QUE - How might domain distance modulate the effects of analogies on creative output.md)
 
-###### References
-
-[[QUE - What factors control whether people appropriately benefit from analogies (especially far-field ones) during creative problem solving]]
-
-- [[@catramboneOvercomingContextualLimitations1989]]
-
-    - very similar to [[@gickAnalogicalProblemSolving1980]] and [[@gickSchemaInductionAnalogical1983]] about the large effect of comparison

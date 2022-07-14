@@ -25,4 +25,4 @@ SEMs have strong and growing potential as a high value tool in resource efficien
 
 ###### Discourse Context
 
-- **Informs::** [[CLM - Diversity in epistemology and methodology is critical for scientific progress]]
+- **Informs::** [CLM - Diversity in epistemology and methodology is critical for scientific progress.md](CLM - Diversity in epistemology and methodology is critical for scientific progress.md)

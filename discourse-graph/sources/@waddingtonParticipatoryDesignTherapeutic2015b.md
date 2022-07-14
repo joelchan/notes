@@ -29,36 +29,6 @@ date: Fri May 14 2021 11:27:44 GMT-0400 (Eastern Daylight Time)
 
 ###### Discourse Context
 
-- **Informs::** [[QUE - What tension points exist between the goals of diversity and depth of user participation in participatory design]]
-- **SourceFor::** [[EVD - experts who work with young adults with neurological vision impairments (NVI) do not have com...udge the difficulty of the vision therapy game - @waddingtonParticipatoryDesignTherapeutic2015b]]
+- **Informs::** [QUE - What tension points exist between the goals of diversity and depth of user participation in participatory design.md](QUE - What tension points exist between the goals of diversity and depth of user participation in participatory design.md)
+- **SourceFor::** [EVD - experts who work with young adults with neurological vision impairments (NVI) do not have com...udge the difficulty of the vision therapy game - @waddingtonParticipatoryDesignTherapeutic2015b.md](EVD - experts who work with young adults with neurological vision impairments (NVI) do not have com...udge the difficulty of the vision therapy game - @waddingtonParticipatoryDesignTherapeutic2015b.md)
 
-###### References
-
-[[June 9th, 2021]]
-
-- [[@waddingtonParticipatoryDesignTherapeutic2015b]] for [[[[QUE]] - What tension points exist between the goals of diversity and depth of user participation in participatory design?]] | challenges around disclosure for PD with youths with neurological vision impairments
-
-    - [[Wei-Wei Chi]] read this paper and extracted findings.
-
-    - There were three main findings relevant for us:
-
-        - [[E - young people with neurological vision impairments (NVI) were reluctant to share their difficulties with the vision therapy game for which they had figured out workarounds - @waddingtonParticipatoryDesignTherapeutic2015b]]
-
-        - [[[[EVD]] - experts who work with young adults with neurological vision impairments (NVI) do not have complete subjective experience of vision impairment and misjudge the difficulty of the vision therapy game - [[@waddingtonParticipatoryDesignTherapeutic2015b]]]]
-
-        - [[E - researchers were concerned about exposing vulnerability of Young adults with neurological vision impairments (NVI) during the design sessions - @waddingtonParticipatoryDesignTherapeutic2015b]]
-[[Playground PD diversity tension points]]
-
-- [[EVD]] - experts who work with young adults with neurological vision impairments (NVI) do not have complete subjective experience of vision impairment and misjudge the difficulty of the vision therapy game - [[@waddingtonParticipatoryDesignTherapeutic2015b]]
-
-    - x
-
-        - 1059.4763216952886
-
-    - y
-
-        - 1044.9978113806521
-
-    - color
-
-        - 008b8b

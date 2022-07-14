@@ -38,19 +38,7 @@ date: Thu Aug 12 2021 23:12:45 GMT-0400 (Eastern Daylight Time)
 
 ###### Discourse Context
 
-- **Informs::** [[QUE - Under what conditions do diverse initial examples lead to better final design solutions]]
-- **Informs::** [[QUE - How can we conceptualize diversity in creative knowledge work]]
-- **Informs::** [[THE - interaction-oriented theory of creative inspiration from examples]]
+- **Informs::** [QUE - Under what conditions do diverse initial examples lead to better final design solutions.md](QUE - Under what conditions do diverse initial examples lead to better final design solutions.md)
+- **Informs::** [QUE - How can we conceptualize diversity in creative knowledge work.md](QUE - How can we conceptualize diversity in creative knowledge work.md)
+- **Informs::** [THE - interaction-oriented theory of creative inspiration from examples.md](THE - interaction-oriented theory of creative inspiration from examples.md)
 
-###### References
-
-[[August 12th, 2021]]
-
-- off the top of my head, pao's stuff is relevant: [[@siangliulueCollaborativeIdeationScale2015]]
-
-    - cites [[@nijstadCognitiveStimulationInterference2002]] as support. which reminds me that there's a ton of cites from my diss that we can draw on
-[[THE - interaction-oriented theory of creative inspiration from examples]]
-
-- i don't know of many ~~there aren't a lot of~~ examples of interfaces for (re)contextualizing - requires a model of ideas! trying to get there though! see [[Stephen MacNeil]]'s stuff, for example, or [[@siangliulueCollaborativeIdeationScale2015]]
-
-    - update [[June 30th, 2022]]: there's a pretty good thread of such interfaces in domains with good world models, like visual design; see [here](systems that kind of get at this [contextualizing](((rANFip5zr))) thingy; cc [[Jason Ding]])

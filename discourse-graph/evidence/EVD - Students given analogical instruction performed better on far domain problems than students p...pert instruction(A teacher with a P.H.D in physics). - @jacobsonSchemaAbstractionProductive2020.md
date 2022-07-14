@@ -80,4 +80,4 @@ date: Tue Jan 18 2022 10:46:30 GMT-0500 (Eastern Standard Time)
 
 ###### Discourse Context
 
-- **FromSource::** [[@jacobsonSchemaAbstractionProductive2020]]
+- **FromSource::** [@jacobsonSchemaAbstractionProductive2020.md](@jacobsonSchemaAbstractionProductive2020.md)

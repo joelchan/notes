@@ -43,8 +43,8 @@ date: Tue Oct 05 2021 15:06:34 GMT-0400 (Eastern Daylight Time)
 
 ###### Discourse Context
 
-- **Informs::** [[QUE - Under what conditions do diverse initial examples lead to better final design solutions]]
-- **Informs::** [[QUE - How much variability is there in the effects of diversity of examples on creative design outputs]]
-- **Supports::** [[CLM - people with lower propensity or capacity to explore benefit less from diverse information during ideation]]
-- **Consistent With::** [[EVD - Only small business owners with high divergent thinking ability generated more original ideas with diverse (vs. constrained) stimuli - @gielnikCreativityOpportunityIdentification2011]]
-- **FromSource::** [[@gielnikCreativityOpportunityIdentification2011]]
+- **Informs::** [QUE - Under what conditions do diverse initial examples lead to better final design solutions.md](QUE - Under what conditions do diverse initial examples lead to better final design solutions.md)
+- **Informs::** [QUE - How much variability is there in the effects of diversity of examples on creative design outputs.md](QUE - How much variability is there in the effects of diversity of examples on creative design outputs.md)
+- **Supports::** [CLM - people with lower propensity or capacity to explore benefit less from diverse information during ideation.md](CLM - people with lower propensity or capacity to explore benefit less from diverse information during ideation.md)
+- **Consistent With::** [EVD - Only small business owners with high divergent thinking ability generated more original ideas with diverse (vs. constrained) stimuli - @gielnikCreativityOpportunityIdentification2011.md](EVD - Only small business owners with high divergent thinking ability generated more original ideas with diverse (vs. constrained) stimuli - @gielnikCreativityOpportunityIdentification2011.md)
+- **FromSource::** [@gielnikCreativityOpportunityIdentification2011.md](@gielnikCreativityOpportunityIdentification2011.md)

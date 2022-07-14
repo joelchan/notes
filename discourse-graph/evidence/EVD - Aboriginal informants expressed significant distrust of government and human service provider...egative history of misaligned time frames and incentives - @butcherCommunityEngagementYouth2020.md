@@ -30,21 +30,6 @@ date: Tue Jul 20 2021 15:03:10 GMT-0400 (Eastern Daylight Time)
 
 ###### Discourse Context
 
-- **Informs::** [[QUE - What tension points exist between the goals of diversity and depth of user participation in participatory design]]
-- **FromSource::** [[@butcherCommunityEngagementYouth2020]]
+- **Informs::** [QUE - What tension points exist between the goals of diversity and depth of user participation in participatory design.md](QUE - What tension points exist between the goals of diversity and depth of user participation in participatory design.md)
+- **FromSource::** [@butcherCommunityEngagementYouth2020.md](@butcherCommunityEngagementYouth2020.md)
 
-###### References
-
-[[July 20th, 2021]]
-
-- [[[[EVD]] - Aboriginal informants expressed significant distrust of government and human service providers due to a negative history of misaligned time frames and incentives - [[@butcherCommunityEngagementYouth2020]]]]
-
-    - connects with [extra stakeholders]([[[[CLM]] - Marginalized user populations may require involvement of extra stakeholders who may complicate hearing the users' voices]]) thing, particularly how the interests might not be aligned
-
-    - but also very very reminiscent of what we saw with harrington:
-
-        - [[[[EVD]] - Low-income, African-American older adults were reluctant to share sensitive health information bc of past mistreatment in research studies by the university hospital - [[@harringtonDeconstructingCommunityBasedCollaborative2019]]]]
-
-        - [[[[EVD]] - Black and LatinX codesign participants distrusted researchers from the local university due to perceived abandonment after past research studies - [[@harringtonDeconstructingCommunityBasedCollaborative2019]]]]
-
-    - and also ssozi: [[[[EVD]] - Intermediaries such as local government officials were necessary for accessing and co-designing with marginalized populations, but the intermediaries sometimes spoke for the people in ways that opposed what they really wanted - [[@ssozi-mugaruraSupportingCommunityNeeds2016]]]]

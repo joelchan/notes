@@ -31,12 +31,5 @@ date: Tue Jan 11 2022 10:19:54 GMT-0500 (Eastern Standard Time)
 
 ###### Discourse Context
 
-- **SourceFor::** [[EVD - Analogies are beneficial in learning new material, but it is not a substitute for intellectual ability. - @bakerComplexInstructionalAnalogies2001]]
+- **SourceFor::** [EVD - Analogies are beneficial in learning new material, but it is not a substitute for intellectual ability. - @bakerComplexInstructionalAnalogies2001.md](EVD - Analogies are beneficial in learning new material, but it is not a substitute for intellectual ability. - @bakerComplexInstructionalAnalogies2001.md)
 
-###### References
-
-[[January 21st, 2022]]
-
-- [[@bakerComplexInstructionalAnalogies2001]]
-
-    - [[[[EVD]] - Analogies are beneficial in learning new material, but it is not a substitute for intellectual ability. - [[@bakerComplexInstructionalAnalogies2001]]]] #Informs

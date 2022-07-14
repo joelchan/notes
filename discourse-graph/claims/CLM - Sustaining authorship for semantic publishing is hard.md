@@ -15,24 +15,10 @@ date: Tue Sep 07 2021 14:37:50 GMT-0400 (Eastern Daylight Time)
 
 ###### Discourse Context
 
-- **Informs::** [[QUE - Do scholarly synthesis infrastructures already exist]]
-- **Informed By::** [[@kuhnGenuineSemanticPublishing2017]]
-- **Informed By::** [[@kuhnNanopublicationsGrowingResource2018]]
-- **Informed By::** [[@schrimlCOVID19PandemicReveals2020]]
-- **Informed By::** [[@tsuengApplyingCitizenScience2019]]
-- **Informed By::** [[@gingerThankYouVolunteers2019]]
+- **Informs::** [QUE - Do scholarly synthesis infrastructures already exist.md](QUE - Do scholarly synthesis infrastructures already exist.md)
+- **Informed By::** [@kuhnGenuineSemanticPublishing2017.md](@kuhnGenuineSemanticPublishing2017.md)
+- **Informed By::** [@kuhnNanopublicationsGrowingResource2018.md](@kuhnNanopublicationsGrowingResource2018.md)
+- **Informed By::** [@schrimlCOVID19PandemicReveals2020.md](@schrimlCOVID19PandemicReveals2020.md)
+- **Informed By::** [@tsuengApplyingCitizenScience2019.md](@tsuengApplyingCitizenScience2019.md)
+- **Informed By::** [@gingerThankYouVolunteers2019.md](@gingerThankYouVolunteers2019.md)
 
-###### References
-
-[[outlineDSynthesis Infrastructure - discourse graphs paper]]
-
-- [[[[CLM]] - Sustaining authorship for [[semantic publishing]] is hard]]. Gathering, motivating, training, and sustaining a large enough community of authors is a difficult task that is complicated by the social costs of reaching consensus, and the mismatch between the expertise required to do curation (need to be close to the research, ideally active, to know enough to interpret data into evidence) and the incentives of those experts (get published!).
-
-    - [[@griffithCIViCCommunityKnowledgebase2017]] note in their description of [[sys/CIViC]], which had been running for about 2 years at the time of publication, that sustaining the community is an ongoing challenge, relating to funding and training and recruiting. As of today, the userbase consists of
-[[March 9th, 2022]]
-
-- this 🔥 paper yields evidence for [[[[CLM]] - Sustaining authorship for [[semantic publishing]] is hard]], but also provenance issues: [[@asifDataQualityIssues2019]]
-
-    - Data Quality Issues in Current Nanopublications https://conferences.computer.org/escience/2019/pdfs/eScience2019-5TouQQ0xrJE4hnylaL88mN/5aK85n1EZ589KjpAOlzTqU/2d90hS7VB8wk0QFgSN9SxD.pdf
-
-    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fmegacoglab%2F8oVhbjDPVt.png?alt=media&token=a5a2b733-f0ad-4645-af9b-edfbf5751765)

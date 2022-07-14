@@ -165,53 +165,28 @@ date: Wed Feb 17 2021 13:29:16 GMT-0500 (Eastern Standard Time)
 
     - Relevant projects: [[D/KNEXT]] [[D/Synthesis Infrastructure]] [[D/Computational Analogy]]
 
-###### References
+###### Discourse Context
 
-[[June 10th, 2021]]
+- **Informed By::** [EVD - Local developers evolved into gardener roles to meet perceived demand for disseminating best practices for a software amongst users in an organization - @ganttGardenersGurusPatterns1992.md](EVD - Local developers evolved into gardener roles to meet perceived demand for disseminating best practices for a software amongst users in an organization - @ganttGardenersGurusPatterns1992.md)
+- **Informed By::** [CLM - Knowledge is fundamentally contextual.md](CLM - Knowledge is fundamentally contextual.md)
+- **Informed By::** [@laveSituatedLearningLegitimate1991.md](@laveSituatedLearningLegitimate1991.md)
+- **Informed By::** [@ackermanSharingExpertiseKnowledge2003.md](@ackermanSharingExpertiseKnowledge2003.md)
+- **Informed By::** [@langerWhenPracticeMakes1979.md](@langerWhenPracticeMakes1979.md)
+- **Informed By::** [@ackermanAnswerGardenMerging1996.md](@ackermanAnswerGardenMerging1996.md)
+- **Informed By::** [@eppleEmpiricalInvestigationMicrostructure1996.md](@eppleEmpiricalInvestigationMicrostructure1996.md)
+- **Informed By::** [@ackermanAugmentingOrganizationalMemory1994.md](@ackermanAugmentingOrganizationalMemory1994.md)
+- **Informed By::** [@finkelExpertiseCurseKnowledge2001.md](@finkelExpertiseCurseKnowledge2001.md)
+- **Informed By::** [@bobrowCommunityKnowledgeSharing2002.md](@bobrowCommunityKnowledgeSharing2002.md)
+- **Informed By::** [@singleyTransferCognitiveSkill1989.md](@singleyTransferCognitiveSkill1989.md)
+- **Informed By::** [@ganttGardenersGurusPatterns1992.md](@ganttGardenersGurusPatterns1992.md)
+- **Informed By::** [@orrTalkingMachinesEthnography1996.md](@orrTalkingMachinesEthnography1996.md)
+- **Informed By::** [@argoteLearningCurvesManufacturing1990.md](@argoteLearningCurvesManufacturing1990.md)
+- **Informed By::** [@ackermanDefinitionalContextualIssues1996.md](@ackermanDefinitionalContextualIssues1996.md)
+- **Informed By::** [@hindsLayingGroundworkRole2001.md](@hindsLayingGroundworkRole2001.md)
+- **Informed By::** [@hindsBotheredAbstractionEffect2001.md](@hindsBotheredAbstractionEffect2001.md)
+- **Informed By::** [@darrAcquisitionTransferDepreciation1995.md](@darrAcquisitionTransferDepreciation1995.md)
+- **Informed By::** [@adelsonWhenNovicesSurpass1984.md](@adelsonWhenNovicesSurpass1984.md)
+- **Informed By::** [@camererCurseKnowledgeEconomic1989.md](@camererCurseKnowledgeEconomic1989.md)
+- **Informed By::** [@hindsCurseExpertiseEffects1999.md](@hindsCurseExpertiseEffects1999.md)
+- **Informed By::** [@gitomerIndividualDifferencesTechnical1988.md](@gitomerIndividualDifferencesTechnical1988.md)
 
-- [[@ganttGardenersGurusPatterns1992]] for [[[[QUE]] - Under what conditions is it possible to transfer expertise from one person to another?]] | end users evolved into gardener roles to meet perceived demand for transferring best practices amongst user base in an organization
-
-    - semi-structured interviews with 24 informants (21 users and 3 managers) who use the CAD system HP ME30 in the general fields of architecture, mechanical engineering, electrical engineering, and industrial design, across seveon companies of varying sizes. All informants had used the CAD system for at least five years.
-
-        - Fictitious profiles of the informants:
-
-            - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fmegacoglab%2FQ7Jsq0CmEF.png?alt=media&token=c965fdac-8d7b-4dfd-bd92-83e8fb62c3a0) (p. 109)
-
-            - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fmegacoglab%2FtUdKCOJkYp.png?alt=media&token=34f3babf-166f-42ff-a9e4-d8399765d5c4) (p. 110)
-
-    - The most interesting finding for us is the evolution of the local developer role into a function of doing low-level technical work and support (e.g., writing macros, tech support, troubleshooting) in the patterns of cooperation among CAD users. [[[[EVD]] - Local developers evolved into "gardener" roles to meet perceived demand for disseminating best practices for a software amongst users in an organization - [[@ganttGardenersGurusPatterns1992]]]] #Informs
-
-    - discussing with [[Wei-Wei Chi]]
-[[NowReading]]
-
-- [[@ackermanAnswerGardenMerging1996]] for [[[[QUE]] - Under what conditions is it possible to transfer expertise from one person to another?]] | technical design patterns for gracefully escalating from local-first experts to broader organizational-level experts, as well anonymity mechanisms (no evidence notes, but trails to past ones)
-
-    - [[Joel Chan]] discussing with [[Wei-Wei Chi]]
-
-    - key learnings from the first two field studies of [[sys/Answer Garden]] are super releveant: we [should read]([[➰ breadcrumbs]]). that's where the evidence is. but the claim basically is that [context is necessary to make information useful]([[[[CLM]] - Knowledge must be recontextualized to be usefully reused]]), and often it's best to get that context from a person. this is the major motivation for maknig the answer garden not just a repo, but also a help-seeking platform
-
-        - something intersting to keep in mind when we read those papers, is to consider how their users compare to ours. interesting obseration cited here is that in many cases people did *not* need context.
-
-            - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fmegacoglab%2FfXtvGYngHR.png?alt=media&token=a9412eb8-cba5-4f54-922a-47d8f107124e) (p. 98)
-
-            - these are the papers:
-
-                - [[@ackermanAugmentingOrganizationalMemory1994]]
-
-                - [[@ackermanDefinitionalContextualIssues1996]]
-
-    - (Design that might be useful for our KNEXT implementation)
-
-        - Dropdown list of follow up questions might be useful (extend the depth of the tree by one or two level) (Answer Garden 1.0)
-
-            - ![](https://lh6.googleusercontent.com/vhfQthjsTCfvDeoMk19n8Zc1ZgpbmG0A5GNya1YEQD-fHOQbAKNWLAlKynE-H2btup6uX7nZeVtMqd870p9JUpm7x5RCuHTSgWy8vkI-B-Hlxhmp5wRQDEDHf2Yw_Fw6XbmZvumD)
-
-        - Anonymous features both way
-
-            - ![](https://lh3.googleusercontent.com/7UEkKQLfjhTTecD4D56vK10rzO-Q1MP6TTQaRJCYoMUS9OOvw00jTIjNBfwJjmz9OTET702IWOuDzuzGFvo4wQdURBGmyNSGDBXFJRwooIeHuLbYawHNA_sgU4kN5JkC8J6teUSi)
-
-        - Two possible escalations for a question (Things to think about, [Mediawiki Chat](https://www.mediawiki.org/wiki/Extension:MediaWikiChat))
-
-            - ![](https://lh3.googleusercontent.com/2qRI239UMhUEnHi2GUetiZfbMXxDOjFsCsVx72A8Ok8qIvSE2nqYgJu-lMk61iRuiei_12ml1XTfo07XmpqHny-VRH4FVec_GOmyBSiQxjxgMQohpcDwJbxKLal3q_oTDFYmrRYZ)
-
-            - this was the key innovation over the original [[sys/Answer Garden]]

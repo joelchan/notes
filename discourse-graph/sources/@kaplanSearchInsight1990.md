@@ -131,83 +131,9 @@ date: Thu Feb 27 2020 15:43:41 GMT-0500 (Eastern Standard Time)
 
 ###### Discourse Context
 
-- **Informs::** [[CLM - Effective problem formulation is-necessary-for creative knowledge work]]
-- **Informs::** [[QUE - How do people effectively (re)formulate creative problems]]
-- **Informs::** [[THE - interaction-oriented theory of creative inspiration from examples]]
-- **SourceFor::** [[EVD - Representing a mutilated checkerboard in a way that made perceptual features of squares more salient facilitated problem reformulation and insight - @kaplanSearchInsight1990]]
-- **SourceFor::** [[EVD - after noticing a key element of a problem representation for the mutilated checkerboard probl...heckerboard), solutions to the problem came almost immediately after - @kaplanSearchInsight1990]]
+- **Informs::** [CLM - Effective problem formulation is-necessary-for creative knowledge work.md](CLM - Effective problem formulation is-necessary-for creative knowledge work.md)
+- **Informs::** [QUE - How do people effectively (re)formulate creative problems.md](QUE - How do people effectively (re)formulate creative problems.md)
+- **Informs::** [THE - interaction-oriented theory of creative inspiration from examples.md](THE - interaction-oriented theory of creative inspiration from examples.md)
+- **SourceFor::** [EVD - Representing a mutilated checkerboard in a way that made perceptual features of squares more salient facilitated problem reformulation and insight - @kaplanSearchInsight1990.md](EVD - Representing a mutilated checkerboard in a way that made perceptual features of squares more salient facilitated problem reformulation and insight - @kaplanSearchInsight1990.md)
+- **SourceFor::** [EVD - after noticing a key element of a problem representation for the mutilated checkerboard probl...heckerboard), solutions to the problem came almost immediately after - @kaplanSearchInsight1990.md](EVD - after noticing a key element of a problem representation for the mutilated checkerboard probl...heckerboard), solutions to the problem came almost immediately after - @kaplanSearchInsight1990.md)
 
-###### References
-
-[[February 2nd, 2022]]
-
-- Reading [[@kaplanSearchInsight1990]]. #[[➰ breadcrumbs]] for future self
-
-    - follow up on
-
-        - the old insight problem solving stuff: they make a key connection back to [[@maierReasoningHumansII1931]]'s two-string problem, and how the accidental brushing of the string by an experimenter could trigger the requisite reformulation of the problem. i think it's an example in the sense of being a concrete (albeit) partial instantiation of a move
-
-        - downward high-signal cites from kaplan
-
-            - supported by
-
-                - [[@ollingerDynamicsSearchImpasse2014]] hints and representation difficulty int he nine-dot problem
-
-                    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fmegacoglab%2FP2Rvz_PYM6.png?alt=media&token=b6a02ed7-6d55-4828-99df-d99af808cf39)
-
-                    - supported by
-
-                        - [[@ollingerInsightSearchKatona2014]] hints and represntation difficulty in the five-square problem
-
-                            - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fmegacoglab%2F21yDFdi86H.png?alt=media&token=749b9a60-6154-4419-8e73-02c6ca1c667e)
-
-                        - [[@spiridonovRoleMotorActivity2019]] somethign about reprsentation of nine-dot problem causing difficulty, but also some cool stuff in an [[embodied cognition]] vein about motor activiy facilitating insight
-
-                            - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fmegacoglab%2FrXpvUmUhEq.png?alt=media&token=4afa3968-76e6-4125-8dee-85303341ed42)
-
-                - [[@zamaniObjectEncodingGoal2000]]
-
-                    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fmegacoglab%2FE95P2tjA6U.png?alt=media&token=7735d260-d36a-49a6-8367-b5147517ddef)
-
-        - {{[[DONE]]}} finish up kaplan. there's really neat stuff in the protocol analysis on the noticing invariants heuristic, which kind of gets at our theory's purpose: some folks were just better at noticing parity, but changing the problem representation physically helped move people along who might not have gottent here by themselves
-
-            - touchstone is [figure 6](Figure 6
-![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fmegacoglab%2F_O11j2AgQ7.png?alt=media&token=fbbd7522-7d47-480b-8ce4-89a95775956e) (p. 408))
-
-    - what i'm thinking about the theory rn
-
-        - this part of the theory is the least empirically clean
-
-            - i wonder if this is because... a lot of this stuff happens over long time scales, and isn't easy to study in an experiment
-
-            - this might explain why i'm more likely to notice this in an expensive protocol study, or interviews or ethnographies
-
-        - there's also the connection to the [[co-evolution of problem and solution space]] and [[Reflection-in-Action]] stuff that is... sort of non-obvious on first consideration, but upon deeper refelction actually suggests a sensible and insightful connection
-
-            - this lit is all about how desigenrs reflect on *their own* moves.
-
-            - but if their moves are concrete, and examples are concrete, then it stands to reason that simlar mechanisms may be at play
-
-            - i mean, the reformulation that the insight problem solving folks observe in their various problems resemble this idea of "i make a move, i notice something else new about the problem and hcange it somehow"
-
-        - but this alos feels really rich, like ther's something interesting and new here, beyond your "basic" conceptual combination - this isn't legos or even blending/cooking, it's.. something more.
-
-            - and you're also constrained in what kinds of moves you can generate.
-
-            - but being able to analyze the examples and moves of others, and juxtapose against your own problem, and sort of play out what that does to your problem space, that... feels like it could be really powerful and scalable (sort of like simulations!), and i suspect that is in fact what many top-level designers are doing, albeit in a variety of ways, some just in their heads
-
-            - the reason i feel this is significant, is.. moves are expensive. your own moves. it's rate-limiting.
-
-            - there's a question of whether this reformulation stuff is best triggered by abstract heuristics and principles, and. ..i don't think it's the case. i think there's eomthign about mapping between and attending to concrete cues that is really helpful and facilitates actual transf.er ther'es context in there.
-[[Mutilated Checkerboard problem]]
-
-- example in [[@kaplanSearchInsight1990]]
-
-    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fmegacoglab%2Fp9OrPI6fyB.png?alt=media&token=be87174f-1730-48cd-9ab1-d3bff2388062) (p. 378)
-[[October 19th, 2021]]
-
-- One interesting result on this: [[[[EVD]] - Representing a mutilated checkerboard in a way that made perceptual features of squares more salient facilitated problem reformulation and insight - [[@kaplanSearchInsight1990]]]]
-
-    - This suggests that modifying the capacity to make comparisons can have an important impact on model-building/modification, which can have an impact on insight (to the extent that insight is necessary)
-
-        - This means we need to make sure there are multiple local optima in the space: i.e., that the problem space is one where diverse examples should help

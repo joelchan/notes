@@ -24,6 +24,6 @@ date: Tue Sep 07 2021 17:14:24 GMT-0400 (Eastern Daylight Time)
 
 ###### Discourse Context
 
-- **Informs::** [[QUE - What (existing) systems facilitate individual synthesis]]
-- **Supports::** [[CLM - Scientists read strategically, not linearly]]
-- **FromSource::** [[@ribaupierreExtractingDiscourseElements2017]]
+- **Informs::** [QUE - What (existing) systems facilitate individual synthesis.md](QUE - What (existing) systems facilitate individual synthesis.md)
+- **Supports::** [CLM - Scientists read strategically, not linearly.md](CLM - Scientists read strategically, not linearly.md)
+- **FromSource::** [@ribaupierreExtractingDiscourseElements2017.md](@ribaupierreExtractingDiscourseElements2017.md)

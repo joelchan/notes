@@ -33,12 +33,5 @@ date: Sun Jul 12 2020 22:09:23 GMT-0400 (Eastern Daylight Time)
 
 ###### Discourse Context
 
-- **Informs::** [[QUE - How can we best bridge private vs. public knowledge]]
+- **Informs::** [QUE - How can we best bridge private vs. public knowledge.md](QUE - How can we best bridge private vs. public knowledge.md)
 
-###### References
-
-[[July 12th, 2020]]
-
-- really great summary of what [[@harawaySituatedKnowledgesScience1988]] says about how [[context]] really really matters (and what that means) when evaluating and interpreting knowledge claims [[@harrisonMakingEpistemologicalTrouble2011]]
-
-    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fmegacoglab%2FUMEyGlsYop.png?alt=media&token=6d4ce0df-ed3f-4b47-9243-454d2831bb91)

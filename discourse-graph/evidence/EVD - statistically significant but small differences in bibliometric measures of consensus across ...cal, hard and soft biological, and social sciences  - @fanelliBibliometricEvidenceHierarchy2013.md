@@ -34,6 +34,6 @@ date: Fri Sep 17 2021 14:01:24 GMT-0400 (Eastern Daylight Time)
 
 ###### Discourse Context
 
-- **Informs::** [[QUE - (How) do fields of innovation vary in their legibility of quality]]
-- **Supports::** [[CLM - Scientific fields vary substantially in terms of ease of consensus on judging what constitutes a valuable new contribution]]
-- **FromSource::** [[@fanelliBibliometricEvidenceHierarchy2013]]
+- **Informs::** [QUE - (How) do fields of innovation vary in their legibility of quality.md](QUE - (How) do fields of innovation vary in their legibility of quality.md)
+- **Supports::** [CLM - Scientific fields vary substantially in terms of ease of consensus on judging what constitutes a valuable new contribution.md](CLM - Scientific fields vary substantially in terms of ease of consensus on judging what constitutes a valuable new contribution.md)
+- **FromSource::** [@fanelliBibliometricEvidenceHierarchy2013.md](@fanelliBibliometricEvidenceHierarchy2013.md)

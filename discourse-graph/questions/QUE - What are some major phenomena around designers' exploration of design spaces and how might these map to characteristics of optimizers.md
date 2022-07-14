@@ -185,90 +185,34 @@ date: Wed Aug 19 2020 10:34:39 GMT-0400 (Eastern Daylight Time)
 
             - Studies of insight and creative ideation
 
-###### References
+###### Discourse Context
 
-[[June 18th, 2020]]
+- **Informed By::** [EVD - Undergrads' drawings of imaginary animals frequently included typical features from earth animals, with occasional deviations - @wardStructuredImaginationRole1994.md](EVD - Undergrads' drawings of imaginary animals frequently included typical features from earth animals, with occasional deviations - @wardStructuredImaginationRole1994.md)
+- **Informed By::** [CLM - Compression is necessary for synthesis.md](CLM - Compression is necessary for synthesis.md)
+- **Informed By::** [CLM - Design proceeds by co-evolution of problem and solution space.md](CLM - Design proceeds by co-evolution of problem and solution space.md)
+- **Informed By::** [CLM - Expert designers are solution-oriented.md](CLM - Expert designers are solution-oriented.md)
+- **Informed By::** [@ballCognitiveProcessesEngineering1994.md](@ballCognitiveProcessesEngineering1994.md)
+- **Informed By::** [@carsonDecreasedLatentInhibition2003.md](@carsonDecreasedLatentInhibition2003.md)
+- **Informed By::** [@simontonCreativeProcessPicasso2007.md](@simontonCreativeProcessPicasso2007.md)
+- **Informed By::** [@ballProblemsolvingStrategiesExpertise1997.md](@ballProblemsolvingStrategiesExpertise1997.md)
+- **Informed By::** [@campbellBlindVariationSelective1960.md](@campbellBlindVariationSelective1960.md)
+- **Informed By::** [@cowanMagicalNumberShortterm2000.md](@cowanMagicalNumberShortterm2000.md)
+- **Informed By::** [@rittelDilemmasGeneralTheory1973.md](@rittelDilemmasGeneralTheory1973.md)
+- **Informed By::** [@schonReflectivePractitionerHow1983.md](@schonReflectivePractitionerHow1983.md)
+- **Informed By::** [@gruberDarwinManPsychological1974.md](@gruberDarwinManPsychological1974.md)
+- **Informed By::** [@howardDescribingCreativeDesign2008.md](@howardDescribingCreativeDesign2008.md)
+- **Informed By::** [@simonStructureIllStructured1973.md](@simonStructureIllStructured1973.md)
+- **Informed By::** [@suttonBrainstormingGroupsContext1996.md](@suttonBrainstormingGroupsContext1996.md)
+- **Informed By::** [@fingerReviewResearchMechanical1989.md](@fingerReviewResearchMechanical1989.md)
+- **Informed By::** [@daviesCharacterizingProgramDesign1991.md](@daviesCharacterizingProgramDesign1991.md)
+- **Informed By::** [@wardStructuredImaginationRole1994.md](@wardStructuredImaginationRole1994.md)
+- **Informed By::** [@finkeCreativeCognitionTheory1996.md](@finkeCreativeCognitionTheory1996.md)
+- **Informed By::** [@nijstadHowGroupAffects2006.md](@nijstadHowGroupAffects2006.md)
+- **Informed By::** [@jaroszUncorkingMuseAlcohol2012.md](@jaroszUncorkingMuseAlcohol2012.md)
+- **Informed By::** [@sosaAccretionTheoryIdeation2019.md](@sosaAccretionTheoryIdeation2019.md)
+- **Informed By::** [@reedStructureIllStructuredWellStructured2015.md](@reedStructureIllStructuredWellStructured2015.md)
+- **Informed By::** [@simontonCreativityDiscoveryBlind2011a.md](@simontonCreativityDiscoveryBlind2011a.md)
+- **Informed By::** [@yilmazCreativityDesignHeuristics2011.md](@yilmazCreativityDesignHeuristics2011.md)
+- **Informed By::** [@maherCoevolutionComputationalCognitive2003.md](@maherCoevolutionComputationalCognitive2003.md)
+- **Informed By::** [@martindaleCreativityConnectionism1997.md](@martindaleCreativityConnectionism1997.md)
 
-- In response to query by [[Matt Erhart]] on Slack about [[D/Solution-Diversity]] (cc [[[[QUE]] - What are some major phenomena around designers' exploration of design spaces and how might these map to characteristics of optimizers?]])
-
-    - query "expert design" also a very rich one in my library
-
-        - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fmegacoglab%2FhacKKaDVgx.png?alt=media&token=e4c66374-625a-400a-8436-382f8ca59a79)
-
-    - [[Joel Chan]]: way late, but yes, there's a fair amount of work on this. what comes to mind immediately is this stuff looking at breadth-first vs. depth-first (or combo) strategies for experts vs. novices. although apparently it's not super relevant, since i wrote a note on this paper "i think breadth vs depth here has to do with the sequence in which *goals* (requirements, subgoals) are tackled, and doesn't really say anything about the breadth/depth of search among alternatives *within* certain solution spaces (e.g., for subgoal 2, or combination of 8 and 9 in figure c). From a cognitive perspective, the question of top-down development vs opportunism seems to be more of a question about cognitive control rather than search *patterns* among solution alternatives)"
-
-        - [[@ballProblemsolvingStrategiesExpertise1997]]
-
-    - there's also some interesting work on the differences between a "designer" approach vs. a "scientist" approach to problems, with the former more likely to try to jump into a particular solution sooner.
-
-        - [[@crossExpertiseDesignOverview2004]]
-
-    - Matt: I was just realizing that there's probably been a lot of work on how designers currently explore design spaces. What are the main factors that kind of research has looked at? I can only think of parallel prototyping: designers/humans struggle with sunk cost, so force them to branch out early. And early convergence: ideators typically don't explore enough [unknown citation].
-[[🌱🌾 Research Garden]]
-
-- [[[[QUE]] - What are some major phenomena around designers' exploration of design spaces and how might these map to characteristics of optimizers?]]
-
-    - [[[[CLM]] - Design proceeds by co-evolution of problem and solution space]]
-[[March 11th, 2022]]
-
-- [[[[QUE]] - What are some major phenomena around designers' exploration of design spaces and how might these map to characteristics of optimizers?]]
-
-    - Solution space
-
-        - [[@siangliulueIdeaHoundImprovingLargescale2016]]
-
-        - [[@xuIdeateRelateExamplesGallery2021]]
-
-        - many designers have adopted a practice where they explore prior examples throughout the process: [[@herringGettingInspiredUnderstanding2009]], [[@kulkarniEarlyRepeatedExposure2012]]
-
-        - Ideas by others can create fixation effects on designers [[@leahyDesignFixationInitial2020]]
-
-        - [[@chanBestDesignIdeas2015]]
-
-        - Researchers have explored the possibility of modeling and illustrating the conceptual distance between ideas to help designers compare and assess novelty: Crowdsourcing inspiration: Using crowd generated inspirational stimuli to support designer ideation; The cognitive neuroscience of creativity
-
-        - [[@changRecipeScapeInteractiveTool2018]]
-
-    - Problem space
-
-        - [[@macneilProbMapAutomaticallyConstructing2021]]
-[[August 21st, 2020]]
-
-- Example: [[[[QUE]] - What are some major phenomena around designers' exploration of design spaces and how might these map to characteristics of optimizers?]] (ongoing)
-
-    - Can show how to get stuff into Roam
-[[@changRecipeScapeInteractiveTool2018]]
-
-- [[Jason Ding]] for [[[[QUE]] - What are some major phenomena around designers' exploration of design spaces and how might these map to characteristics of optimizers?]] | __<summary of what was learned in this session (fill this out later)>__
-
-    - ## results of interest and discussion
-
-        - __One block for each result of interest. we'll refactor this together into EVD notes__
-
-            - __also discuss possible critiques/claims. create source CLM notes for author conclusions (if you like), or reference other CLMs that we have that engage with this__
-
-            - ### summary
-
-                - A scatterplot-like visualization (RecipeMap) is more helpful for initial (novel) exploration than in-depth histograms (RecipeStat).
-
-                    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fmegacoglab%2FwRMqb9CG-2.png?alt=media&token=e83c6500-05bf-4b88-abd5-c9f0f0cedd69) page 9
-
-                    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fmegacoglab%2FDgQA0v8w17.png?alt=media&token=5eee8f29-cc51-4998-832e-657a99a0eaee)
-
-                - Examples might help stimulate and reinterpret/repurpose (?)
-
-                    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fmegacoglab%2FIgwcJrQfGY.png?alt=media&token=0abc46d6-da16-46e4-812d-13f47c139920)
-
-                    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fmegacoglab%2FffGoC0mSFp.png?alt=media&token=cb9e300f-ea89-49bd-ab9e-878476a89adc)
-
-            - ### grounding context
-
-                - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fmegacoglab%2F4xTHJc0gd_.png?alt=media&token=7f338e3b-43c7-4df7-8d2a-200b8dc7dca3) page 8
-
-                - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fmegacoglab%2FI7t4RoWOkN.png?alt=media&token=e92191d0-ee9d-4fe1-a396-5fdafde1429a) page 9
-
-        - __Also can discuss meta-results (combinations of results) in a similar template.____
-
-    - ## side notes
-
-        - __Where are the authors coming from? Are there any useful "breadcrumbs" (e.g., other theoretical frameworks, authors, papers) we can follow up on?__

@@ -29,4 +29,4 @@ date: Fri May 22 2020 15:40:59 GMT-0400 (Eastern Daylight Time)
 
 ###### Discourse Context
 
-- **Informs::** [[QUE - Do scholarly synthesis infrastructures already exist]]
+- **Informs::** [QUE - Do scholarly synthesis infrastructures already exist.md](QUE - Do scholarly synthesis infrastructures already exist.md)

@@ -26,17 +26,6 @@ date: Tue Mar 03 2020 13:55:00 GMT-0500 (Eastern Standard Time)
 
 ###### Discourse Context
 
-- **Informs::** [[CLM - Where possible, design systems, not tools]]
-- **Informs::** [[QUE - How can we best bridge private vs. public knowledge]]
+- **Informs::** [CLM - Where possible, design systems, not tools.md](CLM - Where possible, design systems, not tools.md)
+- **Informs::** [QUE - How can we best bridge private vs. public knowledge.md](QUE - How can we best bridge private vs. public knowledge.md)
 
-###### References
-
-[[March 3rd, 2020]]
-
-- Finally tracked down the primary source of the famous Feymnan quote about howFor [[Richard Feynman]], his notes in his notebook *is* the work, not just a record of the work [[@americaninstituteofphysicsInterviewRichardFeyman2015]]
-
-    - Relevant for #[[D/Synthesis Infrastructure]], as a foundational assumption that at least some of this stuff needs to be external, even though there is a sense that substantial portions of knowledge (e.g., [[tacit knowledge]]) that are hard or maybe impossible to externalize outside of someone's head or context, in explicit language.
-
-    - h/t @secretGeek [on Twitter](https://twitter.com/secretGeek/status/1149829685599064064)
-
-    - Also related to the classic paper on [[R: iversonNotationToolThought1980]]

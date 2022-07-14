@@ -29,22 +29,5 @@ date: Wed Feb 17 2021 13:21:12 GMT-0500 (Eastern Standard Time)
 
 ###### Discourse Context
 
-- **Informs::** [[QUE - Under what conditions is it possible to transfer expertise from one person to another]]
+- **Informs::** [QUE - Under what conditions is it possible to transfer expertise from one person to another.md](QUE - Under what conditions is it possible to transfer expertise from one person to another.md)
 
-###### References
-
-[[QUE - Under what conditions is it possible to transfer expertise from one person to another]]
-
-- [[@hindsCurseExpertiseEffects1999]]
-
-    - Expert often underestimate novice performance times. (They think novice perform faster than they do)
-
-    - Expert have difficulty recalling their ability when they were novice. (They have difficulty recalling how little they knew as novice)
-
-    - They attempt to anchor their previous performance and other performance based on their current expert performance. They would adjust down from this anchor to predict novices.
-
-    - Because of inaccurate memories of their own novice performance, they often overestimate their ability as novice.
-
-    - Availability bias and Anchoring
-
-    - Case Study/Experiment

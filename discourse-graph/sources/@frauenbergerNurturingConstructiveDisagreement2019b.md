@@ -29,47 +29,8 @@ date: Fri May 14 2021 11:27:44 GMT-0400 (Eastern Daylight Time)
 
 ###### Discourse Context
 
-- **SourceFor::** [[EVD - design sessions with neurodiverse children sometimes led to intense conflicts that led to children disengaging @frauenbergerNurturingConstructiveDisagreement2019b]]
-- **SourceFor::** [[EVD - Children can still participate in design workshop even if they resist some elements, resisting is a form of participation @frauenbergerNurturingConstructiveDisagreement2019b]]
-- **SourceFor::** [[EVD - conflict among children in the design process led to mixed or collaborative designs to meet both children's wants @frauenbergerNurturingConstructiveDisagreement2019b]]
-- **SourceFor::** [[EVD - Conflict arose between researchers' desires for more free play and neurodiverse children's de...sign inputs without removing the conflict - @frauenbergerNurturingConstructiveDisagreement2019b]]
+- **SourceFor::** [EVD - design sessions with neurodiverse children sometimes led to intense conflicts that led to children disengaging @frauenbergerNurturingConstructiveDisagreement2019b.md](EVD - design sessions with neurodiverse children sometimes led to intense conflicts that led to children disengaging @frauenbergerNurturingConstructiveDisagreement2019b.md)
+- **SourceFor::** [EVD - Children can still participate in design workshop even if they resist some elements, resisting is a form of participation @frauenbergerNurturingConstructiveDisagreement2019b.md](EVD - Children can still participate in design workshop even if they resist some elements, resisting is a form of participation @frauenbergerNurturingConstructiveDisagreement2019b.md)
+- **SourceFor::** [EVD - conflict among children in the design process led to mixed or collaborative designs to meet both children's wants @frauenbergerNurturingConstructiveDisagreement2019b.md](EVD - conflict among children in the design process led to mixed or collaborative designs to meet both children's wants @frauenbergerNurturingConstructiveDisagreement2019b.md)
+- **SourceFor::** [EVD - Conflict arose between researchers' desires for more free play and neurodiverse children's de...sign inputs without removing the conflict - @frauenbergerNurturingConstructiveDisagreement2019b.md](EVD - Conflict arose between researchers' desires for more free play and neurodiverse children's de...sign inputs without removing the conflict - @frauenbergerNurturingConstructiveDisagreement2019b.md)
 
-###### References
-
-[[June 26th, 2021]]
-
-- [[@frauenbergerNurturingConstructiveDisagreement2019b]] for [[[[QUE]] - What tension points exist between the goals of diversity and depth of user participation in participatory design?]] | intense conflicts when working with neurodiverse children, and strategies of agonistic PD that seemed to be able to handle it well
-
-    - Original notes here: https://www.notion.so/Nurturing-constructive-disagreement-agonistic-design-with-neurodiverse-children-f58c73ec047a4c0580a1e3a87ca1c6f4
-
-    - key idea of [[Agonistic Participatory Design]]
-
-        - rooted in trying to navigate and negotiate power dynamics
-
-            - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fmegacoglab%2FbLb7DYWii3.png?alt=media&token=ad215d7e-8707-4457-8f71-6eaa0a69f6e9) (p. 3)
-
-    - There is a key idea of conflicts being particularly in danger of being very unproductive (leading to children disengaging) with this particular population
-
-        - and some ways of dealing with it
-
-            - mixing ideas
-
-            - familiar objects (vs. using researchers' materials)
-
-                - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fmegacoglab%2FAEvoS6sG-5.png?alt=media&token=155ed074-1b98-49a4-b97e-c57764988e48) (p. 7)
-
-            - an [[Agonistic Participatory Design]] approach (robust enough to get value even under situations where the conflict seemed especially unproductive)
-
-    - but not all can be dealt with
-
-        - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fmegacoglab%2FhtHPyZOgMn.png?alt=media&token=7f6ef17b-9360-4253-84f1-e3e0dba7d4ad) (p. 7)
-
-        - [[Elizabeth Bonsignore]] sometimes just get them to write in their journal (don't get a lot of design out of them)
-
-    - [[Sarah Dipasquale]] summarizing discussion from [[June 22nd, 2021]] with [[Salma Elsayed-Ali]], [[Joel Chan]], and [[Elizabeth Bonsignore]]
-
-    - [[[[EVD]] - design sessions with neurodiverse children sometimes led to intense conflicts that led to children disengaging [[@frauenbergerNurturingConstructiveDisagreement2019b]]]]
-
-    - [[[[EVD]] - conflict among children in the design process led to "mixed" or collaborative designs to meet both children's wants [[@frauenbergerNurturingConstructiveDisagreement2019b]]]]
-
-    - [[[[EVD]] - Conflict arose between researchers' desires for more free play and neurodiverse children's desires for more specific and clear-cut competitive games. A platform that allowed for both at the same time helped generate valuable design inputs without removing the conflict - [[@frauenbergerNurturingConstructiveDisagreement2019b]]]]

@@ -31,18 +31,7 @@ date: Sat Jun 06 2020 15:15:45 GMT-0400 (Eastern Daylight Time)
 
 ###### Discourse Context
 
-- **Informed By::** [[@edwardsIntroductionAgendaInfrastructure2009]]
-- **Informed By::** [[@edwardsUnderstandingInfrastructureDynamics2007]]
-- **Informed By::** [[@starStepsEcologyInfrastructure1996]]
+- **Informed By::** [@edwardsIntroductionAgendaInfrastructure2009.md](@edwardsIntroductionAgendaInfrastructure2009.md)
+- **Informed By::** [@edwardsUnderstandingInfrastructureDynamics2007.md](@edwardsUnderstandingInfrastructureDynamics2007.md)
+- **Informed By::** [@starStepsEcologyInfrastructure1996.md](@starStepsEcologyInfrastructure1996.md)
 
-###### References
-
-[[@edwardsUnderstandingInfrastructureDynamics2007]]
-
-- [[[[PTN]] - Prefer to grow rather than "build / design" new infrastructures a priori]]
-
-    - "Speaking of cyberinfrastructure as a machine to be built or a technical system to be designed tends to downplay the importance of social, institutional, organizational, legal, cultural, and other non-technical problems developers always face...Hence this report turns away from a language of design and engineering, reframing the discussion in a more organic lexicon." (p. 7)
-
-        - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fmegacoglab%2FigGulc_cco.png?alt=media&token=cd7b9850-58a9-4d00-a3a6-0773d9642985)
-
-    - "Since infrastructures are incremental and modular, they are always constructed in many places (the local), combined and recombined (the modular), and they take on new meaning in both different times and spaces (the contextual). Better, then, to deploy a vocabulary of "growing", "fostering", or "encouraging" in the evolutionary sense when analyzing cyberinfrastructure." (p. 7)

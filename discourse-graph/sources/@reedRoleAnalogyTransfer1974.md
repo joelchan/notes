@@ -121,53 +121,7 @@ date: Tue Mar 09 2021 23:11:14 GMT-0500 (Eastern Standard Time)
 
 ###### Discourse Context
 
-- **Informs::** [[QUE - What factors control whether people appropriately benefit from analogies (especially far-field ones) during creative problem solving]]
-- **SourceFor::** [[EVD - No analogical transfer amongst undergraduates between insight problems without hints about analogical mapping - @reedRoleAnalogyTransfer1974]]
-- **SourceFor::** [[EVD - Limited increases in transfer between analogous insight problems when explicit hint (mapping + solution) was given - @reedRoleAnalogyTransfer1974]]
+- **Informs::** [QUE - What factors control whether people appropriately benefit from analogies (especially far-field ones) during creative problem solving.md](QUE - What factors control whether people appropriately benefit from analogies (especially far-field ones) during creative problem solving.md)
+- **SourceFor::** [EVD - No analogical transfer amongst undergraduates between insight problems without hints about analogical mapping - @reedRoleAnalogyTransfer1974.md](EVD - No analogical transfer amongst undergraduates between insight problems without hints about analogical mapping - @reedRoleAnalogyTransfer1974.md)
+- **SourceFor::** [EVD - Limited increases in transfer between analogous insight problems when explicit hint (mapping + solution) was given - @reedRoleAnalogyTransfer1974.md](EVD - Limited increases in transfer between analogous insight problems when explicit hint (mapping + solution) was given - @reedRoleAnalogyTransfer1974.md)
 
-###### References
-
-[[NowReading]]
-
-- [[@reedRoleAnalogyTransfer1974]] for [[[[QUE]] - What factors control whether people appropriately benefit from analogies (especially far-field ones) during creative problem solving?]] ((one parent bullet per focal question/synthesis note))
-
-    - [[[[CLM]] - People are more likely to benefit from analogies if they encounter/process them with an active goal or license to use them for inspiration]]
-
-        - [[SupportedBy]]
-
-            - [[[[EVD]] - Limited increases in transfer between analogous insight problems when explicit hint (mapping + solution) was given - [[@reedRoleAnalogyTransfer1974]]]]
-
-            - [[[[EVD]] - No analogical transfer amongst undergraduates between insight problems without hints about analogical mapping - [[@reedRoleAnalogyTransfer1974]]]]
-
-    - ➰ breadcrumbs
-
-        - This finding has been [supported](https://scite.ai/reports/the-role-of-analogy-in-YJv603?page=1&supporting=false&utm_campaign=badge_generic&utm_medium=plugin&utm_source=generic) by other papers, a number of which also note correspondence to results from [[@gickAnalogicalProblemSolving1980]]
-
-            - But also disputed in an interesting way that potentially relates to [[[[QUE]] - What are the most efficient routes to useful cross-boundary knowledge?]]
-
-                - https://scite.ai/reports/swinging-into-thought-directed-movement-mZvJyj
-
-                    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fmegacoglab%2FaaVp8dREjy.png?alt=media&token=d4ff780d-706b-4af7-93f9-a9bf1d9181fd)
-
-                        - seems to connect with the [[embodied cognition]] perspective, but also what's interesting is the presence of what might be [[social learning]] here..
-
-            - And disputed in the sense that sometimes even hints do no good!
-
-                - https://scite.ai/reports/interactive-tasks-and-the-implicit-explicit-XLEDPl
-
-                    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fmegacoglab%2F7yMzfLUrr_.png?alt=media&token=17b09c34-8ec1-468b-a541-29f83a9465e2)
-[[March 15th, 2021]]
-
-- Ok finished processing most of the experiments of interest right now from [[@gickAnalogicalProblemSolving1980]]. Can regard, along with [[@reedRoleAnalogyTransfer1974]], as one of the first forays into this space of [[spontaneous analogical transfer]]
-
-    - Making sense of this in relation to our questions... (also cc [[[[QUE]] - What factors control whether people appropriately benefit from analogies (especially far-field ones) during creative problem solving?]]).
-[[QUE - What factors control whether people appropriately benefit from analogies (especially far-field ones) during creative problem solving]]
-
-- downstream citations from [[@reedRoleAnalogyTransfer1974]]:
-
-    - {{embed: ➰ breadcrumbs}}
-[[July 1st, 2021]]
-
-- the way the devices were described makes me wonder how they compare to encountering these devices in the wild, vs. "curated" to facilitate noticing of the analogical mapping, like in [[@gickSchemaInductionAnalogical1983]] and [[@reedRoleAnalogyTransfer1974]]
-
-    - cf. [[[[QUE]] - What factors control whether people appropriately benefit from analogies (especially far-field ones) during creative problem solving?]] and [[[[CLM]] - People are more likely to benefit from analogies if they encounter/process them with an active goal or license to use them for inspiration]]

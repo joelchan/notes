@@ -35,12 +35,5 @@ date: Sat Nov 14 2020 00:04:34 GMT-0500 (Eastern Standard Time)
 
 ###### Discourse Context
 
-- **Informs::** [[QUE - What are some major phenomena around designers' exploration of design spaces and how might these map to characteristics of optimizers]]
+- **Informs::** [QUE - What are some major phenomena around designers' exploration of design spaces and how might these map to characteristics of optimizers.md](QUE - What are some major phenomena around designers' exploration of design spaces and how might these map to characteristics of optimizers.md)
 
-###### References
-
-[[WP Synthesis empirical paper]]
-
-- {{[[DONE]]}} map out the "coverage" of each finding across the participants in a brief table (similar to the one we already have, and in the hargadon and sutton 1996 model paper [[@suttonBrainstormingGroupsContext1996]]); this could be one of our summary figures/tables as well
-
-    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fmegacoglab%2FQPAvZJDuFu?alt=media&token=54677159-1bf3-4298-87d9-6a2673add605)

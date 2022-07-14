@@ -37,74 +37,7 @@ date: Thu Nov 04 2021 19:46:28 GMT-0400 (Eastern Daylight Time)
 
 ###### Discourse Context
 
-- **Informs::** [[CLM - transformer language models have some analogical reasoning ability]]
-- **Informs::** [[QUE - Can deep learning discover analogical representations]]
-- **Informs::** [[QUE - What do we know about transformer language models' natural language generation capabilities]]
+- **Informs::** [CLM - transformer language models have some analogical reasoning ability.md](CLM - transformer language models have some analogical reasoning ability.md)
+- **Informs::** [QUE - Can deep learning discover analogical representations.md](QUE - Can deep learning discover analogical representations.md)
+- **Informs::** [QUE - What do we know about transformer language models' natural language generation capabilities.md](QUE - What do we know about transformer language models' natural language generation capabilities.md)
 
-###### References
-
-[[December 1st, 2021]]
-
-- material: machine-generated with [[sys/GPT-2]] and [[sys/GPT-3]] via "three-shot" setting from [[@brownLanguageModelsAre2020]], with default temperature param (0.7)
-
-    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fmegacoglab%2FCiawOljogK.png?alt=media&token=75dcc940-4d38-4a2a-b4b7-80c084264e34)
-[[November 16th, 2021]]
-
-- We'll start with [[@brownLanguageModelsAre2020]]
-
-    - Hmm interesting - here they seem to anticipate later results on potential advantages of *fewer* (and maybe no???) examples for [[few-shot learning]]? Here they discuss the hypothesis that brittleness and vulnerability to adversarial attacks might grow larger as the training data grows: [[[[CL]] - Potential to exploit spurious correlations in training data fundamentally grows with expressiveness model and narrowness of training distribution]]
-
-        - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fmegacoglab%2F-PPevoPi2O.png?alt=media&token=d480395a-2198-4eb0-bc0a-ccf9029e54a2) (p. 3)
-
-    - The basic intuition for how the language models work:
-
-        - I don't full understand the details yet of how the training and the model for [[sys/GPT-3]] work. But I do know that:
-
-            - The architecture is a [[transformer architecture]]
-
-                - One of the secret sauces is [[self-attention]], which helps with the problem of updating weights appropriately for connections to context beyond the immediate surroundings of a word/token
-
-                    - Original source for this is [[@vaswaniAttentionAllYou]]
-
-            - The encoding of words/tokens is [[Byte-Pair Encoding (BPE)]]
-
-                - in this way it reminds me of [[charNN]] architectures
-
-            - It's the same basic architecture as [[sys/GPT-2]], which is described in [Radford et al. (2019)]([[@radfordLanguageModelsAre2019]])
-
-            - [[dataset/Common Crawl]] is the base, but with some mods:
-
-                - filtering for "quality" (see Appendix A)
-
-                - fuzzy deduplication (see Appendix A)
-
-                - enriching with some other curated datasets, e.g., WEbText, Wikipedia
-
-                - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fmegacoglab%2Ff-olxLm3nt.png?alt=media&token=61808470-eeac-4eaf-809e-7da99bba0901) (p. 8)
-
-        - They are trained in an unsupervised fashion to basically do one task: predict some word(s)/token(s) of set size M based on some context of word(s)/token(s) of set size N.
-
-    - Technically what distinguishes the [[few-shot learning]] paradigm from [[fine-tuning]] is that you basically condition the output with some demonstrations and instructions, but don't allow any weight updates (so the underlying model is fundamentally the same)
-
-        - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fmegacoglab%2Ft426DcxvAq.png?alt=media&token=4a311fb0-6fdd-4e2a-88ea-8c01b276e2ad) (p. 6)
-
-        - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fmegacoglab%2FQRpWGIQXPo.png?alt=media&token=38b562e0-f2e0-4168-b93b-9644ba23823f) (p. 7)
-[[QUE - What do we know about transformer language models' natural language generation capabilities]]
-
-- And some good video explainers/discussion of [[@brownLanguageModelsAre2020]] and [[sys/GPT-3]]
-
-    - WE GOT ACCESS TO GPT-3! (With [[Gary Marcus]], Walid Saba and [[Connor Leahy]]) - YouTube: https://www.youtube.com/watch?v=iccd86vOz3w
-
-        - Note: [[Connor Leahy]] is the guy who recreated GPT-3 when OpenAI was still going back and forth about releasing the models
-
-        - Connor mentions at ~01:31:40 that [[sys/GPT-3]] does surprisingly well at poems, and poorly at math, and he suspects it's because of "the BPE" thing
-
-            - Digging, this is [[Byte-Pair Encoding (BPE)]], which I got from here: The GPT-3 Architecture, on a Napkin: https://dugas.ch/artificial_curiosity/GPT_architecture.html
-
-                - And links to this: https://huggingface.co/transformers/tokenizer_summary.html#byte-pair-encoding
-
-                    - Which is... really really interesting. the base tokens aren't actually words, but byte (character) groups
-
-                - > For efficiency, GPT-3 actually uses byte-level Byte Pair Encoding (BPE) tokenization. What this means is that "words" in the vocabulary are not full words, but groups of characters (for byte-level BPE, bytes) which occur often in text. Using the GPT-3 Byte-level BPE tokenizer, "Not all heroes wear capes" is split into tokens "Not" "all" "heroes" "wear" "cap" "es", which have ids 3673, 477, 10281, 5806, 1451, 274 in the vocabulary. [Here](https://huggingface.co/transformers/tokenizer_summary.html) is a very good introduction to the subject, and a [github implementation](https://github.com/huggingface/tokenizers) so you can try it yourself.
-
-    - GPT-3: Language Models are Few-Shot Learners (Paper Explained) - YouTube: https://www.youtube.com/watch?v=SY5PvZrJhLE

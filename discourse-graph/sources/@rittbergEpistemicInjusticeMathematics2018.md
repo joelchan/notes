@@ -31,17 +31,5 @@ date: Sun Mar 01 2020 21:05:14 GMT-0500 (Eastern Standard Time)
 
 ###### Discourse Context
 
-- **Informs::** [[CLM - Substantial portions of knowledge that is critical for innovation are not written down]]
+- **Informs::** [CLM - Substantial portions of knowledge that is critical for innovation are not written down.md](CLM - Substantial portions of knowledge that is critical for innovation are not written down.md)
 
-###### References
-
-[[March 1st, 2020]]
-
-- Intriguing idea of [[epistemic injustice]] [[@rittbergEpistemicInjusticeMathematics2018]], but more specifically the idea of [[Ghost Theorems]] observed in mathematics: "mathematical results which are taken as accepted in a mathematical community, relied upon in talks, discussion, and proving further results, but which cannot be traced to a concrete proof in the literature." #>
-
-    - seems like an #example-of the general point that [[[[CLM]] - Substantial portions of knowledge that is critical for innovation are not written down]]
-[[CLM - Substantial portions of knowledge that is critical for innovation are not written down]]
-
-- [[@rittbergEpistemicInjusticeMathematics2018]]
-
-    - "mathematical results which are taken as accepted in a mathematical community, relied upon in talks, discussion, and proving further results, but which cannot be traced to a concrete proof in the literature." #>

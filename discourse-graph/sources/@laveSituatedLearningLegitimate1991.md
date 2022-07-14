@@ -89,29 +89,5 @@ date: Tue Jun 16 2020 17:31:32 GMT-0400 (Eastern Daylight Time)
 
 ###### Discourse Context
 
-- **Informs::** [[QUE - Under what conditions is it possible to transfer expertise from one person to another]]
+- **Informs::** [QUE - Under what conditions is it possible to transfer expertise from one person to another.md](QUE - Under what conditions is it possible to transfer expertise from one person to another.md)
 
-###### References
-
-[[February 10th, 2021]]
-
-- there is concept of [[legitimate peripheral participation]] (e.g., [[@laveSituatedLearningLegitimate1991]])
-
-    - suggests that
-[[Q How if at all do libraries and small businesses fit into the narrative of communities of practice]]
-
-- #[[@laveSituatedLearningLegitimate1991]]
-
-    - {{[[embed]]: some initial thoughts on #[[Q: How if at all do libraries and small businesses fit into the narrative of communities of practice?]]}}
-[[Literature review for P Libraries supercharging communities of practice]]
-
-- [[@laveSituatedLearningLegitimate1991]]
-
-    - [[legitimate peripheral participation]] as key mechanism of learning in [[communities of practice]]
-[[QUE - Under what conditions is it possible to transfer expertise from one person to another]]
-
-- [[@laveSituatedLearningLegitimate1991]]
-
-    - It is embedded in a context (place, people, situation)
-
-    - Knowledge is embedded so it is difficult to extract.

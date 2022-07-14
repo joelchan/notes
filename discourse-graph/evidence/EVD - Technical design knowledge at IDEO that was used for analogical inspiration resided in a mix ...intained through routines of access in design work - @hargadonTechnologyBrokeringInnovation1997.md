@@ -61,13 +61,6 @@ date: Tue May 03 2022 16:50:18 GMT-0400 (Eastern Daylight Time)
 
 ###### Discourse Context
 
-- **Supports::** [[CLM - Substantial portions of knowledge that is critical for innovation are not written down]]
-- **FromSource::** [[@hargadonTechnologyBrokeringInnovation1997]]
+- **Supports::** [CLM - Substantial portions of knowledge that is critical for innovation are not written down.md](CLM - Substantial portions of knowledge that is critical for innovation are not written down.md)
+- **FromSource::** [@hargadonTechnologyBrokeringInnovation1997.md](@hargadonTechnologyBrokeringInnovation1997.md)
 
-###### References
-
-[[ISS - Read and dgraph notes for @hargadonTechnologyBrokeringInnovation1997]]
-
-- [[[[EVD]] - Technical design knowledge at IDEO that was used for analogical inspiration resided in a mix of artifacts, prototypes, and designers' memories, and was actively maintained through routines of access in design work - [[@hargadonTechnologyBrokeringInnovation1997]]]]
-
-    - especially designers as points of access (understood from managers) to diverse porfolios of knowledge as they deepened their expertise in a few domains

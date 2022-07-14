@@ -53,26 +53,7 @@ date: Wed Oct 07 2020 13:43:37 GMT-0400 (Eastern Daylight Time)
 
 ###### Discourse Context
 
-- **Informs::** [[CLM - Core mismatches in analogical inspiration improve creativity]]
-- **Informs::** [[CLM - Analogies can be a powerful source of new innovations]]
-- **Informs::** [[QUE - How might domain distance modulate the effects of analogies on creative output]]
+- **Informs::** [CLM - Core mismatches in analogical inspiration improve creativity.md](CLM - Core mismatches in analogical inspiration improve creativity.md)
+- **Informs::** [CLM - Analogies can be a powerful source of new innovations.md](CLM - Analogies can be a powerful source of new innovations.md)
+- **Informs::** [QUE - How might domain distance modulate the effects of analogies on creative output.md](QUE - How might domain distance modulate the effects of analogies on creative output.md)
 
-###### References
-
-[[October 7th, 2020]]
-
-- on [[@holyoakMentalLeapsAnalogy1996]]: https://drive.google.com/drive/folders/0B1J84EpLdwM4aXFSQWY3MnVQYUU
-
-    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fmegacoglab%2FTxwFodlsE1.png?alt=media&token=4038d4b0-990f-458b-80a9-49e011659de2)
-[[CLM - Core mismatches in analogical inspiration improve creativity]]
-
-- Something from [[@holyoakMentalLeapsAnalogy1996]] about partial matches being important, bc this leaves (more) space for [[analogical inference]]s - completely isomorphic matches don't have as much room for this
-
-    - #quotes "…an interesting trade-off emerges between the completeness of an analogy and its usefulness in generating inferences. The more complete the initial correspondences are between source and target, the more confident you can be that the two are in fact isomorphic. But unless you know more about one analog than the other - in other words, unless the initial correspondences between source and target propositions are incomplete - the mapping will not allow any new inferences to be made. A complete isomorphism has nothing to be filled in, leaving no possibility for creative leaps." (p. 30)
-[[November 5th, 2021]]
-
-- However, either effective problem formulation or generating analogies for a problem is hard for human ([[@gentnerAnalogicalRemindingGood1985]], [[@gentnerRolesSimilarityTransfer1993]], [[@gickSchemaInductionAnalogical1983]], [[@holyoakMentalLeapsAnalogy1996]], [[@halfordHowManyVariablesHumans2005]][[@hopeAcceleratingInnovationAnalogy2017]])
-
-    - Whether to mention: especially for design novices?
-
-    - [[[[CLM]] - Analogical retrieval in humans is dominated by surface similarity]]

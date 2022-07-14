@@ -29,28 +29,5 @@ date: Sat Feb 06 2021 11:16:35 GMT-0500 (Eastern Standard Time)
 
 ###### Discourse Context
 
-- **Informs::** [[CLM - Scholarly argumentation operates on atomic statements and concepts as fundamental units]]
+- **Informs::** [CLM - Scholarly argumentation operates on atomic statements and concepts as fundamental units.md](CLM - Scholarly argumentation operates on atomic statements and concepts as fundamental units.md)
 
-###### References
-
-[[February 6th, 2021]]
-
-- [[std/SWAN]] was actually instantiated in a working system, and was supposed to connect to [[sys/Alzforum]] (see [[@clarkAlzforumSWANPresent2007]])
-
-    - But... I can't see a trace of it in the current [[sys/Alzforum]] website (e.g., would expect it to be listed somehow in their [list of databases](https://www.alzforum.org/databases), but it's not), even though it's still active, and there is active sharing and discussion of papers. What gives?
-
-    - As far as I can tell, they did implement it
-
-        - See, e.g., this screenshot of the pilot interface
-
-            - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fmegacoglab%2FVY8pcT8UgN.png?alt=media&token=d4dbaef1-7e28-4af5-b99f-65c0e145bcca) (p. 167)
-
-    - The motivation is remarkably similar to what we are talking about: retaining the [[context]] of sensemaking, zeroing on the things we actually care about (the **semantics**)
-
-        - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fmegacoglab%2FnGkLDW_Yh9.png?alt=media&token=5d71f264-245a-47e1-97d4-0ec8b5f77660) (p. 168)
-
-        - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fmegacoglab%2FGbKml2aUJk.png?alt=media&token=b2600e5c-140c-438a-96d2-1b5b47333d00) (p. 169)
-
-    - They even think about a [[federation]] approach!!!!!! MySWAN, connecting together into a community SWAN!!!!!
-
-        - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fmegacoglab%2FvoyvdQxvo7.png?alt=media&token=9e00409e-aec0-4c03-b234-52dec65e828b) (p. 170)

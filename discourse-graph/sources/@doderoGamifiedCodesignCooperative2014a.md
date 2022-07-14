@@ -29,47 +29,5 @@ date: Fri May 14 2021 11:27:45 GMT-0400 (Eastern Daylight Time)
 
 ###### Discourse Context
 
-- **Informs::** [[QUE - What tension points exist between the goals of diversity and depth of user participation in participatory design]]
+- **Informs::** [QUE - What tension points exist between the goals of diversity and depth of user participation in participatory design.md](QUE - What tension points exist between the goals of diversity and depth of user participation in participatory design.md)
 
-###### References
-
-[[NowReading]]
-
-- #NowReading [[@doderoGamifiedCodesignCooperative2014a]] for [[[[QUE]] - What tension points exist between the goals of diversity and depth of user participation in participatory design?]] |
-
-    - setting: middle school in Italy, directed at cooperative learning (sort of group-based work?)
-
-        - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fmegacoglab%2FNjUtvIOjUy.png?alt=media&token=7a7ce7bb-cce9-4c17-9277-8d047136614b)
-
-        - cooperative learning
-
-            - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fmegacoglab%2FCj7Vky_Np2.png?alt=media&token=9fb8cd12-d0d9-42a1-ac99-4efdef22eeac)
-
-            - Johnson and Johnson famous for Jigsaw, used in CAREERS  in play
-
-                - Johnson, D., and Johnson, R. An Overview of Cooperative Learning. Creativity and Collaborative Learning (2002).
-
-                - key idea: everyone needs to be responsible for something
-
-    - takeaways:
-
-        - cc [[[[CLM]] - Marginalized user populations may require involvement of extra stakeholders who may complicate hearing the users' voices]], but secondary cite
-
-        - something about juggling multiple objectives? opportunity cost? here they thought a challenge was making the codesign beneficial directly for learning. is this exacerbated when looking to expand PD to marginalized populations?
-
-            - relevant cites
-
-                - [[@mcnallyGainsParticipatoryDesign2017]] - tricky to measure gains/success of being part of PD
-
-                    - [[Allison Druin]] resistant to formalizing quant measures (e.g., pre/post designs), don't want to start another "No Child Left Behind" for kids PD
-
-                - [[@garzottoBroadeningChildrenInvolvement2008]]
-
-            - [[Janet Read]] does this in classrooms too.
-
-            - like "scientizing" (cc [[Science Everywhere]])
-[[August 3rd, 2021]]
-
-- [[@doderoGamifiedCodesignCooperative2014a]]
-
-    - {{embed: #NowReading [[@doderoGamifiedCodesignCooperative2014a]] for [[[[QUE]] - What tension points exist between the goals of diversity and depth of user participation in participatory design?]] | }}

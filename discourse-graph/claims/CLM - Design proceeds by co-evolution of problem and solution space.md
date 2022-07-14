@@ -39,54 +39,20 @@ date: Thu Aug 20 2020 01:58:00 GMT-0400 (Eastern Daylight Time)
 
 ###### Discourse Context
 
-- **Informs::** [[QUE - What are some major phenomena around designers' exploration of design spaces and how might these map to characteristics of optimizers]]
-- **Informs::** [[QUE - How do people effectively (re)formulate creative problems]]
-- **Informed By::** [[@klahrDualSpaceSearch1988]]
-- **Informed By::** [[@lawsonCognitiveStrategiesArchitectural1979]]
-- **Informed By::** [[@newellHumanProblemSolving1972]]
-- **Informed By::** [[@goelStructureDesignProblem1992]]
-- **Informed By::** [[@crossExpertiseDesignOverview2004]]
-- **Informed By::** [[@schonReflectivePractitionerHow1983]]
-- **Informed By::** [[@maherFormalisingDesignExploration1996]]
-- **Informed By::** [[@helmsCompoundAnalogicalDesign2008]]
-- **Informed By::** [[@okadaAnalogicalModificationCreation2009]]
-- **Informed By::** [[@newellElementsTheoryHuman1958]]
-- **Informed By::** [[@dorstCreativityDesignProcess2001]]
-- **Informed By::** [[@suchmanPlansSituatedActions1987]]
-- **Informed By::** [[@maherCoevolutionComputationalCognitive2003]]
-- **Informed By::** [[@dorstCoreDesignThinking2011]]
+- **Informs::** [QUE - What are some major phenomena around designers' exploration of design spaces and how might these map to characteristics of optimizers.md](QUE - What are some major phenomena around designers' exploration of design spaces and how might these map to characteristics of optimizers.md)
+- **Informs::** [QUE - How do people effectively (re)formulate creative problems.md](QUE - How do people effectively (re)formulate creative problems.md)
+- **Informed By::** [@klahrDualSpaceSearch1988.md](@klahrDualSpaceSearch1988.md)
+- **Informed By::** [@lawsonCognitiveStrategiesArchitectural1979.md](@lawsonCognitiveStrategiesArchitectural1979.md)
+- **Informed By::** [@newellHumanProblemSolving1972.md](@newellHumanProblemSolving1972.md)
+- **Informed By::** [@goelStructureDesignProblem1992.md](@goelStructureDesignProblem1992.md)
+- **Informed By::** [@crossExpertiseDesignOverview2004.md](@crossExpertiseDesignOverview2004.md)
+- **Informed By::** [@schonReflectivePractitionerHow1983.md](@schonReflectivePractitionerHow1983.md)
+- **Informed By::** [@maherFormalisingDesignExploration1996.md](@maherFormalisingDesignExploration1996.md)
+- **Informed By::** [@helmsCompoundAnalogicalDesign2008.md](@helmsCompoundAnalogicalDesign2008.md)
+- **Informed By::** [@okadaAnalogicalModificationCreation2009.md](@okadaAnalogicalModificationCreation2009.md)
+- **Informed By::** [@newellElementsTheoryHuman1958.md](@newellElementsTheoryHuman1958.md)
+- **Informed By::** [@dorstCreativityDesignProcess2001.md](@dorstCreativityDesignProcess2001.md)
+- **Informed By::** [@suchmanPlansSituatedActions1987.md](@suchmanPlansSituatedActions1987.md)
+- **Informed By::** [@maherCoevolutionComputationalCognitive2003.md](@maherCoevolutionComputationalCognitive2003.md)
+- **Informed By::** [@dorstCoreDesignThinking2011.md](@dorstCoreDesignThinking2011.md)
 
-###### References
-
-[[November 10th, 2021]]
-
-- One insight I want to make sure we write down is that problem reformulation isn't a task that happens in isolation. Instead there is co-evolution with "solution processes"; see, e.g., [[[[CLM]] - Design proceeds by co-evolution of problem and solution space]]
-
-    - This implies that it is probably not only hard, but maybe even incoherent to try to do this task in isolation.
-
-    - So one #[[➰ breadcrumbs]] here is to articulate a few coherent examples of problem formulation, ideally in real-world scenarios
-
-        - Starting points:
-
-            - [[@dorstCreativityDesignProcess2001]] and [[@schonReflectivePractitionerHow1983]]
-[[April 7th, 2022]]
-
-- [[[[CLM]] - Design proceeds by co-evolution of problem and solution space]]
-
-    - [[@goelStructureDesignProblem1992]] argues that design behavior arises as an adaptive response to the ill-structure nature of design problem spaces. This may explain a bias towards design moves and "solution-orientedness" in designers
-[[August 19th, 2020]]
-
-- A serious limitation of [[sys/RoamResearch]] is the friction of moving to nonverbal / visual modalities of exploration. While [[[[CL]] - Visual thinking interfaces are tricky to get right]], most serious work probably has to move between verbal and nonverbal (less propositional?) modalities of representation: the holy grail is being able to move between the two (incidentally this is what [[sys/Liquid:Author]] can do, and is anticipated by the idea of [[[[PTN]] - representational talkback]] introduced in [[@yamamotoRepresentationalTalkbackApproach1998]]), and strongly related to this idea of [[Reflective Conversation with the Design Material]] and [co-evolution of design and problem space]( [[[[CLM]] - Design proceeds by co-evolution of problem and solution space]])
-
-    - [[sys/RoamResearch]] does have some workarounds, like being able to paste in screenshots of sketches, and specifying diagrams (e.g., via [[sys/Mermaid diagrams]]) or tables from text, but the moving between isn't as fluid as I'd like, and the messy sketches in particular feel "inert" and unable to interact on equal terms with the rest of the content (e.g., can't add pages post-hoc, block ref, etc.)
-
-        - maybe some kind of interaction overlay on top of pasted in screenshots could do the trick? or in-built "layers" (not very unlike layers in photoshop and most image editing software, and how on paper you only really have soft "mutability" via layering on top, and some with erasing)
-
-    - Beyond the cognitive consequences of this interaction / modality limitation, the highly textual and nonvisual nature of this interface can be an unnecessary turnoff for many users who like visual interfaces
-
-    - related: [[@suwaWhatArchitectsStudents1997]] and idea of [[constructive perception]] [[@suwaConstructivePerceptionMetacognitive2003]]
-[[THE - interaction-oriented theory of creative inspiration from examples]]
-
-- [[co-evolution of problem and solution space]]: [[[[CLM]] - Design proceeds by co-evolution of problem and solution space]]
-
-    - this was a super influential theory from design theory, though it wasn't directed specifically at examples, it was about design moves, which are the same thing (they're just coming from somewhere else)

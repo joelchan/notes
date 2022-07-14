@@ -17,12 +17,5 @@ date: Wed Feb 10 2021 13:33:36 GMT-0500 (Eastern Standard Time)
 
 ###### Discourse Context
 
-- **Informed By::** [[@vaughanValuePublicLibrary1996a]]
+- **Informed By::** [@vaughanValuePublicLibrary1996a.md](@vaughanValuePublicLibrary1996a.md)
 
-###### References
-
-[[outline2021 augmented librarian toolkit for KNEXT]]
-
-- [[[[CLM]] - Dedicated business centers are an effective way for libraries to serve information needs of businesses in a comprehensive way]]
-
-    - Cost of dedicated business centers

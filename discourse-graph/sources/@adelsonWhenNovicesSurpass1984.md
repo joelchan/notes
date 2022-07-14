@@ -29,18 +29,5 @@ date: Wed Feb 17 2021 13:39:43 GMT-0500 (Eastern Standard Time)
 
 ###### Discourse Context
 
-- **Informs::** [[QUE - Under what conditions is it possible to transfer expertise from one person to another]]
+- **Informs::** [QUE - Under what conditions is it possible to transfer expertise from one person to another.md](QUE - Under what conditions is it possible to transfer expertise from one person to another.md)
 
-###### References
-
-[[QUE - Under what conditions is it possible to transfer expertise from one person to another]]
-
-- [[@adelsonWhenNovicesSurpass1984]]
-
-    - Experts vs Novice in Programming Tasks
-
-    - expert uses more conceptually based representation (abstract)
-
-    - novice uses syntactically based representations (concrete)
-
-    - Case Study/Experiment

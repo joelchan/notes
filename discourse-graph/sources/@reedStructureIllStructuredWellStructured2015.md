@@ -44,12 +44,5 @@ date: Wed Aug 19 2020 10:55:51 GMT-0400 (Eastern Daylight Time)
 
 ###### Discourse Context
 
-- **Informs::** [[QUE - What are some major phenomena around designers' exploration of design spaces and how might these map to characteristics of optimizers]]
+- **Informs::** [QUE - What are some major phenomena around designers' exploration of design spaces and how might these map to characteristics of optimizers.md](QUE - What are some major phenomena around designers' exploration of design spaces and how might these map to characteristics of optimizers.md)
 
-###### References
-
-[[QUE - What are some major phenomena around designers' exploration of design spaces and how might these map to characteristics of optimizers]]
-
-- [[@reedStructureIllStructuredWellStructured2015]] information-processing principles apply to all problems but apply differently as problems become more ill structured
-
-    - builds on proposal by [[@simonStructureIllStructured1973]]

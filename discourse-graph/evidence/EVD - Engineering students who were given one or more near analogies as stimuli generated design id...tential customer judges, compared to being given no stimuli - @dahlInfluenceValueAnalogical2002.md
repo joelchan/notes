@@ -70,15 +70,8 @@ date: Wed Jun 30 2021 10:38:06 GMT-0400 (Eastern Daylight Time)
 
 ###### Discourse Context
 
-- **Informs::** [[QUE - How might domain distance modulate the effects of analogies on creative output]]
-- **Supports::** [[CLM - Analogical distance of inspirations for an idea are positively related to the idea's creativity]]
-- **Consistent With::** [[EVD - designs that were measured during an ideation session to have come from a higher percentage o... as more original and valuable by potential customer judges - @dahlInfluenceValueAnalogical2002]]
-- **FromSource::** [[@dahlInfluenceValueAnalogical2002]]
+- **Informs::** [QUE - How might domain distance modulate the effects of analogies on creative output.md](QUE - How might domain distance modulate the effects of analogies on creative output.md)
+- **Supports::** [CLM - Analogical distance of inspirations for an idea are positively related to the idea's creativity.md](CLM - Analogical distance of inspirations for an idea are positively related to the idea's creativity.md)
+- **Consistent With::** [EVD - designs that were measured during an ideation session to have come from a higher percentage o... as more original and valuable by potential customer judges - @dahlInfluenceValueAnalogical2002.md](EVD - designs that were measured during an ideation session to have come from a higher percentage o... as more original and valuable by potential customer judges - @dahlInfluenceValueAnalogical2002.md)
+- **FromSource::** [@dahlInfluenceValueAnalogical2002.md](@dahlInfluenceValueAnalogical2002.md)
 
-###### References
-
-[[June 30th, 2021]]
-
-- so, something like [[[[EVD]] - Engineering students who were given one or more near analogies as stimuli generated design ideas that were perceived as less original and valuable by potential customer judges, compared to being given no stimuli - [[@dahlInfluenceValueAnalogical2002]]]]
-
-    - [concerns about the odd analysis choices](it's an odd choice to control for expert judge effects by making them dummies, but... ok i guess? more sensible might be to aggregate the judgments somehow. the worst thing here is that the analysis seems to be at the judgment level, not even at the design level, and i don't understand how they would compute % far at that level??? and there are no corrections or attempts to model within-design (bc these are repeated measures) OR within-person (also repeated measures) dependencies) still stand for this one

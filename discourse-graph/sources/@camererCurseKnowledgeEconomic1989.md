@@ -29,24 +29,5 @@ date: Wed Feb 17 2021 13:34:52 GMT-0500 (Eastern Standard Time)
 
 ###### Discourse Context
 
-- **Informs::** [[QUE - Under what conditions is it possible to transfer expertise from one person to another]]
+- **Informs::** [QUE - Under what conditions is it possible to transfer expertise from one person to another.md](QUE - Under what conditions is it possible to transfer expertise from one person to another.md)
 
-###### References
-
-[[QUE - Under what conditions is it possible to transfer expertise from one person to another]]
-
-- [[@camererCurseKnowledgeEconomic1989]]
-
-    - Student estimating company earnings
-
-    - Student were not able to ignore their current knowledge when making the estimates.
-
-    - The knowledge of the company biases these student to their own knowledge hence having a harder time trying to guess prediction of uninformed subjects.
-
-    - The curse of knowledge make it difficult for expertise to bridge with novice because "they have difﬁculty imagining ever having been so ill-informed on the topic and accurately imagining the information that novices might not know."
-
-    - Feedback does not change the expert (student with knowledge about the company) estimate of company earnings and they were anchor to their original knowledge.
-
-    - Anchoring
-
-    - Case Study/Experiment

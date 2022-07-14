@@ -18,12 +18,5 @@ date: Sun Mar 13 2022 22:16:42 GMT-0400 (Eastern Daylight Time)
 
 ###### Discourse Context
 
-- **FromSource::** [[@lovittsMakingImplicitExplicit2007]]
+- **FromSource::** [@lovittsMakingImplicitExplicit2007.md](@lovittsMakingImplicitExplicit2007.md)
 
-###### References
-
-[[@lovittsMakingImplicitExplicit2007]]
-
-- [[[[EVD]] - Doctoral examiners reported that many acceptable or even "very good" dissertations across a range of disciplines fell well short of implicit and explicit criteria for effective synthesis in their literature reviews - [[@lovittsMakingImplicitExplicit2007]]]]
-
-    - Ineffective [[synthesis]] is not a reason to fail a dissertation! Qualities associated with literature reviews in "acceptable" (or even "very good")  dissertations fall well short of implicit and explicit criteria for effective synthesis (e.g., [[@strikeTypesSynthesisTheir1983]], [[@booteScholarsResearchersCentrality2005]]

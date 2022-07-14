@@ -29,23 +29,6 @@ date: Thu Jun 10 2021 13:52:28 GMT-0400 (Eastern Daylight Time)
 
 ###### Discourse Context
 
-- **Informs::** [[QUE - Under what conditions is it possible to transfer expertise from one person to another]]
-- **SourceFor::** [[EVD - Local developers evolved into gardener roles to meet perceived demand for disseminating best practices for a software amongst users in an organization - @ganttGardenersGurusPatterns1992]]
+- **Informs::** [QUE - Under what conditions is it possible to transfer expertise from one person to another.md](QUE - Under what conditions is it possible to transfer expertise from one person to another.md)
+- **SourceFor::** [EVD - Local developers evolved into gardener roles to meet perceived demand for disseminating best practices for a software amongst users in an organization - @ganttGardenersGurusPatterns1992.md](EVD - Local developers evolved into gardener roles to meet perceived demand for disseminating best practices for a software amongst users in an organization - @ganttGardenersGurusPatterns1992.md)
 
-###### References
-
-[[June 10th, 2021]]
-
-- [[@ganttGardenersGurusPatterns1992]] for [[[[QUE]] - Under what conditions is it possible to transfer expertise from one person to another?]] | end users evolved into gardener roles to meet perceived demand for transferring best practices amongst user base in an organization
-
-    - semi-structured interviews with 24 informants (21 users and 3 managers) who use the CAD system HP ME30 in the general fields of architecture, mechanical engineering, electrical engineering, and industrial design, across seveon companies of varying sizes. All informants had used the CAD system for at least five years.
-
-        - Fictitious profiles of the informants:
-
-            - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fmegacoglab%2FQ7Jsq0CmEF.png?alt=media&token=c965fdac-8d7b-4dfd-bd92-83e8fb62c3a0) (p. 109)
-
-            - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fmegacoglab%2FtUdKCOJkYp.png?alt=media&token=34f3babf-166f-42ff-a9e4-d8399765d5c4) (p. 110)
-
-    - The most interesting finding for us is the evolution of the local developer role into a function of doing low-level technical work and support (e.g., writing macros, tech support, troubleshooting) in the patterns of cooperation among CAD users. [[[[EVD]] - Local developers evolved into "gardener" roles to meet perceived demand for disseminating best practices for a software amongst users in an organization - [[@ganttGardenersGurusPatterns1992]]]] #Informs
-
-    - discussing with [[Wei-Wei Chi]]

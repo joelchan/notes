@@ -62,58 +62,5 @@ date: Wed Feb 17 2021 13:33:51 GMT-0500 (Eastern Standard Time)
 
 ###### Discourse Context
 
-- **Informs::** [[QUE - Under what conditions is it possible to transfer expertise from one person to another]]
+- **Informs::** [QUE - Under what conditions is it possible to transfer expertise from one person to another.md](QUE - Under what conditions is it possible to transfer expertise from one person to another.md)
 
-###### References
-
-[[QUE - Under what conditions is it possible to transfer expertise from one person to another]]
-
-- [[@eppleEmpiricalInvestigationMicrostructure1996]]
-
-    - Case Study of making pizza was not in this paper, despite being cited. We tracked it down to [[@darrAcquisitionTransferDepreciation1995]], but even here it's not actually a result, but a contrived example
-
-        - Harder to share how to hand-toss a pizza (tacit) than to share the cook time of different pizza (explicit)
-
-        - Experts usually only tell part of the story (explicit part) about task that require tacit knowledge (hand-tossing a pizza)
-
-    - Case Study/Experiment
-[[March 11th, 2021]]
-
-- [[@eppleEmpiricalInvestigationMicrostructure1996]] speculated that transfer can be deliberaly facilitated through managerial and engineering attention
-
-    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fmegacoglab%2FaINoDMpjTt.png?alt=media&token=dd916584-b9d3-47ae-aa15-e41b3b3ce155) (p. 84)
-[[March 11th, 2021]]
-
-- discussed [[@eppleEmpiricalInvestigationMicrostructure1996]] and [[@darrAcquisitionTransferDepreciation1995]] for [[D/KNEXT]]
-
-    - takeaways:
-
-        - transfer happens
-
-            - more easily between commonly owned store than differently owned store [[@darrAcquisitionTransferDepreciation1995]]
-
-        - mechanism of transfer is not specified in these studies, due to the nature of the data
-
-            - In [[@darrAcquisitionTransferDepreciation1995]], transfer can could happen because of more frequent meeting between commonly owned store than differently owned store.
-
-                - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fmegacoglab%2FQdLRLEvtgA.png?alt=media&token=81c8fb84-7f62-4af6-87b8-c1039f4fad70)
-
-                - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fmegacoglab%2FYHd1eXbnJO.png?alt=media&token=a3755e50-4fa5-47b7-b43c-eecff5f00b3a)
-
-            - [[@eppleEmpiricalInvestigationMicrostructure1996]] speculated that transfer can be deliberaly facilitated through managerial and engineering attention
-
-                - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fmegacoglab%2FaINoDMpjTt.png?alt=media&token=dd916584-b9d3-47ae-aa15-e41b3b3ce155) (p. 84)
-
-        - Potential new mechanism of transfer for tacit knowledge other than writing it down (bad way) or apprenticeship (expensive way)
-
-            - Embodied, Embedded (Plans and Situated Actions)
-
-                - For example, flashing light in a manufacturing plant to indicate something is wrong in the belt. Everyone at the plant knows what to do when this happens.
-
-            - Artifacts (Affordances of the object could tell people how to use the tools without instructions)
-
-                - Imitation and tool usage.
-
-                    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fmegacoglab%2FVfwpW5L9e6.png?alt=media&token=e61855cc-b88f-49dd-bf03-790ed92ca100)
-
-                    - [[@heyesImitation2021]]

@@ -47,17 +47,5 @@ date: Thu Jul 09 2020 15:36:43 GMT-0400 (Eastern Daylight Time)
 
 ###### Discourse Context
 
-- **Informs::** [[CLM - Prevailing incentives in academia are bad for science]]
+- **Informs::** [CLM - Prevailing incentives in academia are bad for science.md](CLM - Prevailing incentives in academia are bad for science.md)
 
-###### References
-
-[[June 18th, 2020]]
-
-- [AI Research, Replicability and Incentives](https://dennybritz.com/blog/ai-replication-incentives/) [[@britzAIResearchReplicability2020]]
-
-    - One would think that implementing the same model in two different frameworks would lead to identical results. But that's not the case. Subtle differences in ^^framework implementations, insufficient documentation, hidden hyperparameters, and bugs^^ can cascade and lead to different outcomes. If you go through the Github issues and forums of popular Deep Learning frameworks, you can find many examples of researchers obtaining unexpected results (like [here](https://l7.curtisnorthcutt.com/towards-reproducibility-benchmarking-keras-pytorch) or [here](https://github.com/keras-team/keras/pull/9965) or [here](https://github.com/keras-team/keras/issues/4444) or [here](https://github.com/keras-team/keras/issues/8672) or [here](https://github.com/kuangliu/pytorch-cifar/issues/45) or [here](https://github.com/Microsoft/MMdnn/issues/595)). From what I have seen, high-level frameworks like Keras that hide low-level implementation details and come with implicit hyperparameter choices already made for you, are the most common source of confusion.
-[[CLM - Prevailing incentives in academia are bad for science]]
-
-- [[@britzAIResearchReplicability2020]]
-
-    - [[SOTA]] from old models are actually not really improved upon that much

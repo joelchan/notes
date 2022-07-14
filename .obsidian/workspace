@@ -7,8 +7,12 @@
         "id": "452403bb402bdb59",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "discourse-graph/questions/QUE - How might domain distance modulate the effects of analogies on creative output.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -73,6 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "discourse-graph/questions/QUE - How might domain distance modulate the effects of analogies on creative output.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,6 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "discourse-graph/questions/QUE - How might domain distance modulate the effects of analogies on creative output.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -110,7 +116,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "discourse-graph/questions/QUE - How might domain distance modulate the effects of analogies on creative output.md"
+              }
             }
           }
         ]
@@ -122,6 +130,11 @@
   },
   "active": "452403bb402bdb59",
   "lastOpenFiles": [
+    "discourse-graph/sources/@dunbarHowScientistsThink1997.md",
+    "discourse-graph/questions/QUE - How might domain distance modulate the effects of analogies on creative output.md",
+    "discourse-graph/questions/QUE - What (existing) systems facilitate individual synthesis.md",
+    "discourse-graph/evidence/EVD - Almost half of the pages in Darwin's notebooks were excised - @herbertRedNotebookCharles1980.md",
+    "discourse-graph/claims/CLM - A synthesis system needs to operate on a unit of analysis that is more granular than a publication.md",
     "README.md",
     "discourse-graph/claims/CLM - A significant proportion of the benefits of analogical stimuli is oblique or indirect.md"
   ]

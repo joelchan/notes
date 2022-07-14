@@ -17,4 +17,4 @@ date: Fri Jun 11 2021 16:29:50 GMT-0400 (Eastern Daylight Time)
 
 ###### Discourse Context
 
-- **Informs::** [[QUE - Is it possible to measure creativity in a scientifically precise way If so, how]]
+- **Informs::** [QUE - Is it possible to measure creativity in a scientifically precise way If so, how.md](QUE - Is it possible to measure creativity in a scientifically precise way If so, how.md)

@@ -22,13 +22,6 @@ date: Tue Jan 11 2022 15:15:54 GMT-0500 (Eastern Standard Time)
 
 ###### Discourse Context
 
-- **SourceFor::** [[EVD - Participants with more domain knowledge about the source domain performed better on all asses...hen they were presented with analogies in their learning text. - @braaschRolePriorKnowledge2010]]
-- **SourceFor::** [[EVD - Participants who were presented with the analogy text exhibited better learning rates, exhibi...lanations than participants who were presented a summary text. - @braaschRolePriorKnowledge2010]]
+- **SourceFor::** [EVD - Participants with more domain knowledge about the source domain performed better on all asses...hen they were presented with analogies in their learning text. - @braaschRolePriorKnowledge2010.md](EVD - Participants with more domain knowledge about the source domain performed better on all asses...hen they were presented with analogies in their learning text. - @braaschRolePriorKnowledge2010.md)
+- **SourceFor::** [EVD - Participants who were presented with the analogy text exhibited better learning rates, exhibi...lanations than participants who were presented a summary text. - @braaschRolePriorKnowledge2010.md](EVD - Participants who were presented with the analogy text exhibited better learning rates, exhibi...lanations than participants who were presented a summary text. - @braaschRolePriorKnowledge2010.md)
 
-###### References
-
-[[January 13th, 2022]]
-
-- [[@braaschRolePriorKnowledge2010]]
-
-    - {{embed: Results}}

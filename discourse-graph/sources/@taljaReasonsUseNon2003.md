@@ -40,27 +40,5 @@ date: Sat Apr 11 2020 12:14:01 GMT-0400 (Eastern Daylight Time)
 
 ###### Discourse Context
 
-- **Informs::** [[CLM - In interdisciplinary domains, network-based foraging is more powerful than search-based foraging]]
+- **Informs::** [CLM - In interdisciplinary domains, network-based foraging is more powerful than search-based foraging.md](CLM - In interdisciplinary domains, network-based foraging is more powerful than search-based foraging.md)
 
-###### References
-
-[[April 11th, 2020]]
-
-- [[@taljaReasonsUseNon2003]] talking about [[Domain-Analysis]] approach to understanding scholars' information needs: one systematic area of variation is the degree to which a domain is topical (we agree on what the objects are) vs. paradigmatic (diff. schools of thoughts to define what the objects are), which has implications for how people search for things (topics/keywords/subject headings not as useful for paradigmatic-relevance domains; there, they use much more browsing and chaining)
-
-    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fmegacoglab%2F7MuyvxGjHr?alt=media&token=847628a2-3ba1-4987-bc49-78282e211692)
-
-    - Probably [[interdisciplinarity]] #increase the degree to which relevance is paradigmatic vs. topical?
-
-    - Discussed also in [[@fisherTheoriesInformationBehavior2005]]
-[[April 17th, 2020]]
-
-- Domains vary substantially in what knowledge is considered "relevant", with very pragmatic implications for what kinds of information retrieval (and synthesis) tools should be designed (this is the idea of [[paradigmatic relevance]],. for example) [[@hjorlandEpistemologySociocognitivePerspective2002]] [[@taljaReasonsUseNon2003]]
-
-    - Disciplines have deep-rooted and consequential differences in what counts as "relevant" information. Some are characterized by [[paradigmatic relevance]], where the meaning of terms, and what therefore counts as relevant results for that term, vary substantially by "school of thought". #Relevance
-
-        - This has implications for reuse too I think, in [[synthesis]]: need to hold together varying conceptions of what makes something "relevant" and "reusable" (compounding the issues with [[context]] from [[CSCW]])
-
-            - {{embed: [[[[CLM]] - Specifying context for future reuse is costly]]}}
-
-    - This line of work in general seems more focused on information seeking ([[🧱 foraging]]), a lot less on [[synthesis]]

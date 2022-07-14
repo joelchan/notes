@@ -21,6 +21,6 @@ date: Wed May 20 2020 11:31:06 GMT-0400 (Eastern Daylight Time)
 
 ###### Discourse Context
 
-- **Informed By::** [[@agarwalExploringContextInformation2017]]
-- **Informed By::** [[@dourishWhatWeTalk2004]]
-- **Informed By::** [[@andersonDataBaseMent2008]]
+- **Informed By::** [@agarwalExploringContextInformation2017.md](@agarwalExploringContextInformation2017.md)
+- **Informed By::** [@dourishWhatWeTalk2004.md](@dourishWhatWeTalk2004.md)
+- **Informed By::** [@andersonDataBaseMent2008.md](@andersonDataBaseMent2008.md)

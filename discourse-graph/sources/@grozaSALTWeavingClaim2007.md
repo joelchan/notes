@@ -113,50 +113,7 @@ date: Mon Jun 15 2020 15:13:20 GMT-0400 (Eastern Daylight Time)
 
 ###### Discourse Context
 
-- **Informs::** [[QUE - What is the user experience of semantic authoring within regular scholarly workflows]]
-- **SourceFor::** [[EVD - Participants who marked up their own papers with a formal semantic scheme perceived the task ...n contrast to formally marking rhetorical relations between claims - @grozaSALTWeavingClaim2007]]
-- **SourceFor::** [[EVD - Participants who marked up their own papers with a formal semantic scheme self-reported that ...d less clear in terms of payoff compared to formally making claims - @grozaSALTWeavingClaim2007]]
+- **Informs::** [QUE - What is the user experience of semantic authoring within regular scholarly workflows.md](QUE - What is the user experience of semantic authoring within regular scholarly workflows.md)
+- **SourceFor::** [EVD - Participants who marked up their own papers with a formal semantic scheme perceived the task ...n contrast to formally marking rhetorical relations between claims - @grozaSALTWeavingClaim2007.md](EVD - Participants who marked up their own papers with a formal semantic scheme perceived the task ...n contrast to formally marking rhetorical relations between claims - @grozaSALTWeavingClaim2007.md)
+- **SourceFor::** [EVD - Participants who marked up their own papers with a formal semantic scheme self-reported that ...d less clear in terms of payoff compared to formally making claims - @grozaSALTWeavingClaim2007.md](EVD - Participants who marked up their own papers with a formal semantic scheme self-reported that ...d less clear in terms of payoff compared to formally making claims - @grozaSALTWeavingClaim2007.md)
 
-###### References
-
-[[Z Models of authoring for semantic publishing in scholarly communication infrastructures]]
-
-- #[[@grozaSALTWeavingClaim2007]]
-
-    - What's notable for us in the context of [[[[QUE]] - What is the user experience of semantic authoring within regular scholarly workflows?]] is that the assumption here is that this markup work is going to be done (willingly???) by **__authors__**
-[[February 6th, 2021]]
-
-- [[@grozaSALTWeavingClaim2007]]
-
-    - The 8 authors perceived the easier elements of SALT (like [[rhetorical blocks]] and marking that a text fragment is a claim) intuitive/easy, but struggled more with more complicated things like noting explicit relations between rhetorical elements, and including "domain knowledge" (I'm assuming this means some kind of formal ontology-like thing?) (p. 206, Fig. 7)
-
-    - The 8 authors perceived the easier elements of SALT (like [[rhetorical blocks]] and marking that a text fragment is a claim) more certain to payoff, but struggled more with more complicated things like noting explicit relations between rhetorical elements, and including "domain knowledge" (p. 206, Fig. 8b)
-[[QUE - What is the user experience of semantic authoring within regular scholarly workflows]]
-
-- [[@grozaSALTWeavingClaim2007]]
-
-    - The 8 authors perceived the easier elements of SALT (like [[rhetorical blocks]] and marking that a text fragment is a claim) intuitive/easy, but struggled more with more complicated things like noting explicit relations between rhetorical elements, and including "domain knowledge" (I'm assuming this means some kind of formal ontology-like thing?) (p. 206, Fig. 7)
-
-    - The 8 authors perceived the easier elements of SALT (like [[rhetorical blocks]] and marking that a text fragment is a claim) more certain to payoff, but struggled more with more complicated things like noting explicit relations between rhetorical elements, and including "domain knowledge" (p. 206, Fig. 8b)
-[[June 15th, 2020]]
-
-- 17:40 OK so what did we learn about this thread from looking at #[[@grozaSALTWeavingClaim2007]] and browsing around (lots of tabs still open)
-
-    - we now have ~2 studies showing that the act of [[compression]] is desirable and natural for **authors**
-
-    - i haven't yet found any studies of integration of "semantic work" into workflows other than authoring and curation
-
-        - cf. [[author contribution model of semantic publishing]] and [[specialized [[curator]] model of semantic publishing]]
-
-    - we need to be very precise about what we mean by "semantic work" (the framework will help here)
-
-    - there is a nice analogy to recent [[SOTA]] convos in [[data curation]]
-
-        - there's some analogous argumentation going on in the [[data curation]] world, about better connecting data publishing with where the data is actually generated
-
-    - shoudl read [[@randallDistributedOntologyBuilding2011]] next
-[[author contribution model of semantic publishing]]
-
-- #@grozaSALTWeavingClaim2007
-
-    - The 8 authors perceived the easier elements of SALT (like [[rhetorical blocks]] and marking that a text fragment is a claim) more certain to payoff, but struggled more with more complicated things like noting explicit relations between rhetorical elements, and including "domain knowledge" (p. 206, Fig. 8b)

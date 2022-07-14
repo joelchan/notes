@@ -79,24 +79,5 @@ date: Mon Jul 20 2020 13:15:13 GMT-0400 (Eastern Daylight Time)
 
 ###### Discourse Context
 
-- **Informs::** [[QUE - How can we best bridge private vs. public knowledge]]
+- **Informs::** [QUE - How can we best bridge private vs. public knowledge.md](QUE - How can we best bridge private vs. public knowledge.md)
 
-###### References
-
-[[@ackermanSharingKnowledgeExpertise2013]]
-
-- #ClaimSecondary people find adding meta-data to be laborsome [[@hinrichsContextGrabbingAssigning2005]]
-
-    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fmegacoglab%2FFvtyx1Wepe.png?alt=media&token=fee6554d-969c-4033-a6b7-b6b9d5e5a32b) (p. 540)
-[[January 7th, 2021]]
-
-- {{[[DONE]]}} [[@hinrichsContextGrabbingAssigning2005]]
-
-    - words from chi submission:
-
-        - > Hinrichs and colleagues documented how workers in a steel mill and sewerage plant faced challenges reusing documents which were outdated or inappropriate. The use of physical documents and decentralized information management meant that multiple copies of the same document could appear in different locations, each with varying levels of accuracy or completeness. In one extreme case, this “incomplete or inaccessible documentation” could lead to “costly exploratory ‘digging by hand’ to avoid damaging power lines” (p.375). - from chi submission
-[[QUE - How can we best bridge private vs. public knowledge]]
-
-- [[@hinrichsContextGrabbingAssigning2005]]
-
-    - [Decentralized project documentation](((BMX6-DOV6))) made recontextualization difficult for [engineers](((CUoGHVXbV))) because they didn't know the [history of changes for a document or if a particular document was up to date](((ANL0-Gihc))), leading to issues such as ["exploratory digging by hand" to avoid damaging power lines](((ZXWd_oKNJ))) pg 375

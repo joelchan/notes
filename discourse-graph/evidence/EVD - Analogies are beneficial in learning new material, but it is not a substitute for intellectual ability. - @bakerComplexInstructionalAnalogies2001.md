@@ -86,4 +86,4 @@ date: Tue Jan 11 2022 16:11:49 GMT-0500 (Eastern Standard Time)
 
 ###### Discourse Context
 
-- **FromSource::** [[@bakerComplexInstructionalAnalogies2001]]
+- **FromSource::** [@bakerComplexInstructionalAnalogies2001.md](@bakerComplexInstructionalAnalogies2001.md)

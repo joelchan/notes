@@ -55,29 +55,5 @@ date: Tue Jun 09 2020 16:40:43 GMT-0400 (Eastern Daylight Time)
 
 ###### Discourse Context
 
-- **Informs::** [[CLM - Prevailing incentives in academia are bad for science]]
+- **Informs::** [CLM - Prevailing incentives in academia are bad for science.md](CLM - Prevailing incentives in academia are bad for science.md)
 
-###### References
-
-[[CLM - Prevailing incentives in academia are bad for science]]
-
-- [[@johnMeasuringPrevalenceQuestionable2012]]
-
-    - Approximately 50% of psychologists have engaged in [[Questionable Research Practices]] (short of falsifying data) at least once (p. 527)
-
-        - ((7ia6XJRBw))
-[[June 9th, 2020]]
-
-- Found this intriguing / audacious paper in the "derivative works" section of the [[sys/ConnectedPapers]] graph for #[[@johnMeasuringPrevalenceQuestionable2012]] - #[[@knutesonSolutionScienceReplication2016]]
-
-    - Browsing was relevant to thinking about #[[[[CLM]] - Prevailing incentives in academia are bad for science]]
-
-    - #[[@knutesonSolutionScienceReplication2016]] Describes a literal marketplace of ideas, where knowledge-havers sell information to knowledge-seekers.
-
-        - System ([[sys/KN-X]]) is deployed here: https://www.kn-x.com/
-
-        - More accessible description here: https://www.kn-x.com/static/PWFeb17forum.pdf
-
-    - Author ([[Bruce Knuteson]]) ((R_sRwQn2a))
-
-        - Generally, I'm intrigued by these folks who were traditionally very successful in academia, but left to continue working on big problems. First one I knew of was [[Michael Nielsen]], then [[David Chapman]] and [[Benjamin Reinhardt]], and now this person.

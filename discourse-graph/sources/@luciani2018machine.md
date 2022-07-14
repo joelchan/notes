@@ -57,46 +57,5 @@ date: Wed Feb 05 2020 14:31:08 GMT-0500 (Eastern Standard Time)
 
 ###### Discourse Context
 
-- **Informs::** [[CLM - Designing with machine learning as a design material is challenging]]
+- **Informs::** [CLM - Designing with machine learning as a design material is challenging.md](CLM - Designing with machine learning as a design material is challenging.md)
 
-###### References
-
-[[My-Literature]]
-
-- [[@luciani2018machine]]
-
-    - entry-point reading, actually bit confusing
-[[February 5th, 2020]]
-
-- Reading [[@luciani2018machine]] for discussing [[material knowledge]] with [[Wei-Wei Chi]] for [[D/Democratizing Design]]
-
-    - Struck by parallels to work on [[analytic [[provenance]]]], [[explainable AI]], and [[Bret Victor]]'s work on [[dynamic media]]
-
-    - One striking claim is that, to some extent, machine learning as a design material is hard to work with because it is in some sense a complex autonomous agent. Not too different from a human!
-
-        - Which means that studying how to work with Machine Learning and AI as a design material can help us bridge to working with humans as a design material, in the sense that **[[policy design]] can be seen as the act of designing with humans as a design material**
-
-        - Corollary to this: we can glean insights from other domains that rely on working with "complex autonomous" agents, if they've found good workarounds or heuristics
-
-            - Examples might be community organizing, city planning, etc.
-
-        - More generally, explainable/interpetable mechanisms as means of contorl might be fundamentally out of reach, if [[@hassonDirectFitNature2020]] are right about the fact that the class of "direct-fit" functions that include both biological (e.g., human) and artificial neural networks are fundamentally irreducible to simple, human-interpretable rules, because that's just not how they work.
-
-        - machine learning is a special kind of design material because it is "unpredictable, emergent, and 'alive'" (p. 3)
-
-    - One #idea might be to build on [[@haugAcquiringMaterialsKnowledge2019]] to create a mapping of senso-aesthetic properties of machine learning as a design material to start the conversation about [[material knowledge]] of AI/ML as a design material for [[P/Material Knowledge of ML for Design]]
-
-        - Could submit this to [[FAccT]] conference?
-
-            - Deadline is mid-to-late August, and conference is in late January, in Toronto next year
-
-            - But could be good for [[conf/CHI]] as well, or other conferences like [[conf/DIS]]
-
-        - Similar potential inspiration in [[@amershiGuidelinesHumanAIInteraction2019]]
-
-        - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fmegacoglab%2FABJ47oKJTV?alt=media&token=e25fb8d3-99ec-4fac-bda3-db29694bc801)
-[[CLM - Designing with machine learning as a design material is challenging]]
-
-- [[@luciani2018machine]] Title: Machine learning as a design material: A curated collection of exemplars for visual interaction
-
-    - Terrible paper, but useful entry point into that citation tree

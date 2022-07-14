@@ -20,14 +20,7 @@ date: Tue Jul 20 2021 14:33:10 GMT-0400 (Eastern Daylight Time)
 
 ###### Discourse Context
 
-- **Informs::** [[QUE - What tension points exist between the goals of diversity and depth of user participation in participatory design]]
-- **Supports::** [[CLM - Marginalized user populations may require involvement of extra stakeholders who may complicate hearing the users' voices]]
-- **FromSource::** [[@holoneThreeTensionsParticipatory2013b]]
+- **Informs::** [QUE - What tension points exist between the goals of diversity and depth of user participation in participatory design.md](QUE - What tension points exist between the goals of diversity and depth of user participation in participatory design.md)
+- **Supports::** [CLM - Marginalized user populations may require involvement of extra stakeholders who may complicate hearing the users' voices.md](CLM - Marginalized user populations may require involvement of extra stakeholders who may complicate hearing the users' voices.md)
+- **FromSource::** [@holoneThreeTensionsParticipatory2013b.md](@holoneThreeTensionsParticipatory2013b.md)
 
-###### References
-
-[[July 20th, 2021]]
-
-- there also seems to be something here about **extra stakeholders and layers of interpretation**: [[[[EVD]] - helpers - who had to be present - sometimes made assumptions and spoke for children with disabilities during design activities - [[@holoneThreeTensionsParticipatory2013b]]]]
-
-    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fmegacoglab%2FWdIOOvG-q-.png?alt=media&token=d0f22031-68ae-429b-b07b-65155bd31763) (p. 2905)

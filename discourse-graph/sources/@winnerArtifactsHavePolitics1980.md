@@ -35,4 +35,4 @@ date: Wed Jul 22 2020 16:47:24 GMT-0400 (Eastern Daylight Time)
 
 ###### Discourse Context
 
-- **Informs::** [[CLM - Artifacts have politics]]
+- **Informs::** [CLM - Artifacts have politics.md](CLM - Artifacts have politics.md)

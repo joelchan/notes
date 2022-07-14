@@ -35,67 +35,9 @@ date: Sat Dec 26 2020 22:03:45 GMT-0500 (Eastern Standard Time)
 
 ###### Discourse Context
 
-- **Informs::** [[QUE - How can we best bridge private vs. public knowledge]]
-- **Informs::** [[QUE - Under what conditions do diverse initial examples lead to better final design solutions]]
-- **Informs::** [[THE - interaction-oriented theory of creative inspiration from examples]]
-- **SourceFor::** [[EVD - designers used examples to shape their understanding of the problem before generating solutions - @herringGettingInspiredUnderstanding2009]]
-- **SourceFor::** [[EVD - designers used examples by re-appropriating and recombining solution components into novel ideas - @herringGettingInspiredUnderstanding2009]]
+- **Informs::** [QUE - How can we best bridge private vs. public knowledge.md](QUE - How can we best bridge private vs. public knowledge.md)
+- **Informs::** [QUE - Under what conditions do diverse initial examples lead to better final design solutions.md](QUE - Under what conditions do diverse initial examples lead to better final design solutions.md)
+- **Informs::** [THE - interaction-oriented theory of creative inspiration from examples.md](THE - interaction-oriented theory of creative inspiration from examples.md)
+- **SourceFor::** [EVD - designers used examples to shape their understanding of the problem before generating solutions - @herringGettingInspiredUnderstanding2009.md](EVD - designers used examples to shape their understanding of the problem before generating solutions - @herringGettingInspiredUnderstanding2009.md)
+- **SourceFor::** [EVD - designers used examples by re-appropriating and recombining solution components into novel ideas - @herringGettingInspiredUnderstanding2009.md](EVD - designers used examples by re-appropriating and recombining solution components into novel ideas - @herringGettingInspiredUnderstanding2009.md)
 
-###### References
-
-[[Week of July 4th, 2022]]
-
-- really neat [[sys/ConnectedPapers]] neighborhood too, including familiar favorites like [[@sharminUnderstandingKnowledgeManagement2009b]] and [[@herringGettingInspiredUnderstanding2009]] and [[@kerneStrategiesFreeFormWeb2017]]
-
-    - https://www.connectedpapers.com/main/a8cc6f38857986bb82ff083cace814cd11b19449/ReflectionSpace%3A-an-interactive-visualization-tool-for-supporting-reflection%20on%20action-in-design/graph
-
-    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fmegacoglab%2Fk7ZbZ1_9Uv.57.47.gif?alt=media&token=11a6a742-96da-454f-b25b-111834e9bd55)
-[[December 14th, 2021]]
-
-- [[@herringGettingInspiredUnderstanding2009]] for [[[[QUE]] - Under what conditions do diverse initial examples lead to better final design solutions?]] | designers used examples to model problem space, as well as find pieces to recombine
-
-    - foraging
-
-        - research on case-based design
-
-            - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fmegacoglab%2FD87OGof8zs.png?alt=media&token=5d72aeb3-0e78-4010-a5e7-195bc1861cd1) (p. 1)
-
-        - creative design practice, including use of representations
-
-            - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fmegacoglab%2FDl4r7Zc1tG.png?alt=media&token=52a2010c-271a-4939-bc4e-b8ef6fcb9568) (p. 2)
-
-    - core results for this question
-
-        - [[[[EVD]] - designers used examples to shape their understanding of the problem before generating solutions - [[@herringGettingInspiredUnderstanding2009]]]] - #Informs
-
-        - [[[[EVD]] - designers used examples by re-appropriating and recombining solution components into novel ideas - [[@herringGettingInspiredUnderstanding2009]]]] #Informs
-
-    - methods
-
-        - 11 designers across domains of product, graphic, and web designers, with an average of 9 years of experience
-
-            - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fmegacoglab%2FuXyN7fMJAx.png?alt=media&token=43faf35a-375f-438e-af80-c9786ffd37da) (p. 3)
-
-            - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fmegacoglab%2FUt6KBs2oxz.png?alt=media&token=670f297f-b720-464d-afc5-1779c537be6e) (p. 3)
-
-        - data collection: [[m/Semi-structured interviews]] in designers' workspace
-
-            - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fmegacoglab%2FUWWgi-A4ia.png?alt=media&token=4609acad-e8d3-49d0-a034-6da25e5c4255) (p. 3)
-
-        - caution: no analysis method detailed, so be cautious
-
-    - other fun observations
-
-        - designers often struggle to articulate keywords during active search for examples
-
-            - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fmegacoglab%2FJsJf9T3192.png?alt=media&token=7746936f-a67e-480c-96ac-0fac3bc46962) (p. 6)
-
-        - in general, lots of variation in preferences for web vs. physical (re: serendepity vs. organization, distraction vs. inspiration)
-
-        - pretty strong thread about needing to integrate [[🧱 foraging]] with [[🧱 sensemaking]] (help designers remember what they found interesting about an example that they bookmarked) - essentially can interpret this as connecting to [[context]]
-
-            - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fmegacoglab%2Fw5j2l2tAl2.png?alt=media&token=17e0d1e3-de70-45ad-94cd-aac7db685e69) (p. 9)
-
-    - their conclusions relevant to us
-
-        - [[[[CL]] - example exploration interfaces should enable visual structuring beyond linear or hierarchical lists - [[@herringGettingInspiredUnderstanding2009]]]]

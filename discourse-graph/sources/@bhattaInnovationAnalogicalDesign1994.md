@@ -17,20 +17,7 @@ date: Wed Oct 07 2020 17:10:03 GMT-0400 (Eastern Daylight Time)
 
 ###### Discourse Context
 
-- **Informs::** [[CLM - Core mismatches in analogical inspiration improve creativity]]
-- **Informs::** [[CLM - Analogies can power creative breakthroughs by stimulating effective problem (re)formulation]]
-- **Informs::** [[QUE - How do people effectively (re)formulate creative problems]]
+- **Informs::** [CLM - Core mismatches in analogical inspiration improve creativity.md](CLM - Core mismatches in analogical inspiration improve creativity.md)
+- **Informs::** [CLM - Analogies can power creative breakthroughs by stimulating effective problem (re)formulation.md](CLM - Analogies can power creative breakthroughs by stimulating effective problem (re)formulation.md)
+- **Informs::** [QUE - How do people effectively (re)formulate creative problems.md](QUE - How do people effectively (re)formulate creative problems.md)
 
-###### References
-
-[[CLM - Core mismatches in analogical inspiration improve creativity]]
-
-- [[@bhattaInnovationAnalogicalDesign1994]] has idea of "non-local adaptation of design [analogies]([[analogy]])
-
-    - screenshot
-
-        - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fmegacoglab%2FtyEZwk70B2.png?alt=media&token=5de80f42-d11a-4ca0-9e69-2f0deaed6b1a)
-
-    - it's a model, no empirical results in the paper, other than references to prior phenomena
-
-    - but the process laid out here dovetails nicely with what is observed in [[@helmsCompoundAnalogicalDesign2008]] and [[@gentnerAnalogyCreativityWorks1997]], as well as in [[@gruberDarwinManPsychological1974]], and what we see in person

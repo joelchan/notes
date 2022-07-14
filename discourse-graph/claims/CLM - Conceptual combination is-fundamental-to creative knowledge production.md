@@ -25,12 +25,5 @@ date: Thu Feb 27 2020 14:53:28 GMT-0500 (Eastern Standard Time)
 
 ###### Discourse Context
 
-- **Informed By::** [[@aertsConceptsTheirDynamics2013a]]
+- **Informed By::** [@aertsConceptsTheirDynamics2013a.md](@aertsConceptsTheirDynamics2013a.md)
 
-###### References
-
-[[CLM - Synthesis is creating a new whole out of component parts]]
-
-- #[[Z: Synthesis is a creative act]], and #[[[[CLM]] - Conceptual combination is-fundamental-to creative knowledge production]]
-
-    - The idea of pairwise conceptual combination is similar to 5: Dialectical resolution (p. 350) as noted by [[@strikeTypesSynthesisTheir1983]] - synthesis as a new understanding constructed from a thesis and antithesis

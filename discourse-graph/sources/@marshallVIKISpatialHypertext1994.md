@@ -17,4 +17,5 @@ date: Wed Jan 12 2022 00:18:20 GMT-0500 (Eastern Standard Time)
 
 ###### Discourse Context
 
-- **Informs::** [[PTN - incremental formalization]]
+- **Informs::** [CLM - Visuospatial reasoning is particularly well-suited for developing early-stage knowledge structures.md](CLM - Visuospatial reasoning is particularly well-suited for developing early-stage knowledge structures.md)
+- **Informs::** [PTN - incremental formalization.md](PTN - incremental formalization.md)

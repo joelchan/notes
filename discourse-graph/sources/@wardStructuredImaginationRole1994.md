@@ -145,50 +145,8 @@ date: Wed Aug 19 2020 10:46:40 GMT-0400 (Eastern Daylight Time)
 
 ###### Discourse Context
 
-- **Informs::** [[CLM - Recent or concurrent exposure to ideas can substantially influence the direction of ideation]]
-- **Informs::** [[QUE - What are some major phenomena around designers' exploration of design spaces and how might these map to characteristics of optimizers]]
-- **Informs::** [[THE - interaction-oriented theory of creative inspiration from examples]]
-- **SourceFor::** [[EVD - Undergrads' drawings of imaginary animals frequently included typical features from earth animals, with occasional deviations - @wardStructuredImaginationRole1994]]
+- **Informs::** [CLM - Recent or concurrent exposure to ideas can substantially influence the direction of ideation.md](CLM - Recent or concurrent exposure to ideas can substantially influence the direction of ideation.md)
+- **Informs::** [QUE - What are some major phenomena around designers' exploration of design spaces and how might these map to characteristics of optimizers.md](QUE - What are some major phenomena around designers' exploration of design spaces and how might these map to characteristics of optimizers.md)
+- **Informs::** [THE - interaction-oriented theory of creative inspiration from examples.md](THE - interaction-oriented theory of creative inspiration from examples.md)
+- **SourceFor::** [EVD - Undergrads' drawings of imaginary animals frequently included typical features from earth animals, with occasional deviations - @wardStructuredImaginationRole1994.md](EVD - Undergrads' drawings of imaginary animals frequently included typical features from earth animals, with occasional deviations - @wardStructuredImaginationRole1994.md)
 
-###### References
-
-[[December 28th, 2021]]
-
-- #[[➰ breadcrumbs]] some later stuff via [[sys/scite.ai]]: with similar alien drawing task as [[@wardStructuredImaginationRole1994]], [[@birdsellCreativeCognitionConceptual2019]] find that dissimilar combinations led to more creative and complex ideas (though the method of assessment is uncertain from the snippet):
-
-    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fmegacoglab%2Fcid3tVHowd.png?alt=media&token=c49b1ef0-6349-4f46-a6a8-5370f50908aa)
-[[February 27th, 2021]]
-
-- Reading [[@wardStructuredImaginationRole1994]] for [[[[QUE]] - What is the relationship between prior knowledge and new ideas?]]
-
-    - **What does this source contribute for these questions?** ((blockref in observation notes and other interesting notes from the paper to discuss here)) #lit-context
-
-        - In Experiment 1, Ward reported that his participants [overwhelmingly used typical features]([Undergraduate students](((GLVjpDndf))) who were [asked to draw imaginary animals](((zwS0EXV9n))) frequently drew animals with [features](((3M9PoLNDg))) that were [typical of earth animals](((CwNnKVLFv))), such as bilateral symmetry, legs/arms/wings, and typical numbers of appendages and sense organs (e.g. two eyes/ears, one nose, two/four legs), although a substantial number of [drawings](((hYbIddsIH))) also had a [limited number of differences from earth animals](((O1BIsqaIh))), such as unusual sense organs or appendages.) from earth animals, such as bilateral symmetry, and [tended not to vary "core features"](((caor_iQvz))) such as appendages and organs when varying exemplars within species, consistent with attribute-listing studies. Based on this, Ward argues that people's imagination is structured by their knowledge of both features and how animals tend to vary in features, based on the fact
-
-            - Should grab those attribute listing studies: Tversky & Hemenway 1974 is one
-
-                - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fmegacoglab%2FwYg5RWef4Q.png?alt=media&token=1e977ebd-3713-47bc-bc18-ea1ef32b4854)
-
-            - Should note, at least in Experiment 1 and 2, no particular instructions are given to be creative: in fact, it's hard to tell what the students were expecting in terms of what counts as "good" for the task.
-
-                - So it's hard to extrapolate this to real settings where people might have higher/lower motivation to be creative. I'm not even sure if this is the "base state". It's a data point, but I'm not quite sure how to contextualize a set of undergrad intro psych students doing this task for course credit wrt the population we actually care about: professionals trying to be creative in their jobs or endeavors they care about.
-
-        - Skimming ahead, it looks like:
-
-            - Experiment 2 is about another aspect of structuring: feature correlations, and also a potential mechanism of retrieving specific exemplars
-
-            - Experiment 3 and 4 probe this mechanism of retrieving specific exemplars (again, I'm dubious that this is just a fact about how "people" do things...)
-
-            - Experiment 5 is a bit more interesting: it analyzes imagined animals in science fiction writers. This helps me [think through](So it's hard to extrapolate this to real settings where people might have higher/lower motivation to be creative. I'm not even sure if this is the "base state". It's a data point, but I'm not quite sure how to contextualize a set of undergrad intro psych students doing this task for course credit wrt the population we actually care about: professionals trying to be creative in their jobs or endeavors they care about.) how the findings might relate to real-world settings.
-
-    - These are fun to do, but probably not super urgent. Can chip away at them. More important and urgent would be studies and findings around [analogies]([[[[QUE]] - How might domain distance modulate the effects of analogies on creative output?]]) and [people and cross-boundary information]([[[[QUE]] - What are the most efficient routes to useful cross-boundary knowledge?]]) more specifically.
-
-    - Honestly, feeling a bit overwhelmed by the prospect.
-
-        - Can it be done faster? I'm not sure that it should! I don't think I was doing that much on the tech side: pace felt kind of like how one might do it with a regular template, or analog workflow like [[Raul Pacheco-Vega]]'s: it just takes time to read a paper well!
-
-        - Feeling uncomfortable now with the idea of just using knowledge I haven't vetted.
-
-        - It takes time to read! I should have done this well during my PhD!
-
-        - This might be the high barrier to entry for people who are already further along: less of a problem I think if you're starting from this point. Or I guess if you have a single project to start with.

@@ -9,4 +9,4 @@ date: Tue Jan 04 2022 12:10:33 GMT-0500 (Eastern Standard Time)
 
 ###### Discourse Context
 
-- **Informs::** [[THE - Goel's Structure-Behavior-Function (SBF) model]]
+- **Informs::** [THE - Goel's Structure-Behavior-Function (SBF) model.md](THE - Goel's Structure-Behavior-Function (SBF) model.md)

@@ -18,7 +18,7 @@ date: Tue Mar 15 2022 16:07:18 GMT-0400 (Eastern Daylight Time)
 
 ###### Discourse Context
 
-- **Informed By::** [[@chanImpactAnalogiesCreative2015]]
-- **Informed By::** [[@dunbarHowScientistsThink1997]]
-- **Informed By::** [[@gentnerAnalogyCreativityWorks1997]]
-- **Informed By::** [[@holyoakMentalLeapsAnalogy1996]]
+- **Informed By::** [@chanImpactAnalogiesCreative2015.md](@chanImpactAnalogiesCreative2015.md)
+- **Informed By::** [@dunbarHowScientistsThink1997.md](@dunbarHowScientistsThink1997.md)
+- **Informed By::** [@gentnerAnalogyCreativityWorks1997.md](@gentnerAnalogyCreativityWorks1997.md)
+- **Informed By::** [@holyoakMentalLeapsAnalogy1996.md](@holyoakMentalLeapsAnalogy1996.md)

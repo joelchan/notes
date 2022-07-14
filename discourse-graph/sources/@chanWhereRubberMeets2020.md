@@ -37,16 +37,7 @@ date: Mon Aug 03 2020 21:50:26 GMT-0400 (Eastern Daylight Time)
 
 ###### Discourse Context
 
-- **Informs::** [[CLM - Context and privacy are in tension when sharing knowledge with others]]
-- **Informs::** [[QUE - What semantic publishing work is already being done by scholars in their scholarly workflows]]
-- **Informs::** [[QUE - How might we characterize scientists' synthesis practices from a processtool perspective]]
+- **Informs::** [CLM - Context and privacy are in tension when sharing knowledge with others.md](CLM - Context and privacy are in tension when sharing knowledge with others.md)
+- **Informs::** [QUE - What semantic publishing work is already being done by scholars in their scholarly workflows.md](QUE - What semantic publishing work is already being done by scholars in their scholarly workflows.md)
+- **Informs::** [QUE - How might we characterize scientists' synthesis practices from a processtool perspective.md](QUE - How might we characterize scientists' synthesis practices from a processtool perspective.md)
 
-###### References
-
-[[QUE - How might we characterize scientists' synthesis practices from a processtool perspective]]
-
-- Yet, there are some hints of optimal paths, that on closer analysis, seem to align with the epistemic models [[@qianOpeningBlackBox2020]] [[@chanWhereRubberMeets2020]]
-
-    - [[Desire Path]] in [[[[CLM]] - Effective individual synthesis systems (seem to mostly) exist (for a select few)]]
-
-        - What we see now is not infrastructure for synthesis. Instead, we see people either resort to all sorts of "hacks" and workarounds, or put in a substantial amount of work to "mine" publications for what they need (for an evocative example of this, see [[@knightEnslavedTrappedData2019]]). We have a whole cottage industry that is dedicated to fueling workarounds of this sort, for systematic reviewing. While these hacks often work well enough for the task at hand, they are rarely transferred in systematic ways across projects and people, violating the dimensions of "reach or scope" and "embodiment of standards", laid out by [[@starStepsEcologyInfrastructure1996]].

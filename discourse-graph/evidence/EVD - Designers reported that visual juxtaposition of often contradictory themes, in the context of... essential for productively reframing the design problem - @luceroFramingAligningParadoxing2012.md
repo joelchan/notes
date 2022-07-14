@@ -36,14 +36,7 @@ date: Wed Jun 29 2022 11:24:11 GMT-0400 (Eastern Daylight Time)
 
 ###### Discourse Context
 
-- **Informs::** [[THE - interaction-oriented theory of creative inspiration from examples]]
-- **Supports::** [[CLM - diverse examples improve creative outcomes by enabling novel conceptual integrations]]
-- **FromSource::** [[@luceroFramingAligningParadoxing2012]]
+- **Informs::** [THE - interaction-oriented theory of creative inspiration from examples.md](THE - interaction-oriented theory of creative inspiration from examples.md)
+- **Supports::** [CLM - diverse examples improve creative outcomes by enabling novel conceptual integrations.md](CLM - diverse examples improve creative outcomes by enabling novel conceptual integrations.md)
+- **FromSource::** [@luceroFramingAligningParadoxing2012.md](@luceroFramingAligningParadoxing2012.md)
 
-###### References
-
-[[@luceroFramingAligningParadoxing2012]]
-
-- [[[[EVD]] - Designers reported that visual juxtaposition of often contradictory themes, in the context of a coherent whole, on mood boards was essential for productively reframing the design problem - [[@luceroFramingAligningParadoxing2012]]]]
-
-    - this [[Supports]] [[[[CLM]] - diverse examples improve creative outcomes by enabling novel conceptual integrations]]

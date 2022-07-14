@@ -29,23 +29,6 @@ date: Sun Jan 17 2021 22:03:42 GMT-0500 (Eastern Standard Time)
 
 ###### Discourse Context
 
-- **Informs::** [[QUE - What are the most efficient routes to useful cross-boundary knowledge]]
-- **Informs::** [[QUE - How and in what ways is collocation important for collaborative innovation]]
+- **Informs::** [QUE - What are the most efficient routes to useful cross-boundary knowledge.md](QUE - What are the most efficient routes to useful cross-boundary knowledge.md)
+- **Informs::** [QUE - How and in what ways is collocation important for collaborative innovation.md](QUE - How and in what ways is collocation important for collaborative innovation.md)
 
-###### References
-
-[[QUE - What are the most efficient routes to useful cross-boundary knowledge]]
-
-- [[@cataliniHowTravelCosts2020]] How Do Travel Costs Shape Collaboration?
-
-    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fmegacoglab%2FxVOuD2Oacn.png?alt=media&token=d554f0a9-6472-4081-9f1f-9bd1218eb701)
-
-        - (Disputing) From Catalini: reduction in travel costs leads to an increase in researchers' collaboration decision, specifically helping male researchers
-
-            - That travel constraint is an additional and opposing force to [[colocation (matters for the) innovation/collaboration]]. A tradeoff.
-
-            - Also questions/leaves open the exact form of [[search costs of innovation]]
-
-    - Quasi-experiment: introduction of a new travel line. [[difference in difference analysis]]
-
-    - Still regression metric = # of collaboration (co-pub between scientist A and B in year t)

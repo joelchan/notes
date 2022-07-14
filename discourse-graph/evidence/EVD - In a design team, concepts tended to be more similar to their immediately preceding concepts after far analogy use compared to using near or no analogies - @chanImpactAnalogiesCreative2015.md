@@ -54,14 +54,7 @@ date: Wed Jun 30 2021 11:00:25 GMT-0400 (Eastern Daylight Time)
 
 ###### Discourse Context
 
-- **Informs::** [[QUE - How might domain distance modulate the effects of analogies on creative output]]
-- **Opposes::** [[CLM - Analogical distance of inspirations for an idea are positively related to the idea's creativity]]
-- **FromSource::** [[@chanImpactAnalogiesCreative2015]]
+- **Informs::** [QUE - How might domain distance modulate the effects of analogies on creative output.md](QUE - How might domain distance modulate the effects of analogies on creative output.md)
+- **Opposes::** [CLM - Analogical distance of inspirations for an idea are positively related to the idea's creativity.md](CLM - Analogical distance of inspirations for an idea are positively related to the idea's creativity.md)
+- **FromSource::** [@chanImpactAnalogiesCreative2015.md](@chanImpactAnalogiesCreative2015.md)
 
-###### References
-
-[[EVD - A molecular biologist who had made a major scientific conceptual change did not recall any of the spontaneous analogies used to enact that change - @dunbarHowScientistsThink1997]]
-
-- Researcher observed analogies used in the construction of a major conceptual change in a molecular biology lab; the postdoc who engineered that change (alongside others in a lab meeting) [was not able to recall](![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fmegacoglab%2FPGOl3p2KzJ.png?alt=media&token=3dee907b-fd27-481f-bd86-53dc22af53fd)) any of the analogies involved when asked a week, month, 3 months, and 9 months later. [[[[EVD]] - In a design team, concepts tended to be more similar to their immediately preceding concepts after far analogy use compared to using near or no analogies - [[@chanImpactAnalogiesCreative2015]]]]
-
-    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fmegacoglab%2FPGOl3p2KzJ.png?alt=media&token=3dee907b-fd27-481f-bd86-53dc22af53fd)

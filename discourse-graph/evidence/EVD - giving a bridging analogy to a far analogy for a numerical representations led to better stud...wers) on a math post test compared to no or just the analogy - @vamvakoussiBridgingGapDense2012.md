@@ -44,8 +44,8 @@ date: Thu Dec 09 2021 14:47:52 GMT-0500 (Eastern Standard Time)
 
 ###### Discourse Context
 
-- **Informs::** [[QUE - What factors control whether people appropriately benefit from analogies (especially far-field ones) during creative problem solving]]
-- **Supports::** [[CLM - Bridging analogies can help students understand difficult new concepts]]
-- **Consistent With::** [[EVD - teachers in countries with high math and science achievement scores also displayed more cogni... in a country with lower math and science achievement - @richlandCognitiveSupportsAnalogies2007]]
-- **Consistent With::** [[EVD - When provided scaffolding for a similar problem students performed similarly compared to thei...group provided scaffolding performed significantly better. - @richlandReducingCognitiveLoad2013]]
-- **FromSource::** [[@vamvakoussiBridgingGapDense2012]]
+- **Informs::** [QUE - What factors control whether people appropriately benefit from analogies (especially far-field ones) during creative problem solving.md](QUE - What factors control whether people appropriately benefit from analogies (especially far-field ones) during creative problem solving.md)
+- **Supports::** [CLM - Bridging analogies can help students understand difficult new concepts.md](CLM - Bridging analogies can help students understand difficult new concepts.md)
+- **Consistent With::** [EVD - teachers in countries with high math and science achievement scores also displayed more cogni... in a country with lower math and science achievement - @richlandCognitiveSupportsAnalogies2007.md](EVD - teachers in countries with high math and science achievement scores also displayed more cogni... in a country with lower math and science achievement - @richlandCognitiveSupportsAnalogies2007.md)
+- **Consistent With::** [EVD - When provided scaffolding for a similar problem students performed similarly compared to thei...group provided scaffolding performed significantly better. - @richlandReducingCognitiveLoad2013.md](EVD - When provided scaffolding for a similar problem students performed similarly compared to thei...group provided scaffolding performed significantly better. - @richlandReducingCognitiveLoad2013.md)
+- **FromSource::** [@vamvakoussiBridgingGapDense2012.md](@vamvakoussiBridgingGapDense2012.md)

@@ -18,14 +18,5 @@ date: Thu Oct 21 2021 09:59:07 GMT-0400 (Eastern Daylight Time)
 
 ###### Discourse Context
 
-- **Informs::** [[CLM - Diversity in epistemology and methodology is critical for scientific progress]]
+- **Informs::** [CLM - Diversity in epistemology and methodology is critical for scientific progress.md](CLM - Diversity in epistemology and methodology is critical for scientific progress.md)
 
-###### References
-
-[[April 26th, 2021]]
-
-- [[@richHowHardCognitive2021]] cites [this result](if we assume that P != NP, and a function f is intractable, claiming that we have any polynomial-time procedure for solving f (by tractably choosing from a finite set of tractable heuristics) implies that P=NP ([[reductio ad absurdum]])) as support for this claim
-
-    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fmegacoglab%2FdWJDK4jrnc.png?alt=media&token=e158d319-4e9b-42ef-9952-483ff916a359)
-
-    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fmegacoglab%2Ft0FUh8grSP.png?alt=media&token=86388358-8211-47b1-8d09-992a4e306837)

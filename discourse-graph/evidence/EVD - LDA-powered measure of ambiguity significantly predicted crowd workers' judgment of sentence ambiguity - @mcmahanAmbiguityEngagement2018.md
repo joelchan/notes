@@ -22,4 +22,4 @@ date: Mon Jul 12 2021 15:25:08 GMT-0400 (Eastern Daylight Time)
 
 ###### Discourse Context
 
-- **FromSource::** [[@mcmahanAmbiguityEngagement2018]]
+- **FromSource::** [@mcmahanAmbiguityEngagement2018.md](@mcmahanAmbiguityEngagement2018.md)

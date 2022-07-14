@@ -41,23 +41,5 @@ date: Tue Jun 16 2020 10:08:44 GMT-0400 (Eastern Daylight Time)
 
 ###### Discourse Context
 
-- **Informs::** [[QUE - Do scholarly synthesis infrastructures already exist]]
+- **Informs::** [QUE - Do scholarly synthesis infrastructures already exist.md](QUE - Do scholarly synthesis infrastructures already exist.md)
 
-###### References
-
-[[June 16th, 2020]]
-
-- Skimming through #[[@berners-leePublishingSemanticWeb2001]] (cited by lots of [[semantic publishing]] papers, especially in the citation tree of #[[@kuhnBroadeningScopeNanopublications2013]])
-
-    - The argument is made again for the [[author contribution model of semantic publishing]]
-
-        - It's important to weigh the incentives here... Can we expect *all* of the semantic publishing work to be done by the authors? What is the cost/benefit here?
-[[WP JCDL Where the semantic publishing rubber meets the scholarly practice road]]
-
-- We believe (as do you!) that [[semantic publishing]] could transform [[scholarly communication]] (#@berners-leePublishingSemanticWeb2001)
-
-    - We resonate a lot with the vision cast by #[[@renearStrategicReadingOntologies2009]]: "Scientists will still read narrative prose, even as text mining and automated processing become common; however, these reading practices will become increasingly strategic, supported by enhanced literature and ontology-aware tools. As part of the publishing workflow, scientific terminology will be indexed routinely against rich ontologies. More importantly, formalized assertions, perhaps maintained in specialized 'structured abstracts' (27), wil provide indexing and browsing tools with computational access to causal and ontological relationships. Hypertext linking will be extensive, generated both automatically and by readers providing commentary on blogs and through shared annotation databases. At the same time, more tools for enhanced searching, scanning and analyzing will appear and exploit the increasingly rich layer of indexing, linking, and annotation information." (p. 832)
-
-    - [[[[CLM]] - Most scholarly communication infrastructure operates on the document as the base unit]]
-
-    - #@grozaSALTWeavingClaim2007

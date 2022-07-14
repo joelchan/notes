@@ -54,18 +54,7 @@ date: Wed Jul 07 2021 17:21:15 GMT-0400 (Eastern Daylight Time)
 
 ###### Discourse Context
 
-- **Informs::** [[QUE - How might domain distance modulate the effects of analogies on creative output]]
-- **Opposes::** [[CLM - Analogical distance of inspirations for an idea are positively related to the idea's creativity]]
-- **FromSource::** [[@sanerAnalogiesOutBlue1999]]
+- **Informs::** [QUE - How might domain distance modulate the effects of analogies on creative output.md](QUE - How might domain distance modulate the effects of analogies on creative output.md)
+- **Opposes::** [CLM - Analogical distance of inspirations for an idea are positively related to the idea's creativity.md](CLM - Analogical distance of inspirations for an idea are positively related to the idea's creativity.md)
+- **FromSource::** [@sanerAnalogiesOutBlue1999.md](@sanerAnalogiesOutBlue1999.md)
 
-###### References
-
-[[July 7th, 2021]]
-
-- Authors claim that these results (particularly the [contrast in use of far analogies]([[[[EVD]] - Far analogies were rare and never used in psychology lab group meetings for reasoning (vs. mere mentions); far analogies were rare in colloquia as well, but were frequently used for reasoning - [[@sanerAnalogiesOutBlue1999]]]]) between lab group meetings and colloqiua) support the claim that [[[[CL]] - [[far analogies]] are systematically overrated in their importance for creative breakthroughs due to memory bias - [[@dunbarHowScientistsThink1997]]]]
-
-    - I am not so sure, though! This rests on the assumption that no discovery and conceptual work is happening in colloquia. Only reasoning that happens in lab groups counts as real. Can see this as defensible for analogies from the presenter: in colloquia you're presenting fully formed work. And the "use" measure But what about analogies from the audience that are between-domain? Could those be generative in some way?
-
-        - This study can't tease that out though. Could *maybe* look only at audience-generated between-domain analogies and see if there's anything going on there. But probably too small N to say anything. Could be an interesting case study though!
-
-        - In general I think the shape is fine: generally low proportions of far analogies, and generally low proportions of those used in actual reasoning.

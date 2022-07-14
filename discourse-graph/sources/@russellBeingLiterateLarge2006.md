@@ -2,7 +2,7 @@
 title: @russellBeingLiterateLarge2006
 url: https://roamresearch.com/#/app/megacoglab/page/YJ9jL4EvB
 author: Unknown
-date: Wed Jul 06 2022 00:35:20 GMT-0400 (Eastern Daylight Time)
+date: Wed Jul 13 2022 19:43:21 GMT-0400 (Eastern Daylight Time)
 ---
 
 - Title:: Being literate with large document collections: Observational studies and cost structure tradeoffs
@@ -39,13 +39,6 @@ date: Wed Jul 06 2022 00:35:20 GMT-0400 (Eastern Daylight Time)
 
 ###### Discourse Context
 
-- **Informs::** [[QUE - How can we best bridge private vs. public knowledge]]
-- **Informs::** [[QUE - What (existing) systems facilitate individual synthesis]]
+- **Informs::** [QUE - How can we best bridge private vs. public knowledge.md](QUE - How can we best bridge private vs. public knowledge.md)
+- **Informs::** [QUE - What (existing) systems facilitate individual synthesis.md](QUE - What (existing) systems facilitate individual synthesis.md)
 
-###### References
-
-[[May 28th, 2020]]
-
-- Although efforts like #[[@russellBeingLiterateLarge2006]] and #[[@russellCostStructureSensemaking1993]] and #[[@pirolliSensemakingProcessLeverage2005]] seem to target more **__process__**-level frictions, and not as much the data model / artifacts themselves.
-
-    - Slight exception from #[[@russellBeingLiterateLarge2006]]: Good example on p5: if "moving" a paper is costly, people do it a lot less

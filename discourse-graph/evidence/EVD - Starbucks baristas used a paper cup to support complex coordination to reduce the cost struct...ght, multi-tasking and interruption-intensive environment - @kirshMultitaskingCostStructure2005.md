@@ -48,15 +48,6 @@ date: Sat Jan 22 2022 22:45:16 GMT-0500 (Eastern Standard Time)
 
 ###### Discourse Context
 
-- **Informs::** [[QUE - How can we measure efficacy of creativity support systems]]
-- **FromSource::** [[@kirshMultitaskingCostStructure2005]]
+- **Informs::** [QUE - How can we measure efficacy of creativity support systems.md](QUE - How can we measure efficacy of creativity support systems.md)
+- **FromSource::** [@kirshMultitaskingCostStructure2005.md](@kirshMultitaskingCostStructure2005.md)
 
-###### References
-
-[[January 28th, 2022]]
-
-- The design pattern of the central manual index and queue is beautiful its simplicity, and its manual, situated (one place) nature reminds me of... the humble [Starbucks coffee cup as a distributed cognition facilitator]([[[[EVD]] - Starbucks baristas used a paper cup to support complex coordination to reduce the cost structure of creating complex drinks in a tight, multi-tasking and interruption-intensive environment - [[@kirshMultitaskingCostStructure2005]]]])
-
-    - The index and queue acts as a forcing function to not grow the inbox endlessly. Practice the discipline of letting go.
-
-    - And it is very much inspired by [[Matt Clancy]]'s simple practice
