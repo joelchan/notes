@@ -41,6 +41,10 @@ date: Tue Mar 22 2022 15:52:55 GMT-0400 (Eastern Daylight Time)
 
 ###### Discourse Context
 
+- **Informs::** [[CLM - Prevailing incentives in academia are bad for science]]
+- **Informs::** [[CLM - Synthesis work requires explicit (usually external) representations of both evidence and claims]]
+- **Informs::** [[CLM - Science is getting less bang for its buck]]
+- **Informs::** [[CLM - It is not possible to create a computational system that automatically extracts novel and accurate insights from published scientific literature alone]]
 - **Informed By::** [[@greenbergHowCitationDistortions2009]]
 - **Informed By::** [[@tahamtanWhatCitationCounts2019]]
 - **Informed By::** [[@bornmannWhatCitationCounts2008]]

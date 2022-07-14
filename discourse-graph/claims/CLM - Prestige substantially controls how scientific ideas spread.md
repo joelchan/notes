@@ -27,6 +27,10 @@ date: Mon Mar 23 2020 21:22:13 GMT-0400 (Eastern Daylight Time)
 
 ###### Discourse Context
 
+- **Informs::** [[CLM - Prevailing incentives in academia are bad for science]]
+- **Informs::** [[CLM - Prediction in complex social systems is fundamentally limited]]
 - **Informed By::** [[@morganPrestigeDrivesEpistemic2018]]
 - **Informed By::** [[@juhaszBrokeringCorePeriphery2020]]
 - **Informed By::** [[@clausetSystematicInequalityHierarchy2015]]
+- **Informed By::** [[CLM - Prediction in complex social systems is fundamentally limited]]
+- **Informed By::** [[CLM - Scientific peer review is deeply flawed]]

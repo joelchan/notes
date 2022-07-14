@@ -56,3 +56,4 @@ with finished papers ready for publication. Rather, memos and diagrams begin as 
 - **Informs::** [[QUE - What (existing) systems facilitate individual synthesis]]
 - **Informed By::** [[@pacheco-vegaWritingMemorandums2020]]
 - **Informed By::** [[@anujacabraalWhyUseNVivo2012]]
+- **Informed By::** [[CLM - Scholars repurpose qualitative data analysis software to facilitate synthesis]]

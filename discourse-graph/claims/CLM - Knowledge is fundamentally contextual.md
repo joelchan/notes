@@ -44,8 +44,13 @@ date: Fri Mar 18 2022 13:39:02 GMT-0400 (Eastern Daylight Time)
 
 - **Informs::** [[QUE - What are the most efficient routes to useful cross-boundary knowledge]]
 - **Informs::** [[QUE - Under what conditions is it possible to transfer expertise from one person to another]]
+- **Informs::** [[CLM - Multiplicity is necessary for synthesis]]
+- **Informs::** [[CLM - Synthesis work requires explicit (usually external) representations of both evidence and claims]]
+- **Informs::** [[CLM - Contextualizability is necessary for synthesis]]
+- **Informs::** [[CLM - Substantial portions of knowledge that is critical for innovation are not written down]]
 - **Informed By::** [[@agarwalExploringContextInformation2017]]
 - **Informed By::** [[@dourishWhatWeTalk2004]]
 - **Informed By::** [[@halfordDigitalFuturesSociological2013]]
 - **Informed By::** [[@bowkerAllKnowledgeLocal2010]]
 - **Informed By::** [[@harawaySituatedKnowledgesScience1988]]
+- **Informed By::** [[CLM - Information needs can vary on a general-to-contextual dimension]]

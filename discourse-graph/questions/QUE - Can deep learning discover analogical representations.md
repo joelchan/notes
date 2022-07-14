@@ -2,7 +2,7 @@
 title: [[QUE]] - Can deep learning discover analogical representations?
 url: https://roamresearch.com/#/app/megacoglab/page/7ArZLTQUN
 author: Unknown
-date: Wed Jul 13 2022 22:26:29 GMT-0400 (Eastern Daylight Time)
+date: Thu Jul 14 2022 09:40:46 GMT-0400 (Eastern Daylight Time)
 ---
 
 - # Synthesis

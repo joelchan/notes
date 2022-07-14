@@ -16,3 +16,6 @@ date: Wed May 11 2022 08:43:56 GMT-0400 (Eastern Daylight Time)
 ###### Discourse Context
 
 - **Informed By::** [[@strasserBusinessExtractingKnowledge2021]]
+- **Informed By::** [[CLM - Scientific peer review is deeply flawed]]
+- **Informed By::** [[CLM - Citation practices in science are far from optimal]]
+- **Informed By::** [[CLM - Substantial portions of knowledge that is critical for innovation are not written down]]

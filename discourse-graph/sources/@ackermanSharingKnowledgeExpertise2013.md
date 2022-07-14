@@ -57,11 +57,12 @@ date: Tue Feb 11 2020 15:50:25 GMT-0500 (Eastern Standard Time)
 
 ###### Discourse Context
 
-- **Informs::** [[CLM - Knowledge must be recontextualized to be usefully reused]]
-- **Informs::** [[CLM - Knowledge-that and knowledge-how are best storedcommunicated in distinct media]]
-- **Informs::** [[CLM - Specifying context for future reuse requires predicting trajectories of future reuse]]
 - **Informs::** [[CLM - Distinction between neat vs scruffy in Semantic Web engineering]]
+- **Informs::** [[CLM - Knowledge must be recontextualized to be usefully reused]]
 - **Informs::** [[CLM - CSCW research on knowledge sharing shifted from a repository model to an expertise sharing model around the mid-2000's - @ackermanSharingKnowledgeExpertise2013]]
 - **Informs::** [[CLM - Substantial portions of knowledge that is critical for innovation are not written down]]
+- **Informs::** [[CLM - Knowledge-that and knowledge-how are best storedcommunicated in distinct media]]
+- **Informs::** [[CLM - Specifying context for future reuse requires predicting trajectories of future reuse]]
+- **Informs::** [[CLM - Compression and contextualizability are in tension]]
 - **Informs::** [[QUE - How can we best bridge private vs. public knowledge]]
 - **Informs::** [[QUE - What are the most efficient routes to useful cross-boundary knowledge]]

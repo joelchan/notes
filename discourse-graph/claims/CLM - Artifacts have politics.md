@@ -18,3 +18,4 @@ date: Wed Jul 22 2020 16:30:28 GMT-0400 (Eastern Daylight Time)
 ###### Discourse Context
 
 - **Informed By::** [[@winnerArtifactsHavePolitics1980]]
+- **Informed By::** [[CLM - Seemingly innocuous technical programming decisions can have significant ethical and equity harms]]

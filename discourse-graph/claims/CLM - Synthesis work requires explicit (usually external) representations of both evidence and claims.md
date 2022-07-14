@@ -89,3 +89,5 @@ date: Sat Feb 05 2022 20:39:08 GMT-0500 (Eastern Standard Time)
 - **Informed By::** [[@letrudAffirmativeCitationBias2019]]
 - **Informed By::** [[@lengPhantomReferencePropagation2020]]
 - **Informed By::** [[@clausetDatadrivenPredictionsScience2017]]
+- **Informed By::** [[CLM - Knowledge is fundamentally contextual]]
+- **Informed By::** [[CLM - Citation practices in science are far from optimal]]

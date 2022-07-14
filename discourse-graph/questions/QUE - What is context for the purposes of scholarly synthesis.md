@@ -19,9 +19,9 @@ date: Thu Jan 07 2021 11:51:02 GMT-0500 (Eastern Standard Time)
 
         - However, as theories of context and [[reuse]] in CSCW would predict, what specific kinds of contextual information are required for a literature review can often vary substantially across research projects. For instance, [[@blakeCollaborativeInformationSynthesis2006]] discovered in their cognitive work analysis of a team of medical researchers conducting systematic reviews that [the particulars of information needed can vary substantially by the nature of the research question](some types of [[context]] information were more contextual, depending on the particular "hypothesis projection" of the review, which varied across the lifecycle of the project studied (e.g., location of medical condition, amount of exposure, confounding risk factors), while others were more constant regardless of hypothesis (e.g., study- and population-context information)). In interdisciplinary fields such as HCI, the nature of contextual information needed to critically assess and synthesize past work can be found in handbooks like the popular "Ways of Knowing in HCI" book [[Ways of Knowing in HCI]] that includes discussions, and to a lesser extent in research methods texts, where questions of internal and external validity (which map to validity and applicability) are discussed, and the information required to judge these questions, are enumerated.
 
-            - [[[[CL]] - Compression and contextualizability are in tension]]
+            - [[[[CLM]] - Compression and contextualizability are in tension]]
 
-            - [[[[CLM]] - Specifying context for future reuse requires predicting trajectories of future reuse]], but [[[[CL]] - Predicting trajectories of future reuse of information objects is hard]]
+            - [[[[CLM]] - Specifying context for future reuse requires predicting trajectories of future reuse]], but [[[[CLM]] - Predicting trajectories of future reuse of information objects is hard]]
 
         - We consider the information required to make judgments of applicability, validity, and significance to be [[context]] for the information being reused (i.e., sources and claims) in [literature reviewing]([[synthesis]]).
 
@@ -30,5 +30,7 @@ date: Thu Jan 07 2021 11:51:02 GMT-0500 (Eastern Standard Time)
 ###### Discourse Context
 
 - **Informed By::** [[CLM - Specifying context for future reuse requires predicting trajectories of future reuse]]
+- **Informed By::** [[CLM - Predicting trajectories of future reuse of information objects is hard]]
+- **Informed By::** [[CLM - Compression and contextualizability are in tension]]
 - **Informed By::** [[@blakeCollaborativeInformationSynthesis2006]]
 - **Informed By::** [[@tongConsolidatedCriteriaReporting2007]]

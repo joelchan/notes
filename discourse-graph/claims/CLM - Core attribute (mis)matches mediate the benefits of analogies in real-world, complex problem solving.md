@@ -51,3 +51,9 @@ date: Tue Sep 22 2020 20:59:31 GMT-0400 (Eastern Daylight Time)
 
 - **Informs::** [[QUE - What factors control whether people appropriately benefit from analogies (especially far-field ones) during creative problem solving]]
 - **Informs::** [[QUE - How can we augment scientific creativity with computational analogy]]
+- **Informed By::** [[CLM - There is a 'Sweet Spot' in Analogical Distance. Somewhat far analogies lead to better creative outcomes than very near or very far analogies]]
+- **Informed By::** [[CLM - A significant proportion of the benefits of analogical stimuli is oblique or indirect]]
+- **Informed By::** [[CLM - People rapidly reject analogical matches when there is a clear attribute mismatch]]
+- **Informed By::** [[CLM - Core mismatches in analogical inspiration improve creativity]]
+- **Informed By::** [[CLM - Core attribute mismatches in analogical inspiration harm creativity]]
+- **Informed By::** [[CLM - Paths to creative breakthroughs are frequently oblique]]

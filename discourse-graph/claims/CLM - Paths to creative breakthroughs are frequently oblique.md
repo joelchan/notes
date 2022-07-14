@@ -28,6 +28,8 @@ date: Thu Oct 15 2020 20:59:50 GMT-0400 (Eastern Daylight Time)
 ###### Discourse Context
 
 - **Informs::** [[QUE - How can we measure everyday progress in open-ended creative work]]
+- **Informs::** [[CLM - Core attribute (mis)matches mediate the benefits of analogies in real-world, complex problem solving]]
+- **Informs::** [[CLM - True creative breakthroughs often take a long time to develop]]
 - **Informed By::** [[@sosaAccretionTheoryIdeation2019]]
 - **Informed By::** [[@chanImportanceIterationCreative2015]]
 - **Informed By::** [[@gruberDarwinManPsychological1974]]

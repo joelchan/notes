@@ -17,4 +17,5 @@ date: Sat Jan 01 2022 11:56:17 GMT-0500 (Eastern Standard Time)
 ###### Discourse Context
 
 - **Informs::** [[QUE - What are the most efficient routes to useful cross-boundary knowledge]]
+- **Informs::** [[CLM - Knowledge-that and knowledge-how are best storedcommunicated in distinct media]]
 - **Informed By::** [[@ackermanSharingKnowledgeExpertise2013]]

@@ -2,7 +2,7 @@
 title: @russellBeingLiterateLarge2006
 url: https://roamresearch.com/#/app/megacoglab/page/YJ9jL4EvB
 author: Unknown
-date: Wed Jul 13 2022 22:43:25 GMT-0400 (Eastern Daylight Time)
+date: Thu Jul 14 2022 09:59:21 GMT-0400 (Eastern Daylight Time)
 ---
 
 - Title:: Being literate with large document collections: Observational studies and cost structure tradeoffs

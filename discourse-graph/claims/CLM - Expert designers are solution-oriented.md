@@ -38,6 +38,7 @@ date: Thu Aug 20 2020 02:13:19 GMT-0400 (Eastern Daylight Time)
 ###### Discourse Context
 
 - **Informs::** [[QUE - What are some major phenomena around designers' exploration of design spaces and how might these map to characteristics of optimizers]]
+- **Informs::** [[CLM - Design proceeds by co-evolution of problem and solution space]]
 - **Supported By::** [[EVD - science students made more planning errors and fewer structural errors on a spatial block des... fewer planning errors and more structural errors - @lawsonCognitiveStrategiesArchitectural1979]]
 - **Informed By::** [[@crossExpertiseDesignOverview2004]]
 - **Informed By::** [[@lawsonCognitiveStrategiesArchitectural1979]]

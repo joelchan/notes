@@ -43,6 +43,9 @@ that underlie existing literature as a way to construct research questions: prob
 ###### Discourse Context
 
 - **Informs::** [[QUE - How do people effectively (re)formulate creative problems]]
+- **Informs::** [[CLM - Effective problem formulation is-necessary-for impactful research]]
+- **Informs::** [[CLM - Synthesis is-necessary-for effective problem formulation]]
+- **Informs::** [[CLM - Analogies can power creative breakthroughs by stimulating effective problem (re)formulation]]
 - **Supported By::** [[EVD - Representing a mutilated checkerboard in a way that made perceptual features of squares more salient facilitated problem reformulation and insight - @kaplanSearchInsight1990]]
 - **Informed By::** [[@schonReflectivePractitionerHow1983]]
 - **Informed By::** [[@goelStructureDesignProblem1992]]

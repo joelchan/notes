@@ -15,7 +15,7 @@ date: Tue May 19 2020 16:39:00 GMT-0400 (Eastern Daylight Time)
 
             - [[[[CLM]] - Synthesis is creating a new whole out of component parts]]
 
-            - So the new thing should have properties that the mere sum of the parts doesn't. But what properties? We think the core idea is that [[[[CL]] - Clearer cases of synthesis involve substantial conceptual innovation]]
+            - So the new thing should have properties that the mere sum of the parts doesn't. But what properties? We think the core idea is that [[[[CLM]] - Clearer cases of synthesis involve substantial conceptual innovation]]
 
                 - [[Z: Theories are core examples of synthesis]]
 
@@ -187,6 +187,7 @@ date: Tue May 19 2020 16:39:00 GMT-0400 (Eastern Daylight Time)
 - **Informed By::** [[CLM - Synthesis is creating a new whole out of component parts]]
 - **Informed By::** [[CLM - Requirements for sensemaking come from the particulars of the work task]]
 - **Informed By::** [[CLM - Effective synthesis is rare]]
+- **Informed By::** [[CLM - Clearer cases of synthesis involve substantial conceptual innovation]]
 - **Informed By::** [[CLM - systematic reviews are typically narrowly focused, and provide less insight]]
 - **Informed By::** [[@strikeTypesSynthesisTheir1983]]
 - **Informed By::** [[@booteScholarsResearchersCentrality2005]]

@@ -44,4 +44,5 @@ date: Sun Feb 16 2020 17:12:28 GMT-0500 (Eastern Standard Time)
 ###### Discourse Context
 
 - **Informs::** [[CLM - Scholarly argumentation operates on atomic statements and concepts as fundamental units]]
+- **Informs::** [[CLM - Multiplicity is necessary for synthesis]]
 - **Informs::** [[QUE - What (existing) systems facilitate individual synthesis]]

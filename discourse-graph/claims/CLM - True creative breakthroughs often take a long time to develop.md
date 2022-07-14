@@ -30,6 +30,8 @@ https://twitter.com/Girish_Kumar72/status/1436532451031937028)
 ###### Discourse Context
 
 - **Informs::** [[QUE - How can we measure everyday progress in open-ended creative work]]
+- **Informs::** [[CLM - Prevailing incentives in academia are bad for science]]
 - **Informed By::** [[@gruberDarwinManPsychological1974]]
 - **Informed By::** [[@cattaniDeconstructingOutsiderPuzzle2017]]
 - **Informed By::** [[@kneelandExploringUnchartedTerritory2020]]
+- **Informed By::** [[CLM - Paths to creative breakthroughs are frequently oblique]]

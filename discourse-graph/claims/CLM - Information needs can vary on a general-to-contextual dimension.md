@@ -37,6 +37,7 @@ date: Thu Mar 05 2020 22:28:12 GMT-0500 (Eastern Standard Time)
 
 ###### Discourse Context
 
+- **Informs::** [[CLM - Knowledge is fundamentally contextual]]
 - **Informed By::** [[@robsonBuildingModelsInformation2013]]
 - **Informed By::** [[@taylorQuestionnegotationInformationseekingLibraries1968]]
 - **Informed By::** [[@agarwalExploringContextInformation2017]]

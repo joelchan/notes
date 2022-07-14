@@ -41,7 +41,7 @@ date: Thu Feb 27 2020 14:25:04 GMT-0500 (Eastern Standard Time)
 
                 - Even [[@mccrickardMakingClaimsKnowledge2012]]'s idea of [[standard/Claims]]
 
-            - We also may not want to "reduce" ideas to a single representation, since [[[[CL]] - Multiplicity is necessary for synthesis]]
+            - We also may not want to "reduce" ideas to a single representation, since [[[[CLM]] - Multiplicity is necessary for synthesis]]
 
         - Unfortunately, [[[[CLM]] - Most scholarly communication infrastructure operates on the document as the base unit]]
 
@@ -74,9 +74,20 @@ date: Thu Feb 27 2020 14:25:04 GMT-0500 (Eastern Standard Time)
 ###### Discourse Context
 
 - **Informs::** [[QUE - What are some major phenomena around designers' exploration of design spaces and how might these map to characteristics of optimizers]]
+- **Informs::** [[CLM - Visual thinking interfaces are tricky to get right]]
+- **Informs::** [[CLM - Most scholarly communication infrastructure operates on the document as the base unit]]
 - **Informed By::** [[@mccrickardMakingClaimsKnowledge2012]]
 - **Informed By::** [[@cowanMagicalNumberShortterm2000]]
 - **Informed By::** [[@galeyHowPrototypeArgues2010]]
 - **Informed By::** [[@hookStrongConceptsIntermediatelevel2012]]
 - **Informed By::** [[@kuhnBroadeningScopeNanopublications2013]]
 - **Informed By::** [[@ribaupierreExtractingDiscourseElements2017]]
+- **Informed By::** [[CLM - Breaking ideas down into component parts facilitates creative reinterpretation]]
+- **Informed By::** [[CLM - Multiplicity is necessary for synthesis]]
+- **Informed By::** [[CLM - Compressing complex ideas into more manageable chunks facilitates more complex thought]]
+- **Informed By::** [[CLM - Ideas develop simultaneously at multiple timescales, levels of granularity, and completeness]]
+- **Informed By::** [[CLM - Scholarly argumentation operates on atomic statements and concepts as fundamental units]]
+- **Informed By::** [[CLM - Synthesis is creating a new whole out of component parts]]
+- **Informed By::** [[CLM - Contextualizability is necessary for synthesis]]
+- **Informed By::** [[CLM - Conceptual combination is-fundamental-to creative knowledge production]]
+- **Informed By::** [[CLM - Most scholarly communication infrastructure operates on the document as the base unit]]

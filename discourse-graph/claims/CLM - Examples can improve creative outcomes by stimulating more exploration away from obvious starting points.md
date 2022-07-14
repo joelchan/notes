@@ -11,3 +11,4 @@ date: Thu Dec 23 2021 10:48:28 GMT-0500 (Eastern Standard Time)
 
 - **Informs::** [[QUE - Under what conditions do diverse initial examples lead to better final design solutions]]
 - **Informs::** [[QUE - What is the relationship between prior knowledge and new ideas]]
+- **Informs::** [[CLM - Recent or concurrent exposure to ideas can substantially influence the direction of ideation]]

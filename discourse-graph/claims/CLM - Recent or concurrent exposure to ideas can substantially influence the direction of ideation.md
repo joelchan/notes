@@ -36,3 +36,4 @@ date: Sun Dec 27 2020 22:10:57 GMT-0500 (Eastern Standard Time)
 - **Informed By::** [[@linseyStudyDesignFixation2010]]
 - **Informed By::** [[@purcellDesignOtherTypes1996]]
 - **Informed By::** [[@marshHowExamplesMay1996]]
+- **Informed By::** [[CLM - Examples can improve creative outcomes by stimulating more exploration away from obvious starting points]]

@@ -25,4 +25,6 @@ date: Thu Feb 27 2020 14:53:28 GMT-0500 (Eastern Standard Time)
 
 ###### Discourse Context
 
+- **Informs::** [[CLM - Compression is necessary for synthesis]]
+- **Informs::** [[CLM - Synthesis is creating a new whole out of component parts]]
 - **Informed By::** [[@aertsConceptsTheirDynamics2013a]]

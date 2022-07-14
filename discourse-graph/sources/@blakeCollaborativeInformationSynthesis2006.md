@@ -67,6 +67,7 @@ date: Sun Aug 02 2020 22:42:02 GMT-0400 (Eastern Daylight Time)
 
 ###### Discourse Context
 
+- **Informs::** [[CLM - Predicting trajectories of future reuse of information objects is hard]]
 - **Informs::** [[QUE - What is context for the purposes of scholarly synthesis]]
 - **Informs::** [[QUE - What (existing) systems facilitate individual synthesis]]
 - **Informs::** [[QUE - What user behaviors are scholars doing already that specifies structure for synthesis]]

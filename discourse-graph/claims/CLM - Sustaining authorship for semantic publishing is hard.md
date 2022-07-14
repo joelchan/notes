@@ -16,6 +16,7 @@ date: Tue Sep 07 2021 14:37:50 GMT-0400 (Eastern Daylight Time)
 ###### Discourse Context
 
 - **Informs::** [[QUE - Do scholarly synthesis infrastructures already exist]]
+- **Informs::** [[CLM - The central bottleneck to synthesis infrastructures is authoring]]
 - **Informed By::** [[@kuhnGenuineSemanticPublishing2017]]
 - **Informed By::** [[@kuhnNanopublicationsGrowingResource2018]]
 - **Informed By::** [[@schrimlCOVID19PandemicReveals2020]]

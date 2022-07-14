@@ -24,6 +24,8 @@ date: Fri Feb 28 2020 16:56:58 GMT-0500 (Eastern Standard Time)
 ###### Discourse Context
 
 - **Informs::** [[QUE - What (existing) systems facilitate individual synthesis]]
+- **Informs::** [[CLM - People process complex information in multiple levels and stages of processing]]
+- **Informs::** [[CLM - Contextualizability is necessary for synthesis]]
 - **Informed By::** [[@palmerScholarlyInformationPractices2009]]
 - **Informed By::** [[@oharaStudentReadersUse1998]]
 - **Informed By::** [[@qianOpeningBlackBox2020]]

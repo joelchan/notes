@@ -34,3 +34,4 @@ date: Tue May 26 2020 01:16:39 GMT-0400 (Eastern Daylight Time)
 ###### Discourse Context
 
 - **Informs::** [[CLM - Infrastructure is invisible until it fails]]
+- **Informs::** [[CLM - Compression and contextualizability are in tension]]

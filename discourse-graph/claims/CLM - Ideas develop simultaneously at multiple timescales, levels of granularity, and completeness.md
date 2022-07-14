@@ -19,9 +19,9 @@ date: Sat May 02 2020 23:20:29 GMT-0400 (Eastern Daylight Time)
 
         - The brain actually is doing a LOT of the work! The external spaces are part of the system, but the data model encompasses more than the scratches on paper or on the whiteboard. We can gain insight into this by noticing how things cluster or repeat over time across different media, both in the head and in the world.
 
-        - Might be a reason that [[[[CL]] - Multiplicity is necessary for synthesis]]
+        - Might be a reason that [[[[CLM]] - Multiplicity is necessary for synthesis]]
 
-        - See also: [[[[CL]] - People process complex information in multiple levels and stages of processing]]
+        - See also: [[[[CLM]] - People process complex information in multiple levels and stages of processing]]
 
         - I would say this also is a foundational reason that [[[[CLM]] - The notion of an 'idea' is very complicated]]
 
@@ -29,4 +29,10 @@ date: Sat May 02 2020 23:20:29 GMT-0400 (Eastern Daylight Time)
 
 ###### Discourse Context
 
+- **Informs::** [[CLM - Compression is necessary for synthesis]]
+- **Informs::** [[CLM - Some degree of formalism is necessary for compositionality]]
+- **Informs::** [[CLM - Multiplicity is necessary for synthesis]]
 - **Informed By::** [[@gruberDarwinManPsychological1974]]
+- **Informed By::** [[CLM - People process complex information in multiple levels and stages of processing]]
+- **Informed By::** [[CLM - Multiplicity is necessary for synthesis]]
+- **Informed By::** [[CLM - The notion of an 'idea' is very complicated]]

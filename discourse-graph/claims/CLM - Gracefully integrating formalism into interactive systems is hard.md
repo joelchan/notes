@@ -35,4 +35,6 @@ date: Sat Mar 07 2020 17:29:04 GMT-0500 (Eastern Standard Time)
 
 ###### Discourse Context
 
+- **Informs::** [[CLM - Composability is necessary for synthesis]]
+- **Informs::** [[CLM - PTN - incremental formalization can mitigate risks of formalism in interactive systems]]
 - **Informed By::** [[@shipmanFormalityConsideredHarmful1999]]

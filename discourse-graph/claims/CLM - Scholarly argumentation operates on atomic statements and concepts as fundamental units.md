@@ -76,6 +76,8 @@ date: Thu Feb 27 2020 14:30:21 GMT-0500 (Eastern Standard Time)
 ###### Discourse Context
 
 - **Informs::** [[QUE - What (existing) systems facilitate individual synthesis]]
+- **Informs::** [[CLM - Compression is necessary for synthesis]]
+- **Informs::** [[CLM - Most scholarly communication infrastructure operates on the document as the base unit]]
 - **Supported By::** [[EVD - Four positivist epistemological models from philosophy of science, including Popper, emphasiz... statements as a core component of scientific knowledge - @harsDesigningScientificKnowledge2001]]
 - **Informed By::** [[@shumScholOntoOntologybasedDigital2000]]
 - **Informed By::** [[@harsDesigningScientificKnowledge2001]]
@@ -94,3 +96,5 @@ date: Thu Feb 27 2020 14:30:21 GMT-0500 (Eastern Standard Time)
 - **Informed By::** [[@shumModelingNaturalisticArgumentation2006]]
 - **Informed By::** [[@deWaardProteinsFairytalesDirections2010]]
 - **Informed By::** [[@popperLogicScientificDiscovery1959]]
+- **Informed By::** [[CLM - Scientists read strategically, not linearly]]
+- **Informed By::** [[CLM - Most scholarly communication infrastructure operates on the document as the base unit]]

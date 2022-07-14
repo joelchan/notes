@@ -33,6 +33,8 @@ date: Thu Feb 27 2020 10:16:51 GMT-0500 (Eastern Standard Time)
 
 ###### Discourse Context
 
+- **Informs::** [[CLM - Effective synthesis is hard]]
+- **Informs::** [[CLM - Effective synthesis is rare]]
 - **Informed By::** [[@holbrookLevelsSuccessUse2008]]
 - **Informed By::** [[@lovittsMakingImplicitExplicit2007]]
 - **Informed By::** [[@holbrookInvestigatingPhDThesis2004]]

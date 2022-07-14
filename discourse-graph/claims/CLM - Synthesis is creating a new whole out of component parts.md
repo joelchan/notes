@@ -54,6 +54,10 @@ date: Thu Apr 02 2020 10:23:19 GMT-0400 (Eastern Daylight Time)
 ###### Discourse Context
 
 - **Informs::** [[QUE - What is synthesis]]
+- **Informs::** [[CLM - Compression is necessary for synthesis]]
+- **Informs::** [[CLM - Synthesis is sensemaking on hard mode]]
+- **Informs::** [[CLM - Composability is necessary for synthesis]]
 - **Informed By::** [[@holbrookLevelsSuccessUse2008]]
 - **Informed By::** [[@strikeTypesSynthesisTheir1983]]
 - **Informed By::** [[@faisalClassificationSensemakingRepresentations2009]]
+- **Informed By::** [[CLM - Conceptual combination is-fundamental-to creative knowledge production]]

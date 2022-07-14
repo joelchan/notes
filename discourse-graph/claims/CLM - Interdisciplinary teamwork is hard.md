@@ -17,6 +17,7 @@ date: Thu Aug 20 2020 17:26:58 GMT-0400 (Eastern Daylight Time)
 
 ###### Discourse Context
 
+- **Informs::** [[CLM - Where possible, design systems, not tools]]
 - **Informed By::** [[@baronSynthesisCentersCritical2017]]
 - **Informed By::** [[@palmerWorkBoundariesScience2001]]
 - **Informed By::** [[@kaneMultidisciplinaryTeamMeetings2007]]

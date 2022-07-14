@@ -71,4 +71,5 @@ date: Mon Jun 28 2021 14:35:26 GMT-0400 (Eastern Daylight Time)
 ###### Discourse Context
 
 - **Informs::** [[QUE - How might domain distance modulate the effects of analogies on creative output]]
+- **Supports::** [[CLM - far analogies are systematically overrated in their importance for creative breakthroughs due to memory bias - @dunbarHowScientistsThink1997]]
 - **FromSource::** [[@dunbarHowScientistsThink1997]]

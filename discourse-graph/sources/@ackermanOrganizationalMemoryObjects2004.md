@@ -87,4 +87,5 @@ date: Wed May 20 2020 11:33:57 GMT-0400 (Eastern Daylight Time)
 ###### Discourse Context
 
 - **Informs::** [[CLM - Specifying context for future reuse requires predicting trajectories of future reuse]]
+- **Informs::** [[CLM - Predicting trajectories of future reuse of information objects is hard]]
 - **Informs::** [[QUE - How can we best bridge private vs. public knowledge]]

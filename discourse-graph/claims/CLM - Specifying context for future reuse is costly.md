@@ -20,5 +20,8 @@ date: Sat Apr 18 2020 00:08:37 GMT-0400 (Eastern Daylight Time)
 ###### Discourse Context
 
 - **Informs::** [[QUE - How can we best bridge private vs. public knowledge]]
+- **Informs::** [[CLM - Contextualizability is necessary for synthesis]]
 - **Supported By::** [[CLM - Specifying context for future reuse requires predicting trajectories of future reuse]]
 - **Informed By::** [[@andersonDataBaseMent2008]]
+- **Informed By::** [[CLM - Specifying context for future reuse requires predicting trajectories of future reuse]]
+- **Informed By::** [[CLM - Context is a slippery notion]]

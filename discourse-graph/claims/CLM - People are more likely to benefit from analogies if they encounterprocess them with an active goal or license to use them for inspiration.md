@@ -28,3 +28,4 @@ date: Mon Mar 15 2021 16:05:37 GMT-0400 (Eastern Daylight Time)
 - **Supported By::** [[EVD - direct comparison of dissimilar analogs approximately doubled rates of spontaneous far analogical transfer for the radiation problem - @gickSchemaInductionAnalogical1983]]
 - **Informed By::** [[@gickSchemaInductionAnalogical1983]]
 - **Informed By::** [[@tsengRoleTimingAnalogical2008]]
+- **Informed By::** [[CLM - People are more likely to benefit from far analogies if they encounter them while they have an open goal - @tsengRoleTimingAnalogical2008]]

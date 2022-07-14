@@ -21,4 +21,9 @@ date: Thu May 14 2020 17:07:05 GMT-0400 (Eastern Daylight Time)
 
 ###### Discourse Context
 
+- **Informs::** [[CLM - Compression is necessary for synthesis]]
+- **Informs::** [[CLM - Scholarly argumentation operates on atomic statements and concepts as fundamental units]]
 - **Informed By::** [[@qianITunesPapersRedefining2019a]]
+- **Informed By::** [[CLM - Compression is necessary for synthesis]]
+- **Informed By::** [[CLM - Scholarly argumentation operates on atomic statements and concepts as fundamental units]]
+- **Informed By::** [[CLM - Effective synthesis is hard]]

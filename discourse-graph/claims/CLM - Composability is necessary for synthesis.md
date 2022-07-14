@@ -25,7 +25,7 @@ date: Sat Mar 07 2020 17:22:46 GMT-0500 (Eastern Standard Time)
 
                 - #Thought-Fragment Additionally, the [[IVEO Matrix]] isn't quite where we want it to be yet: it's more of a meta-analysis or [[systematic review]], rather than a coherent new whole. There is no causal model or graph that ties it all together to support sophisticated reasoning and decision-making
 
-            - Levels of composability (cf. #[[[[CL]] - People process complex information in multiple levels and stages of processing]])
+            - Levels of composability (cf. #[[[[CLM]] - People process complex information in multiple levels and stages of processing]])
 
                 - Bare minimum: can "affinity" group things
 
@@ -79,3 +79,7 @@ date: Sat Mar 07 2020 17:22:46 GMT-0500 (Eastern Standard Time)
 - **Informed By::** [[@harsDesigningScientificKnowledge2001]]
 - **Informed By::** [[@russellCostStructureSensemaking1993]]
 - **Informed By::** [[@pirolliSensemakingProcessLeverage2005]]
+- **Informed By::** [[CLM - People process complex information in multiple levels and stages of processing]]
+- **Informed By::** [[CLM - Some degree of formalism is necessary for compositionality]]
+- **Informed By::** [[CLM - Gracefully integrating formalism into interactive systems is hard]]
+- **Informed By::** [[CLM - Synthesis is creating a new whole out of component parts]]

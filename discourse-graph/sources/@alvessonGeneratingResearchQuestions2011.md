@@ -63,5 +63,6 @@ studies. " (P.247)
 
 ###### Discourse Context
 
+- **Informs::** [[CLM - Synthesis is-necessary-for effective problem formulation]]
 - **Informs::** [[CLM - Effective problem formulation is-necessary-for creative knowledge work]]
 - **Informs::** [[CLM - Scientific fields stall without adequate theoretical synthesis]]

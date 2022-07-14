@@ -2,7 +2,7 @@
 title: @clausetSystematicInequalityHierarchy2015
 url: https://roamresearch.com/#/app/megacoglab/page/-fDYuXD7R
 author: Unknown
-date: Wed Jul 13 2022 22:45:00 GMT-0400 (Eastern Daylight Time)
+date: Thu Jul 14 2022 10:01:04 GMT-0400 (Eastern Daylight Time)
 ---
 
 - #references

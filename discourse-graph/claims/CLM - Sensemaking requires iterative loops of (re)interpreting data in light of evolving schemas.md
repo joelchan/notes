@@ -23,5 +23,7 @@ date: Fri Feb 28 2020 16:57:35 GMT-0500 (Eastern Standard Time)
 
 ###### Discourse Context
 
+- **Informs::** [[CLM - People process complex information in multiple levels and stages of processing]]
+- **Informs::** [[CLM - Contextualizability is necessary for synthesis]]
 - **Informed By::** [[@russellCostStructureSensemaking1993]]
 - **Informed By::** [[@pirolliSensemakingProcessLeverage2005]]

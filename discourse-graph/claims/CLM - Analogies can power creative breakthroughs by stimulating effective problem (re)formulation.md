@@ -30,6 +30,7 @@ date: Wed Nov 25 2020 17:17:03 GMT-0500 (Eastern Standard Time)
 ###### Discourse Context
 
 - **Informs::** [[QUE - How do people effectively (re)formulate creative problems]]
+- **Informs::** [[CLM - A significant proportion of the benefits of analogical stimuli is oblique or indirect]]
 - **Supported By::** [[EVD - Engineering design students used multiple cross-domain analogies to fulfill design needs, and...on of how to decompose the problem and find new analogies. - @helmsCompoundAnalogicalDesign2008]]
 - **Supported By::** [[EVD - Two artists used individual artworks to shape not just their ideas, but used a process of ana...ion. This process unfolded over the course of years. - @okadaAnalogicalModificationCreation2009]]
 - **Informed By::** [[@knoblichConstraintRelaxationChunk1999]]
@@ -37,3 +38,4 @@ date: Wed Nov 25 2020 17:17:03 GMT-0500 (Eastern Standard Time)
 - **Informed By::** [[@dorstFrameInnovationCreate2015]]
 - **Informed By::** [[@okadaAnalogicalModificationCreation2009]]
 - **Informed By::** [[@jeppesenMarginalityProblemsolvingEffectiveness2010]]
+- **Informed By::** [[CLM - Effective problem formulation is-necessary-for creative knowledge work]]

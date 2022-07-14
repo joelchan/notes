@@ -26,4 +26,5 @@ date: Wed Aug 19 2020 10:58:21 GMT-0400 (Eastern Daylight Time)
 
 ###### Discourse Context
 
+- **Informs::** [[CLM - Synthesis is-necessary-for effective problem formulation]]
 - **Informs::** [[QUE - What are some major phenomena around designers' exploration of design spaces and how might these map to characteristics of optimizers]]

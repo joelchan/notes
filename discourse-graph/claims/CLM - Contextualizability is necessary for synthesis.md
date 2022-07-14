@@ -19,7 +19,7 @@ date: Fri Mar 18 2022 09:54:11 GMT-0400 (Eastern Daylight Time)
 
         - For these reasons, we claim that the level of contextualizability puts an upper limit on how deep/effective/rich of a synthesis can be achieved.
 
-            - [[[[CL]] - People process complex information in multiple levels and stages of processing]] may be necessary to achieve useful [[Atomicity]]
+            - [[[[CLM]] - People process complex information in multiple levels and stages of processing]] may be necessary to achieve useful [[Atomicity]]
 
         - The larger point is that [[[[CLM]] - Knowledge must be recontextualized to be usefully reused]], because [[[[CLM]] - Knowledge is fundamentally contextual]]
 
@@ -40,4 +40,15 @@ date: Fri Mar 18 2022 09:54:11 GMT-0400 (Eastern Daylight Time)
 ###### Discourse Context
 
 - **Informs::** [[QUE - What (existing) systems facilitate individual synthesis]]
+- **Informs::** [[CLM - Compression is necessary for synthesis]]
+- **Informs::** [[CLM - Compressing complex ideas into more manageable chunks facilitates more complex thought]]
+- **Informs::** [[CLM - Multiplicity is necessary for synthesis]]
+- **Informs::** [[CLM - Universal Semantic Webs are neither feasible nor useful]]
 - **Informed By::** [[@granelloPromotingCognitiveComplexity2001]]
+- **Informed By::** [[CLM - Knowledge must be recontextualized to be usefully reused]]
+- **Informed By::** [[CLM - Scholars constantly need to reread during a literature review]]
+- **Informed By::** [[CLM - Sensemaking requires iterative loops of (re)interpreting data in light of evolving schemas]]
+- **Informed By::** [[CLM - Synthesis is sensemaking on hard mode]]
+- **Informed By::** [[CLM - Context is necessary for reasoning under uncertainty]]
+- **Informed By::** [[CLM - Specifying context for future reuse is costly]]
+- **Informed By::** [[CLM - Knowledge is fundamentally contextual]]

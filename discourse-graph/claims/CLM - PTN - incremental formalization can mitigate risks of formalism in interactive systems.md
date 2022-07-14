@@ -36,5 +36,7 @@ date: Fri Apr 03 2020 15:30:55 GMT-0400 (Eastern Daylight Time)
 ###### Discourse Context
 
 - **Informs::** [[QUE - What (existing) systems facilitate individual synthesis]]
+- **Informs::** [[CLM - (premature) formalism considered harmful]]
 - **Informed By::** [[@shipmanFormalityConsideredHarmful1999]]
 - **Informed By::** [[@vankleekGuiPhooeyCase2007]]
+- **Informed By::** [[CLM - Gracefully integrating formalism into interactive systems is hard]]

@@ -11,7 +11,7 @@ date: Thu May 28 2020 21:43:26 GMT-0400 (Eastern Daylight Time)
 
     - Description
 
-        - This is in part because [[[[CL]] - Synthesis is-necessary-for effective problem formulation]]
+        - This is in part because [[[[CLM]] - Synthesis is-necessary-for effective problem formulation]]
 
         - A #> I really like on this is from [[Allen Newell]] [[@newellYouCanPlay1973]]: #> "You can't play 20 questions with nature and win".
 
@@ -21,7 +21,7 @@ date: Thu May 28 2020 21:43:26 GMT-0400 (Eastern Daylight Time)
 
         - The more things change, the more they stay the same: [[Zachary Lipton]] laments the lack of theory, and so do others (e.g., [[@jollyFlatlandFallacyMoving2019]], [[@vanrooijTheoryTestHow2020]] [[@alvessonGeneratingResearchQuestions2011]])
 
-        - Could explain why [[[[CL]] - Science is getting less bang for its buck]]
+        - Could explain why [[[[CLM]] - Science is getting less bang for its buck]]
 
     - Related to:
 
@@ -29,8 +29,11 @@ date: Thu May 28 2020 21:43:26 GMT-0400 (Eastern Daylight Time)
 
 ###### Discourse Context
 
+- **Informs::** [[CLM - Science is getting less bang for its buck]]
 - **Informed By::** [[@alvessonGeneratingResearchQuestions2011]]
 - **Informed By::** [[@gruberDarwinManPsychological1974]]
 - **Informed By::** [[@jollyFlatlandFallacyMoving2019]]
 - **Informed By::** [[@newellYouCanPlay1973]]
 - **Informed By::** [[@vanrooijTheoryTestHow2020]]
+- **Informed By::** [[CLM - Synthesis is-necessary-for effective problem formulation]]
+- **Informed By::** [[CLM - Science is getting less bang for its buck]]

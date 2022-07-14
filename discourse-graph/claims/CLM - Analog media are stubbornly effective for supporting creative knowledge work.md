@@ -31,3 +31,5 @@ date: Sat Aug 29 2020 13:46:54 GMT-0400 (Eastern Daylight Time)
 - **Informed By::** [[@herbertRedNotebookCharles1980]]
 - **Informed By::** [[@gussVinciFlyingMachines2021]]
 - **Informed By::** [[@pearsonDesigningDigitalReading2013]]
+- **Informed By::** [[CLM - Visual thinking interfaces are tricky to get right]]
+- **Informed By::** [[CLM - Visuospatial reasoning is particularly well-suited for developing early-stage knowledge structures]]

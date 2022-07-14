@@ -41,6 +41,13 @@
         "a": 1,
         "rgb": 5427424
       }
+    },
+    {
+      "query": "path:discourse-graph/sources",
+      "color": {
+        "a": 1,
+        "rgb": 12570841
+      }
     }
   ],
   "collapse-display": true,
@@ -53,6 +60,6 @@
   "repelStrength": 11.7867647058824,
   "linkStrength": 1,
   "linkDistance": 348,
-  "scale": 0.8380507635381867,
+  "scale": 0.08768571563126237,
   "close": false
 }

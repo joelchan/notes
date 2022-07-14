@@ -23,3 +23,5 @@ date: Fri Aug 21 2020 13:57:02 GMT-0400 (Eastern Daylight Time)
 
 - **Informs::** [[QUE - What are the mechanisms by which analogies help drive creative breakthroughs]]
 - **Informs::** [[QUE - What are the most efficient routes to useful cross-boundary knowledge]]
+- **Informs::** [[CLM - Core attribute (mis)matches mediate the benefits of analogies in real-world, complex problem solving]]
+- **Informed By::** [[CLM - Analogies can power creative breakthroughs by stimulating effective problem (re)formulation]]

@@ -36,5 +36,8 @@ date: Sat Jun 06 2020 15:22:53 GMT-0400 (Eastern Daylight Time)
 ###### Discourse Context
 
 - **Informs::** [[QUE - How can we measure efficacy of creativity support systems]]
+- **Informs::** [[CLM - The most transformative insights must come from a single mind]]
 - **Informed By::** [[@americaninstituteofphysicsInterviewRichardFeyman2015]]
 - **Informed By::** [[@qianOpeningBlackBox2020]]
+- **Informed By::** [[CLM - The most transformative insights must come from a single mind]]
+- **Informed By::** [[CLM - Interdisciplinary teamwork is hard]]

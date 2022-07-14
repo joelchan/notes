@@ -31,3 +31,4 @@ date: Thu Mar 05 2020 23:11:05 GMT-0500 (Eastern Standard Time)
 
 - **Informed By::** [[@ackermanSharingKnowledgeExpertise2013]]
 - **Informed By::** [[@wengerCommunitiesPracticeLearning1998]]
+- **Informed By::** [[CLM - CSCW research on knowledge sharing shifted from a repository model to an expertise sharing model around the mid-2000's - @ackermanSharingKnowledgeExpertise2013]]

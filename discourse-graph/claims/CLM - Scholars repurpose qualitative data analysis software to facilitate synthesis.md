@@ -15,5 +15,6 @@ date: Tue Sep 07 2021 11:04:45 GMT-0400 (Eastern Daylight Time)
 ###### Discourse Context
 
 - **Informs::** [[QUE - What (existing) systems facilitate individual synthesis]]
+- **Informs::** [[CLM - Effective individual synthesis systems (seem to mostly) exist (for a select few)]]
 - **Informed By::** [[@wolfswinkelUsingGroundedTheory2013]]
 - **Informed By::** [[@silverCruxLiteratureReviewing2020]]

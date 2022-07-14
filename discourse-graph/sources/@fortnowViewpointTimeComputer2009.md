@@ -34,3 +34,4 @@ date: Sun Mar 01 2020 22:24:33 GMT-0500 (Eastern Standard Time)
 ###### Discourse Context
 
 - **Informs::** [[CLM - Prevailing incentives in academia are bad for science]]
+- **Informs::** [[CLM - Scientists prefer to pursue safer incremental advances rather than risky breakthroughs]]

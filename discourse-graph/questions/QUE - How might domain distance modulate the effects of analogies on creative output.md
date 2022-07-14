@@ -63,7 +63,7 @@ date: Fri Oct 30 2020 11:32:53 GMT-0400 (Eastern Daylight Time)
 
             - Related to this is [[[[EVD]] - In a design team, concepts tended to be more similar to their immediately preceding concepts after far analogy use compared to using near or no analogies - [[@chanImpactAnalogiesCreative2015]]]]. This isn't *quite* a measure of novelty as we normally think of it (the reference for similarity is concepts generated in the last 10 or 5 lines). But it at least opposes the idea that you might be primarily using far analogies to get some distance from where you currently are.
 
-            - Dunbar also claims that [[[[CL]] - [[far analogies]] are systematically overrated in their importance for creative breakthroughs due to memory bias - [[@dunbarHowScientistsThink1997]]]]
+            - Dunbar also claims that [[[[CLM]] - [[far analogies]] are systematically overrated in their importance for creative breakthroughs due to memory bias - [[@dunbarHowScientistsThink1997]]]]
 
                 - One [support]([[SupportedBy]]) for this is a specific anecdote of tracing a significant discovery through a series of (near) analogies, and then asking the scientist to recall/recount the origins of that discovery: Dunbar found that [[[[EVD]] - A molecular biologist who had made a major scientific conceptual change did not recall any of the spontaneous analogies used to enact that change - [[@dunbarHowScientistsThink1997]]]]
 
@@ -293,6 +293,7 @@ date: Fri Oct 30 2020 11:32:53 GMT-0400 (Eastern Daylight Time)
 - **Informed By::** [[EVD - patents filed by inventors who was new to the patent's field tended to receive slightly fewer..., except when they collaborated with an expert in the new field - @artsParadiseNoveltyLoss2018a]]
 - **Informed By::** [[EVD - papers with high median conventionality and high tail atypical combinations of journals they ...erage to be in top 5 percent of citation distribution - @uzziAtypicalCombinationsScientific2013]]
 - **Informed By::** [[CLM - There is a 'Sweet Spot' in Analogical Distance. Somewhat far analogies lead to better creative outcomes than very near or very far analogies]]
+- **Informed By::** [[CLM - far analogies are systematically overrated in their importance for creative breakthroughs due to memory bias - @dunbarHowScientistsThink1997]]
 - **Informed By::** [[CLM - Analogical distance of inspirations for an idea are positively related to the idea's creativity]]
 - **Informed By::** [[@dunbarHowScientistsThink1997]]
 - **Informed By::** [[@catramboneEffectsSurfaceStructural2002]]

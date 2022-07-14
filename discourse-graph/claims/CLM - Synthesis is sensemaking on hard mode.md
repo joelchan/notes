@@ -11,7 +11,7 @@ date: Fri Feb 28 2020 17:08:14 GMT-0500 (Eastern Standard Time)
 
     - Description:
 
-        - [[🧱 sensemaking]] shares the property of [[[[CLM]] - Synthesis is creating a new whole out of component parts]]. But doesn't necessarily add the [[[[CL]] - Clearer cases of synthesis involve substantial conceptual innovation]]
+        - [[🧱 sensemaking]] shares the property of [[[[CLM]] - Synthesis is creating a new whole out of component parts]]. But doesn't necessarily add the [[[[CLM]] - Clearer cases of synthesis involve substantial conceptual innovation]]
 
         - Potentially #redundant-with (or a reason that) #[[Z: Sensemaking models partially model scholarly synthesis as of [[April 21st, 2020]]]]
 
@@ -23,4 +23,7 @@ date: Fri Feb 28 2020 17:08:14 GMT-0500 (Eastern Standard Time)
 
 - **Informs::** [[QUE - What is synthesis]]
 - **Informs::** [[QUE - What (existing) systems facilitate individual synthesis]]
+- **Informs::** [[CLM - Contextualizability is necessary for synthesis]]
 - **Informed By::** [[@strikeTypesSynthesisTheir1983]]
+- **Informed By::** [[CLM - Synthesis is creating a new whole out of component parts]]
+- **Informed By::** [[CLM - Clearer cases of synthesis involve substantial conceptual innovation]]

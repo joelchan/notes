@@ -37,3 +37,4 @@ date: Mon May 11 2020 21:34:10 GMT-0400 (Eastern Daylight Time)
 
 - **Informed By::** [[@kuhnGenuineSemanticPublishing2017]]
 - **Informed By::** [[@renearStrategicReadingOntologies2009]]
+- **Informed By::** [[CLM - Sustaining authorship for semantic publishing is hard]]

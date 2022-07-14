@@ -19,4 +19,5 @@ date: Thu May 07 2020 11:01:56 GMT-0400 (Eastern Daylight Time)
 
 ###### Discourse Context
 
+- **Informs::** [[CLM - In interdisciplinary domains, network-based foraging is more powerful than search-based foraging]]
 - **Informed By::** [[@moteReasonsVariationInformation1962]]

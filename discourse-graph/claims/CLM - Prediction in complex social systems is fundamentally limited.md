@@ -23,5 +23,7 @@ date: Fri May 22 2020 21:49:41 GMT-0400 (Eastern Daylight Time)
 
 ###### Discourse Context
 
+- **Informs::** [[CLM - Prestige substantially controls how scientific ideas spread]]
 - **Informed By::** [[@martinExploringLimitsPrediction2016]]
 - **Informed By::** [[@salganikMeasuringPredictabilityLife2020]]
+- **Informed By::** [[CLM - Prestige substantially controls how scientific ideas spread]]

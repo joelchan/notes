@@ -26,6 +26,7 @@ date: Wed Apr 08 2020 22:27:14 GMT-0400 (Eastern Daylight Time)
 ###### Discourse Context
 
 - **Informs::** [[QUE - What (existing) systems facilitate individual synthesis]]
+- **Informs::** [[CLM - Scholarly argumentation operates on atomic statements and concepts as fundamental units]]
 - **Supported By::** [[EVD - Scientists more often nonlinearly read subsections of papers for findings, hypotheses or othe...ion, rather than linearly reading whole documents - @ribaupierreExtractingDiscourseElements2017]]
 - **Informed By::** [[@ribaupierreExtractingDiscourseElements2017]]
 - **Informed By::** [[@renearStrategicReadingOntologies2009]]

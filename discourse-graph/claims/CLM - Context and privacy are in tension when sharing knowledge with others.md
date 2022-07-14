@@ -57,3 +57,4 @@ date: Fri Jan 07 2022 09:29:36 GMT-0500 (Eastern Standard Time)
 - **Informed By::** [[@gruberDarwinManPsychological1974]]
 - **Informed By::** [[@chanWhereRubberMeets2020]]
 - **Informed By::** [[@dryNewtonPapersStrange2014]]
+- **Informed By::** [[CLM - Knowledge must be recontextualized to be usefully reused]]

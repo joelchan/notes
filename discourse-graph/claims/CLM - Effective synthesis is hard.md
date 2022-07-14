@@ -33,6 +33,10 @@ date: Thu Apr 30 2020 15:40:50 GMT-0400 (Eastern Daylight Time)
 
 ###### Discourse Context
 
+- **Informs::** [[CLM - Effective synthesis is rare]]
+- **Informs::** [[CLM - Most scholarly communication infrastructure operates on the document as the base unit]]
+- **Informs::** [[CLM - Science is getting less bang for its buck]]
 - **Informed By::** [[@knightEnslavedTrappedData2019]]
 - **Informed By::** [[@greenhalghTimeChallengeSpurious2018]]
 - **Informed By::** [[@jonesBurdenKnowledgeDeath2009]]
+- **Informed By::** [[CLM - Doctoral students struggle to effectively synthesize literature]]

@@ -41,6 +41,7 @@ date: Sun Mar 01 2020 20:55:47 GMT-0500 (Eastern Standard Time)
 - **Informs::** [[QUE - How can we augment scientific creativity with computational analogy]]
 - **Informs::** [[QUE - What are the mechanisms by which analogies help drive creative breakthroughs]]
 - **Informs::** [[QUE - How might domain distance modulate the effects of analogies on creative output]]
+- **Informs::** [[CLM - Core attribute (mis)matches mediate the benefits of analogies in real-world, complex problem solving]]
 - **Supported By::** [[EVD - papers with high median conventionality and high tail atypical combinations of journals they ...erage to be in top 5 percent of citation distribution - @uzziAtypicalCombinationsScientific2013]]
 - **Supported By::** [[EVD - Molecular biologists with a reputation for innovation rarely used very far analogies in their...d mainly on analogies to the same or other biological organisms - @dunbarHowScientistsThink1997]]
 - **Informed By::** [[@wang2019wikipedia]]

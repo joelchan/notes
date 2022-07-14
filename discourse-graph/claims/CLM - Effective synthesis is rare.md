@@ -46,6 +46,9 @@ date: Wed May 06 2020 09:44:57 GMT-0400 (Eastern Daylight Time)
 ###### Discourse Context
 
 - **Informs::** [[QUE - What is synthesis]]
+- **Informs::** [[CLM - Science is getting less bang for its buck]]
 - **Informed By::** [[@booteScholarsResearchersCentrality2005]]
 - **Informed By::** [[@flemingCochraneNonCochraneSystematic2013]]
 - **Informed By::** [[@alton-leeTroubleshooterChecklistProspective1998]]
+- **Informed By::** [[CLM - Doctoral students struggle to effectively synthesize literature]]
+- **Informed By::** [[CLM - Effective synthesis is hard]]

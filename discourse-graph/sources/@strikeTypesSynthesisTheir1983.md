@@ -192,6 +192,7 @@ date: Mon Dec 30 2019 19:17:08 GMT-0500 (Eastern Standard Time)
 
 - **Informs::** [[CLM - Synthesis is sensemaking on hard mode]]
 - **Informs::** [[CLM - Synthesis is creating a new whole out of component parts]]
+- **Informs::** [[CLM - Clearer cases of synthesis involve substantial conceptual innovation]]
 - **Informs::** [[CLM - systematic reviews are typically narrowly focused, and provide less insight]]
 - **Informs::** [[QUE - What is synthesis]]
 - **Informs::** [[QUE - How might we conceptualize and measure synthesis quality]]

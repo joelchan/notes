@@ -55,3 +55,4 @@ date: Thu Aug 20 2020 01:58:00 GMT-0400 (Eastern Daylight Time)
 - **Informed By::** [[@suchmanPlansSituatedActions1987]]
 - **Informed By::** [[@maherCoevolutionComputationalCognitive2003]]
 - **Informed By::** [[@dorstCoreDesignThinking2011]]
+- **Informed By::** [[CLM - Expert designers are solution-oriented]]

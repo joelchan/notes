@@ -9,4 +9,4 @@ date: Tue Jul 12 2022 12:56:22 GMT-0400 (Eastern Daylight Time)
 
 ###### Discourse Context
 
-- **Supports::** [[CLM - This is a Claim page.]]
+- **Informs::** [[QUE - This is a Question page.]]

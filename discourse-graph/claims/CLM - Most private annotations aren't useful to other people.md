@@ -27,3 +27,4 @@ date: Thu May 28 2020 22:46:43 GMT-0400 (Eastern Daylight Time)
 
 - **Informs::** [[QUE - How can we best bridge private vs. public knowledge]]
 - **Informed By::** [[@marshallExploringRelationshipPersonal2004]]
+- **Informed By::** [[CLM - Knowledge must be recontextualized to be usefully reused]]

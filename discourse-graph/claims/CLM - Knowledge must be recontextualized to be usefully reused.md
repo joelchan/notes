@@ -27,4 +27,8 @@ date: Wed Feb 12 2020 17:19:30 GMT-0500 (Eastern Standard Time)
 
 - **Informs::** [[QUE - How can we best bridge private vs. public knowledge]]
 - **Informs::** [[QUE - What (existing) systems facilitate individual synthesis]]
+- **Informs::** [[CLM - Most private annotations aren't useful to other people]]
+- **Informs::** [[CLM - Context and privacy are in tension when sharing knowledge with others]]
+- **Informs::** [[CLM - Contextualizability is necessary for synthesis]]
 - **Informed By::** [[@ackermanSharingKnowledgeExpertise2013]]
+- **Informed By::** [[CLM - People need information about history of changes to reuse information]]

@@ -131,6 +131,7 @@ date: Thu Feb 27 2020 15:43:41 GMT-0500 (Eastern Standard Time)
 
 ###### Discourse Context
 
+- **Informs::** [[CLM - Synthesis is-necessary-for effective problem formulation]]
 - **Informs::** [[CLM - Effective problem formulation is-necessary-for creative knowledge work]]
 - **Informs::** [[QUE - How do people effectively (re)formulate creative problems]]
 - **Informs::** [[THE - interaction-oriented theory of creative inspiration from examples]]

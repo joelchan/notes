@@ -32,6 +32,7 @@ date: Thu May 14 2020 16:57:17 GMT-0400 (Eastern Daylight Time)
 
 ###### Discourse Context
 
+- **Informs::** [[CLM - Compression is necessary for synthesis]]
 - **Supported By::** [[EVD - People were ~2x worse at solving matchstick arithmetic problems when the elements were harder to decompose into chunks - @knoblichConstraintRelaxationChunk1999]]
 - **Informed By::** [[@knoblichConstraintRelaxationChunk1999]]
 - **Informed By::** [[@mccaffreyInnovationReliesObscure2012]]

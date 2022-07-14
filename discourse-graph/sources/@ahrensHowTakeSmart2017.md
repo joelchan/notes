@@ -29,5 +29,6 @@ date: Sat May 09 2020 00:48:07 GMT-0400 (Eastern Daylight Time)
 
 ###### Discourse Context
 
+- **Informs::** [[CLM - People process complex information in multiple levels and stages of processing]]
 - **Informs::** [[PTN - Organize by using]]
 - **Informs::** [[PTN - hypertext notebooks]]

@@ -19,12 +19,15 @@ date: Thu May 14 2020 16:58:56 GMT-0400 (Eastern Daylight Time)
 
         - One metaphor for this is the idea of [[C: Compression]]
 
-        - This "shrinking" is often accomplished by [[abstraction]]. While powerful, abstraction can impede synthesis if [[context]] isn't easy to recover (i.e., if the compression is "lossy"), because [[[[CL]] - Compression and contextualizability are in tension]], and [[[[CLM]] - Contextualizability is necessary for synthesis]]
+        - This "shrinking" is often accomplished by [[abstraction]]. While powerful, abstraction can impede synthesis if [[context]] isn't easy to recover (i.e., if the compression is "lossy"), because [[[[CLM]] - Compression and contextualizability are in tension]], and [[[[CLM]] - Contextualizability is necessary for synthesis]]
 
     - R-Sources
 
 ###### Discourse Context
 
+- **Informs::** [[CLM - Compression is necessary for synthesis]]
 - **Informed By::** [[@mccrickardMakingClaimsKnowledge2012]]
 - **Informed By::** [[@cowanMagicalNumberShortterm2000]]
 - **Informed By::** [[@chaseMindEyeChess1973]]
+- **Informed By::** [[CLM - Contextualizability is necessary for synthesis]]
+- **Informed By::** [[CLM - Compression and contextualizability are in tension]]

@@ -20,7 +20,7 @@ date: Tue Jul 28 2020 11:52:07 GMT-0400 (Eastern Daylight Time)
 
             - There is a fundamental idea that the project of creating a human-wide knowledge base (a la [[Semantic Web]]) must fail, because [[[[CLM]] - Knowledge is fundamentally contextual]]
 
-            - See also: [[[[CL]] - Multiplicity is necessary for synthesis]], and [[[[CLM]] - Contextualizability is necessary for synthesis]]
+            - See also: [[[[CLM]] - Multiplicity is necessary for synthesis]], and [[[[CLM]] - Contextualizability is necessary for synthesis]]
 
     - R-Sources
 
@@ -41,3 +41,5 @@ date: Tue Jul 28 2020 11:52:07 GMT-0400 (Eastern Daylight Time)
 - **Informed By::** [[@poirierTurnScruffyEthnographic2017]]
 - **Informed By::** [[@gustafsonWhatDistributedKnowledge2020]]
 - **Informed By::** [[@cambrosioOvercomingBottleneckKnowledge2020]]
+- **Informed By::** [[CLM - Multiplicity is necessary for synthesis]]
+- **Informed By::** [[CLM - Contextualizability is necessary for synthesis]]

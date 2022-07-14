@@ -15,7 +15,7 @@ date: Sun Mar 01 2020 21:53:43 GMT-0500 (Eastern Standard Time)
 
         - Current [[incentives]] bias favor [[short-termism]]
 
-            - For example, [[[[CL]] - Scientists prefer to pursue safer incremental advances rather than risky breakthroughs]]
+            - For example, [[[[CLM]] - Scientists prefer to pursue safer incremental advances rather than risky breakthroughs]]
 
             - This is bad for science because [[[[CLM]] - True creative breakthroughs often take a long time to develop]]
 
@@ -63,6 +63,8 @@ date: Sun Mar 01 2020 21:53:43 GMT-0500 (Eastern Standard Time)
 
 ###### Discourse Context
 
+- **Informs::** [[CLM - Error detection work in science is systematically undervalued]]
+- **Informs::** [[CLM - Science is getting less bang for its buck]]
 - **Informed By::** [[@bengioTimeRethinkPublication2020]]
 - **Informed By::** [[@dedeoWhenScienceGame2020]]
 - **Informed By::** [[@heesen2018reward]]
@@ -73,3 +75,10 @@ date: Sun Mar 01 2020 21:53:43 GMT-0500 (Eastern Standard Time)
 - **Informed By::** [[@everettTragedyAcademicCommons2015]]
 - **Informed By::** [[@smaldinoNaturalSelectionBad2016]]
 - **Informed By::** [[@nosekScientificUtopiaII2012]]
+- **Informed By::** [[CLM - Prestige substantially controls how scientific ideas spread]]
+- **Informed By::** [[CLM - Scientists prefer to pursue safer incremental advances rather than risky breakthroughs]]
+- **Informed By::** [[CLM - Scientific peer review is deeply flawed]]
+- **Informed By::** [[CLM - Error detection work in science is systematically undervalued]]
+- **Informed By::** [[CLM - bibliometric measures are biased against novel breakthrough research - @wangBiasNoveltyScience2017]]
+- **Informed By::** [[CLM - Citation practices in science are far from optimal]]
+- **Informed By::** [[CLM - True creative breakthroughs often take a long time to develop]]

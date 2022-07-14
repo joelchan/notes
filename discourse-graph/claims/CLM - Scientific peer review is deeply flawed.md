@@ -19,4 +19,7 @@ date: Tue Jun 09 2020 17:01:51 GMT-0400 (Eastern Daylight Time)
 
 ###### Discourse Context
 
+- **Informs::** [[CLM - Prevailing incentives in academia are bad for science]]
+- **Informs::** [[CLM - Prestige substantially controls how scientific ideas spread]]
+- **Informs::** [[CLM - It is not possible to create a computational system that automatically extracts novel and accurate insights from published scientific literature alone]]
 - **Informed By::** [[@tennantLimitationsOurUnderstanding2020]]

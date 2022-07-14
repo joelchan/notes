@@ -21,5 +21,6 @@ date: Sat Apr 18 2020 00:08:58 GMT-0400 (Eastern Daylight Time)
 
 - **Supports::** [[CLM - Specifying context for future reuse is costly]]
 - **Informs::** [[QUE - What is context for the purposes of scholarly synthesis]]
+- **Informs::** [[CLM - Specifying context for future reuse is costly]]
 - **Informed By::** [[@ackermanSharingKnowledgeExpertise2013]]
 - **Informed By::** [[@ackermanOrganizationalMemoryObjects2004]]

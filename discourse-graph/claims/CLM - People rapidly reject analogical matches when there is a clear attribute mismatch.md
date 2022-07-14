@@ -19,4 +19,6 @@ date: Wed Oct 07 2020 13:19:00 GMT-0400 (Eastern Daylight Time)
 
 ###### Discourse Context
 
+- **Informs::** [[CLM - Core attribute (mis)matches mediate the benefits of analogies in real-world, complex problem solving]]
+- **Informs::** [[CLM - Core attribute mismatches in analogical inspiration harm creativity]]
 - **Informed By::** [[@chanSOLVENTMixedInitiative2018]]

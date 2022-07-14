@@ -29,4 +29,5 @@ date: Sun Oct 24 2021 16:28:59 GMT-0400 (Eastern Daylight Time)
 ###### Discourse Context
 
 - **Informs::** [[QUE - Are bans an effective strategy for dealing with bad behaviors in online social media settings]]
+- **Supports::** [[CLM - bans for antisocial behaviors can mitigate contagion of those behaviors to other users via norm-setting]]
 - **FromSource::** [[@seeringShapingProAntiSocial2017]]

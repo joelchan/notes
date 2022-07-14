@@ -6,7 +6,7 @@ date: Sun Oct 24 2021 16:48:49 GMT-0400 (Eastern Daylight Time)
 ---
 
 - [[Playground: Misinformation]]
-- [[[[CL]] - bans for antisocial behaviors can mitigate contagion of those behaviors to other users via norm-setting]]
+- [[[[CLM]] - bans for antisocial behaviors can mitigate contagion of those behaviors to other users via norm-setting]]
 
     - [[SupportedBy]]
 
@@ -21,5 +21,6 @@ date: Sun Oct 24 2021 16:48:49 GMT-0400 (Eastern Daylight Time)
 
 - **Informed By::** [[EVD - viewers in Twitch chat engaged in less bad behaviors after a user was banned by a moderator for that bad behavior - @seeringShapingProAntiSocial2017]]
 - **Informed By::** [[EVD - users from subreddits banned for hate speech did not engage in hate speech in new forums they joined - @chandrasekharanYouCanStay2017]]
+- **Informed By::** [[CLM - bans for antisocial behaviors can mitigate contagion of those behaviors to other users via norm-setting]]
 - **Informed By::** [[@seeringShapingProAntiSocial2017]]
 - **Informed By::** [[@chandrasekharanYouCanStay2017]]
