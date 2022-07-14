@@ -25,7 +25,6 @@ date: Thu May 14 2020 16:58:56 GMT-0400 (Eastern Daylight Time)
 
 ###### Discourse Context
 
-- **Informed By::** [@mccrickardMakingClaimsKnowledge2012.md](@mccrickardMakingClaimsKnowledge2012.md)
-- **Informed By::** [@cowanMagicalNumberShortterm2000.md](@cowanMagicalNumberShortterm2000.md)
-- **Informed By::** [@chaseMindEyeChess1973.md](@chaseMindEyeChess1973.md)
-
+- **Informed By::** [[@mccrickardMakingClaimsKnowledge2012]]
+- **Informed By::** [[@cowanMagicalNumberShortterm2000]]
+- **Informed By::** [[@chaseMindEyeChess1973]]

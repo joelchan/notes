@@ -75,8 +75,7 @@ date: Tue Jun 15 2021 14:22:50 GMT-0400 (Eastern Daylight Time)
 
 ###### Discourse Context
 
-- **Informs::** [QUE - How might domain distance modulate the effects of analogies on creative output.md](QUE - How might domain distance modulate the effects of analogies on creative output.md)
-- **Supports::** [CLM - Analogical distance of inspirations for an idea are positively related to the idea's creativity.md](CLM - Analogical distance of inspirations for an idea are positively related to the idea's creativity.md)
-- **Consistent With::** [EVD - Engineering students who were given one or more near analogies as stimuli generated design id...tential customer judges, compared to being given no stimuli - @dahlInfluenceValueAnalogical2002.md](EVD - Engineering students who were given one or more near analogies as stimuli generated design id...tential customer judges, compared to being given no stimuli - @dahlInfluenceValueAnalogical2002.md)
-- **FromSource::** [@dahlInfluenceValueAnalogical2002.md](@dahlInfluenceValueAnalogical2002.md)
-
+- **Informs::** [[QUE - How might domain distance modulate the effects of analogies on creative output]]
+- **Supports::** [[CLM - Analogical distance of inspirations for an idea are positively related to the idea's creativity]]
+- **Consistent With::** [[EVD - Engineering students who were given one or more near analogies as stimuli generated design id...tential customer judges, compared to being given no stimuli - @dahlInfluenceValueAnalogical2002]]
+- **FromSource::** [[@dahlInfluenceValueAnalogical2002]]

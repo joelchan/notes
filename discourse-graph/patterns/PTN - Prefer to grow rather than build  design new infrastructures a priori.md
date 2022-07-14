@@ -31,7 +31,6 @@ date: Sat Jun 06 2020 15:15:45 GMT-0400 (Eastern Daylight Time)
 
 ###### Discourse Context
 
-- **Informed By::** [@edwardsIntroductionAgendaInfrastructure2009.md](@edwardsIntroductionAgendaInfrastructure2009.md)
-- **Informed By::** [@edwardsUnderstandingInfrastructureDynamics2007.md](@edwardsUnderstandingInfrastructureDynamics2007.md)
-- **Informed By::** [@starStepsEcologyInfrastructure1996.md](@starStepsEcologyInfrastructure1996.md)
-
+- **Informed By::** [[@edwardsIntroductionAgendaInfrastructure2009]]
+- **Informed By::** [[@edwardsUnderstandingInfrastructureDynamics2007]]
+- **Informed By::** [[@starStepsEcologyInfrastructure1996]]

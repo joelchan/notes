@@ -35,5 +35,4 @@ date: Sat Nov 14 2020 00:04:34 GMT-0500 (Eastern Standard Time)
 
 ###### Discourse Context
 
-- **Informs::** [QUE - What are some major phenomena around designers' exploration of design spaces and how might these map to characteristics of optimizers.md](QUE - What are some major phenomena around designers' exploration of design spaces and how might these map to characteristics of optimizers.md)
-
+- **Informs::** [[QUE - What are some major phenomena around designers' exploration of design spaces and how might these map to characteristics of optimizers]]

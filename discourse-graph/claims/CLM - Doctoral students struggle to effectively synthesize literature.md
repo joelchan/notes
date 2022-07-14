@@ -33,7 +33,6 @@ date: Thu Feb 27 2020 10:16:51 GMT-0500 (Eastern Standard Time)
 
 ###### Discourse Context
 
-- **Informed By::** [@holbrookLevelsSuccessUse2008.md](@holbrookLevelsSuccessUse2008.md)
-- **Informed By::** [@lovittsMakingImplicitExplicit2007.md](@lovittsMakingImplicitExplicit2007.md)
-- **Informed By::** [@holbrookInvestigatingPhDThesis2004.md](@holbrookInvestigatingPhDThesis2004.md)
-
+- **Informed By::** [[@holbrookLevelsSuccessUse2008]]
+- **Informed By::** [[@lovittsMakingImplicitExplicit2007]]
+- **Informed By::** [[@holbrookInvestigatingPhDThesis2004]]

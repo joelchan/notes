@@ -29,10 +29,9 @@ date: Tue May 19 2020 23:12:51 GMT-0400 (Eastern Daylight Time)
 
 ###### Discourse Context
 
-- **Informed By::** [@gruberDarwinManPsychological1974.md](@gruberDarwinManPsychological1974.md)
-- **Informed By::** [@siangliulueProvidingTimelyExamples2015.md](@siangliulueProvidingTimelyExamples2015.md)
-- **Informed By::** [@seifertDemystificationCognitiveInsight1995.md](@seifertDemystificationCognitiveInsight1995.md)
-- **Informed By::** [@patalanoOpportunisticPlanningBeing1997.md](@patalanoOpportunisticPlanningBeing1997.md)
-- **Informed By::** [@patalanoMemoryImpassesProblem1994.md](@patalanoMemoryImpassesProblem1994.md)
-- **Informed By::** [@tsengRoleTimingAnalogical2008.md](@tsengRoleTimingAnalogical2008.md)
-
+- **Informed By::** [[@gruberDarwinManPsychological1974]]
+- **Informed By::** [[@siangliulueProvidingTimelyExamples2015]]
+- **Informed By::** [[@seifertDemystificationCognitiveInsight1995]]
+- **Informed By::** [[@patalanoOpportunisticPlanningBeing1997]]
+- **Informed By::** [[@patalanoMemoryImpassesProblem1994]]
+- **Informed By::** [[@tsengRoleTimingAnalogical2008]]

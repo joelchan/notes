@@ -23,7 +23,6 @@ date: Thu Apr 23 2020 11:53:37 GMT-0400 (Eastern Daylight Time)
 
 ###### Discourse Context
 
-- **Informs::** [QUE - What is synthesis.md](QUE - What is synthesis.md)
-- **Informed By::** [@zhangpengyiComprehensiveModelCognitive2014.md](@zhangpengyiComprehensiveModelCognitive2014.md)
-- **Informed By::** [@faisalClassificationSensemakingRepresentations2009.md](@faisalClassificationSensemakingRepresentations2009.md)
-
+- **Informs::** [[QUE - What is synthesis]]
+- **Informed By::** [[@zhangpengyiComprehensiveModelCognitive2014]]
+- **Informed By::** [[@faisalClassificationSensemakingRepresentations2009]]

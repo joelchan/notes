@@ -58,5 +58,5 @@ date: Mon Jul 12 2021 12:35:18 GMT-0400 (Eastern Daylight Time)
 
 ###### Discourse Context
 
-- **Supports::** [CLM - ambiguity in scholarly communication facilitates within- and cross-field integration of discourse - @mcmahanAmbiguityEngagement2018.md](CLM - ambiguity in scholarly communication facilitates within- and cross-field integration of discourse - @mcmahanAmbiguityEngagement2018.md)
-- **FromSource::** [@mcmahanAmbiguityEngagement2018.md](@mcmahanAmbiguityEngagement2018.md)
+- **Supports::** [[CLM - ambiguity in scholarly communication facilitates within- and cross-field integration of discourse - @mcmahanAmbiguityEngagement2018]]
+- **FromSource::** [[@mcmahanAmbiguityEngagement2018]]

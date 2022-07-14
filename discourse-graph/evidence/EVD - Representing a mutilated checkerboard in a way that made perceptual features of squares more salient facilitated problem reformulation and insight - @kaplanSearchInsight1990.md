@@ -50,7 +50,6 @@ date: Tue Oct 19 2021 10:53:59 GMT-0400 (Eastern Daylight Time)
 
 ###### Discourse Context
 
-- **Informs::** [QUE - How do people effectively (re)formulate creative problems.md](QUE - How do people effectively (re)formulate creative problems.md)
-- **Supports::** [CLM - Effective problem formulation is-necessary-for creative knowledge work.md](CLM - Effective problem formulation is-necessary-for creative knowledge work.md)
-- **FromSource::** [@kaplanSearchInsight1990.md](@kaplanSearchInsight1990.md)
-
+- **Informs::** [[QUE - How do people effectively (re)formulate creative problems]]
+- **Supports::** [[CLM - Effective problem formulation is-necessary-for creative knowledge work]]
+- **FromSource::** [[@kaplanSearchInsight1990]]

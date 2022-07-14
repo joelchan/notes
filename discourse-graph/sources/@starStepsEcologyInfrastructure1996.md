@@ -131,7 +131,6 @@ date: Tue Apr 27 2021 14:37:23 GMT-0400 (Eastern Daylight Time)
 
 ###### Discourse Context
 
-- **Informs::** [CLM - Infrastructure is invisible until it fails.md](CLM - Infrastructure is invisible until it fails.md)
-- **Informs::** [QUE - How can we best bridge private vs. public knowledge.md](QUE - How can we best bridge private vs. public knowledge.md)
-- **Informs::** [PTN - Prefer to grow rather than build  design new infrastructures a priori.md](PTN - Prefer to grow rather than build  design new infrastructures a priori.md)
-
+- **Informs::** [[CLM - Infrastructure is invisible until it fails]]
+- **Informs::** [[QUE - How can we best bridge private vs. public knowledge]]
+- **Informs::** [[PTN - Prefer to grow rather than build  design new infrastructures a priori]]

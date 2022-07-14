@@ -93,7 +93,6 @@ date: Sun Feb 16 2020 17:17:29 GMT-0500 (Eastern Standard Time)
 
 ###### Discourse Context
 
-- **Informs::** [CLM - The central bottleneck to synthesis infrastructures is authoring.md](CLM - The central bottleneck to synthesis infrastructures is authoring.md)
-- **Informs::** [CLM - Sustaining authorship for semantic publishing is hard.md](CLM - Sustaining authorship for semantic publishing is hard.md)
-- **Informs::** [QUE - Do scholarly synthesis infrastructures already exist.md](QUE - Do scholarly synthesis infrastructures already exist.md)
-
+- **Informs::** [[CLM - The central bottleneck to synthesis infrastructures is authoring]]
+- **Informs::** [[CLM - Sustaining authorship for semantic publishing is hard]]
+- **Informs::** [[QUE - Do scholarly synthesis infrastructures already exist]]

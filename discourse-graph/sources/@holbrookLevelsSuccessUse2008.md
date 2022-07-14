@@ -54,7 +54,6 @@ date: Tue Dec 24 2019 10:38:54 GMT-0500 (Eastern Standard Time)
 
 ###### Discourse Context
 
-- **Informs::** [CLM - Doctoral students struggle to effectively synthesize literature.md](CLM - Doctoral students struggle to effectively synthesize literature.md)
-- **Informs::** [CLM - Composability is necessary for synthesis.md](CLM - Composability is necessary for synthesis.md)
-- **Informs::** [CLM - Synthesis is creating a new whole out of component parts.md](CLM - Synthesis is creating a new whole out of component parts.md)
-
+- **Informs::** [[CLM - Doctoral students struggle to effectively synthesize literature]]
+- **Informs::** [[CLM - Composability is necessary for synthesis]]
+- **Informs::** [[CLM - Synthesis is creating a new whole out of component parts]]

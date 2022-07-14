@@ -30,11 +30,10 @@ date: Fri Oct 15 2021 13:51:09 GMT-0400 (Eastern Daylight Time)
 
 ###### Discourse Context
 
-- **Informed By::** [@howardFaceMasksCOVID192020.md](@howardFaceMasksCOVID192020.md)
-- **Informed By::** [@vanrooijIntractabilityUseHeuristics2012.md](@vanrooijIntractabilityUseHeuristics2012.md)
-- **Informed By::** [@butcherCommunityEngagementYouth2020.md](@butcherCommunityEngagementYouth2020.md)
-- **Informed By::** [@oganCollaborationCognitiveTutor2012.md](@oganCollaborationCognitiveTutor2012.md)
-- **Informed By::** [@krohnInterdisciplinaryCasesDisciplinary2017.md](@krohnInterdisciplinaryCasesDisciplinary2017.md)
-- **Informed By::** [@richHowHardCognitive2021.md](@richHowHardCognitive2021.md)
-- **Informed By::** [@wolffeSystematicEvidenceMaps2019.md](@wolffeSystematicEvidenceMaps2019.md)
-
+- **Informed By::** [[@howardFaceMasksCOVID192020]]
+- **Informed By::** [[@vanrooijIntractabilityUseHeuristics2012]]
+- **Informed By::** [[@butcherCommunityEngagementYouth2020]]
+- **Informed By::** [[@oganCollaborationCognitiveTutor2012]]
+- **Informed By::** [[@krohnInterdisciplinaryCasesDisciplinary2017]]
+- **Informed By::** [[@richHowHardCognitive2021]]
+- **Informed By::** [[@wolffeSystematicEvidenceMaps2019]]

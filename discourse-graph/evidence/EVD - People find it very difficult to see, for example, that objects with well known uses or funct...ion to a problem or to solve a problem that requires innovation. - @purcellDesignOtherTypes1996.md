@@ -10,4 +10,4 @@ date: Mon Apr 25 2022 23:02:11 GMT-0400 (Eastern Daylight Time)
 
 ###### Discourse Context
 
-- **FromSource::** [@purcellDesignOtherTypes1996.md](@purcellDesignOtherTypes1996.md)
+- **FromSource::** [[@purcellDesignOtherTypes1996]]

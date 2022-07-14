@@ -31,11 +31,10 @@ date: Sun Nov 01 2020 22:07:48 GMT-0500 (Eastern Standard Time)
 
 ###### Discourse Context
 
-- **Informs::** [QUE - Under what conditions do diverse initial examples lead to better final design solutions.md](QUE - Under what conditions do diverse initial examples lead to better final design solutions.md)
-- **Informs::** [QUE - How might domain distance modulate the effects of analogies on creative output.md](QUE - How might domain distance modulate the effects of analogies on creative output.md)
-- **Informs::** [QUE - How much variability is there in the effects of diversity of examples on creative design outputs.md](QUE - How much variability is there in the effects of diversity of examples on creative design outputs.md)
-- **SourceFor::** [EVD - case-based reasoning system loaded with diverse cases increased overall usefulness and creati...as, especially for people with lower creative ability - @althuizenSupportingCreativeProblem2014.md](EVD - case-based reasoning system loaded with diverse cases increased overall usefulness and creati...as, especially for people with lower creative ability - @althuizenSupportingCreativeProblem2014.md)
-- **SourceFor::** [EVD - case-based reasoning system loaded with diverse cases increased overall novelty of ad campaign ideas, but only for people with lower creative ability - @althuizenSupportingCreativeProblem2014.md](EVD - case-based reasoning system loaded with diverse cases increased overall novelty of ad campaign ideas, but only for people with lower creative ability - @althuizenSupportingCreativeProblem2014.md)
-- **SourceFor::** [EVD - overall marginally significant negative effect of analogically distant cases on creativity of...ideas, mostly for students with high creative ability - @althuizenSupportingCreativeProblem2014.md](EVD - overall marginally significant negative effect of analogically distant cases on creativity of...ideas, mostly for students with high creative ability - @althuizenSupportingCreativeProblem2014.md)
-- **SourceFor::** [EVD - no overall effect of analogical distance of cases on novelty or usefulness of campaign ad ideas - @althuizenSupportingCreativeProblem2014.md](EVD - no overall effect of analogical distance of cases on novelty or usefulness of campaign ad ideas - @althuizenSupportingCreativeProblem2014.md)
-
+- **Informs::** [[QUE - Under what conditions do diverse initial examples lead to better final design solutions]]
+- **Informs::** [[QUE - How might domain distance modulate the effects of analogies on creative output]]
+- **Informs::** [[QUE - How much variability is there in the effects of diversity of examples on creative design outputs]]
+- **SourceFor::** [[EVD - case-based reasoning system loaded with diverse cases increased overall usefulness and creati...as, especially for people with lower creative ability - @althuizenSupportingCreativeProblem2014]]
+- **SourceFor::** [[EVD - case-based reasoning system loaded with diverse cases increased overall novelty of ad campaign ideas, but only for people with lower creative ability - @althuizenSupportingCreativeProblem2014]]
+- **SourceFor::** [[EVD - overall marginally significant negative effect of analogically distant cases on creativity of...ideas, mostly for students with high creative ability - @althuizenSupportingCreativeProblem2014]]
+- **SourceFor::** [[EVD - no overall effect of analogical distance of cases on novelty or usefulness of campaign ad ideas - @althuizenSupportingCreativeProblem2014]]

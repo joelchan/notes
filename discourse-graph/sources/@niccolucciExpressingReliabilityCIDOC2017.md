@@ -23,5 +23,4 @@ date: Wed Oct 21 2020 16:58:20 GMT-0400 (Eastern Daylight Time)
 
 ###### Discourse Context
 
-- **Informs::** [QUE - How can we support explicit contention with evidence when synthesizing knowledge claims.md](QUE - How can we support explicit contention with evidence when synthesizing knowledge claims.md)
-
+- **Informs::** [[QUE - How can we support explicit contention with evidence when synthesizing knowledge claims]]

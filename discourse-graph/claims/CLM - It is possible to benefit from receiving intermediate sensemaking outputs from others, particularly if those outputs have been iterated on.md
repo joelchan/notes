@@ -9,7 +9,6 @@ date: Wed Jul 13 2022 11:57:28 GMT-0400 (Eastern Daylight Time)
 
 ###### Discourse Context
 
-- **Informs::** [QUE - How can we best bridge private vs. public knowledge.md](QUE - How can we best bridge private vs. public knowledge.md)
-- **Supported By::** [EVD - no reliable differences in time and effort when creating a sensemaking map for an everyday to...ting from scratch vs. building on maps from others - @fisherDistributedSensemakingImproving2012.md](EVD - no reliable differences in time and effort when creating a sensemaking map for an everyday to...ting from scratch vs. building on maps from others - @fisherDistributedSensemakingImproving2012.md)
-- **Supported By::** [EVD - highest self-rated map quality, as measured by overall quality, and helpfulness to others, wh...er person, for the same everyday sensemaking topic - @fisherDistributedSensemakingImproving2012.md](EVD - highest self-rated map quality, as measured by overall quality, and helpfulness to others, wh...er person, for the same everyday sensemaking topic - @fisherDistributedSensemakingImproving2012.md)
-
+- **Informs::** [[QUE - How can we best bridge private vs. public knowledge]]
+- **Supported By::** [[EVD - no reliable differences in time and effort when creating a sensemaking map for an everyday to...ting from scratch vs. building on maps from others - @fisherDistributedSensemakingImproving2012]]
+- **Supported By::** [[EVD - highest self-rated map quality, as measured by overall quality, and helpfulness to others, wh...er person, for the same everyday sensemaking topic - @fisherDistributedSensemakingImproving2012]]

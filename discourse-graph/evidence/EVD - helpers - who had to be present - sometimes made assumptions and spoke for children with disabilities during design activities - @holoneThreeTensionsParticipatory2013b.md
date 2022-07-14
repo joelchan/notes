@@ -20,7 +20,6 @@ date: Tue Jul 20 2021 14:33:10 GMT-0400 (Eastern Daylight Time)
 
 ###### Discourse Context
 
-- **Informs::** [QUE - What tension points exist between the goals of diversity and depth of user participation in participatory design.md](QUE - What tension points exist between the goals of diversity and depth of user participation in participatory design.md)
-- **Supports::** [CLM - Marginalized user populations may require involvement of extra stakeholders who may complicate hearing the users' voices.md](CLM - Marginalized user populations may require involvement of extra stakeholders who may complicate hearing the users' voices.md)
-- **FromSource::** [@holoneThreeTensionsParticipatory2013b.md](@holoneThreeTensionsParticipatory2013b.md)
-
+- **Informs::** [[QUE - What tension points exist between the goals of diversity and depth of user participation in participatory design]]
+- **Supports::** [[CLM - Marginalized user populations may require involvement of extra stakeholders who may complicate hearing the users' voices]]
+- **FromSource::** [[@holoneThreeTensionsParticipatory2013b]]

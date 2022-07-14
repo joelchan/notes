@@ -22,4 +22,4 @@ date: Fri Mar 06 2020 00:42:56 GMT-0500 (Eastern Standard Time)
 
 ###### Discourse Context
 
-- **Informs::** [CLM - Information needs can vary on a general-to-contextual dimension.md](CLM - Information needs can vary on a general-to-contextual dimension.md)
+- **Informs::** [[CLM - Information needs can vary on a general-to-contextual dimension]]

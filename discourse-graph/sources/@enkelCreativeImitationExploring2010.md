@@ -65,6 +65,5 @@ date: Fri Oct 30 2020 11:49:55 GMT-0400 (Eastern Daylight Time)
 
 ###### Discourse Context
 
-- **Informs::** [QUE - How might domain distance modulate the effects of analogies on creative output.md](QUE - How might domain distance modulate the effects of analogies on creative output.md)
-- **SourceFor::** [EVD - No significant correlation between analogical distance of cross-industry inspirations and deg...tcome (incremental, market or breakthrough, and radical) - @enkelCreativeImitationExploring2010.md](EVD - No significant correlation between analogical distance of cross-industry inspirations and deg...tcome (incremental, market or breakthrough, and radical) - @enkelCreativeImitationExploring2010.md)
-
+- **Informs::** [[QUE - How might domain distance modulate the effects of analogies on creative output]]
+- **SourceFor::** [[EVD - No significant correlation between analogical distance of cross-industry inspirations and deg...tcome (incremental, market or breakthrough, and radical) - @enkelCreativeImitationExploring2010]]

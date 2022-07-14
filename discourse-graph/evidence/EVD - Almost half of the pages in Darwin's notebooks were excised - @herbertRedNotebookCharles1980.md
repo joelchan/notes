@@ -13,7 +13,6 @@ date: Tue Sep 07 2021 17:22:59 GMT-0400 (Eastern Daylight Time)
 
 ###### Discourse Context
 
-- **Informs::** [QUE - What (existing) systems facilitate individual synthesis.md](QUE - What (existing) systems facilitate individual synthesis.md)
-- **Supports::** [CLM - A synthesis system needs to operate on a unit of analysis that is more granular than a publication.md](CLM - A synthesis system needs to operate on a unit of analysis that is more granular than a publication.md)
-- **FromSource::** [@herbertRedNotebookCharles1980.md](@herbertRedNotebookCharles1980.md)
-
+- **Informs::** [[QUE - What (existing) systems facilitate individual synthesis]]
+- **Supports::** [[CLM - A synthesis system needs to operate on a unit of analysis that is more granular than a publication]]
+- **FromSource::** [[@herbertRedNotebookCharles1980]]

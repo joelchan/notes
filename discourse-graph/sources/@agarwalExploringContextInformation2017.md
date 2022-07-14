@@ -37,7 +37,6 @@ date: Mon May 18 2020 13:36:22 GMT-0400 (Eastern Daylight Time)
 
 ###### Discourse Context
 
-- **Informs::** [CLM - Information needs can vary on a general-to-contextual dimension.md](CLM - Information needs can vary on a general-to-contextual dimension.md)
-- **Informs::** [CLM - Context is a slippery notion.md](CLM - Context is a slippery notion.md)
-- **Informs::** [CLM - Knowledge is fundamentally contextual.md](CLM - Knowledge is fundamentally contextual.md)
-
+- **Informs::** [[CLM - Information needs can vary on a general-to-contextual dimension]]
+- **Informs::** [[CLM - Context is a slippery notion]]
+- **Informs::** [[CLM - Knowledge is fundamentally contextual]]

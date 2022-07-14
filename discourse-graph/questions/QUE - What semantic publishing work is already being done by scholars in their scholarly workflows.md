@@ -25,6 +25,5 @@ date: Tue Sep 22 2020 10:51:40 GMT-0400 (Eastern Daylight Time)
 
 ###### Discourse Context
 
-- **Informed By::** [CLM - Effective individual synthesis systems (seem to mostly) exist (for a select few).md](CLM - Effective individual synthesis systems (seem to mostly) exist (for a select few).md)
-- **Informed By::** [@chanWhereRubberMeets2020.md](@chanWhereRubberMeets2020.md)
-
+- **Informed By::** [[CLM - Effective individual synthesis systems (seem to mostly) exist (for a select few)]]
+- **Informed By::** [[@chanWhereRubberMeets2020]]

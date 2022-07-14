@@ -10,5 +10,4 @@ date: Sun Mar 13 2022 22:27:23 GMT-0400 (Eastern Daylight Time)
 
 ###### Discourse Context
 
-- **FromSource::** [@alton-leeTroubleshooterChecklistProspective1998.md](@alton-leeTroubleshooterChecklistProspective1998.md)
-
+- **FromSource::** [[@alton-leeTroubleshooterChecklistProspective1998]]

@@ -351,50 +351,49 @@ date: Tue May 19 2020 22:34:29 GMT-0400 (Eastern Daylight Time)
 
 ###### Discourse Context
 
-- **Informed By::** [EVD - teachers in countries with high math and science achievement scores also displayed more cogni... in a country with lower math and science achievement - @richlandCognitiveSupportsAnalogies2007.md](EVD - teachers in countries with high math and science achievement scores also displayed more cogni... in a country with lower math and science achievement - @richlandCognitiveSupportsAnalogies2007.md)
-- **Informed By::** [EVD - giving a bridging analogy to a far analogy for a numerical representations led to better stud...wers) on a math post test compared to no or just the analogy - @vamvakoussiBridgingGapDense2012.md](EVD - giving a bridging analogy to a far analogy for a numerical representations led to better stud...wers) on a math post test compared to no or just the analogy - @vamvakoussiBridgingGapDense2012.md)
-- **Informed By::** [EVD - When provided scaffolding for a similar problem students performed similarly compared to thei...group provided scaffolding performed significantly better. - @richlandReducingCognitiveLoad2013.md](EVD - When provided scaffolding for a similar problem students performed similarly compared to thei...group provided scaffolding performed significantly better. - @richlandReducingCognitiveLoad2013.md)
-- **Informed By::** [EVD - When provided instruction using a bridging analogies students had a better understanding of t... but had trouble putting into the correct context. - @savinainenUsingBridgingRepresentation2005.md](EVD - When provided instruction using a bridging analogies students had a better understanding of t... but had trouble putting into the correct context. - @savinainenUsingBridgingRepresentation2005.md)
-- **Informed By::** [EVD - Participants rate tailored analogies more useful than non-tailored, or more technical analogi...ng analogies. Unless they are given an explicit hint - @olguinAttendingIndividualRecipients2017.md](EVD - Participants rate tailored analogies more useful than non-tailored, or more technical analogi...ng analogies. Unless they are given an explicit hint - @olguinAttendingIndividualRecipients2017.md)
-- **Informed By::** [EVD - when given a (far) analogy for numerical representations, students did no better (and possibly worse) than on a post-test than not having it - @vamvakoussiBridgingGapDense2012.md](EVD - when given a (far) analogy for numerical representations, students did no better (and possibly worse) than on a post-test than not having it - @vamvakoussiBridgingGapDense2012.md)
-- **Informed By::** [EVD - Students were able to alter their conceptions after being provided with bridging analogies - @bryceEncouragingConceptualChange2005.md](EVD - Students were able to alter their conceptions after being provided with bridging analogies - @bryceEncouragingConceptualChange2005.md)
-- **Informed By::** [EVD - Replicated the results of Gick and Holyoak in providing results showing that when providing a hint and an analogy students were more likely to produce a convergent solution.md](EVD - Replicated the results of Gick and Holyoak in providing results showing that when providing a hint and an analogy students were more likely to produce a convergent solution.md)
-- **Informed By::** [EVD - Students were mixed in their subjective opinion of whether or not the bridging analogies aided in their misconceptions. - @bryceEncouragingConceptualChange2005.md](EVD - Students were mixed in their subjective opinion of whether or not the bridging analogies aided in their misconceptions. - @bryceEncouragingConceptualChange2005.md)
-- **Informed By::** [EVD - Generating (but not evaluating) solutions to far analogy problems positively predicted perfor...ared to generating or evaluating near analogy problems) - @vendettiFarOutThinkingGenerating2014.md](EVD - Generating (but not evaluating) solutions to far analogy problems positively predicted perfor...ared to generating or evaluating near analogy problems) - @vendettiFarOutThinkingGenerating2014.md)
-- **Informed By::** [CLM - Core attribute (mis)matches mediate the benefits of analogies in real-world, complex problem solving.md](CLM - Core attribute (mis)matches mediate the benefits of analogies in real-world, complex problem solving.md)
-- **Informed By::** [CLM - People are more likely to benefit from analogies if they encounterprocess them with an active goal or license to use them for inspiration.md](CLM - People are more likely to benefit from analogies if they encounterprocess them with an active goal or license to use them for inspiration.md)
-- **Informed By::** [CLM - bridging analogies can help people benefit from far analogies for creative ideation.md](CLM - bridging analogies can help people benefit from far analogies for creative ideation.md)
-- **Informed By::** [CLM - generating far analogies can induce a relational mindset that enhances downstream analogical thinking.md](CLM - generating far analogies can induce a relational mindset that enhances downstream analogical thinking.md)
-- **Informed By::** [CLM - Bridging analogies can help students understand difficult new concepts.md](CLM - Bridging analogies can help students understand difficult new concepts.md)
-- **Informed By::** [@reedRoleAnalogyTransfer1974.md](@reedRoleAnalogyTransfer1974.md)
-- **Informed By::** [@gickAnalogicalProblemSolving1980.md](@gickAnalogicalProblemSolving1980.md)
-- **Informed By::** [@kurtzComparisonPromotesLearning2013.md](@kurtzComparisonPromotesLearning2013.md)
-- **Informed By::** [@vamvakoussiBridgingGapDense2012.md](@vamvakoussiBridgingGapDense2012.md)
-- **Informed By::** [@craigRoleDiagramsDiagrammatic2002.md](@craigRoleDiagramsDiagrammatic2002.md)
-- **Informed By::** [@casakinReasoningVisualAnalogy2000.md](@casakinReasoningVisualAnalogy2000.md)
-- **Informed By::** [@gickSchemaInductionAnalogical1983.md](@gickSchemaInductionAnalogical1983.md)
-- **Informed By::** [@carraherTransferDilemma2002.md](@carraherTransferDilemma2002.md)
-- **Informed By::** [@kubrichtIndividualDifferencesSpontaneous2017.md](@kubrichtIndividualDifferencesSpontaneous2017.md)
-- **Informed By::** [@salomonRockyRoadsTransfer1989.md](@salomonRockyRoadsTransfer1989.md)
-- **Informed By::** [@richlandCognitiveSupportsAnalogies2007.md](@richlandCognitiveSupportsAnalogies2007.md)
-- **Informed By::** [@siangliulueProvidingTimelyExamples2015.md](@siangliulueProvidingTimelyExamples2015.md)
-- **Informed By::** [@hindsBotheredAbstractionEffect2001.md](@hindsBotheredAbstractionEffect2001.md)
-- **Informed By::** [@gentnerRolesSimilarityTransfer1993.md](@gentnerRolesSimilarityTransfer1993.md)
-- **Informed By::** [@catramboneRolePerceptuallyRepresented2006.md](@catramboneRolePerceptuallyRepresented2006.md)
-- **Informed By::** [@catramboneOvercomingContextualLimitations1989.md](@catramboneOvercomingContextualLimitations1989.md)
-- **Informed By::** [@tuntelerChangeSpontaneousAnalogical2007.md](@tuntelerChangeSpontaneousAnalogical2007.md)
-- **Informed By::** [@tuntelerSpontaneousAnalogicalTransfer2002.md](@tuntelerSpontaneousAnalogicalTransfer2002.md)
-- **Informed By::** [@reevesRoleContentAbstract1994.md](@reevesRoleContentAbstract1994.md)
-- **Informed By::** [@tsengRoleTimingAnalogical2008.md](@tsengRoleTimingAnalogical2008.md)
-- **Informed By::** [@mandlerHowBuildBaby1992.md](@mandlerHowBuildBaby1992.md)
-- **Informed By::** [@corkillIndividualDifferencesTransfer1995.md](@corkillIndividualDifferencesTransfer1995.md)
-- **Informed By::** [@richlandReducingCognitiveLoad2013.md](@richlandReducingCognitiveLoad2013.md)
-- **Informed By::** [@nokesMechanismsKnowledgeTransfer2009.md](@nokesMechanismsKnowledgeTransfer2009.md)
-- **Informed By::** [@brownPreschoolChildrenCan1988.md](@brownPreschoolChildrenCan1988.md)
-- **Informed By::** [@novickAnalogicalTransferProblem1988.md](@novickAnalogicalTransferProblem1988.md)
-- **Informed By::** [@vendettiFarOutThinkingGenerating2014.md](@vendettiFarOutThinkingGenerating2014.md)
-- **Informed By::** [@jauusovecInfluenceAbilityAnalogical1993.md](@jauusovecInfluenceAbilityAnalogical1993.md)
-- **Informed By::** [@cushenBothAttentionalControl2018.md](@cushenBothAttentionalControl2018.md)
-- **Informed By::** [@linseyWordTreesMethodDesignbyanalogy2008.md](@linseyWordTreesMethodDesignbyanalogy2008.md)
-- **Informed By::** [@loewensteinAnalogicalEncodingFacilitates1999.md](@loewensteinAnalogicalEncodingFacilitates1999.md)
-
+- **Informed By::** [[EVD - teachers in countries with high math and science achievement scores also displayed more cogni... in a country with lower math and science achievement - @richlandCognitiveSupportsAnalogies2007]]
+- **Informed By::** [[EVD - giving a bridging analogy to a far analogy for a numerical representations led to better stud...wers) on a math post test compared to no or just the analogy - @vamvakoussiBridgingGapDense2012]]
+- **Informed By::** [[EVD - When provided scaffolding for a similar problem students performed similarly compared to thei...group provided scaffolding performed significantly better. - @richlandReducingCognitiveLoad2013]]
+- **Informed By::** [[EVD - When provided instruction using a bridging analogies students had a better understanding of t... but had trouble putting into the correct context. - @savinainenUsingBridgingRepresentation2005]]
+- **Informed By::** [[EVD - Participants rate tailored analogies more useful than non-tailored, or more technical analogi...ng analogies. Unless they are given an explicit hint - @olguinAttendingIndividualRecipients2017]]
+- **Informed By::** [[EVD - when given a (far) analogy for numerical representations, students did no better (and possibly worse) than on a post-test than not having it - @vamvakoussiBridgingGapDense2012]]
+- **Informed By::** [[EVD - Students were able to alter their conceptions after being provided with bridging analogies - @bryceEncouragingConceptualChange2005]]
+- **Informed By::** [[EVD - Replicated the results of Gick and Holyoak in providing results showing that when providing a hint and an analogy students were more likely to produce a convergent solution]]
+- **Informed By::** [[EVD - Students were mixed in their subjective opinion of whether or not the bridging analogies aided in their misconceptions. - @bryceEncouragingConceptualChange2005]]
+- **Informed By::** [[EVD - Generating (but not evaluating) solutions to far analogy problems positively predicted perfor...ared to generating or evaluating near analogy problems) - @vendettiFarOutThinkingGenerating2014]]
+- **Informed By::** [[CLM - Core attribute (mis)matches mediate the benefits of analogies in real-world, complex problem solving]]
+- **Informed By::** [[CLM - People are more likely to benefit from analogies if they encounterprocess them with an active goal or license to use them for inspiration]]
+- **Informed By::** [[CLM - bridging analogies can help people benefit from far analogies for creative ideation]]
+- **Informed By::** [[CLM - generating far analogies can induce a relational mindset that enhances downstream analogical thinking]]
+- **Informed By::** [[CLM - Bridging analogies can help students understand difficult new concepts]]
+- **Informed By::** [[@reedRoleAnalogyTransfer1974]]
+- **Informed By::** [[@gickAnalogicalProblemSolving1980]]
+- **Informed By::** [[@kurtzComparisonPromotesLearning2013]]
+- **Informed By::** [[@vamvakoussiBridgingGapDense2012]]
+- **Informed By::** [[@craigRoleDiagramsDiagrammatic2002]]
+- **Informed By::** [[@casakinReasoningVisualAnalogy2000]]
+- **Informed By::** [[@gickSchemaInductionAnalogical1983]]
+- **Informed By::** [[@carraherTransferDilemma2002]]
+- **Informed By::** [[@kubrichtIndividualDifferencesSpontaneous2017]]
+- **Informed By::** [[@salomonRockyRoadsTransfer1989]]
+- **Informed By::** [[@richlandCognitiveSupportsAnalogies2007]]
+- **Informed By::** [[@siangliulueProvidingTimelyExamples2015]]
+- **Informed By::** [[@hindsBotheredAbstractionEffect2001]]
+- **Informed By::** [[@gentnerRolesSimilarityTransfer1993]]
+- **Informed By::** [[@catramboneRolePerceptuallyRepresented2006]]
+- **Informed By::** [[@catramboneOvercomingContextualLimitations1989]]
+- **Informed By::** [[@tuntelerChangeSpontaneousAnalogical2007]]
+- **Informed By::** [[@tuntelerSpontaneousAnalogicalTransfer2002]]
+- **Informed By::** [[@reevesRoleContentAbstract1994]]
+- **Informed By::** [[@tsengRoleTimingAnalogical2008]]
+- **Informed By::** [[@mandlerHowBuildBaby1992]]
+- **Informed By::** [[@corkillIndividualDifferencesTransfer1995]]
+- **Informed By::** [[@richlandReducingCognitiveLoad2013]]
+- **Informed By::** [[@nokesMechanismsKnowledgeTransfer2009]]
+- **Informed By::** [[@brownPreschoolChildrenCan1988]]
+- **Informed By::** [[@novickAnalogicalTransferProblem1988]]
+- **Informed By::** [[@vendettiFarOutThinkingGenerating2014]]
+- **Informed By::** [[@jauusovecInfluenceAbilityAnalogical1993]]
+- **Informed By::** [[@cushenBothAttentionalControl2018]]
+- **Informed By::** [[@linseyWordTreesMethodDesignbyanalogy2008]]
+- **Informed By::** [[@loewensteinAnalogicalEncodingFacilitates1999]]

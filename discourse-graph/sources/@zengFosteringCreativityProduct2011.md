@@ -43,7 +43,6 @@ date: Thu Aug 12 2021 23:17:05 GMT-0400 (Eastern Daylight Time)
 
 ###### Discourse Context
 
-- **Informs::** [QUE - Under what conditions do diverse initial examples lead to better final design solutions.md](QUE - Under what conditions do diverse initial examples lead to better final design solutions.md)
-- **Informs::** [THE - interaction-oriented theory of creative inspiration from examples.md](THE - interaction-oriented theory of creative inspiration from examples.md)
-- **SourceFor::** [EVD - Design students generated more creative web service ideas when combining interdomain web service examples, compared to intradomain examples - @zengFosteringCreativityProduct2011.md](EVD - Design students generated more creative web service ideas when combining interdomain web service examples, compared to intradomain examples - @zengFosteringCreativityProduct2011.md)
-
+- **Informs::** [[QUE - Under what conditions do diverse initial examples lead to better final design solutions]]
+- **Informs::** [[THE - interaction-oriented theory of creative inspiration from examples]]
+- **SourceFor::** [[EVD - Design students generated more creative web service ideas when combining interdomain web service examples, compared to intradomain examples - @zengFosteringCreativityProduct2011]]

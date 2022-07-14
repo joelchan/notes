@@ -115,7 +115,6 @@ date: Wed Jan 13 2021 18:06:35 GMT-0500 (Eastern Standard Time)
 
 ###### Discourse Context
 
-- **Informs::** [QUE - What are the most efficient routes to useful cross-boundary knowledge.md](QUE - What are the most efficient routes to useful cross-boundary knowledge.md)
-- **Informs::** [QUE - What is the range of expected benefits of engineered interactions with potential informants across knowledge boundaries.md](QUE - What is the range of expected benefits of engineered interactions with potential informants across knowledge boundaries.md)
-- **Informs::** [QUE - How and in what ways is collocation important for collaborative innovation.md](QUE - How and in what ways is collocation important for collaborative innovation.md)
-
+- **Informs::** [[QUE - What are the most efficient routes to useful cross-boundary knowledge]]
+- **Informs::** [[QUE - What is the range of expected benefits of engineered interactions with potential informants across knowledge boundaries]]
+- **Informs::** [[QUE - How and in what ways is collocation important for collaborative innovation]]

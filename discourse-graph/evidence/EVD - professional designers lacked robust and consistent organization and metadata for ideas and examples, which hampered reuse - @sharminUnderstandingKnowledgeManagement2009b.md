@@ -34,6 +34,5 @@ date: Thu Dec 30 2021 16:26:00 GMT-0500 (Eastern Standard Time)
 
 ###### Discourse Context
 
-- **Informs::** [QUE - How can we best bridge private vs. public knowledge.md](QUE - How can we best bridge private vs. public knowledge.md)
-- **FromSource::** [@sharminUnderstandingKnowledgeManagement2009b.md](@sharminUnderstandingKnowledgeManagement2009b.md)
-
+- **Informs::** [[QUE - How can we best bridge private vs. public knowledge]]
+- **FromSource::** [[@sharminUnderstandingKnowledgeManagement2009b]]

@@ -29,4 +29,4 @@ date: Fri Mar 26 2021 13:37:39 GMT-0400 (Eastern Daylight Time)
 
 ###### Discourse Context
 
-- **Informs::** [QUE - What factors control whether people appropriately benefit from analogies (especially far-field ones) during creative problem solving.md](QUE - What factors control whether people appropriately benefit from analogies (especially far-field ones) during creative problem solving.md)
+- **Informs::** [[QUE - What factors control whether people appropriately benefit from analogies (especially far-field ones) during creative problem solving]]

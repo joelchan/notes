@@ -44,8 +44,7 @@ date: Tue Jul 27 2021 23:37:41 GMT-0400 (Eastern Daylight Time)
 
 ###### Discourse Context
 
-- **Informs::** [QUE - How might domain distance modulate the effects of analogies on creative output.md](QUE - How might domain distance modulate the effects of analogies on creative output.md)
-- **Supports::** [CLM - Analogical distance of inspirations for an idea are positively related to the idea's creativity.md](CLM - Analogical distance of inspirations for an idea are positively related to the idea's creativity.md)
-- **Consistent With::** [EVD - patents filed by inventors who was new to the patent's field tended to be more novel; this was less true if they collaborated with an expert in the new field - @artsParadiseNoveltyLoss2018a.md](EVD - patents filed by inventors who was new to the patent's field tended to be more novel; this was less true if they collaborated with an expert in the new field - @artsParadiseNoveltyLoss2018a.md)
-- **FromSource::** [@kneelandExploringUnchartedTerritory2020.md](@kneelandExploringUnchartedTerritory2020.md)
-
+- **Informs::** [[QUE - How might domain distance modulate the effects of analogies on creative output]]
+- **Supports::** [[CLM - Analogical distance of inspirations for an idea are positively related to the idea's creativity]]
+- **Consistent With::** [[EVD - patents filed by inventors who was new to the patent's field tended to be more novel; this was less true if they collaborated with an expert in the new field - @artsParadiseNoveltyLoss2018a]]
+- **FromSource::** [[@kneelandExploringUnchartedTerritory2020]]

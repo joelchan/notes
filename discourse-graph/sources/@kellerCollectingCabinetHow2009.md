@@ -33,5 +33,4 @@ date: Thu Jun 30 2022 00:21:02 GMT-0400 (Eastern Daylight Time)
 
 ###### Discourse Context
 
-- **Informs::** [THE - interaction-oriented theory of creative inspiration from examples.md](THE - interaction-oriented theory of creative inspiration from examples.md)
-
+- **Informs::** [[THE - interaction-oriented theory of creative inspiration from examples]]

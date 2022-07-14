@@ -53,7 +53,6 @@ date: Wed Oct 07 2020 13:43:37 GMT-0400 (Eastern Daylight Time)
 
 ###### Discourse Context
 
-- **Informs::** [CLM - Core mismatches in analogical inspiration improve creativity.md](CLM - Core mismatches in analogical inspiration improve creativity.md)
-- **Informs::** [CLM - Analogies can be a powerful source of new innovations.md](CLM - Analogies can be a powerful source of new innovations.md)
-- **Informs::** [QUE - How might domain distance modulate the effects of analogies on creative output.md](QUE - How might domain distance modulate the effects of analogies on creative output.md)
-
+- **Informs::** [[CLM - Core mismatches in analogical inspiration improve creativity]]
+- **Informs::** [[CLM - Analogies can be a powerful source of new innovations]]
+- **Informs::** [[QUE - How might domain distance modulate the effects of analogies on creative output]]

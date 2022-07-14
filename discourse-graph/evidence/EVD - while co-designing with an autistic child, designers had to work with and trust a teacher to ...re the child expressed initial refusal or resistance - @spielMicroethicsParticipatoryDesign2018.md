@@ -22,4 +22,4 @@ date: Tue Jul 12 2022 22:26:31 GMT-0400 (Eastern Daylight Time)
 
 ###### Discourse Context
 
-- **FromSource::** [@spielMicroethicsParticipatoryDesign2018.md](@spielMicroethicsParticipatoryDesign2018.md)
+- **FromSource::** [[@spielMicroethicsParticipatoryDesign2018]]

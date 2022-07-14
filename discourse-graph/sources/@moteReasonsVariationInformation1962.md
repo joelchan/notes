@@ -51,7 +51,6 @@ date: Fri Apr 17 2020 23:56:58 GMT-0400 (Eastern Daylight Time)
 
 ###### Discourse Context
 
-- **Informs::** [CLM - In interdisciplinary domains, network-based foraging is more powerful than search-based foraging.md](CLM - In interdisciplinary domains, network-based foraging is more powerful than search-based foraging.md)
-- **Informs::** [CLM - Interdisciplinary synthesis is hard because of scatter in the literature.md](CLM - Interdisciplinary synthesis is hard because of scatter in the literature.md)
-- **Informs::** [QUE - What are the most efficient routes to useful cross-boundary knowledge.md](QUE - What are the most efficient routes to useful cross-boundary knowledge.md)
-
+- **Informs::** [[CLM - In interdisciplinary domains, network-based foraging is more powerful than search-based foraging]]
+- **Informs::** [[CLM - Interdisciplinary synthesis is hard because of scatter in the literature]]
+- **Informs::** [[QUE - What are the most efficient routes to useful cross-boundary knowledge]]

@@ -61,5 +61,4 @@ date: Wed Jul 13 2022 11:48:07 GMT-0400 (Eastern Daylight Time)
 
 ###### Discourse Context
 
-- **FromSource::** [@fisherDistributedSensemakingImproving2012.md](@fisherDistributedSensemakingImproving2012.md)
-
+- **FromSource::** [[@fisherDistributedSensemakingImproving2012]]

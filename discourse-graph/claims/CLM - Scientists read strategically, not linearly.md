@@ -25,8 +25,7 @@ date: Wed Apr 08 2020 22:27:14 GMT-0400 (Eastern Daylight Time)
 
 ###### Discourse Context
 
-- **Informs::** [QUE - What (existing) systems facilitate individual synthesis.md](QUE - What (existing) systems facilitate individual synthesis.md)
-- **Supported By::** [EVD - Scientists more often nonlinearly read subsections of papers for findings, hypotheses or othe...ion, rather than linearly reading whole documents - @ribaupierreExtractingDiscourseElements2017.md](EVD - Scientists more often nonlinearly read subsections of papers for findings, hypotheses or othe...ion, rather than linearly reading whole documents - @ribaupierreExtractingDiscourseElements2017.md)
-- **Informed By::** [@ribaupierreExtractingDiscourseElements2017.md](@ribaupierreExtractingDiscourseElements2017.md)
-- **Informed By::** [@renearStrategicReadingOntologies2009.md](@renearStrategicReadingOntologies2009.md)
-
+- **Informs::** [[QUE - What (existing) systems facilitate individual synthesis]]
+- **Supported By::** [[EVD - Scientists more often nonlinearly read subsections of papers for findings, hypotheses or othe...ion, rather than linearly reading whole documents - @ribaupierreExtractingDiscourseElements2017]]
+- **Informed By::** [[@ribaupierreExtractingDiscourseElements2017]]
+- **Informed By::** [[@renearStrategicReadingOntologies2009]]

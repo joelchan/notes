@@ -113,8 +113,7 @@ date: Wed Feb 16 2022 11:33:46 GMT-0500 (Eastern Standard Time)
 
 ###### Discourse Context
 
-- **Informs::** [THE - interaction-oriented theory of creative inspiration from examples.md](THE - interaction-oriented theory of creative inspiration from examples.md)
-- **SourceFor::** [EVD - higher salience of ecological relations for organizing living things for children from rural vs. urban communities - @betzDevelopmentConceptualFlexibility2020.md](EVD - higher salience of ecological relations for organizing living things for children from rural vs. urban communities - @betzDevelopmentConceptualFlexibility2020.md)
-- **SourceFor::** [EVD - higher conceptual flexibility to classify organisms based on taxonomic and ecological relatio...ed in more unstructured interactions with organisms - @betzDevelopmentConceptualFlexibility2020.md](EVD - higher conceptual flexibility to classify organisms based on taxonomic and ecological relatio...ed in more unstructured interactions with organisms - @betzDevelopmentConceptualFlexibility2020.md)
-- **SourceFor::** [EVD - overall salience of taxonomic relations for organizing living things for 6-12 year old children - @betzDevelopmentConceptualFlexibility2020.md](EVD - overall salience of taxonomic relations for organizing living things for 6-12 year old children - @betzDevelopmentConceptualFlexibility2020.md)
-
+- **Informs::** [[THE - interaction-oriented theory of creative inspiration from examples]]
+- **SourceFor::** [[EVD - higher salience of ecological relations for organizing living things for children from rural vs. urban communities - @betzDevelopmentConceptualFlexibility2020]]
+- **SourceFor::** [[EVD - higher conceptual flexibility to classify organisms based on taxonomic and ecological relatio...ed in more unstructured interactions with organisms - @betzDevelopmentConceptualFlexibility2020]]
+- **SourceFor::** [[EVD - overall salience of taxonomic relations for organizing living things for 6-12 year old children - @betzDevelopmentConceptualFlexibility2020]]

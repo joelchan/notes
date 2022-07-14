@@ -29,7 +29,6 @@ date: Wed Feb 03 2021 08:59:24 GMT-0500 (Eastern Standard Time)
 
 ###### Discourse Context
 
-- **Informs::** [QUE - How can we best bridge private vs. public knowledge.md](QUE - How can we best bridge private vs. public knowledge.md)
-- **SourceFor::** [EVD - increased word ambiguity in abstracts was associated with slightly lower modularity of citation networks for those abstracts - @mcmahanAmbiguityEngagement2018.md](EVD - increased word ambiguity in abstracts was associated with slightly lower modularity of citation networks for those abstracts - @mcmahanAmbiguityEngagement2018.md)
-- **SourceFor::** [EVD - LDA-powered measure of ambiguity significantly predicted crowd workers' judgment of sentence ambiguity - @mcmahanAmbiguityEngagement2018.md](EVD - LDA-powered measure of ambiguity significantly predicted crowd workers' judgment of sentence ambiguity - @mcmahanAmbiguityEngagement2018.md)
-
+- **Informs::** [[QUE - How can we best bridge private vs. public knowledge]]
+- **SourceFor::** [[EVD - increased word ambiguity in abstracts was associated with slightly lower modularity of citation networks for those abstracts - @mcmahanAmbiguityEngagement2018]]
+- **SourceFor::** [[EVD - LDA-powered measure of ambiguity significantly predicted crowd workers' judgment of sentence ambiguity - @mcmahanAmbiguityEngagement2018]]

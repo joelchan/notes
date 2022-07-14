@@ -35,7 +35,6 @@ date: Thu May 28 2020 22:13:58 GMT-0400 (Eastern Daylight Time)
 
 ###### Discourse Context
 
-- **Informs::** [CLM - Analog media are stubbornly effective for supporting creative knowledge work.md](CLM - Analog media are stubbornly effective for supporting creative knowledge work.md)
-- **Informs::** [QUE - What (existing) systems facilitate individual synthesis.md](QUE - What (existing) systems facilitate individual synthesis.md)
-- **SourceFor::** [EVD - Almost half of the pages in Darwin's notebooks were excised - @herbertRedNotebookCharles1980.md](EVD - Almost half of the pages in Darwin's notebooks were excised - @herbertRedNotebookCharles1980.md)
-
+- **Informs::** [[CLM - Analog media are stubbornly effective for supporting creative knowledge work]]
+- **Informs::** [[QUE - What (existing) systems facilitate individual synthesis]]
+- **SourceFor::** [[EVD - Almost half of the pages in Darwin's notebooks were excised - @herbertRedNotebookCharles1980]]

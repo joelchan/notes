@@ -53,9 +53,8 @@ date: Sun Mar 22 2020 15:19:49 GMT-0400 (Eastern Daylight Time)
 
 ###### Discourse Context
 
-- **Informs::** [CLM - There is a 'Sweet Spot' in Analogical Distance. Somewhat far analogies lead to better creative outcomes than very near or very far analogies.md](CLM - There is a 'Sweet Spot' in Analogical Distance. Somewhat far analogies lead to better creative outcomes than very near or very far analogies.md)
-- **Informs::** [QUE - How might domain distance modulate the effects of analogies on creative output.md](QUE - How might domain distance modulate the effects of analogies on creative output.md)
-- **Informs::** [QUE - What are the most efficient routes to useful cross-boundary knowledge.md](QUE - What are the most efficient routes to useful cross-boundary knowledge.md)
-- **SourceFor::** [EVD - People who spend a lot of time choosing their tools tend not to produce useful contributions - @chanBestDesignIdeas2015.md](EVD - People who spend a lot of time choosing their tools tend not to produce useful contributions - @chanBestDesignIdeas2015.md)
-- **SourceFor::** [EVD - greater mean and max conceptual distance of cited inspirations was associated with lower prob...cept being shortlisted across 12 social innovation design challenges - @chanBestDesignIdeas2015.md](EVD - greater mean and max conceptual distance of cited inspirations was associated with lower prob...cept being shortlisted across 12 social innovation design challenges - @chanBestDesignIdeas2015.md)
-
+- **Informs::** [[CLM - There is a 'Sweet Spot' in Analogical Distance. Somewhat far analogies lead to better creative outcomes than very near or very far analogies]]
+- **Informs::** [[QUE - How might domain distance modulate the effects of analogies on creative output]]
+- **Informs::** [[QUE - What are the most efficient routes to useful cross-boundary knowledge]]
+- **SourceFor::** [[EVD - People who spend a lot of time choosing their tools tend not to produce useful contributions - @chanBestDesignIdeas2015]]
+- **SourceFor::** [[EVD - greater mean and max conceptual distance of cited inspirations was associated with lower prob...cept being shortlisted across 12 social innovation design challenges - @chanBestDesignIdeas2015]]

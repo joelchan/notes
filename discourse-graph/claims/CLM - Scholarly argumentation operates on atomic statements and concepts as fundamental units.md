@@ -75,23 +75,22 @@ date: Thu Feb 27 2020 14:30:21 GMT-0500 (Eastern Standard Time)
 
 ###### Discourse Context
 
-- **Informs::** [QUE - What (existing) systems facilitate individual synthesis.md](QUE - What (existing) systems facilitate individual synthesis.md)
-- **Supported By::** [EVD - Four positivist epistemological models from philosophy of science, including Popper, emphasiz... statements as a core component of scientific knowledge - @harsDesigningScientificKnowledge2001.md](EVD - Four positivist epistemological models from philosophy of science, including Popper, emphasiz... statements as a core component of scientific knowledge - @harsDesigningScientificKnowledge2001.md)
-- **Informed By::** [@shumScholOntoOntologybasedDigital2000.md](@shumScholOntoOntologybasedDigital2000.md)
-- **Informed By::** [@harsDesigningScientificKnowledge2001.md](@harsDesigningScientificKnowledge2001.md)
-- **Informed By::** [@clarkMicropublicationsSemanticModel2014.md](@clarkMicropublicationsSemanticModel2014.md)
-- **Informed By::** [@mccrickardMakingClaimsKnowledge2012.md](@mccrickardMakingClaimsKnowledge2012.md)
-- **Informed By::** [@urenSensemakingToolsUnderstanding2006.md](@urenSensemakingToolsUnderstanding2006.md)
-- **Informed By::** [@dewaardHypothesesEvidenceRelationships2009.md](@dewaardHypothesesEvidenceRelationships2009.md)
-- **Informed By::** [@clarkAlzforumSWANPresent2007.md](@clarkAlzforumSWANPresent2007.md)
-- **Informed By::** [@brushSEPIOSemanticModel2016.md](@brushSEPIOSemanticModel2016.md)
-- **Informed By::** [@bungePhilosophyScience1998.md](@bungePhilosophyScience1998.md)
-- **Informed By::** [@dubinTheoryBuilding1978.md](@dubinTheoryBuilding1978.md)
-- **Informed By::** [@liddoContestedCollectiveIntelligence2012.md](@liddoContestedCollectiveIntelligence2012.md)
-- **Informed By::** [@ciccareseSWANBiomedicalDiscourse2008.md](@ciccareseSWANBiomedicalDiscourse2008.md)
-- **Informed By::** [@nagelStructureScienceProblems1979.md](@nagelStructureScienceProblems1979.md)
-- **Informed By::** [@grothAnatomyNanopublication2010.md](@grothAnatomyNanopublication2010.md)
-- **Informed By::** [@shumModelingNaturalisticArgumentation2006.md](@shumModelingNaturalisticArgumentation2006.md)
-- **Informed By::** [@deWaardProteinsFairytalesDirections2010.md](@deWaardProteinsFairytalesDirections2010.md)
-- **Informed By::** [@popperLogicScientificDiscovery1959.md](@popperLogicScientificDiscovery1959.md)
-
+- **Informs::** [[QUE - What (existing) systems facilitate individual synthesis]]
+- **Supported By::** [[EVD - Four positivist epistemological models from philosophy of science, including Popper, emphasiz... statements as a core component of scientific knowledge - @harsDesigningScientificKnowledge2001]]
+- **Informed By::** [[@shumScholOntoOntologybasedDigital2000]]
+- **Informed By::** [[@harsDesigningScientificKnowledge2001]]
+- **Informed By::** [[@clarkMicropublicationsSemanticModel2014]]
+- **Informed By::** [[@mccrickardMakingClaimsKnowledge2012]]
+- **Informed By::** [[@urenSensemakingToolsUnderstanding2006]]
+- **Informed By::** [[@dewaardHypothesesEvidenceRelationships2009]]
+- **Informed By::** [[@clarkAlzforumSWANPresent2007]]
+- **Informed By::** [[@brushSEPIOSemanticModel2016]]
+- **Informed By::** [[@bungePhilosophyScience1998]]
+- **Informed By::** [[@dubinTheoryBuilding1978]]
+- **Informed By::** [[@liddoContestedCollectiveIntelligence2012]]
+- **Informed By::** [[@ciccareseSWANBiomedicalDiscourse2008]]
+- **Informed By::** [[@nagelStructureScienceProblems1979]]
+- **Informed By::** [[@grothAnatomyNanopublication2010]]
+- **Informed By::** [[@shumModelingNaturalisticArgumentation2006]]
+- **Informed By::** [[@deWaardProteinsFairytalesDirections2010]]
+- **Informed By::** [[@popperLogicScientificDiscovery1959]]

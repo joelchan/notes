@@ -38,6 +38,5 @@ date: Wed Jun 29 2022 11:10:32 GMT-0400 (Eastern Daylight Time)
 
 ###### Discourse Context
 
-- **Supports::** [CLM - creative workers use examples to support problem (re)formulation.md](CLM - creative workers use examples to support problem (re)formulation.md)
-- **FromSource::** [@luceroFramingAligningParadoxing2012.md](@luceroFramingAligningParadoxing2012.md)
-
+- **Supports::** [[CLM - creative workers use examples to support problem (re)formulation]]
+- **FromSource::** [[@luceroFramingAligningParadoxing2012]]

@@ -18,9 +18,8 @@ date: Tue Feb 11 2020 13:22:09 GMT-0500 (Eastern Standard Time)
 
 ###### Discourse Context
 
-- **UsedIn::** [ART - DSynthesis Infrastructure Roam discourse graph extension.md](ART - DSynthesis Infrastructure Roam discourse graph extension.md)
-- **UsedIn::** [ART - Knowledge Compressor.md](ART - Knowledge Compressor.md)
-- **UsedIn::** [ART - LiquidText.md](ART - LiquidText.md)
-- **Informed By::** [@luttersBoundaryObjectsCollaborative2007.md](@luttersBoundaryObjectsCollaborative2007.md)
-- **Informed By::** [@changSupportingMobileSensemaking2016.md](@changSupportingMobileSensemaking2016.md)
-
+- **UsedIn::** [[ART - DSynthesis Infrastructure Roam discourse graph extension]]
+- **UsedIn::** [[ART - Knowledge Compressor]]
+- **UsedIn::** [[ART - LiquidText]]
+- **Informed By::** [[@luttersBoundaryObjectsCollaborative2007]]
+- **Informed By::** [[@changSupportingMobileSensemaking2016]]

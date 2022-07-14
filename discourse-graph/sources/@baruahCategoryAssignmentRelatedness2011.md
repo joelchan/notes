@@ -29,7 +29,6 @@ date: Thu Aug 12 2021 23:17:05 GMT-0400 (Eastern Daylight Time)
 
 ###### Discourse Context
 
-- **Informs::** [QUE - Under what conditions do diverse initial examples lead to better final design solutions.md](QUE - Under what conditions do diverse initial examples lead to better final design solutions.md)
-- **SourceFor::** [EVD - groups given low-related categories of solutions ended up exploring more categories in their solutions compared to high-related category groups - @baruahCategoryAssignmentRelatedness2011.md](EVD - groups given low-related categories of solutions ended up exploring more categories in their solutions compared to high-related category groups - @baruahCategoryAssignmentRelatedness2011.md)
-- **SourceFor::** [EVD - groups generated more ideas within categories when individuals were given high-related (vs. low-related) categories - @baruahCategoryAssignmentRelatedness2011.md](EVD - groups generated more ideas within categories when individuals were given high-related (vs. low-related) categories - @baruahCategoryAssignmentRelatedness2011.md)
-
+- **Informs::** [[QUE - Under what conditions do diverse initial examples lead to better final design solutions]]
+- **SourceFor::** [[EVD - groups given low-related categories of solutions ended up exploring more categories in their solutions compared to high-related category groups - @baruahCategoryAssignmentRelatedness2011]]
+- **SourceFor::** [[EVD - groups generated more ideas within categories when individuals were given high-related (vs. low-related) categories - @baruahCategoryAssignmentRelatedness2011]]

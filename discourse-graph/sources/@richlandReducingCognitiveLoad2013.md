@@ -21,6 +21,5 @@ date: Thu Nov 18 2021 14:53:39 GMT-0500 (Eastern Standard Time)
 
 ###### Discourse Context
 
-- **Informs::** [QUE - What factors control whether people appropriately benefit from analogies (especially far-field ones) during creative problem solving.md](QUE - What factors control whether people appropriately benefit from analogies (especially far-field ones) during creative problem solving.md)
-- **SourceFor::** [EVD - When provided scaffolding for a similar problem students performed similarly compared to thei...group provided scaffolding performed significantly better. - @richlandReducingCognitiveLoad2013.md](EVD - When provided scaffolding for a similar problem students performed similarly compared to thei...group provided scaffolding performed significantly better. - @richlandReducingCognitiveLoad2013.md)
-
+- **Informs::** [[QUE - What factors control whether people appropriately benefit from analogies (especially far-field ones) during creative problem solving]]
+- **SourceFor::** [[EVD - When provided scaffolding for a similar problem students performed similarly compared to thei...group provided scaffolding performed significantly better. - @richlandReducingCognitiveLoad2013]]

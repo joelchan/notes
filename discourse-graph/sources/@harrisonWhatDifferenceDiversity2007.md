@@ -18,5 +18,4 @@ date: Sun Aug 08 2021 13:16:38 GMT-0400 (Eastern Daylight Time)
 
 ###### Discourse Context
 
-- **Informs::** [QUE - How can we conceptualize diversity in creative knowledge work.md](QUE - How can we conceptualize diversity in creative knowledge work.md)
-
+- **Informs::** [[QUE - How can we conceptualize diversity in creative knowledge work]]

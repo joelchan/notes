@@ -29,5 +29,4 @@ date: Mon Feb 08 2021 04:40:48 GMT-0500 (Eastern Standard Time)
 
 ###### Discourse Context
 
-- **Informs::** [CLM - In interdisciplinary domains, network-based foraging is more powerful than search-based foraging.md](CLM - In interdisciplinary domains, network-based foraging is more powerful than search-based foraging.md)
-
+- **Informs::** [[CLM - In interdisciplinary domains, network-based foraging is more powerful than search-based foraging]]

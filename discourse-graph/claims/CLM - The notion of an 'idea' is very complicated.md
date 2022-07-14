@@ -15,8 +15,8 @@ date: Sat Jan 08 2022 13:56:05 GMT-0500 (Eastern Standard Time)
 
 ###### Discourse Context
 
-- **Informs::** [QUE - Is it possible to measure creativity in a scientifically precise way If so, how.md](QUE - Is it possible to measure creativity in a scientifically precise way If so, how.md)
-- **Informs::** [QUE - How can we measure efficacy of creativity support systems.md](QUE - How can we measure efficacy of creativity support systems.md)
-- **Informed By::** [@sosaAccretionTheoryIdeation2019.md](@sosaAccretionTheoryIdeation2019.md)
-- **Informed By::** [@gruberDarwinManPsychological1974.md](@gruberDarwinManPsychological1974.md)
-- **Informed By::** [@inieTypologyDesignIdeas2017.md](@inieTypologyDesignIdeas2017.md)
+- **Informs::** [[QUE - Is it possible to measure creativity in a scientifically precise way If so, how]]
+- **Informs::** [[QUE - How can we measure efficacy of creativity support systems]]
+- **Informed By::** [[@sosaAccretionTheoryIdeation2019]]
+- **Informed By::** [[@gruberDarwinManPsychological1974]]
+- **Informed By::** [[@inieTypologyDesignIdeas2017]]

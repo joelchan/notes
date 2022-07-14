@@ -19,5 +19,4 @@ date: Thu May 07 2020 11:01:56 GMT-0400 (Eastern Daylight Time)
 
 ###### Discourse Context
 
-- **Informed By::** [@moteReasonsVariationInformation1962.md](@moteReasonsVariationInformation1962.md)
-
+- **Informed By::** [[@moteReasonsVariationInformation1962]]

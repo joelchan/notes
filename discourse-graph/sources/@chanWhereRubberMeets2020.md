@@ -37,7 +37,6 @@ date: Mon Aug 03 2020 21:50:26 GMT-0400 (Eastern Daylight Time)
 
 ###### Discourse Context
 
-- **Informs::** [CLM - Context and privacy are in tension when sharing knowledge with others.md](CLM - Context and privacy are in tension when sharing knowledge with others.md)
-- **Informs::** [QUE - What semantic publishing work is already being done by scholars in their scholarly workflows.md](QUE - What semantic publishing work is already being done by scholars in their scholarly workflows.md)
-- **Informs::** [QUE - How might we characterize scientists' synthesis practices from a processtool perspective.md](QUE - How might we characterize scientists' synthesis practices from a processtool perspective.md)
-
+- **Informs::** [[CLM - Context and privacy are in tension when sharing knowledge with others]]
+- **Informs::** [[QUE - What semantic publishing work is already being done by scholars in their scholarly workflows]]
+- **Informs::** [[QUE - How might we characterize scientists' synthesis practices from a processtool perspective]]

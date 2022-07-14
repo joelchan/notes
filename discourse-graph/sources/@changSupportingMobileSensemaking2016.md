@@ -21,5 +21,4 @@ date: Thu Jan 27 2022 12:58:00 GMT-0500 (Eastern Standard Time)
 
 ###### Discourse Context
 
-- **Informs::** [PTN - flexible compression.md](PTN - flexible compression.md)
-
+- **Informs::** [[PTN - flexible compression]]

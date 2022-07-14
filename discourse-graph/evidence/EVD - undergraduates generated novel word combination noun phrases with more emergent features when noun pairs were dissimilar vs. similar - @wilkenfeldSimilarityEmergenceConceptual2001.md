@@ -53,10 +53,9 @@ date: Tue Dec 28 2021 20:56:18 GMT-0500 (Eastern Standard Time)
 
 ###### Discourse Context
 
-- **Informs::** [THE - interaction-oriented theory of creative inspiration from examples.md](THE - interaction-oriented theory of creative inspiration from examples.md)
-- **Supports::** [CLM - diverse examples improve creative outcomes by enabling novel conceptual integrations.md](CLM - diverse examples improve creative outcomes by enabling novel conceptual integrations.md)
-- **Consistent With::** [EVD - undergraduates used more complex integration approaches (vs. property transfer and hybridizat...n phrases from dissimilar vs. similar noun pairs - @wilkenfeldSimilarityEmergenceConceptual2001.md](EVD - undergraduates used more complex integration approaches (vs. property transfer and hybridizat...n phrases from dissimilar vs. similar noun pairs - @wilkenfeldSimilarityEmergenceConceptual2001.md)
-- **Consistent With::** [EVD - designers used examples by re-appropriating and recombining solution components into novel ideas - @herringGettingInspiredUnderstanding2009.md](EVD - designers used examples by re-appropriating and recombining solution components into novel ideas - @herringGettingInspiredUnderstanding2009.md)
-- **Consistent With::** [EVD - Design students generated more creative web service ideas when combining interdomain web service examples, compared to intradomain examples - @zengFosteringCreativityProduct2011.md](EVD - Design students generated more creative web service ideas when combining interdomain web service examples, compared to intradomain examples - @zengFosteringCreativityProduct2011.md)
-- **FromSource::** [@wilkenfeldSimilarityEmergenceConceptual2001.md](@wilkenfeldSimilarityEmergenceConceptual2001.md)
-
+- **Informs::** [[THE - interaction-oriented theory of creative inspiration from examples]]
+- **Supports::** [[CLM - diverse examples improve creative outcomes by enabling novel conceptual integrations]]
+- **Consistent With::** [[EVD - undergraduates used more complex integration approaches (vs. property transfer and hybridizat...n phrases from dissimilar vs. similar noun pairs - @wilkenfeldSimilarityEmergenceConceptual2001]]
+- **Consistent With::** [[EVD - designers used examples by re-appropriating and recombining solution components into novel ideas - @herringGettingInspiredUnderstanding2009]]
+- **Consistent With::** [[EVD - Design students generated more creative web service ideas when combining interdomain web service examples, compared to intradomain examples - @zengFosteringCreativityProduct2011]]
+- **FromSource::** [[@wilkenfeldSimilarityEmergenceConceptual2001]]

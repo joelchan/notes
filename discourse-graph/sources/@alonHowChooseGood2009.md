@@ -33,5 +33,4 @@ date: Thu Feb 06 2020 09:31:08 GMT-0500 (Eastern Standard Time)
 
 ###### Discourse Context
 
-- **Informs::** [QUE - How can we measure everyday progress in open-ended creative work.md](QUE - How can we measure everyday progress in open-ended creative work.md)
-
+- **Informs::** [[QUE - How can we measure everyday progress in open-ended creative work]]

@@ -39,6 +39,5 @@ date: Thu Feb 06 2020 21:34:20 GMT-0500 (Eastern Standard Time)
 
 ###### Discourse Context
 
-- **Informs::** [CLM - Compression is necessary for synthesis.md](CLM - Compression is necessary for synthesis.md)
-- **Informs::** [QUE - What makes for an excellent systems research contribution.md](QUE - What makes for an excellent systems research contribution.md)
-
+- **Informs::** [[CLM - Compression is necessary for synthesis]]
+- **Informs::** [[QUE - What makes for an excellent systems research contribution]]

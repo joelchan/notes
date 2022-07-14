@@ -26,6 +26,5 @@ date: Tue Mar 03 2020 13:55:00 GMT-0500 (Eastern Standard Time)
 
 ###### Discourse Context
 
-- **Informs::** [CLM - Where possible, design systems, not tools.md](CLM - Where possible, design systems, not tools.md)
-- **Informs::** [QUE - How can we best bridge private vs. public knowledge.md](QUE - How can we best bridge private vs. public knowledge.md)
-
+- **Informs::** [[CLM - Where possible, design systems, not tools]]
+- **Informs::** [[QUE - How can we best bridge private vs. public knowledge]]

@@ -41,8 +41,7 @@ date: Wed Sep 23 2020 16:11:48 GMT-0400 (Eastern Daylight Time)
 
 ###### Discourse Context
 
-- **Informed By::** [@galeyHowPrototypeArgues2010.md](@galeyHowPrototypeArgues2010.md)
-- **Informed By::** [@hookStrongConceptsIntermediatelevel2012.md](@hookStrongConceptsIntermediatelevel2012.md)
-- **Informed By::** [@wobbrockResearchContributionsHumancomputer2016.md](@wobbrockResearchContributionsHumancomputer2016.md)
-- **Informed By::** [@vandenakkerPrinciplesMethodsDevelopment1999b.md](@vandenakkerPrinciplesMethodsDevelopment1999b.md)
-
+- **Informed By::** [[@galeyHowPrototypeArgues2010]]
+- **Informed By::** [[@hookStrongConceptsIntermediatelevel2012]]
+- **Informed By::** [[@wobbrockResearchContributionsHumancomputer2016]]
+- **Informed By::** [[@vandenakkerPrinciplesMethodsDevelopment1999b]]

@@ -9,4 +9,4 @@ date: Wed Aug 12 2020 16:28:36 GMT-0400 (Eastern Daylight Time)
 
 ###### Discourse Context
 
-- **Informs::** [CLM - Inspiration favors the prepared mind.md](CLM - Inspiration favors the prepared mind.md)
+- **Informs::** [[CLM - Inspiration favors the prepared mind]]

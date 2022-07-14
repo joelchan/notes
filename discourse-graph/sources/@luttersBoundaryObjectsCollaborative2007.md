@@ -57,6 +57,5 @@ date: Tue Feb 11 2020 15:50:55 GMT-0500 (Eastern Standard Time)
 
 ###### Discourse Context
 
-- **Informs::** [QUE - How can we best bridge private vs. public knowledge.md](QUE - How can we best bridge private vs. public knowledge.md)
-- **Informs::** [PTN - flexible compression.md](PTN - flexible compression.md)
-
+- **Informs::** [[QUE - How can we best bridge private vs. public knowledge]]
+- **Informs::** [[PTN - flexible compression]]

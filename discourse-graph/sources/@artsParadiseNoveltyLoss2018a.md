@@ -29,7 +29,6 @@ date: Fri Jul 16 2021 10:08:04 GMT-0400 (Eastern Daylight Time)
 
 ###### Discourse Context
 
-- **Informs::** [QUE - How might domain distance modulate the effects of analogies on creative output.md](QUE - How might domain distance modulate the effects of analogies on creative output.md)
-- **SourceFor::** [EVD - patents filed by inventors who was new to the patent's field tended to be more novel; this was less true if they collaborated with an expert in the new field - @artsParadiseNoveltyLoss2018a.md](EVD - patents filed by inventors who was new to the patent's field tended to be more novel; this was less true if they collaborated with an expert in the new field - @artsParadiseNoveltyLoss2018a.md)
-- **SourceFor::** [EVD - patents filed by inventors who was new to the patent's field tended to receive slightly fewer..., except when they collaborated with an expert in the new field - @artsParadiseNoveltyLoss2018a.md](EVD - patents filed by inventors who was new to the patent's field tended to receive slightly fewer..., except when they collaborated with an expert in the new field - @artsParadiseNoveltyLoss2018a.md)
-
+- **Informs::** [[QUE - How might domain distance modulate the effects of analogies on creative output]]
+- **SourceFor::** [[EVD - patents filed by inventors who was new to the patent's field tended to be more novel; this was less true if they collaborated with an expert in the new field - @artsParadiseNoveltyLoss2018a]]
+- **SourceFor::** [[EVD - patents filed by inventors who was new to the patent's field tended to receive slightly fewer..., except when they collaborated with an expert in the new field - @artsParadiseNoveltyLoss2018a]]

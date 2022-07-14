@@ -25,7 +25,6 @@ date: Wed Feb 12 2020 17:19:30 GMT-0500 (Eastern Standard Time)
 
 ###### Discourse Context
 
-- **Informs::** [QUE - How can we best bridge private vs. public knowledge.md](QUE - How can we best bridge private vs. public knowledge.md)
-- **Informs::** [QUE - What (existing) systems facilitate individual synthesis.md](QUE - What (existing) systems facilitate individual synthesis.md)
-- **Informed By::** [@ackermanSharingKnowledgeExpertise2013.md](@ackermanSharingKnowledgeExpertise2013.md)
-
+- **Informs::** [[QUE - How can we best bridge private vs. public knowledge]]
+- **Informs::** [[QUE - What (existing) systems facilitate individual synthesis]]
+- **Informed By::** [[@ackermanSharingKnowledgeExpertise2013]]

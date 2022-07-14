@@ -41,9 +41,8 @@ date: Sat Sep 19 2020 12:46:53 GMT-0400 (Eastern Daylight Time)
 
 ###### Discourse Context
 
-- **Informed By::** [CLM - Paths to creative breakthroughs are frequently oblique.md](CLM - Paths to creative breakthroughs are frequently oblique.md)
-- **Informed By::** [CLM - True creative breakthroughs often take a long time to develop.md](CLM - True creative breakthroughs often take a long time to develop.md)
-- **Informed By::** [@alonHowChooseGood2009.md](@alonHowChooseGood2009.md)
-- **Informed By::** [@koStudyDesignDesign2019.md](@koStudyDesignDesign2019.md)
-- **Informed By::** [@matuschakSatisfactionProgressOpenended2017.md](@matuschakSatisfactionProgressOpenended2017.md)
-
+- **Informed By::** [[CLM - Paths to creative breakthroughs are frequently oblique]]
+- **Informed By::** [[CLM - True creative breakthroughs often take a long time to develop]]
+- **Informed By::** [[@alonHowChooseGood2009]]
+- **Informed By::** [[@koStudyDesignDesign2019]]
+- **Informed By::** [[@matuschakSatisfactionProgressOpenended2017]]

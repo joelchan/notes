@@ -37,6 +37,6 @@ date: Wed Dec 08 2021 13:57:27 GMT-0500 (Eastern Standard Time)
 
 ###### Discourse Context
 
-- **Informs::** [QUE - What factors control whether people appropriately benefit from analogies (especially far-field ones) during creative problem solving.md](QUE - What factors control whether people appropriately benefit from analogies (especially far-field ones) during creative problem solving.md)
-- **SourceFor::** [EVD - when given a (far) analogy for numerical representations, students did no better (and possibly worse) than on a post-test than not having it - @vamvakoussiBridgingGapDense2012.md](EVD - when given a (far) analogy for numerical representations, students did no better (and possibly worse) than on a post-test than not having it - @vamvakoussiBridgingGapDense2012.md)
-- **SourceFor::** [EVD - giving a bridging analogy to a far analogy for a numerical representations led to better stud...wers) on a math post test compared to no or just the analogy - @vamvakoussiBridgingGapDense2012.md](EVD - giving a bridging analogy to a far analogy for a numerical representations led to better stud...wers) on a math post test compared to no or just the analogy - @vamvakoussiBridgingGapDense2012.md)
+- **Informs::** [[QUE - What factors control whether people appropriately benefit from analogies (especially far-field ones) during creative problem solving]]
+- **SourceFor::** [[EVD - when given a (far) analogy for numerical representations, students did no better (and possibly worse) than on a post-test than not having it - @vamvakoussiBridgingGapDense2012]]
+- **SourceFor::** [[EVD - giving a bridging analogy to a far analogy for a numerical representations led to better stud...wers) on a math post test compared to no or just the analogy - @vamvakoussiBridgingGapDense2012]]

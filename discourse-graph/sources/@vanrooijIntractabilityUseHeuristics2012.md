@@ -29,6 +29,5 @@ date: Mon Apr 26 2021 15:46:51 GMT-0400 (Eastern Daylight Time)
 
 ###### Discourse Context
 
-- **Informs::** [CLM - Diversity in epistemology and methodology is critical for scientific progress.md](CLM - Diversity in epistemology and methodology is critical for scientific progress.md)
-- **SourceFor::** [EVD - assuming that there is a polynomial-time procedure for choosing solutions for an intractable function implies that P=NP - @vanrooijIntractabilityUseHeuristics2012.md](EVD - assuming that there is a polynomial-time procedure for choosing solutions for an intractable function implies that P=NP - @vanrooijIntractabilityUseHeuristics2012.md)
-
+- **Informs::** [[CLM - Diversity in epistemology and methodology is critical for scientific progress]]
+- **SourceFor::** [[EVD - assuming that there is a polynomial-time procedure for choosing solutions for an intractable function implies that P=NP - @vanrooijIntractabilityUseHeuristics2012]]

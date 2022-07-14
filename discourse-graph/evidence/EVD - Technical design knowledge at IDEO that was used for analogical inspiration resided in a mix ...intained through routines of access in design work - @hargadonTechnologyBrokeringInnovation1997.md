@@ -61,6 +61,5 @@ date: Tue May 03 2022 16:50:18 GMT-0400 (Eastern Daylight Time)
 
 ###### Discourse Context
 
-- **Supports::** [CLM - Substantial portions of knowledge that is critical for innovation are not written down.md](CLM - Substantial portions of knowledge that is critical for innovation are not written down.md)
-- **FromSource::** [@hargadonTechnologyBrokeringInnovation1997.md](@hargadonTechnologyBrokeringInnovation1997.md)
-
+- **Supports::** [[CLM - Substantial portions of knowledge that is critical for innovation are not written down]]
+- **FromSource::** [[@hargadonTechnologyBrokeringInnovation1997]]

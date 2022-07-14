@@ -54,7 +54,6 @@ date: Tue Nov 23 2021 17:12:28 GMT-0500 (Eastern Standard Time)
 
 ###### Discourse Context
 
-- **Informs::** [QUE - How much variability is there in the effects of diversity of examples on creative design outputs.md](QUE - How much variability is there in the effects of diversity of examples on creative design outputs.md)
-- **Informs::** [QUE - Under what conditions do diverse initial examples lead to better final design solutions.md](QUE - Under what conditions do diverse initial examples lead to better final design solutions.md)
-- **FromSource::** [@althuizenSupportingCreativeProblem2014.md](@althuizenSupportingCreativeProblem2014.md)
-
+- **Informs::** [[QUE - How much variability is there in the effects of diversity of examples on creative design outputs]]
+- **Informs::** [[QUE - Under what conditions do diverse initial examples lead to better final design solutions]]
+- **FromSource::** [[@althuizenSupportingCreativeProblem2014]]

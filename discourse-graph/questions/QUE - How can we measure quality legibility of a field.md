@@ -41,7 +41,6 @@ date: Fri Sep 10 2021 22:04:54 GMT-0400 (Eastern Daylight Time)
 
 ###### Discourse Context
 
-- **Informed By::** [CLM - There is systematic variation in consensus of the core knowledge of fields - @coleHierarchySciences1983.md](CLM - There is systematic variation in consensus of the core knowledge of fields - @coleHierarchySciences1983.md)
-- **Informed By::** [@fanelliBibliometricEvidenceHierarchy2013.md](@fanelliBibliometricEvidenceHierarchy2013.md)
-- **Informed By::** [@coleHierarchySciences1983.md](@coleHierarchySciences1983.md)
-
+- **Informed By::** [[CLM - There is systematic variation in consensus of the core knowledge of fields - @coleHierarchySciences1983]]
+- **Informed By::** [[@fanelliBibliometricEvidenceHierarchy2013]]
+- **Informed By::** [[@coleHierarchySciences1983]]

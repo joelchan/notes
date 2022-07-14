@@ -81,7 +81,6 @@ date: Wed Aug 19 2020 23:43:39 GMT-0400 (Eastern Daylight Time)
 
 ###### Discourse Context
 
-- **Informs::** [CLM - Design proceeds by co-evolution of problem and solution space.md](CLM - Design proceeds by co-evolution of problem and solution space.md)
-- **Informs::** [CLM - Expert designers are solution-oriented.md](CLM - Expert designers are solution-oriented.md)
-- **SourceFor::** [EVD - science students made more planning errors and fewer structural errors on a spatial block des... fewer planning errors and more structural errors - @lawsonCognitiveStrategiesArchitectural1979.md](EVD - science students made more planning errors and fewer structural errors on a spatial block des... fewer planning errors and more structural errors - @lawsonCognitiveStrategiesArchitectural1979.md)
-
+- **Informs::** [[CLM - Design proceeds by co-evolution of problem and solution space]]
+- **Informs::** [[CLM - Expert designers are solution-oriented]]
+- **SourceFor::** [[EVD - science students made more planning errors and fewer structural errors on a spatial block des... fewer planning errors and more structural errors - @lawsonCognitiveStrategiesArchitectural1979]]

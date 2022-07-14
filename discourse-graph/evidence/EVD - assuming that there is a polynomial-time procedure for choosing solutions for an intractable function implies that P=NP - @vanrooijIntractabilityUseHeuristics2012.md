@@ -16,5 +16,4 @@ date: Sat Jul 31 2021 21:12:38 GMT-0400 (Eastern Daylight Time)
 
 ###### Discourse Context
 
-- **FromSource::** [@vanrooijIntractabilityUseHeuristics2012.md](@vanrooijIntractabilityUseHeuristics2012.md)
-
+- **FromSource::** [[@vanrooijIntractabilityUseHeuristics2012]]

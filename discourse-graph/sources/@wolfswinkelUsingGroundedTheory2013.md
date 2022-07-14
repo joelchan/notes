@@ -27,6 +27,5 @@ date: Sun May 03 2020 22:31:54 GMT-0400 (Eastern Daylight Time)
 
 ###### Discourse Context
 
-- **Informs::** [CLM - Scholars repurpose qualitative data analysis software to facilitate synthesis.md](CLM - Scholars repurpose qualitative data analysis software to facilitate synthesis.md)
-- **Informs::** [QUE - What (existing) systems facilitate individual synthesis.md](QUE - What (existing) systems facilitate individual synthesis.md)
-
+- **Informs::** [[CLM - Scholars repurpose qualitative data analysis software to facilitate synthesis]]
+- **Informs::** [[QUE - What (existing) systems facilitate individual synthesis]]

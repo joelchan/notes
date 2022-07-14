@@ -111,9 +111,8 @@ date: Wed Jun 15 2022 10:19:42 GMT-0400 (Eastern Daylight Time)
 
 ###### Discourse Context
 
-- **Informs::** [THE - interaction-oriented theory of creative inspiration from examples.md](THE - interaction-oriented theory of creative inspiration from examples.md)
-- **Informs::** [PTN - design mood board.md](PTN - design mood board.md)
-- **SourceFor::** [EVD - expert designers used mood boards in their practice to frame the design problem, both alone and in conjunction with a client - @luceroFramingAligningParadoxing2012.md](EVD - expert designers used mood boards in their practice to frame the design problem, both alone and in conjunction with a client - @luceroFramingAligningParadoxing2012.md)
-- **SourceFor::** [EVD - Designers constructed mood boards primarily from concrete design materials and examples, usua...evel as appropriate when using them to shape design work - @luceroFramingAligningParadoxing2012.md](EVD - Designers constructed mood boards primarily from concrete design materials and examples, usua...evel as appropriate when using them to shape design work - @luceroFramingAligningParadoxing2012.md)
-- **SourceFor::** [EVD - Designers reported that visual juxtaposition of often contradictory themes, in the context of... essential for productively reframing the design problem - @luceroFramingAligningParadoxing2012.md](EVD - Designers reported that visual juxtaposition of often contradictory themes, in the context of... essential for productively reframing the design problem - @luceroFramingAligningParadoxing2012.md)
-
+- **Informs::** [[THE - interaction-oriented theory of creative inspiration from examples]]
+- **Informs::** [[PTN - design mood board]]
+- **SourceFor::** [[EVD - expert designers used mood boards in their practice to frame the design problem, both alone and in conjunction with a client - @luceroFramingAligningParadoxing2012]]
+- **SourceFor::** [[EVD - Designers constructed mood boards primarily from concrete design materials and examples, usua...evel as appropriate when using them to shape design work - @luceroFramingAligningParadoxing2012]]
+- **SourceFor::** [[EVD - Designers reported that visual juxtaposition of often contradictory themes, in the context of... essential for productively reframing the design problem - @luceroFramingAligningParadoxing2012]]

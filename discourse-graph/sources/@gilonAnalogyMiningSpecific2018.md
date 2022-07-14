@@ -41,8 +41,7 @@ date: Sun Mar 22 2020 15:22:22 GMT-0400 (Eastern Daylight Time)
 
 ###### Discourse Context
 
-- **Informs::** [CLM - Core mismatches in analogical inspiration improve creativity.md](CLM - Core mismatches in analogical inspiration improve creativity.md)
-- **Informs::** [CLM - Core attribute mismatches in analogical inspiration harm creativity.md](CLM - Core attribute mismatches in analogical inspiration harm creativity.md)
-- **Informs::** [QUE - How might domain distance modulate the effects of analogies on creative output.md](QUE - How might domain distance modulate the effects of analogies on creative output.md)
-- **Informs::** [THE - interaction-oriented theory of creative inspiration from examples.md](THE - interaction-oriented theory of creative inspiration from examples.md)
-
+- **Informs::** [[CLM - Core mismatches in analogical inspiration improve creativity]]
+- **Informs::** [[CLM - Core attribute mismatches in analogical inspiration harm creativity]]
+- **Informs::** [[QUE - How might domain distance modulate the effects of analogies on creative output]]
+- **Informs::** [[THE - interaction-oriented theory of creative inspiration from examples]]

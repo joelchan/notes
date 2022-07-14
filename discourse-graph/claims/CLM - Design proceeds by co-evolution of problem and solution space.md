@@ -39,20 +39,19 @@ date: Thu Aug 20 2020 01:58:00 GMT-0400 (Eastern Daylight Time)
 
 ###### Discourse Context
 
-- **Informs::** [QUE - What are some major phenomena around designers' exploration of design spaces and how might these map to characteristics of optimizers.md](QUE - What are some major phenomena around designers' exploration of design spaces and how might these map to characteristics of optimizers.md)
-- **Informs::** [QUE - How do people effectively (re)formulate creative problems.md](QUE - How do people effectively (re)formulate creative problems.md)
-- **Informed By::** [@klahrDualSpaceSearch1988.md](@klahrDualSpaceSearch1988.md)
-- **Informed By::** [@lawsonCognitiveStrategiesArchitectural1979.md](@lawsonCognitiveStrategiesArchitectural1979.md)
-- **Informed By::** [@newellHumanProblemSolving1972.md](@newellHumanProblemSolving1972.md)
-- **Informed By::** [@goelStructureDesignProblem1992.md](@goelStructureDesignProblem1992.md)
-- **Informed By::** [@crossExpertiseDesignOverview2004.md](@crossExpertiseDesignOverview2004.md)
-- **Informed By::** [@schonReflectivePractitionerHow1983.md](@schonReflectivePractitionerHow1983.md)
-- **Informed By::** [@maherFormalisingDesignExploration1996.md](@maherFormalisingDesignExploration1996.md)
-- **Informed By::** [@helmsCompoundAnalogicalDesign2008.md](@helmsCompoundAnalogicalDesign2008.md)
-- **Informed By::** [@okadaAnalogicalModificationCreation2009.md](@okadaAnalogicalModificationCreation2009.md)
-- **Informed By::** [@newellElementsTheoryHuman1958.md](@newellElementsTheoryHuman1958.md)
-- **Informed By::** [@dorstCreativityDesignProcess2001.md](@dorstCreativityDesignProcess2001.md)
-- **Informed By::** [@suchmanPlansSituatedActions1987.md](@suchmanPlansSituatedActions1987.md)
-- **Informed By::** [@maherCoevolutionComputationalCognitive2003.md](@maherCoevolutionComputationalCognitive2003.md)
-- **Informed By::** [@dorstCoreDesignThinking2011.md](@dorstCoreDesignThinking2011.md)
-
+- **Informs::** [[QUE - What are some major phenomena around designers' exploration of design spaces and how might these map to characteristics of optimizers]]
+- **Informs::** [[QUE - How do people effectively (re)formulate creative problems]]
+- **Informed By::** [[@klahrDualSpaceSearch1988]]
+- **Informed By::** [[@lawsonCognitiveStrategiesArchitectural1979]]
+- **Informed By::** [[@newellHumanProblemSolving1972]]
+- **Informed By::** [[@goelStructureDesignProblem1992]]
+- **Informed By::** [[@crossExpertiseDesignOverview2004]]
+- **Informed By::** [[@schonReflectivePractitionerHow1983]]
+- **Informed By::** [[@maherFormalisingDesignExploration1996]]
+- **Informed By::** [[@helmsCompoundAnalogicalDesign2008]]
+- **Informed By::** [[@okadaAnalogicalModificationCreation2009]]
+- **Informed By::** [[@newellElementsTheoryHuman1958]]
+- **Informed By::** [[@dorstCreativityDesignProcess2001]]
+- **Informed By::** [[@suchmanPlansSituatedActions1987]]
+- **Informed By::** [[@maherCoevolutionComputationalCognitive2003]]
+- **Informed By::** [[@dorstCoreDesignThinking2011]]

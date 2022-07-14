@@ -29,5 +29,4 @@ date: Sun Aug 09 2020 21:37:57 GMT-0400 (Eastern Daylight Time)
 
 ###### Discourse Context
 
-- **Informs::** [CLM - Scientists frequently cite papers they haven't read.md](CLM - Scientists frequently cite papers they haven't read.md)
-
+- **Informs::** [[CLM - Scientists frequently cite papers they haven't read]]

@@ -29,8 +29,7 @@ date: Fri May 14 2021 11:27:44 GMT-0400 (Eastern Daylight Time)
 
 ###### Discourse Context
 
-- **SourceFor::** [EVD - design sessions with neurodiverse children sometimes led to intense conflicts that led to children disengaging @frauenbergerNurturingConstructiveDisagreement2019b.md](EVD - design sessions with neurodiverse children sometimes led to intense conflicts that led to children disengaging @frauenbergerNurturingConstructiveDisagreement2019b.md)
-- **SourceFor::** [EVD - Children can still participate in design workshop even if they resist some elements, resisting is a form of participation @frauenbergerNurturingConstructiveDisagreement2019b.md](EVD - Children can still participate in design workshop even if they resist some elements, resisting is a form of participation @frauenbergerNurturingConstructiveDisagreement2019b.md)
-- **SourceFor::** [EVD - conflict among children in the design process led to mixed or collaborative designs to meet both children's wants @frauenbergerNurturingConstructiveDisagreement2019b.md](EVD - conflict among children in the design process led to mixed or collaborative designs to meet both children's wants @frauenbergerNurturingConstructiveDisagreement2019b.md)
-- **SourceFor::** [EVD - Conflict arose between researchers' desires for more free play and neurodiverse children's de...sign inputs without removing the conflict - @frauenbergerNurturingConstructiveDisagreement2019b.md](EVD - Conflict arose between researchers' desires for more free play and neurodiverse children's de...sign inputs without removing the conflict - @frauenbergerNurturingConstructiveDisagreement2019b.md)
-
+- **SourceFor::** [[EVD - design sessions with neurodiverse children sometimes led to intense conflicts that led to children disengaging @frauenbergerNurturingConstructiveDisagreement2019b]]
+- **SourceFor::** [[EVD - Children can still participate in design workshop even if they resist some elements, resisting is a form of participation @frauenbergerNurturingConstructiveDisagreement2019b]]
+- **SourceFor::** [[EVD - conflict among children in the design process led to mixed or collaborative designs to meet both children's wants @frauenbergerNurturingConstructiveDisagreement2019b]]
+- **SourceFor::** [[EVD - Conflict arose between researchers' desires for more free play and neurodiverse children's de...sign inputs without removing the conflict - @frauenbergerNurturingConstructiveDisagreement2019b]]

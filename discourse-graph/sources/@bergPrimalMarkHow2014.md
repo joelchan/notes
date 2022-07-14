@@ -51,7 +51,6 @@ date: Tue Sep 22 2020 21:44:03 GMT-0400 (Eastern Daylight Time)
 
 ###### Discourse Context
 
-- **Informs::** [CLM - Paths to creative breakthroughs are frequently oblique.md](CLM - Paths to creative breakthroughs are frequently oblique.md)
-- **Informs::** [QUE - How might domain distance modulate the effects of analogies on creative output.md](QUE - How might domain distance modulate the effects of analogies on creative output.md)
-- **Informs::** [THE - interaction-oriented theory of creative inspiration from examples.md](THE - interaction-oriented theory of creative inspiration from examples.md)
-
+- **Informs::** [[CLM - Paths to creative breakthroughs are frequently oblique]]
+- **Informs::** [[QUE - How might domain distance modulate the effects of analogies on creative output]]
+- **Informs::** [[THE - interaction-oriented theory of creative inspiration from examples]]

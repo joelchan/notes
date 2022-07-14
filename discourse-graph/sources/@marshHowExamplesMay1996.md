@@ -29,6 +29,5 @@ date: Sat Dec 26 2020 21:58:38 GMT-0500 (Eastern Standard Time)
 
 ###### Discourse Context
 
-- **Informs::** [CLM - Recent or concurrent exposure to ideas can substantially influence the direction of ideation.md](CLM - Recent or concurrent exposure to ideas can substantially influence the direction of ideation.md)
-- **Informs::** [THE - interaction-oriented theory of creative inspiration from examples.md](THE - interaction-oriented theory of creative inspiration from examples.md)
-
+- **Informs::** [[CLM - Recent or concurrent exposure to ideas can substantially influence the direction of ideation]]
+- **Informs::** [[THE - interaction-oriented theory of creative inspiration from examples]]

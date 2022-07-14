@@ -151,8 +151,7 @@ date: Sat Feb 15 2020 14:09:21 GMT-0500 (Eastern Standard Time)
 
 ###### Discourse Context
 
-- **Informs::** [CLM - In interdisciplinary domains, network-based foraging is more powerful than search-based foraging.md](CLM - In interdisciplinary domains, network-based foraging is more powerful than search-based foraging.md)
-- **Informs::** [CLM - Interdisciplinary teamwork is hard.md](CLM - Interdisciplinary teamwork is hard.md)
-- **Informs::** [QUE - How does analogy actually happen in the process of scholarlyscientific innovation.md](QUE - How does analogy actually happen in the process of scholarlyscientific innovation.md)
-- **Informs::** [QUE - What are the most efficient routes to useful cross-boundary knowledge.md](QUE - What are the most efficient routes to useful cross-boundary knowledge.md)
-
+- **Informs::** [[CLM - In interdisciplinary domains, network-based foraging is more powerful than search-based foraging]]
+- **Informs::** [[CLM - Interdisciplinary teamwork is hard]]
+- **Informs::** [[QUE - How does analogy actually happen in the process of scholarlyscientific innovation]]
+- **Informs::** [[QUE - What are the most efficient routes to useful cross-boundary knowledge]]

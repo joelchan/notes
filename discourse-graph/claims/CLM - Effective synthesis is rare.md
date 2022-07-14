@@ -45,8 +45,7 @@ date: Wed May 06 2020 09:44:57 GMT-0400 (Eastern Daylight Time)
 
 ###### Discourse Context
 
-- **Informs::** [QUE - What is synthesis.md](QUE - What is synthesis.md)
-- **Informed By::** [@booteScholarsResearchersCentrality2005.md](@booteScholarsResearchersCentrality2005.md)
-- **Informed By::** [@flemingCochraneNonCochraneSystematic2013.md](@flemingCochraneNonCochraneSystematic2013.md)
-- **Informed By::** [@alton-leeTroubleshooterChecklistProspective1998.md](@alton-leeTroubleshooterChecklistProspective1998.md)
-
+- **Informs::** [[QUE - What is synthesis]]
+- **Informed By::** [[@booteScholarsResearchersCentrality2005]]
+- **Informed By::** [[@flemingCochraneNonCochraneSystematic2013]]
+- **Informed By::** [[@alton-leeTroubleshooterChecklistProspective1998]]

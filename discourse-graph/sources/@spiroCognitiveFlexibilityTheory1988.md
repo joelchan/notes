@@ -15,5 +15,4 @@ date: Wed Feb 16 2022 11:01:24 GMT-0500 (Eastern Standard Time)
 
 ###### Discourse Context
 
-- **Informs::** [QUE - Can hypertext notetaking systems enhance cognitive flexibility.md](QUE - Can hypertext notetaking systems enhance cognitive flexibility.md)
-
+- **Informs::** [[QUE - Can hypertext notetaking systems enhance cognitive flexibility]]

@@ -55,7 +55,6 @@ date: Wed Feb 12 2020 17:25:06 GMT-0500 (Eastern Standard Time)
 
 ###### Discourse Context
 
-- **Informs::** [CLM - Sensemaking requires iterative loops of (re)interpreting data in light of evolving schemas.md](CLM - Sensemaking requires iterative loops of (re)interpreting data in light of evolving schemas.md)
-- **Informs::** [CLM - Composability is necessary for synthesis.md](CLM - Composability is necessary for synthesis.md)
-- **Informs::** [QUE - What (existing) systems facilitate individual synthesis.md](QUE - What (existing) systems facilitate individual synthesis.md)
-
+- **Informs::** [[CLM - Sensemaking requires iterative loops of (re)interpreting data in light of evolving schemas]]
+- **Informs::** [[CLM - Composability is necessary for synthesis]]
+- **Informs::** [[QUE - What (existing) systems facilitate individual synthesis]]

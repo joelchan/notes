@@ -21,11 +21,10 @@ date: Mon Mar 15 2021 16:05:37 GMT-0400 (Eastern Daylight Time)
 
 ###### Discourse Context
 
-- **Informs::** [QUE - What factors control whether people appropriately benefit from analogies (especially far-field ones) during creative problem solving.md](QUE - What factors control whether people appropriately benefit from analogies (especially far-field ones) during creative problem solving.md)
-- **Supported By::** [EVD - Limited increases in transfer between analogous insight problems when explicit hint (mapping + solution) was given - @reedRoleAnalogyTransfer1974.md](EVD - Limited increases in transfer between analogous insight problems when explicit hint (mapping + solution) was given - @reedRoleAnalogyTransfer1974.md)
-- **Supported By::** [EVD - No analogical transfer amongst undergraduates between insight problems without hints about analogical mapping - @reedRoleAnalogyTransfer1974.md](EVD - No analogical transfer amongst undergraduates between insight problems without hints about analogical mapping - @reedRoleAnalogyTransfer1974.md)
-- **Supported By::** [EVD - Replicated the results of Gick and Holyoak in providing results showing that when providing a hint and an analogy students were more likely to produce a convergent solution.md](EVD - Replicated the results of Gick and Holyoak in providing results showing that when providing a hint and an analogy students were more likely to produce a convergent solution.md)
-- **Supported By::** [EVD - direct comparison of dissimilar analogs approximately doubled rates of spontaneous far analogical transfer for the radiation problem - @gickSchemaInductionAnalogical1983.md](EVD - direct comparison of dissimilar analogs approximately doubled rates of spontaneous far analogical transfer for the radiation problem - @gickSchemaInductionAnalogical1983.md)
-- **Informed By::** [@gickSchemaInductionAnalogical1983.md](@gickSchemaInductionAnalogical1983.md)
-- **Informed By::** [@tsengRoleTimingAnalogical2008.md](@tsengRoleTimingAnalogical2008.md)
-
+- **Informs::** [[QUE - What factors control whether people appropriately benefit from analogies (especially far-field ones) during creative problem solving]]
+- **Supported By::** [[EVD - Limited increases in transfer between analogous insight problems when explicit hint (mapping + solution) was given - @reedRoleAnalogyTransfer1974]]
+- **Supported By::** [[EVD - No analogical transfer amongst undergraduates between insight problems without hints about analogical mapping - @reedRoleAnalogyTransfer1974]]
+- **Supported By::** [[EVD - Replicated the results of Gick and Holyoak in providing results showing that when providing a hint and an analogy students were more likely to produce a convergent solution]]
+- **Supported By::** [[EVD - direct comparison of dissimilar analogs approximately doubled rates of spontaneous far analogical transfer for the radiation problem - @gickSchemaInductionAnalogical1983]]
+- **Informed By::** [[@gickSchemaInductionAnalogical1983]]
+- **Informed By::** [[@tsengRoleTimingAnalogical2008]]

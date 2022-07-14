@@ -13,7 +13,6 @@ date: Mon Apr 04 2022 00:40:49 GMT-0400 (Eastern Daylight Time)
 
 ###### Discourse Context
 
-- **Informed By::** [@simkinStochasticModelingCitation2005.md](@simkinStochasticModelingCitation2005.md)
-- **Informed By::** [@simkinMathematicalTheoryCiting2007.md](@simkinMathematicalTheoryCiting2007.md)
-- **Informed By::** [@goldbergModellingCitationNetworks2015.md](@goldbergModellingCitationNetworks2015.md)
-
+- **Informed By::** [[@simkinStochasticModelingCitation2005]]
+- **Informed By::** [[@simkinMathematicalTheoryCiting2007]]
+- **Informed By::** [[@goldbergModellingCitationNetworks2015]]

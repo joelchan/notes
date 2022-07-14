@@ -18,5 +18,4 @@ date: Mon Aug 09 2021 15:09:26 GMT-0400 (Eastern Daylight Time)
 
 ###### Discourse Context
 
-- **Informs::** [QUE - Under what conditions do diverse initial examples lead to better final design solutions.md](QUE - Under what conditions do diverse initial examples lead to better final design solutions.md)
-
+- **Informs::** [[QUE - Under what conditions do diverse initial examples lead to better final design solutions]]

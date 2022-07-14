@@ -14,4 +14,4 @@ date: Sat Jul 24 2021 12:56:44 GMT-0400 (Eastern Daylight Time)
 
 ###### Discourse Context
 
-- **FromSource::** [@jeppesenMarginalityProblemsolvingEffectiveness2010.md](@jeppesenMarginalityProblemsolvingEffectiveness2010.md)
+- **FromSource::** [[@jeppesenMarginalityProblemsolvingEffectiveness2010]]

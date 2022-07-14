@@ -25,5 +25,4 @@ date: Sat Dec 11 2021 08:49:22 GMT-0500 (Eastern Standard Time)
 
 ###### Discourse Context
 
-- **SourceFor::** [EVD - Participants rate tailored analogies more useful than non-tailored, or more technical analogi...ng analogies. Unless they are given an explicit hint - @olguinAttendingIndividualRecipients2017.md](EVD - Participants rate tailored analogies more useful than non-tailored, or more technical analogi...ng analogies. Unless they are given an explicit hint - @olguinAttendingIndividualRecipients2017.md)
-
+- **SourceFor::** [[EVD - Participants rate tailored analogies more useful than non-tailored, or more technical analogi...ng analogies. Unless they are given an explicit hint - @olguinAttendingIndividualRecipients2017]]

@@ -35,6 +35,5 @@ date: Mon May 11 2020 21:34:10 GMT-0400 (Eastern Daylight Time)
 
 ###### Discourse Context
 
-- **Informed By::** [@kuhnGenuineSemanticPublishing2017.md](@kuhnGenuineSemanticPublishing2017.md)
-- **Informed By::** [@renearStrategicReadingOntologies2009.md](@renearStrategicReadingOntologies2009.md)
-
+- **Informed By::** [[@kuhnGenuineSemanticPublishing2017]]
+- **Informed By::** [[@renearStrategicReadingOntologies2009]]

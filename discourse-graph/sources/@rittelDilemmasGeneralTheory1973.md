@@ -29,6 +29,5 @@ date: Wed Aug 19 2020 10:58:44 GMT-0400 (Eastern Daylight Time)
 
 ###### Discourse Context
 
-- **Informs::** [CLM - Effective problem formulation is-necessary-for creative knowledge work.md](CLM - Effective problem formulation is-necessary-for creative knowledge work.md)
-- **Informs::** [QUE - What are some major phenomena around designers' exploration of design spaces and how might these map to characteristics of optimizers.md](QUE - What are some major phenomena around designers' exploration of design spaces and how might these map to characteristics of optimizers.md)
-
+- **Informs::** [[CLM - Effective problem formulation is-necessary-for creative knowledge work]]
+- **Informs::** [[QUE - What are some major phenomena around designers' exploration of design spaces and how might these map to characteristics of optimizers]]

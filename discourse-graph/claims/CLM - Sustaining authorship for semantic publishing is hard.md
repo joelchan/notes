@@ -15,10 +15,9 @@ date: Tue Sep 07 2021 14:37:50 GMT-0400 (Eastern Daylight Time)
 
 ###### Discourse Context
 
-- **Informs::** [QUE - Do scholarly synthesis infrastructures already exist.md](QUE - Do scholarly synthesis infrastructures already exist.md)
-- **Informed By::** [@kuhnGenuineSemanticPublishing2017.md](@kuhnGenuineSemanticPublishing2017.md)
-- **Informed By::** [@kuhnNanopublicationsGrowingResource2018.md](@kuhnNanopublicationsGrowingResource2018.md)
-- **Informed By::** [@schrimlCOVID19PandemicReveals2020.md](@schrimlCOVID19PandemicReveals2020.md)
-- **Informed By::** [@tsuengApplyingCitizenScience2019.md](@tsuengApplyingCitizenScience2019.md)
-- **Informed By::** [@gingerThankYouVolunteers2019.md](@gingerThankYouVolunteers2019.md)
-
+- **Informs::** [[QUE - Do scholarly synthesis infrastructures already exist]]
+- **Informed By::** [[@kuhnGenuineSemanticPublishing2017]]
+- **Informed By::** [[@kuhnNanopublicationsGrowingResource2018]]
+- **Informed By::** [[@schrimlCOVID19PandemicReveals2020]]
+- **Informed By::** [[@tsuengApplyingCitizenScience2019]]
+- **Informed By::** [[@gingerThankYouVolunteers2019]]

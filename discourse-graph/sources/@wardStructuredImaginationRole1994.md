@@ -145,8 +145,7 @@ date: Wed Aug 19 2020 10:46:40 GMT-0400 (Eastern Daylight Time)
 
 ###### Discourse Context
 
-- **Informs::** [CLM - Recent or concurrent exposure to ideas can substantially influence the direction of ideation.md](CLM - Recent or concurrent exposure to ideas can substantially influence the direction of ideation.md)
-- **Informs::** [QUE - What are some major phenomena around designers' exploration of design spaces and how might these map to characteristics of optimizers.md](QUE - What are some major phenomena around designers' exploration of design spaces and how might these map to characteristics of optimizers.md)
-- **Informs::** [THE - interaction-oriented theory of creative inspiration from examples.md](THE - interaction-oriented theory of creative inspiration from examples.md)
-- **SourceFor::** [EVD - Undergrads' drawings of imaginary animals frequently included typical features from earth animals, with occasional deviations - @wardStructuredImaginationRole1994.md](EVD - Undergrads' drawings of imaginary animals frequently included typical features from earth animals, with occasional deviations - @wardStructuredImaginationRole1994.md)
-
+- **Informs::** [[CLM - Recent or concurrent exposure to ideas can substantially influence the direction of ideation]]
+- **Informs::** [[QUE - What are some major phenomena around designers' exploration of design spaces and how might these map to characteristics of optimizers]]
+- **Informs::** [[THE - interaction-oriented theory of creative inspiration from examples]]
+- **SourceFor::** [[EVD - Undergrads' drawings of imaginary animals frequently included typical features from earth animals, with occasional deviations - @wardStructuredImaginationRole1994]]

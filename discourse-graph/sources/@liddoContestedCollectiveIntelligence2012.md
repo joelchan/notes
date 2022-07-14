@@ -43,6 +43,5 @@ date: Sun Feb 16 2020 17:12:28 GMT-0500 (Eastern Standard Time)
 
 ###### Discourse Context
 
-- **Informs::** [CLM - Scholarly argumentation operates on atomic statements and concepts as fundamental units.md](CLM - Scholarly argumentation operates on atomic statements and concepts as fundamental units.md)
-- **Informs::** [QUE - What (existing) systems facilitate individual synthesis.md](QUE - What (existing) systems facilitate individual synthesis.md)
-
+- **Informs::** [[CLM - Scholarly argumentation operates on atomic statements and concepts as fundamental units]]
+- **Informs::** [[QUE - What (existing) systems facilitate individual synthesis]]

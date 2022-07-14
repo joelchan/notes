@@ -29,7 +29,6 @@ date: Fri May 22 2020 12:12:59 GMT-0400 (Eastern Daylight Time)
 
 ###### Discourse Context
 
-- **Informs::** [CLM - Design proceeds by co-evolution of problem and solution space.md](CLM - Design proceeds by co-evolution of problem and solution space.md)
-- **Informs::** [QUE - What is synthesis.md](QUE - What is synthesis.md)
-- **Informs::** [QUE - How do people effectively (re)formulate creative problems.md](QUE - How do people effectively (re)formulate creative problems.md)
-
+- **Informs::** [[CLM - Design proceeds by co-evolution of problem and solution space]]
+- **Informs::** [[QUE - What is synthesis]]
+- **Informs::** [[QUE - How do people effectively (re)formulate creative problems]]

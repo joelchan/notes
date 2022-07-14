@@ -29,6 +29,5 @@ date: Thu Oct 15 2020 13:41:48 GMT-0400 (Eastern Daylight Time)
 
 ###### Discourse Context
 
-- **Informs::** [CLM - Universal Semantic Webs are neither feasible nor useful.md](CLM - Universal Semantic Webs are neither feasible nor useful.md)
-- **Informs::** [QUE - How can we best bridge private vs. public knowledge.md](QUE - How can we best bridge private vs. public knowledge.md)
-
+- **Informs::** [[CLM - Universal Semantic Webs are neither feasible nor useful]]
+- **Informs::** [[QUE - How can we best bridge private vs. public knowledge]]

@@ -29,6 +29,5 @@ date: Tue Jul 13 2021 10:42:59 GMT-0400 (Eastern Daylight Time)
 
 ###### Discourse Context
 
-- **Informs::** [QUE - What tension points exist between the goals of diversity and depth of user participation in participatory design.md](QUE - What tension points exist between the goals of diversity and depth of user participation in participatory design.md)
-- **SourceFor::** [EVD - Children without design experience generated feedback that was less granular, elaborated, and generative than children with design experience - @yipBrowniesBagsofstuffDomain2013.md](EVD - Children without design experience generated feedback that was less granular, elaborated, and generative than children with design experience - @yipBrowniesBagsofstuffDomain2013.md)
-
+- **Informs::** [[QUE - What tension points exist between the goals of diversity and depth of user participation in participatory design]]
+- **SourceFor::** [[EVD - Children without design experience generated feedback that was less granular, elaborated, and generative than children with design experience - @yipBrowniesBagsofstuffDomain2013]]

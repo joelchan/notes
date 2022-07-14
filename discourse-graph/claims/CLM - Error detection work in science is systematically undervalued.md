@@ -19,5 +19,4 @@ date: Sun Jun 21 2020 23:42:06 GMT-0400 (Eastern Daylight Time)
 
 ###### Discourse Context
 
-- **Informed By::** [@heathersQuit2020.md](@heathersQuit2020.md)
-
+- **Informed By::** [[@heathersQuit2020]]

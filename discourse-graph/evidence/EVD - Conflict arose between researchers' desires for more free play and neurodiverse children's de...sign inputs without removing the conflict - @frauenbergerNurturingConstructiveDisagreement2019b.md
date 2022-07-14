@@ -29,4 +29,4 @@ date: Mon Jun 28 2021 20:52:35 GMT-0400 (Eastern Daylight Time)
 
 ###### Discourse Context
 
-- **FromSource::** [@frauenbergerNurturingConstructiveDisagreement2019b.md](@frauenbergerNurturingConstructiveDisagreement2019b.md)
+- **FromSource::** [[@frauenbergerNurturingConstructiveDisagreement2019b]]

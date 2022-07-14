@@ -22,12 +22,11 @@ date: Wed Nov 10 2021 10:40:00 GMT-0500 (Eastern Standard Time)
 
 ###### Discourse Context
 
-- **Informs::** [QUE - Can deep learning discover analogical representations.md](QUE - Can deep learning discover analogical representations.md)
-- **Informs::** [QUE - What do we know about transformer language models' natural language generation capabilities.md](QUE - What do we know about transformer language models' natural language generation capabilities.md)
-- **Supported By::** [EVD - given one set of objects from a few classic analogies such as solar system  atom, sysGPT-3 wa...rresponding objects on the other side for a few examples - @stayMachinamentaFormingExtended2020.md](EVD - given one set of objects from a few classic analogies such as solar system  atom, sysGPT-3 wa...rresponding objects on the other side for a few examples - @stayMachinamentaFormingExtended2020.md)
-- **Informed By::** [@stayMachinamentaFormingExtended2020.md](@stayMachinamentaFormingExtended2020.md)
-- **Informed By::** [@teamWorldCreationAnalogy2020.md](@teamWorldCreationAnalogy2020.md)
-- **Informed By::** [@brownLanguageModelsAre2020.md](@brownLanguageModelsAre2020.md)
-- **Informed By::** [@mitchellCanGPT3Make2020.md](@mitchellCanGPT3Make2020.md)
-- **Informed By::** [@mitchellFollowupCanGPT32020.md](@mitchellFollowupCanGPT32020.md)
-
+- **Informs::** [[QUE - Can deep learning discover analogical representations]]
+- **Informs::** [[QUE - What do we know about transformer language models' natural language generation capabilities]]
+- **Supported By::** [[EVD - given one set of objects from a few classic analogies such as solar system  atom, sysGPT-3 wa...rresponding objects on the other side for a few examples - @stayMachinamentaFormingExtended2020]]
+- **Informed By::** [[@stayMachinamentaFormingExtended2020]]
+- **Informed By::** [[@teamWorldCreationAnalogy2020]]
+- **Informed By::** [[@brownLanguageModelsAre2020]]
+- **Informed By::** [[@mitchellCanGPT3Make2020]]
+- **Informed By::** [[@mitchellFollowupCanGPT32020]]

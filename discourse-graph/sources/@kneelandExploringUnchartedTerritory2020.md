@@ -29,7 +29,6 @@ date: Sun Jan 17 2021 23:59:22 GMT-0500 (Eastern Standard Time)
 
 ###### Discourse Context
 
-- **Informs::** [CLM - True creative breakthroughs often take a long time to develop.md](CLM - True creative breakthroughs often take a long time to develop.md)
-- **Informs::** [QUE - How might domain distance modulate the effects of analogies on creative output.md](QUE - How might domain distance modulate the effects of analogies on creative output.md)
-- **SourceFor::** [EVD - patenting teams with a greater number of prior patenting fields were more likely to generate patents that were technological outliers - @kneelandExploringUnchartedTerritory2020.md](EVD - patenting teams with a greater number of prior patenting fields were more likely to generate patents that were technological outliers - @kneelandExploringUnchartedTerritory2020.md)
-
+- **Informs::** [[CLM - True creative breakthroughs often take a long time to develop]]
+- **Informs::** [[QUE - How might domain distance modulate the effects of analogies on creative output]]
+- **SourceFor::** [[EVD - patenting teams with a greater number of prior patenting fields were more likely to generate patents that were technological outliers - @kneelandExploringUnchartedTerritory2020]]

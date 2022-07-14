@@ -41,5 +41,4 @@ date: Wed Jan 27 2021 21:12:09 GMT-0500 (Eastern Standard Time)
 
 ###### Discourse Context
 
-- **Informs::** [QUE - How might we characterize scientists' synthesis practices from a processtool perspective.md](QUE - How might we characterize scientists' synthesis practices from a processtool perspective.md)
-
+- **Informs::** [[QUE - How might we characterize scientists' synthesis practices from a processtool perspective]]

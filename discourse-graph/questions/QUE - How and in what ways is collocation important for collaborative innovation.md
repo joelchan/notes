@@ -16,8 +16,7 @@ date: Sun May 08 2022 16:09:46 GMT-0400 (Eastern Daylight Time)
 
 ###### Discourse Context
 
-- **Informed By::** [CLM - Physical proximity greatly facilitates initiation of new collaborations.md](CLM - Physical proximity greatly facilitates initiation of new collaborations.md)
-- **Informed By::** [@cataliniMicrogeographyDirectionInventive2017.md](@cataliniMicrogeographyDirectionInventive2017.md)
-- **Informed By::** [@laneEngineeringSerendipityWhen.md](@laneEngineeringSerendipityWhen.md)
-- **Informed By::** [@cataliniHowTravelCosts2020.md](@cataliniHowTravelCosts2020.md)
-
+- **Informed By::** [[CLM - Physical proximity greatly facilitates initiation of new collaborations]]
+- **Informed By::** [[@cataliniMicrogeographyDirectionInventive2017]]
+- **Informed By::** [[@laneEngineeringSerendipityWhen]]
+- **Informed By::** [[@cataliniHowTravelCosts2020]]

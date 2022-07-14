@@ -65,7 +65,7 @@ date: Wed Jul 28 2021 00:18:42 GMT-0400 (Eastern Daylight Time)
 
 ###### Discourse Context
 
-- **Informs::** [QUE - How might domain distance modulate the effects of analogies on creative output.md](QUE - How might domain distance modulate the effects of analogies on creative output.md)
-- **Supports::** [CLM - Analogical distance of inspirations for an idea are positively related to the idea's creativity.md](CLM - Analogical distance of inspirations for an idea are positively related to the idea's creativity.md)
-- **Consistent With::** [EVD - patenting teams with a greater number of prior patenting fields were more likely to generate patents that were technological outliers - @kneelandExploringUnchartedTerritory2020.md](EVD - patenting teams with a greater number of prior patenting fields were more likely to generate patents that were technological outliers - @kneelandExploringUnchartedTerritory2020.md)
-- **FromSource::** [@artsParadiseNoveltyLoss2018a.md](@artsParadiseNoveltyLoss2018a.md)
+- **Informs::** [[QUE - How might domain distance modulate the effects of analogies on creative output]]
+- **Supports::** [[CLM - Analogical distance of inspirations for an idea are positively related to the idea's creativity]]
+- **Consistent With::** [[EVD - patenting teams with a greater number of prior patenting fields were more likely to generate patents that were technological outliers - @kneelandExploringUnchartedTerritory2020]]
+- **FromSource::** [[@artsParadiseNoveltyLoss2018a]]

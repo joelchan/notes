@@ -29,6 +29,5 @@ date: Fri Aug 13 2021 09:54:09 GMT-0400 (Eastern Daylight Time)
 
 ###### Discourse Context
 
-- **Uses::** [PTN - discourse graph.md](PTN - discourse graph.md)
-- **Uses::** [PTN - flexible compression.md](PTN - flexible compression.md)
-
+- **Uses::** [[PTN - discourse graph]]
+- **Uses::** [[PTN - flexible compression]]

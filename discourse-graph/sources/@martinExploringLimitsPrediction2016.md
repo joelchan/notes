@@ -33,4 +33,4 @@ date: Fri May 22 2020 21:50:12 GMT-0400 (Eastern Daylight Time)
 
 ###### Discourse Context
 
-- **Informs::** [CLM - Prediction in complex social systems is fundamentally limited.md](CLM - Prediction in complex social systems is fundamentally limited.md)
+- **Informs::** [[CLM - Prediction in complex social systems is fundamentally limited]]

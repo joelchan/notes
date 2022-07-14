@@ -162,53 +162,52 @@ date: Thu Apr 30 2020 14:23:21 GMT-0400 (Eastern Daylight Time)
 
 ###### Discourse Context
 
-- **Informed By::** [EVD - professional designers lacked robust and consistent organization and metadata for ideas and examples, which hampered reuse - @sharminUnderstandingKnowledgeManagement2009b.md](EVD - professional designers lacked robust and consistent organization and metadata for ideas and examples, which hampered reuse - @sharminUnderstandingKnowledgeManagement2009b.md)
-- **Informed By::** [CLM - Knowledge must be recontextualized to be usefully reused.md](CLM - Knowledge must be recontextualized to be usefully reused.md)
-- **Informed By::** [CLM - Specifying context for future reuse is costly.md](CLM - Specifying context for future reuse is costly.md)
-- **Informed By::** [CLM - Most private annotations aren't useful to other people.md](CLM - Most private annotations aren't useful to other people.md)
-- **Informed By::** [CLM - Context and privacy are in tension when sharing knowledge with others.md](CLM - Context and privacy are in tension when sharing knowledge with others.md)
-- **Informed By::** [CLM - It is possible to benefit from receiving intermediate sensemaking outputs from others, particularly if those outputs have been iterated on.md](CLM - It is possible to benefit from receiving intermediate sensemaking outputs from others, particularly if those outputs have been iterated on.md)
-- **Informed By::** [CLM - Organizations and schemas from others' intermediate sensemaking outputs may be more beneficial for distributed sensemaking compared to the content.md](CLM - Organizations and schemas from others' intermediate sensemaking outputs may be more beneficial for distributed sensemaking compared to the content.md)
-- **Informed By::** [@goyalEffectsImplicitSharing2014.md](@goyalEffectsImplicitSharing2014.md)
-- **Informed By::** [@gustafsonWhatDistributedKnowledge2020.md](@gustafsonWhatDistributedKnowledge2020.md)
-- **Informed By::** [@gruberDarwinManPsychological1974.md](@gruberDarwinManPsychological1974.md)
-- **Informed By::** [@boliciStigmergicCoordinationFLOSS2016.md](@boliciStigmergicCoordinationFLOSS2016.md)
-- **Informed By::** [@sharminUnderstandingKnowledgeManagement2009b.md](@sharminUnderstandingKnowledgeManagement2009b.md)
-- **Informed By::** [@ackermanSharingKnowledgeExpertise2013.md](@ackermanSharingKnowledgeExpertise2013.md)
-- **Informed By::** [@nobaranyFacilitatingReuseProcess2012.md](@nobaranyFacilitatingReuseProcess2012.md)
-- **Informed By::** [@harawaySituatedKnowledgesScience1988.md](@harawaySituatedKnowledgesScience1988.md)
-- **Informed By::** [@kitturStandingSchemasGiants2014.md](@kitturStandingSchemasGiants2014.md)
-- **Informed By::** [@dourishInformationContextLessons1993.md](@dourishInformationContextLessons1993.md)
-- **Informed By::** [@kaplanReadingAloneTogether2005.md](@kaplanReadingAloneTogether2005.md)
-- **Informed By::** [@dourishWhatWeTalk2004.md](@dourishWhatWeTalk2004.md)
-- **Informed By::** [@bowkerAllKnowledgeLocal2010.md](@bowkerAllKnowledgeLocal2010.md)
-- **Informed By::** [@goyalLeveragingPartnerInsights2013.md](@goyalLeveragingPartnerInsights2013.md)
-- **Informed By::** [@americaninstituteofphysicsInterviewRichardFeyman2015.md](@americaninstituteofphysicsInterviewRichardFeyman2015.md)
-- **Informed By::** [@starStepsEcologyInfrastructure1996.md](@starStepsEcologyInfrastructure1996.md)
-- **Informed By::** [@halfordDigitalFuturesSociological2013.md](@halfordDigitalFuturesSociological2013.md)
-- **Informed By::** [@ackermanOrganizationalMemoryObjects2004.md](@ackermanOrganizationalMemoryObjects2004.md)
-- **Informed By::** [@morabitoManagingContextScholarly2021.md](@morabitoManagingContextScholarly2021.md)
-- **Informed By::** [@luttersBoundaryObjectsCollaborative2007.md](@luttersBoundaryObjectsCollaborative2007.md)
-- **Informed By::** [@andersonDataBaseMent2008.md](@andersonDataBaseMent2008.md)
-- **Informed By::** [@goyalEffectsSensemakingTranslucence2016.md](@goyalEffectsSensemakingTranslucence2016.md)
-- **Informed By::** [@russellBeingLiterateLarge2006.md](@russellBeingLiterateLarge2006.md)
-- **Informed By::** [@bernsteinInformationScrapsHow2008.md](@bernsteinInformationScrapsHow2008.md)
-- **Informed By::** [@sharmaArtifactUsefulnessUsage2009.md](@sharmaArtifactUsefulnessUsage2009.md)
-- **Informed By::** [@ribaupierreExtractingDiscourseElements2017.md](@ribaupierreExtractingDiscourseElements2017.md)
-- **Informed By::** [@bowkerSortingThingsOut2000.md](@bowkerSortingThingsOut2000.md)
-- **Informed By::** [@mcmahanAmbiguityEngagement2018.md](@mcmahanAmbiguityEngagement2018.md)
-- **Informed By::** [@fisherDistributedSensemakingImproving2012.md](@fisherDistributedSensemakingImproving2012.md)
-- **Informed By::** [@luttersIdentifyingExpertiseMarkers2004.md](@luttersIdentifyingExpertiseMarkers2004.md)
-- **Informed By::** [@kitturCostsBenefitsStructured2013.md](@kitturCostsBenefitsStructured2013.md)
-- **Informed By::** [@marshallExploringRelationshipPersonal2004.md](@marshallExploringRelationshipPersonal2004.md)
-- **Informed By::** [@oharaStudentReadersUse1998.md](@oharaStudentReadersUse1998.md)
-- **Informed By::** [@shumModelingNaturalisticArgumentation2006.md](@shumModelingNaturalisticArgumentation2006.md)
-- **Informed By::** [@herringGettingInspiredUnderstanding2009.md](@herringGettingInspiredUnderstanding2009.md)
-- **Informed By::** [@randallDistributedOntologyBuilding2011.md](@randallDistributedOntologyBuilding2011.md)
-- **Informed By::** [@qianITunesPapersRedefining2019a.md](@qianITunesPapersRedefining2019a.md)
-- **Informed By::** [@kangCollaboratorsAnnotationsHelp2012.md](@kangCollaboratorsAnnotationsHelp2012.md)
-- **Informed By::** [@cambrosioOvercomingBottleneckKnowledge2020.md](@cambrosioOvercomingBottleneckKnowledge2020.md)
-- **Informed By::** [@harrisonMakingEpistemologicalTrouble2011.md](@harrisonMakingEpistemologicalTrouble2011.md)
-- **Informed By::** [@thomerTransformingTaxonomicInterfaces2018.md](@thomerTransformingTaxonomicInterfaces2018.md)
-- **Informed By::** [@hinrichsContextGrabbingAssigning2005.md](@hinrichsContextGrabbingAssigning2005.md)
-
+- **Informed By::** [[EVD - professional designers lacked robust and consistent organization and metadata for ideas and examples, which hampered reuse - @sharminUnderstandingKnowledgeManagement2009b]]
+- **Informed By::** [[CLM - Knowledge must be recontextualized to be usefully reused]]
+- **Informed By::** [[CLM - Specifying context for future reuse is costly]]
+- **Informed By::** [[CLM - Most private annotations aren't useful to other people]]
+- **Informed By::** [[CLM - Context and privacy are in tension when sharing knowledge with others]]
+- **Informed By::** [[CLM - It is possible to benefit from receiving intermediate sensemaking outputs from others, particularly if those outputs have been iterated on]]
+- **Informed By::** [[CLM - Organizations and schemas from others' intermediate sensemaking outputs may be more beneficial for distributed sensemaking compared to the content]]
+- **Informed By::** [[@goyalEffectsImplicitSharing2014]]
+- **Informed By::** [[@gustafsonWhatDistributedKnowledge2020]]
+- **Informed By::** [[@gruberDarwinManPsychological1974]]
+- **Informed By::** [[@boliciStigmergicCoordinationFLOSS2016]]
+- **Informed By::** [[@sharminUnderstandingKnowledgeManagement2009b]]
+- **Informed By::** [[@ackermanSharingKnowledgeExpertise2013]]
+- **Informed By::** [[@nobaranyFacilitatingReuseProcess2012]]
+- **Informed By::** [[@harawaySituatedKnowledgesScience1988]]
+- **Informed By::** [[@kitturStandingSchemasGiants2014]]
+- **Informed By::** [[@dourishInformationContextLessons1993]]
+- **Informed By::** [[@kaplanReadingAloneTogether2005]]
+- **Informed By::** [[@dourishWhatWeTalk2004]]
+- **Informed By::** [[@bowkerAllKnowledgeLocal2010]]
+- **Informed By::** [[@goyalLeveragingPartnerInsights2013]]
+- **Informed By::** [[@americaninstituteofphysicsInterviewRichardFeyman2015]]
+- **Informed By::** [[@starStepsEcologyInfrastructure1996]]
+- **Informed By::** [[@halfordDigitalFuturesSociological2013]]
+- **Informed By::** [[@ackermanOrganizationalMemoryObjects2004]]
+- **Informed By::** [[@morabitoManagingContextScholarly2021]]
+- **Informed By::** [[@luttersBoundaryObjectsCollaborative2007]]
+- **Informed By::** [[@andersonDataBaseMent2008]]
+- **Informed By::** [[@goyalEffectsSensemakingTranslucence2016]]
+- **Informed By::** [[@russellBeingLiterateLarge2006]]
+- **Informed By::** [[@bernsteinInformationScrapsHow2008]]
+- **Informed By::** [[@sharmaArtifactUsefulnessUsage2009]]
+- **Informed By::** [[@ribaupierreExtractingDiscourseElements2017]]
+- **Informed By::** [[@bowkerSortingThingsOut2000]]
+- **Informed By::** [[@mcmahanAmbiguityEngagement2018]]
+- **Informed By::** [[@fisherDistributedSensemakingImproving2012]]
+- **Informed By::** [[@luttersIdentifyingExpertiseMarkers2004]]
+- **Informed By::** [[@kitturCostsBenefitsStructured2013]]
+- **Informed By::** [[@marshallExploringRelationshipPersonal2004]]
+- **Informed By::** [[@oharaStudentReadersUse1998]]
+- **Informed By::** [[@shumModelingNaturalisticArgumentation2006]]
+- **Informed By::** [[@herringGettingInspiredUnderstanding2009]]
+- **Informed By::** [[@randallDistributedOntologyBuilding2011]]
+- **Informed By::** [[@qianITunesPapersRedefining2019a]]
+- **Informed By::** [[@kangCollaboratorsAnnotationsHelp2012]]
+- **Informed By::** [[@cambrosioOvercomingBottleneckKnowledge2020]]
+- **Informed By::** [[@harrisonMakingEpistemologicalTrouble2011]]
+- **Informed By::** [[@thomerTransformingTaxonomicInterfaces2018]]
+- **Informed By::** [[@hinrichsContextGrabbingAssigning2005]]

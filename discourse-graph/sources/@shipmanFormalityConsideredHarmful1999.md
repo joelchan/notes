@@ -67,9 +67,8 @@ date: Tue Feb 11 2020 15:53:20 GMT-0500 (Eastern Standard Time)
 
 ###### Discourse Context
 
-- **Informs::** [CLM - (premature) formalism considered harmful.md](CLM - (premature) formalism considered harmful.md)
-- **Informs::** [CLM - Gracefully integrating formalism into interactive systems is hard.md](CLM - Gracefully integrating formalism into interactive systems is hard.md)
-- **Informs::** [CLM - PTN - incremental formalization can mitigate risks of formalism in interactive systems.md](CLM - PTN - incremental formalization can mitigate risks of formalism in interactive systems.md)
-- **Informs::** [CLM - Distinction between neat vs scruffy in Semantic Web engineering.md](CLM - Distinction between neat vs scruffy in Semantic Web engineering.md)
-- **Informs::** [QUE - How might we conceptualize and measure synthesis quality.md](QUE - How might we conceptualize and measure synthesis quality.md)
-
+- **Informs::** [[CLM - (premature) formalism considered harmful]]
+- **Informs::** [[CLM - Gracefully integrating formalism into interactive systems is hard]]
+- **Informs::** [[CLM - PTN - incremental formalization can mitigate risks of formalism in interactive systems]]
+- **Informs::** [[CLM - Distinction between neat vs scruffy in Semantic Web engineering]]
+- **Informs::** [[QUE - How might we conceptualize and measure synthesis quality]]

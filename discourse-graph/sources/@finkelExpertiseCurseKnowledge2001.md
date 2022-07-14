@@ -29,5 +29,4 @@ date: Wed Feb 17 2021 13:32:24 GMT-0500 (Eastern Standard Time)
 
 ###### Discourse Context
 
-- **Informs::** [QUE - Under what conditions is it possible to transfer expertise from one person to another.md](QUE - Under what conditions is it possible to transfer expertise from one person to another.md)
-
+- **Informs::** [[QUE - Under what conditions is it possible to transfer expertise from one person to another]]

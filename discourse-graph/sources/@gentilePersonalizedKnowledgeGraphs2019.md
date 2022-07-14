@@ -74,5 +74,4 @@ date: Tue Jun 09 2020 11:27:08 GMT-0400 (Eastern Daylight Time)
 
 ###### Discourse Context
 
-- **Informs::** [PTN - Prefer to accrete new infrastructures on top of existing ones.md](PTN - Prefer to accrete new infrastructures on top of existing ones.md)
-
+- **Informs::** [[PTN - Prefer to accrete new infrastructures on top of existing ones]]

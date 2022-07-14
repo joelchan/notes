@@ -19,5 +19,4 @@ date: Tue Jun 09 2020 17:01:51 GMT-0400 (Eastern Daylight Time)
 
 ###### Discourse Context
 
-- **Informed By::** [@tennantLimitationsOurUnderstanding2020.md](@tennantLimitationsOurUnderstanding2020.md)
-
+- **Informed By::** [[@tennantLimitationsOurUnderstanding2020]]

@@ -17,5 +17,4 @@ date: Tue Jan 11 2022 20:47:21 GMT-0500 (Eastern Standard Time)
 
 ###### Discourse Context
 
-- **Informs::** [CLM - Analog media are stubbornly effective for supporting creative knowledge work.md](CLM - Analog media are stubbornly effective for supporting creative knowledge work.md)
-
+- **Informs::** [[CLM - Analog media are stubbornly effective for supporting creative knowledge work]]

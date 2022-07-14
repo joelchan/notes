@@ -10,4 +10,4 @@ date: Fri Aug 20 2021 11:51:13 GMT-0400 (Eastern Daylight Time)
 
 ###### Discourse Context
 
-- **FromSource::** [@chanBestDesignIdeas2015.md](@chanBestDesignIdeas2015.md)
+- **FromSource::** [[@chanBestDesignIdeas2015]]

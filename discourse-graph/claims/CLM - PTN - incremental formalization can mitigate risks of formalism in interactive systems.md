@@ -35,7 +35,6 @@ date: Fri Apr 03 2020 15:30:55 GMT-0400 (Eastern Daylight Time)
 
 ###### Discourse Context
 
-- **Informs::** [QUE - What (existing) systems facilitate individual synthesis.md](QUE - What (existing) systems facilitate individual synthesis.md)
-- **Informed By::** [@shipmanFormalityConsideredHarmful1999.md](@shipmanFormalityConsideredHarmful1999.md)
-- **Informed By::** [@vankleekGuiPhooeyCase2007.md](@vankleekGuiPhooeyCase2007.md)
-
+- **Informs::** [[QUE - What (existing) systems facilitate individual synthesis]]
+- **Informed By::** [[@shipmanFormalityConsideredHarmful1999]]
+- **Informed By::** [[@vankleekGuiPhooeyCase2007]]

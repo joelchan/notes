@@ -23,6 +23,5 @@ date: Tue Nov 30 2021 13:44:42 GMT-0500 (Eastern Standard Time)
 
 ###### Discourse Context
 
-- **Informed By::** [EVD - in 3 major nonprofit research journals, between 1998-2018, only 5% of empirical studies menti...onprofit, and only 5 explicitly discussed coproduction - @benjaminBringingBeneficiariesMore2020.md](EVD - in 3 major nonprofit research journals, between 1998-2018, only 5% of empirical studies menti...onprofit, and only 5 explicitly discussed coproduction - @benjaminBringingBeneficiariesMore2020.md)
-- **Informed By::** [EVD - in 57 nonprofit management texts, beneficiaries were mentioned mostly in marketing and eval c...nd infrequently in HR or volunteer management chapters - @benjaminBringingBeneficiariesMore2020.md](EVD - in 57 nonprofit management texts, beneficiaries were mentioned mostly in marketing and eval c...nd infrequently in HR or volunteer management chapters - @benjaminBringingBeneficiariesMore2020.md)
-
+- **Informed By::** [[EVD - in 3 major nonprofit research journals, between 1998-2018, only 5% of empirical studies menti...onprofit, and only 5 explicitly discussed coproduction - @benjaminBringingBeneficiariesMore2020]]
+- **Informed By::** [[EVD - in 57 nonprofit management texts, beneficiaries were mentioned mostly in marketing and eval c...nd infrequently in HR or volunteer management chapters - @benjaminBringingBeneficiariesMore2020]]

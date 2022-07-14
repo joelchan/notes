@@ -13,8 +13,7 @@ date: Thu Oct 21 2021 11:58:37 GMT-0400 (Eastern Daylight Time)
 
 ###### Discourse Context
 
-- **Informs::** [QUE - What is synthesis.md](QUE - What is synthesis.md)
-- **Informed By::** [@strikeTypesSynthesisTheir1983.md](@strikeTypesSynthesisTheir1983.md)
-- **Informed By::** [@greenhalghTimeChallengeSpurious2018.md](@greenhalghTimeChallengeSpurious2018.md)
-- **Informed By::** [@thorneRediscoveringNarrativeReview2018.md](@thorneRediscoveringNarrativeReview2018.md)
-
+- **Informs::** [[QUE - What is synthesis]]
+- **Informed By::** [[@strikeTypesSynthesisTheir1983]]
+- **Informed By::** [[@greenhalghTimeChallengeSpurious2018]]
+- **Informed By::** [[@thorneRediscoveringNarrativeReview2018]]

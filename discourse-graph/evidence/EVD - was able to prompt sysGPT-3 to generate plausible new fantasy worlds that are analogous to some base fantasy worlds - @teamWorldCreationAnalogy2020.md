@@ -20,5 +20,4 @@ date: Thu Nov 18 2021 11:23:59 GMT-0500 (Eastern Standard Time)
 
 ###### Discourse Context
 
-- **FromSource::** [@teamWorldCreationAnalogy2020.md](@teamWorldCreationAnalogy2020.md)
-
+- **FromSource::** [[@teamWorldCreationAnalogy2020]]

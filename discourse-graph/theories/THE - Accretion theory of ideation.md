@@ -15,5 +15,4 @@ date: Fri Jan 31 2020 18:10:40 GMT-0500 (Eastern Standard Time)
 
 ###### Discourse Context
 
-- **Informed By::** [@sosaAccretionTheoryIdeation2019.md](@sosaAccretionTheoryIdeation2019.md)
-
+- **Informed By::** [[@sosaAccretionTheoryIdeation2019]]

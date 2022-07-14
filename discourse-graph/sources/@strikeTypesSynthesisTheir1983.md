@@ -190,9 +190,8 @@ date: Mon Dec 30 2019 19:17:08 GMT-0500 (Eastern Standard Time)
 
 ###### Discourse Context
 
-- **Informs::** [CLM - Synthesis is sensemaking on hard mode.md](CLM - Synthesis is sensemaking on hard mode.md)
-- **Informs::** [CLM - Synthesis is creating a new whole out of component parts.md](CLM - Synthesis is creating a new whole out of component parts.md)
-- **Informs::** [CLM - systematic reviews are typically narrowly focused, and provide less insight.md](CLM - systematic reviews are typically narrowly focused, and provide less insight.md)
-- **Informs::** [QUE - What is synthesis.md](QUE - What is synthesis.md)
-- **Informs::** [QUE - How might we conceptualize and measure synthesis quality.md](QUE - How might we conceptualize and measure synthesis quality.md)
-
+- **Informs::** [[CLM - Synthesis is sensemaking on hard mode]]
+- **Informs::** [[CLM - Synthesis is creating a new whole out of component parts]]
+- **Informs::** [[CLM - systematic reviews are typically narrowly focused, and provide less insight]]
+- **Informs::** [[QUE - What is synthesis]]
+- **Informs::** [[QUE - How might we conceptualize and measure synthesis quality]]

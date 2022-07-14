@@ -29,5 +29,4 @@ date: Mon Jun 29 2020 15:01:16 GMT-0400 (Eastern Daylight Time)
 
 ###### Discourse Context
 
-- **Informs::** [CLM - Scholarly argumentation operates on atomic statements and concepts as fundamental units.md](CLM - Scholarly argumentation operates on atomic statements and concepts as fundamental units.md)
-
+- **Informs::** [[CLM - Scholarly argumentation operates on atomic statements and concepts as fundamental units]]

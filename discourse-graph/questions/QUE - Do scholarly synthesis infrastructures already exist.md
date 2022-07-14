@@ -95,15 +95,14 @@ date: Mon May 11 2020 22:00:11 GMT-0400 (Eastern Daylight Time)
 
 ###### Discourse Context
 
-- **Informed By::** [CLM - Effective individual synthesis systems (seem to mostly) exist (for a select few).md](CLM - Effective individual synthesis systems (seem to mostly) exist (for a select few).md)
-- **Informed By::** [CLM - Sustaining authorship for semantic publishing is hard.md](CLM - Sustaining authorship for semantic publishing is hard.md)
-- **Informed By::** [@parkKnowledgeGardeningKnowledge2009.md](@parkKnowledgeGardeningKnowledge2009.md)
-- **Informed By::** [@kuhnGenuineSemanticPublishing2017.md](@kuhnGenuineSemanticPublishing2017.md)
-- **Informed By::** [@grothAnatomyNanopublication2010.md](@grothAnatomyNanopublication2010.md)
-- **Informed By::** [@dewaardFormalisingUncertaintyOntology2012.md](@dewaardFormalisingUncertaintyOntology2012.md)
-- **Informed By::** [@brushSEPIOSemanticModel2016.md](@brushSEPIOSemanticModel2016.md)
-- **Informed By::** [@miles-boardHypertextSemanticWeb2001.md](@miles-boardHypertextSemanticWeb2001.md)
-- **Informed By::** [@clarkMicropublicationsSemanticModel2014.md](@clarkMicropublicationsSemanticModel2014.md)
-- **Informed By::** [@kuhnBroadeningScopeNanopublications2013.md](@kuhnBroadeningScopeNanopublications2013.md)
-- **Informed By::** [@berners-leePublishingSemanticWeb2001.md](@berners-leePublishingSemanticWeb2001.md)
-
+- **Informed By::** [[CLM - Effective individual synthesis systems (seem to mostly) exist (for a select few)]]
+- **Informed By::** [[CLM - Sustaining authorship for semantic publishing is hard]]
+- **Informed By::** [[@parkKnowledgeGardeningKnowledge2009]]
+- **Informed By::** [[@kuhnGenuineSemanticPublishing2017]]
+- **Informed By::** [[@grothAnatomyNanopublication2010]]
+- **Informed By::** [[@dewaardFormalisingUncertaintyOntology2012]]
+- **Informed By::** [[@brushSEPIOSemanticModel2016]]
+- **Informed By::** [[@miles-boardHypertextSemanticWeb2001]]
+- **Informed By::** [[@clarkMicropublicationsSemanticModel2014]]
+- **Informed By::** [[@kuhnBroadeningScopeNanopublications2013]]
+- **Informed By::** [[@berners-leePublishingSemanticWeb2001]]

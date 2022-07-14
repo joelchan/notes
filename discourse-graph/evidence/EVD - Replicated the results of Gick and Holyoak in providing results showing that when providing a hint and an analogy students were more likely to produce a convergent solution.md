@@ -9,7 +9,6 @@ date: Tue Dec 14 2021 16:02:37 GMT-0500 (Eastern Standard Time)
 
 ###### Discourse Context
 
-- **Informs::** [QUE - What factors control whether people appropriately benefit from analogies (especially far-field ones) during creative problem solving.md](QUE - What factors control whether people appropriately benefit from analogies (especially far-field ones) during creative problem solving.md)
-- **Supports::** [CLM - People are more likely to benefit from analogies if they encounterprocess them with an active goal or license to use them for inspiration.md](CLM - People are more likely to benefit from analogies if they encounterprocess them with an active goal or license to use them for inspiration.md)
-- **Consistent With::** [EVD - direct comparison of dissimilar analogs approximately doubled rates of spontaneous far analogical transfer for the radiation problem - @gickSchemaInductionAnalogical1983.md](EVD - direct comparison of dissimilar analogs approximately doubled rates of spontaneous far analogical transfer for the radiation problem - @gickSchemaInductionAnalogical1983.md)
-
+- **Informs::** [[QUE - What factors control whether people appropriately benefit from analogies (especially far-field ones) during creative problem solving]]
+- **Supports::** [[CLM - People are more likely to benefit from analogies if they encounterprocess them with an active goal or license to use them for inspiration]]
+- **Consistent With::** [[EVD - direct comparison of dissimilar analogs approximately doubled rates of spontaneous far analogical transfer for the radiation problem - @gickSchemaInductionAnalogical1983]]

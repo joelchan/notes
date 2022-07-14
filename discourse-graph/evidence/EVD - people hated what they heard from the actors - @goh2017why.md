@@ -13,5 +13,4 @@ date: Sat Aug 14 2021 12:07:22 GMT-0400 (Eastern Daylight Time)
 
 ###### Discourse Context
 
-- **FromSource::** [@goh2017why.md](@goh2017why.md)
-
+- **FromSource::** [[@goh2017why]]

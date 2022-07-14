@@ -160,12 +160,11 @@ date: Fri Oct 30 2020 21:49:16 GMT-0400 (Eastern Daylight Time)
 
 ###### Discourse Context
 
-- **Informs::** [QUE - Under what conditions do diverse initial examples lead to better final design solutions.md](QUE - Under what conditions do diverse initial examples lead to better final design solutions.md)
-- **Informs::** [QUE - How might domain distance modulate the effects of analogies on creative output.md](QUE - How might domain distance modulate the effects of analogies on creative output.md)
-- **Informs::** [QUE - What are the most efficient routes to useful cross-boundary knowledge.md](QUE - What are the most efficient routes to useful cross-boundary knowledge.md)
-- **SourceFor::** [EVD - a substantial number of IDEO-designed products incorporated technological solutions from other industries - @hargadonTechnologyBrokeringInnovation1997.md](EVD - a substantial number of IDEO-designed products incorporated technological solutions from other industries - @hargadonTechnologyBrokeringInnovation1997.md)
-- **SourceFor::** [EVD - Intentional organizational routines, both formal and informal, such as brainstorming and regu...val and circulation of technical knowledge at IDEO - @hargadonTechnologyBrokeringInnovation1997.md](EVD - Intentional organizational routines, both formal and informal, such as brainstorming and regu...val and circulation of technical knowledge at IDEO - @hargadonTechnologyBrokeringInnovation1997.md)
-- **SourceFor::** [EVD - Technical design knowledge at IDEO that was used for analogical inspiration resided in a mix ...intained through routines of access in design work - @hargadonTechnologyBrokeringInnovation1997.md](EVD - Technical design knowledge at IDEO that was used for analogical inspiration resided in a mix ...intained through routines of access in design work - @hargadonTechnologyBrokeringInnovation1997.md)
-- **SourceFor::** [EVD - IDEO intentionally cultivated social norms of help-seeking and help-giving across disciplinar...uch as peer reputation for performance evaluations - @hargadonTechnologyBrokeringInnovation1997.md](EVD - IDEO intentionally cultivated social norms of help-seeking and help-giving across disciplinar...uch as peer reputation for performance evaluations - @hargadonTechnologyBrokeringInnovation1997.md)
-- **SourceFor::** [EVD - IDEO intentionally curated a diverse portfolio of products and staff with an eye to constructing a base of analogies to apply to new designs - @hargadonTechnologyBrokeringInnovation1997.md](EVD - IDEO intentionally curated a diverse portfolio of products and staff with an eye to constructing a base of analogies to apply to new designs - @hargadonTechnologyBrokeringInnovation1997.md)
-
+- **Informs::** [[QUE - Under what conditions do diverse initial examples lead to better final design solutions]]
+- **Informs::** [[QUE - How might domain distance modulate the effects of analogies on creative output]]
+- **Informs::** [[QUE - What are the most efficient routes to useful cross-boundary knowledge]]
+- **SourceFor::** [[EVD - a substantial number of IDEO-designed products incorporated technological solutions from other industries - @hargadonTechnologyBrokeringInnovation1997]]
+- **SourceFor::** [[EVD - Intentional organizational routines, both formal and informal, such as brainstorming and regu...val and circulation of technical knowledge at IDEO - @hargadonTechnologyBrokeringInnovation1997]]
+- **SourceFor::** [[EVD - Technical design knowledge at IDEO that was used for analogical inspiration resided in a mix ...intained through routines of access in design work - @hargadonTechnologyBrokeringInnovation1997]]
+- **SourceFor::** [[EVD - IDEO intentionally cultivated social norms of help-seeking and help-giving across disciplinar...uch as peer reputation for performance evaluations - @hargadonTechnologyBrokeringInnovation1997]]
+- **SourceFor::** [[EVD - IDEO intentionally curated a diverse portfolio of products and staff with an eye to constructing a base of analogies to apply to new designs - @hargadonTechnologyBrokeringInnovation1997]]

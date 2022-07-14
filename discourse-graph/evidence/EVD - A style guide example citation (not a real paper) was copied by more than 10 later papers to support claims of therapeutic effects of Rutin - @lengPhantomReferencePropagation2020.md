@@ -14,5 +14,4 @@ date: Tue Jul 20 2021 10:40:26 GMT-0400 (Eastern Daylight Time)
 
 ###### Discourse Context
 
-- **FromSource::** [@lengPhantomReferencePropagation2020.md](@lengPhantomReferencePropagation2020.md)
-
+- **FromSource::** [[@lengPhantomReferencePropagation2020]]

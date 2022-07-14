@@ -9,4 +9,4 @@ date: Tue Sep 22 2020 22:23:55 GMT-0400 (Eastern Daylight Time)
 
 ###### Discourse Context
 
-- **Informs::** [CLM - Core attribute mismatches in analogical inspiration harm creativity.md](CLM - Core attribute mismatches in analogical inspiration harm creativity.md)
+- **Informs::** [[CLM - Core attribute mismatches in analogical inspiration harm creativity]]

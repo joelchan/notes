@@ -71,5 +71,4 @@ date: Mon Nov 16 2020 17:37:28 GMT-0500 (Eastern Standard Time)
 
 ###### Discourse Context
 
-- **Informed By::** [@palmerWorkBoundariesScience2001.md](@palmerWorkBoundariesScience2001.md)
-
+- **Informed By::** [[@palmerWorkBoundariesScience2001]]

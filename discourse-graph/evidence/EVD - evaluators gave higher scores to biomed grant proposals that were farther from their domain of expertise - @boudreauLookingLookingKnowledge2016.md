@@ -14,5 +14,4 @@ date: Mon Aug 09 2021 12:46:44 GMT-0400 (Eastern Daylight Time)
 
 ###### Discourse Context
 
-- **FromSource::** [@boudreauLookingLookingKnowledge2016.md](@boudreauLookingLookingKnowledge2016.md)
-
+- **FromSource::** [[@boudreauLookingLookingKnowledge2016]]

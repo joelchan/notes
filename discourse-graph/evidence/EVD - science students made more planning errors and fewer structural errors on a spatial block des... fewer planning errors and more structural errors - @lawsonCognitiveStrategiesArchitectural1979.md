@@ -10,6 +10,5 @@ date: Wed Jun 29 2022 14:11:24 GMT-0400 (Eastern Daylight Time)
 
 ###### Discourse Context
 
-- **Supports::** [CLM - Expert designers are solution-oriented.md](CLM - Expert designers are solution-oriented.md)
-- **FromSource::** [@lawsonCognitiveStrategiesArchitectural1979.md](@lawsonCognitiveStrategiesArchitectural1979.md)
-
+- **Supports::** [[CLM - Expert designers are solution-oriented]]
+- **FromSource::** [[@lawsonCognitiveStrategiesArchitectural1979]]

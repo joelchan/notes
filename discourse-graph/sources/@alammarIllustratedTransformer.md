@@ -29,4 +29,4 @@ Let’s begin by looking at the model as a single black box. In a machine transl
 
 ###### Discourse Context
 
-- **Informs::** [QUE - What do we know about transformer language models' natural language generation capabilities.md](QUE - What do we know about transformer language models' natural language generation capabilities.md)
+- **Informs::** [[QUE - What do we know about transformer language models' natural language generation capabilities]]

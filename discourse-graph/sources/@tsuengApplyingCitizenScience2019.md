@@ -29,5 +29,4 @@ date: Wed Jan 27 2021 21:31:42 GMT-0500 (Eastern Standard Time)
 
 ###### Discourse Context
 
-- **Informs::** [CLM - Sustaining authorship for semantic publishing is hard.md](CLM - Sustaining authorship for semantic publishing is hard.md)
-
+- **Informs::** [[CLM - Sustaining authorship for semantic publishing is hard]]

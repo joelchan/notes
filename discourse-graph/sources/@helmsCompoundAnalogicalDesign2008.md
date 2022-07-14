@@ -59,13 +59,12 @@ date: Wed Sep 09 2020 21:57:16 GMT-0400 (Eastern Daylight Time)
 
 ###### Discourse Context
 
-- **Informs::** [CLM - Design proceeds by co-evolution of problem and solution space.md](CLM - Design proceeds by co-evolution of problem and solution space.md)
-- **Informs::** [CLM - Core mismatches in analogical inspiration improve creativity.md](CLM - Core mismatches in analogical inspiration improve creativity.md)
-- **Informs::** [QUE - Under what conditions do diverse initial examples lead to better final design solutions.md](QUE - Under what conditions do diverse initial examples lead to better final design solutions.md)
-- **Informs::** [QUE - What are the mechanisms by which analogies help drive creative breakthroughs.md](QUE - What are the mechanisms by which analogies help drive creative breakthroughs.md)
-- **Informs::** [QUE - How might domain distance modulate the effects of analogies on creative output.md](QUE - How might domain distance modulate the effects of analogies on creative output.md)
-- **Informs::** [QUE - What are the most efficient routes to useful cross-boundary knowledge.md](QUE - What are the most efficient routes to useful cross-boundary knowledge.md)
-- **Informs::** [QUE - How do people effectively (re)formulate creative problems.md](QUE - How do people effectively (re)formulate creative problems.md)
-- **Informs::** [THE - interaction-oriented theory of creative inspiration from examples.md](THE - interaction-oriented theory of creative inspiration from examples.md)
-- **SourceFor::** [EVD - Engineering design students used multiple cross-domain analogies to fulfill design needs, and...on of how to decompose the problem and find new analogies. - @helmsCompoundAnalogicalDesign2008.md](EVD - Engineering design students used multiple cross-domain analogies to fulfill design needs, and...on of how to decompose the problem and find new analogies. - @helmsCompoundAnalogicalDesign2008.md)
-
+- **Informs::** [[CLM - Design proceeds by co-evolution of problem and solution space]]
+- **Informs::** [[CLM - Core mismatches in analogical inspiration improve creativity]]
+- **Informs::** [[QUE - Under what conditions do diverse initial examples lead to better final design solutions]]
+- **Informs::** [[QUE - What are the mechanisms by which analogies help drive creative breakthroughs]]
+- **Informs::** [[QUE - How might domain distance modulate the effects of analogies on creative output]]
+- **Informs::** [[QUE - What are the most efficient routes to useful cross-boundary knowledge]]
+- **Informs::** [[QUE - How do people effectively (re)formulate creative problems]]
+- **Informs::** [[THE - interaction-oriented theory of creative inspiration from examples]]
+- **SourceFor::** [[EVD - Engineering design students used multiple cross-domain analogies to fulfill design needs, and...on of how to decompose the problem and find new analogies. - @helmsCompoundAnalogicalDesign2008]]

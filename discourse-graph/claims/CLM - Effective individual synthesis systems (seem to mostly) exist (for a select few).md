@@ -50,10 +50,9 @@ with finished papers ready for publication. Rather, memos and diagrams begin as 
 
 ###### Discourse Context
 
-- **Informs::** [QUE - Do scholarly synthesis infrastructures already exist.md](QUE - Do scholarly synthesis infrastructures already exist.md)
-- **Informs::** [QUE - What semantic publishing work is already being done by scholars in their scholarly workflows.md](QUE - What semantic publishing work is already being done by scholars in their scholarly workflows.md)
-- **Informs::** [QUE - How might we characterize scientists' synthesis practices from a processtool perspective.md](QUE - How might we characterize scientists' synthesis practices from a processtool perspective.md)
-- **Informs::** [QUE - What (existing) systems facilitate individual synthesis.md](QUE - What (existing) systems facilitate individual synthesis.md)
-- **Informed By::** [@pacheco-vegaWritingMemorandums2020.md](@pacheco-vegaWritingMemorandums2020.md)
-- **Informed By::** [@anujacabraalWhyUseNVivo2012.md](@anujacabraalWhyUseNVivo2012.md)
-
+- **Informs::** [[QUE - Do scholarly synthesis infrastructures already exist]]
+- **Informs::** [[QUE - What semantic publishing work is already being done by scholars in their scholarly workflows]]
+- **Informs::** [[QUE - How might we characterize scientists' synthesis practices from a processtool perspective]]
+- **Informs::** [[QUE - What (existing) systems facilitate individual synthesis]]
+- **Informed By::** [[@pacheco-vegaWritingMemorandums2020]]
+- **Informed By::** [[@anujacabraalWhyUseNVivo2012]]

@@ -41,8 +41,7 @@ date: Sun Mar 22 2020 15:18:49 GMT-0400 (Eastern Daylight Time)
 
 ###### Discourse Context
 
-- **Informs::** [CLM - There is a 'Sweet Spot' in Analogical Distance. Somewhat far analogies lead to better creative outcomes than very near or very far analogies.md](CLM - There is a 'Sweet Spot' in Analogical Distance. Somewhat far analogies lead to better creative outcomes than very near or very far analogies.md)
-- **Informs::** [QUE - How might domain distance modulate the effects of analogies on creative output.md](QUE - How might domain distance modulate the effects of analogies on creative output.md)
-- **SourceFor::** [EVD - participants who received computationally selected far analogical stimuli had a lower ceiling...s compared to participants who received near or no analogical stimuli - @fuMeaningFarImpact2013.md](EVD - participants who received computationally selected far analogical stimuli had a lower ceiling...s compared to participants who received near or no analogical stimuli - @fuMeaningFarImpact2013.md)
-- **SourceFor::** [EVD - when placed in the same semantic space, computationally selected near and far analogical stim...m human-selected near and far analogical stimuli for the same problem - @fuMeaningFarImpact2013.md](EVD - when placed in the same semantic space, computationally selected near and far analogical stim...m human-selected near and far analogical stimuli for the same problem - @fuMeaningFarImpact2013.md)
-
+- **Informs::** [[CLM - There is a 'Sweet Spot' in Analogical Distance. Somewhat far analogies lead to better creative outcomes than very near or very far analogies]]
+- **Informs::** [[QUE - How might domain distance modulate the effects of analogies on creative output]]
+- **SourceFor::** [[EVD - participants who received computationally selected far analogical stimuli had a lower ceiling...s compared to participants who received near or no analogical stimuli - @fuMeaningFarImpact2013]]
+- **SourceFor::** [[EVD - when placed in the same semantic space, computationally selected near and far analogical stim...m human-selected near and far analogical stimuli for the same problem - @fuMeaningFarImpact2013]]

@@ -139,10 +139,9 @@ date: Tue May 19 2020 22:40:57 GMT-0400 (Eastern Daylight Time)
 
 ###### Discourse Context
 
-- **Informs::** [CLM - People are more likely to benefit from analogies if they encounterprocess them with an active goal or license to use them for inspiration.md](CLM - People are more likely to benefit from analogies if they encounterprocess them with an active goal or license to use them for inspiration.md)
-- **Informs::** [QUE - What factors control whether people appropriately benefit from analogies (especially far-field ones) during creative problem solving.md](QUE - What factors control whether people appropriately benefit from analogies (especially far-field ones) during creative problem solving.md)
-- **Informs::** [QUE - What are the mechanisms by which analogies help drive creative breakthroughs.md](QUE - What are the mechanisms by which analogies help drive creative breakthroughs.md)
-- **Informs::** [QUE - How might domain distance modulate the effects of analogies on creative output.md](QUE - How might domain distance modulate the effects of analogies on creative output.md)
-- **Informs::** [THE - interaction-oriented theory of creative inspiration from examples.md](THE - interaction-oriented theory of creative inspiration from examples.md)
-- **SourceFor::** [EVD - direct comparison of dissimilar analogs approximately doubled rates of spontaneous far analogical transfer for the radiation problem - @gickSchemaInductionAnalogical1983.md](EVD - direct comparison of dissimilar analogs approximately doubled rates of spontaneous far analogical transfer for the radiation problem - @gickSchemaInductionAnalogical1983.md)
-
+- **Informs::** [[CLM - People are more likely to benefit from analogies if they encounterprocess them with an active goal or license to use them for inspiration]]
+- **Informs::** [[QUE - What factors control whether people appropriately benefit from analogies (especially far-field ones) during creative problem solving]]
+- **Informs::** [[QUE - What are the mechanisms by which analogies help drive creative breakthroughs]]
+- **Informs::** [[QUE - How might domain distance modulate the effects of analogies on creative output]]
+- **Informs::** [[THE - interaction-oriented theory of creative inspiration from examples]]
+- **SourceFor::** [[EVD - direct comparison of dissimilar analogs approximately doubled rates of spontaneous far analogical transfer for the radiation problem - @gickSchemaInductionAnalogical1983]]

@@ -89,6 +89,5 @@ date: Mon Aug 02 2021 22:17:01 GMT-0400 (Eastern Daylight Time)
 
 ###### Discourse Context
 
-- **Informs::** [QUE - Under what conditions do diverse initial examples lead to better final design solutions.md](QUE - Under what conditions do diverse initial examples lead to better final design solutions.md)
-- **SourceFor::** [EVD - Diverse prompts will be perceived as more unexpectedness but of poorer quality and understandability - @rhyscoxDirectedDiversityLeveraging2021.md](EVD - Diverse prompts will be perceived as more unexpectedness but of poorer quality and understandability - @rhyscoxDirectedDiversityLeveraging2021.md)
-
+- **Informs::** [[QUE - Under what conditions do diverse initial examples lead to better final design solutions]]
+- **SourceFor::** [[EVD - Diverse prompts will be perceived as more unexpectedness but of poorer quality and understandability - @rhyscoxDirectedDiversityLeveraging2021]]

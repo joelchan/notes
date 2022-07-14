@@ -9,5 +9,4 @@ date: Fri Jan 14 2022 10:23:07 GMT-0500 (Eastern Standard Time)
 
 ###### Discourse Context
 
-- **Informed By::** [@finkeImageryCreativityEmergent1996.md](@finkeImageryCreativityEmergent1996.md)
-
+- **Informed By::** [[@finkeImageryCreativityEmergent1996]]

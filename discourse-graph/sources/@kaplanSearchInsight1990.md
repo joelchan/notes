@@ -131,9 +131,8 @@ date: Thu Feb 27 2020 15:43:41 GMT-0500 (Eastern Standard Time)
 
 ###### Discourse Context
 
-- **Informs::** [CLM - Effective problem formulation is-necessary-for creative knowledge work.md](CLM - Effective problem formulation is-necessary-for creative knowledge work.md)
-- **Informs::** [QUE - How do people effectively (re)formulate creative problems.md](QUE - How do people effectively (re)formulate creative problems.md)
-- **Informs::** [THE - interaction-oriented theory of creative inspiration from examples.md](THE - interaction-oriented theory of creative inspiration from examples.md)
-- **SourceFor::** [EVD - Representing a mutilated checkerboard in a way that made perceptual features of squares more salient facilitated problem reformulation and insight - @kaplanSearchInsight1990.md](EVD - Representing a mutilated checkerboard in a way that made perceptual features of squares more salient facilitated problem reformulation and insight - @kaplanSearchInsight1990.md)
-- **SourceFor::** [EVD - after noticing a key element of a problem representation for the mutilated checkerboard probl...heckerboard), solutions to the problem came almost immediately after - @kaplanSearchInsight1990.md](EVD - after noticing a key element of a problem representation for the mutilated checkerboard probl...heckerboard), solutions to the problem came almost immediately after - @kaplanSearchInsight1990.md)
-
+- **Informs::** [[CLM - Effective problem formulation is-necessary-for creative knowledge work]]
+- **Informs::** [[QUE - How do people effectively (re)formulate creative problems]]
+- **Informs::** [[THE - interaction-oriented theory of creative inspiration from examples]]
+- **SourceFor::** [[EVD - Representing a mutilated checkerboard in a way that made perceptual features of squares more salient facilitated problem reformulation and insight - @kaplanSearchInsight1990]]
+- **SourceFor::** [[EVD - after noticing a key element of a problem representation for the mutilated checkerboard probl...heckerboard), solutions to the problem came almost immediately after - @kaplanSearchInsight1990]]

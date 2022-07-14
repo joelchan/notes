@@ -38,16 +38,15 @@ date: Sun Mar 01 2020 20:55:47 GMT-0500 (Eastern Standard Time)
 
 ###### Discourse Context
 
-- **Informs::** [QUE - How can we augment scientific creativity with computational analogy.md](QUE - How can we augment scientific creativity with computational analogy.md)
-- **Informs::** [QUE - What are the mechanisms by which analogies help drive creative breakthroughs.md](QUE - What are the mechanisms by which analogies help drive creative breakthroughs.md)
-- **Informs::** [QUE - How might domain distance modulate the effects of analogies on creative output.md](QUE - How might domain distance modulate the effects of analogies on creative output.md)
-- **Supported By::** [EVD - papers with high median conventionality and high tail atypical combinations of journals they ...erage to be in top 5 percent of citation distribution - @uzziAtypicalCombinationsScientific2013.md](EVD - papers with high median conventionality and high tail atypical combinations of journals they ...erage to be in top 5 percent of citation distribution - @uzziAtypicalCombinationsScientific2013.md)
-- **Supported By::** [EVD - Molecular biologists with a reputation for innovation rarely used very far analogies in their...d mainly on analogies to the same or other biological organisms - @dunbarHowScientistsThink1997.md](EVD - Molecular biologists with a reputation for innovation rarely used very far analogies in their...d mainly on analogies to the same or other biological organisms - @dunbarHowScientistsThink1997.md)
-- **Informed By::** [@wang2019wikipedia.md](@wang2019wikipedia.md)
-- **Informed By::** [@fuMeaningFarImpact2013.md](@fuMeaningFarImpact2013.md)
-- **Informed By::** [@chanBestDesignIdeas2015.md](@chanBestDesignIdeas2015.md)
-- **Informed By::** [@dunbarHowScientistsThink1997.md](@dunbarHowScientistsThink1997.md)
-- **Informed By::** [@wardAnalogicalDistancePurpose1998.md](@wardAnalogicalDistancePurpose1998.md)
-- **Informed By::** [@gentnerStructureMappingAnalogy1997.md](@gentnerStructureMappingAnalogy1997.md)
-- **Informed By::** [@yuDistributedAnalogicalIdea2016.md](@yuDistributedAnalogicalIdea2016.md)
-
+- **Informs::** [[QUE - How can we augment scientific creativity with computational analogy]]
+- **Informs::** [[QUE - What are the mechanisms by which analogies help drive creative breakthroughs]]
+- **Informs::** [[QUE - How might domain distance modulate the effects of analogies on creative output]]
+- **Supported By::** [[EVD - papers with high median conventionality and high tail atypical combinations of journals they ...erage to be in top 5 percent of citation distribution - @uzziAtypicalCombinationsScientific2013]]
+- **Supported By::** [[EVD - Molecular biologists with a reputation for innovation rarely used very far analogies in their...d mainly on analogies to the same or other biological organisms - @dunbarHowScientistsThink1997]]
+- **Informed By::** [[@wang2019wikipedia]]
+- **Informed By::** [[@fuMeaningFarImpact2013]]
+- **Informed By::** [[@chanBestDesignIdeas2015]]
+- **Informed By::** [[@dunbarHowScientistsThink1997]]
+- **Informed By::** [[@wardAnalogicalDistancePurpose1998]]
+- **Informed By::** [[@gentnerStructureMappingAnalogy1997]]
+- **Informed By::** [[@yuDistributedAnalogicalIdea2016]]

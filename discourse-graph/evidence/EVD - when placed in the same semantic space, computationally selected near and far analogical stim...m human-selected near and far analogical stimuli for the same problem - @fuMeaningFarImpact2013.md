@@ -12,4 +12,4 @@ date: Fri Mar 25 2022 09:52:44 GMT-0400 (Eastern Daylight Time)
 
 ###### Discourse Context
 
-- **FromSource::** [@fuMeaningFarImpact2013.md](@fuMeaningFarImpact2013.md)
+- **FromSource::** [[@fuMeaningFarImpact2013]]

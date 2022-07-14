@@ -2,7 +2,7 @@
 title: @clausetSystematicInequalityHierarchy2015
 url: https://roamresearch.com/#/app/megacoglab/page/-fDYuXD7R
 author: Unknown
-date: Wed Jul 13 2022 19:45:00 GMT-0400 (Eastern Daylight Time)
+date: Wed Jul 13 2022 22:45:00 GMT-0400 (Eastern Daylight Time)
 ---
 
 - #references
@@ -67,4 +67,4 @@ date: Wed Jul 13 2022 19:45:00 GMT-0400 (Eastern Daylight Time)
 
 ###### Discourse Context
 
-- **Informs::** [CLM - Prestige substantially controls how scientific ideas spread.md](CLM - Prestige substantially controls how scientific ideas spread.md)
+- **Informs::** [[CLM - Prestige substantially controls how scientific ideas spread]]

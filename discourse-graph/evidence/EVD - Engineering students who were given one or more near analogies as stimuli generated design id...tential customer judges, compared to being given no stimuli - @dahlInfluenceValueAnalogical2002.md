@@ -70,8 +70,7 @@ date: Wed Jun 30 2021 10:38:06 GMT-0400 (Eastern Daylight Time)
 
 ###### Discourse Context
 
-- **Informs::** [QUE - How might domain distance modulate the effects of analogies on creative output.md](QUE - How might domain distance modulate the effects of analogies on creative output.md)
-- **Supports::** [CLM - Analogical distance of inspirations for an idea are positively related to the idea's creativity.md](CLM - Analogical distance of inspirations for an idea are positively related to the idea's creativity.md)
-- **Consistent With::** [EVD - designs that were measured during an ideation session to have come from a higher percentage o... as more original and valuable by potential customer judges - @dahlInfluenceValueAnalogical2002.md](EVD - designs that were measured during an ideation session to have come from a higher percentage o... as more original and valuable by potential customer judges - @dahlInfluenceValueAnalogical2002.md)
-- **FromSource::** [@dahlInfluenceValueAnalogical2002.md](@dahlInfluenceValueAnalogical2002.md)
-
+- **Informs::** [[QUE - How might domain distance modulate the effects of analogies on creative output]]
+- **Supports::** [[CLM - Analogical distance of inspirations for an idea are positively related to the idea's creativity]]
+- **Consistent With::** [[EVD - designs that were measured during an ideation session to have come from a higher percentage o... as more original and valuable by potential customer judges - @dahlInfluenceValueAnalogical2002]]
+- **FromSource::** [[@dahlInfluenceValueAnalogical2002]]

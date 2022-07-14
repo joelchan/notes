@@ -29,5 +29,4 @@ date: Sat May 02 2020 23:20:29 GMT-0400 (Eastern Daylight Time)
 
 ###### Discourse Context
 
-- **Informed By::** [@gruberDarwinManPsychological1974.md](@gruberDarwinManPsychological1974.md)
-
+- **Informed By::** [[@gruberDarwinManPsychological1974]]

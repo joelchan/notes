@@ -71,6 +71,5 @@ date: Sun Dec 06 2020 22:59:48 GMT-0500 (Eastern Standard Time)
 
 ###### Discourse Context
 
-- **Informs::** [CLM - True creative breakthroughs often take a long time to develop.md](CLM - True creative breakthroughs often take a long time to develop.md)
-- **Informs::** [QUE - What are the most efficient routes to useful cross-boundary knowledge.md](QUE - What are the most efficient routes to useful cross-boundary knowledge.md)
-
+- **Informs::** [[CLM - True creative breakthroughs often take a long time to develop]]
+- **Informs::** [[QUE - What are the most efficient routes to useful cross-boundary knowledge]]

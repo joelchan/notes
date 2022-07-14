@@ -29,4 +29,4 @@ date: Mon Jun 28 2021 14:44:33 GMT-0400 (Eastern Daylight Time)
 
 ###### Discourse Context
 
-- **Informs::** [QUE - How might domain distance modulate the effects of analogies on creative output.md](QUE - How might domain distance modulate the effects of analogies on creative output.md)
+- **Informs::** [[QUE - How might domain distance modulate the effects of analogies on creative output]]

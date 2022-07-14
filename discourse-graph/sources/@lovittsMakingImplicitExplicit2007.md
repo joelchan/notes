@@ -68,7 +68,6 @@ date: Mon Feb 17 2020 09:34:11 GMT-0500 (Eastern Standard Time)
 
 ###### Discourse Context
 
-- **Informs::** [CLM - Doctoral students struggle to effectively synthesize literature.md](CLM - Doctoral students struggle to effectively synthesize literature.md)
-- **Informs::** [QUE - How might we conceptualize and measure synthesis quality.md](QUE - How might we conceptualize and measure synthesis quality.md)
-- **SourceFor::** [EVD - Doctoral examiners reported that many acceptable or even very good dissertations across a ran...iteria for effective synthesis in their literature reviews - @lovittsMakingImplicitExplicit2007.md](EVD - Doctoral examiners reported that many acceptable or even very good dissertations across a ran...iteria for effective synthesis in their literature reviews - @lovittsMakingImplicitExplicit2007.md)
-
+- **Informs::** [[CLM - Doctoral students struggle to effectively synthesize literature]]
+- **Informs::** [[QUE - How might we conceptualize and measure synthesis quality]]
+- **SourceFor::** [[EVD - Doctoral examiners reported that many acceptable or even very good dissertations across a ran...iteria for effective synthesis in their literature reviews - @lovittsMakingImplicitExplicit2007]]

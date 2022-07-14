@@ -29,6 +29,5 @@ date: Fri May 14 2021 11:27:44 GMT-0400 (Eastern Daylight Time)
 
 ###### Discourse Context
 
-- **Informs::** [QUE - What tension points exist between the goals of diversity and depth of user participation in participatory design.md](QUE - What tension points exist between the goals of diversity and depth of user participation in participatory design.md)
-- **SourceFor::** [EVD - in design sessions with children, there were tensions between interpretation of the participant voice v. the stakeholder @frauenbergerInterpretingInputChildren2012a.md](EVD - in design sessions with children, there were tensions between interpretation of the participant voice v. the stakeholder @frauenbergerInterpretingInputChildren2012a.md)
-
+- **Informs::** [[QUE - What tension points exist between the goals of diversity and depth of user participation in participatory design]]
+- **SourceFor::** [[EVD - in design sessions with children, there were tensions between interpretation of the participant voice v. the stakeholder @frauenbergerInterpretingInputChildren2012a]]

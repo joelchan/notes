@@ -29,7 +29,6 @@ date: Thu Jan 07 2021 11:51:02 GMT-0500 (Eastern Standard Time)
 
 ###### Discourse Context
 
-- **Informed By::** [CLM - Specifying context for future reuse requires predicting trajectories of future reuse.md](CLM - Specifying context for future reuse requires predicting trajectories of future reuse.md)
-- **Informed By::** [@blakeCollaborativeInformationSynthesis2006.md](@blakeCollaborativeInformationSynthesis2006.md)
-- **Informed By::** [@tongConsolidatedCriteriaReporting2007.md](@tongConsolidatedCriteriaReporting2007.md)
-
+- **Informed By::** [[CLM - Specifying context for future reuse requires predicting trajectories of future reuse]]
+- **Informed By::** [[@blakeCollaborativeInformationSynthesis2006]]
+- **Informed By::** [[@tongConsolidatedCriteriaReporting2007]]

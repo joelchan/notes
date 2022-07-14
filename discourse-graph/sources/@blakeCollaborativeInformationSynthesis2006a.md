@@ -29,5 +29,5 @@ date: Sun Oct 25 2020 00:55:19 GMT-0400 (Eastern Daylight Time)
 
 ###### Discourse Context
 
-- **Informs::** [QUE - How might we characterize scientists' synthesis practices from a processtool perspective.md](QUE - How might we characterize scientists' synthesis practices from a processtool perspective.md)
-- **Informs::** [QUE - What (existing) systems facilitate individual synthesis.md](QUE - What (existing) systems facilitate individual synthesis.md)
+- **Informs::** [[QUE - How might we characterize scientists' synthesis practices from a processtool perspective]]
+- **Informs::** [[QUE - What (existing) systems facilitate individual synthesis]]

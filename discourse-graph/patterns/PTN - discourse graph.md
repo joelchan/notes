@@ -113,8 +113,7 @@ date: Tue Aug 04 2020 13:33:54 GMT-0400 (Eastern Daylight Time)
 
 ###### Discourse Context
 
-- **UsedIn::** [ART - DSynthesis Infrastructure Roam discourse graph extension.md](ART - DSynthesis Infrastructure Roam discourse graph extension.md)
-- **Informed By::** [@clarkMicropublicationsSemanticModel2014.md](@clarkMicropublicationsSemanticModel2014.md)
-- **Informed By::** [@gruberDarwinManPsychological1974.md](@gruberDarwinManPsychological1974.md)
-- **Informed By::** [@brushSEPIOSemanticModel2016.md](@brushSEPIOSemanticModel2016.md)
-
+- **UsedIn::** [[ART - DSynthesis Infrastructure Roam discourse graph extension]]
+- **Informed By::** [[@clarkMicropublicationsSemanticModel2014]]
+- **Informed By::** [[@gruberDarwinManPsychological1974]]
+- **Informed By::** [[@brushSEPIOSemanticModel2016]]

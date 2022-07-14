@@ -21,7 +21,6 @@ date: Wed Oct 21 2020 13:59:33 GMT-0400 (Eastern Daylight Time)
 
 ###### Discourse Context
 
-- **SourceFor::** [EVD - people in this study were reluctant to share their notes because they felt embarrassed about how messy they were - @goh2017why.md](EVD - people in this study were reluctant to share their notes because they felt embarrassed about how messy they were - @goh2017why.md)
-- **SourceFor::** [EVD - people hated what they heard from the actors - @goh2017why.md](EVD - people hated what they heard from the actors - @goh2017why.md)
-- **SourceFor::** [EVD - people laughed more and harder with the better trained actors - @goh2017why.md](EVD - people laughed more and harder with the better trained actors - @goh2017why.md)
-
+- **SourceFor::** [[EVD - people in this study were reluctant to share their notes because they felt embarrassed about how messy they were - @goh2017why]]
+- **SourceFor::** [[EVD - people hated what they heard from the actors - @goh2017why]]
+- **SourceFor::** [[EVD - people laughed more and harder with the better trained actors - @goh2017why]]

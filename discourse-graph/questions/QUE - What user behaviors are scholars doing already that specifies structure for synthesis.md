@@ -17,7 +17,6 @@ date: Tue Sep 07 2021 11:28:17 GMT-0400 (Eastern Daylight Time)
 
 ###### Discourse Context
 
-- **Informed By::** [@qianOpeningBlackBox2020.md](@qianOpeningBlackBox2020.md)
-- **Informed By::** [@blakeCollaborativeInformationSynthesis2006.md](@blakeCollaborativeInformationSynthesis2006.md)
-- **Informed By::** [@morabitoManagingContextScholarly2021.md](@morabitoManagingContextScholarly2021.md)
-
+- **Informed By::** [[@qianOpeningBlackBox2020]]
+- **Informed By::** [[@blakeCollaborativeInformationSynthesis2006]]
+- **Informed By::** [[@morabitoManagingContextScholarly2021]]

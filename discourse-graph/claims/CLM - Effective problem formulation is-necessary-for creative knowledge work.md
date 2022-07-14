@@ -42,13 +42,12 @@ that underlie existing literature as a way to construct research questions: prob
 
 ###### Discourse Context
 
-- **Informs::** [QUE - How do people effectively (re)formulate creative problems.md](QUE - How do people effectively (re)formulate creative problems.md)
-- **Supported By::** [EVD - Representing a mutilated checkerboard in a way that made perceptual features of squares more salient facilitated problem reformulation and insight - @kaplanSearchInsight1990.md](EVD - Representing a mutilated checkerboard in a way that made perceptual features of squares more salient facilitated problem reformulation and insight - @kaplanSearchInsight1990.md)
-- **Informed By::** [@schonReflectivePractitionerHow1983.md](@schonReflectivePractitionerHow1983.md)
-- **Informed By::** [@goelStructureDesignProblem1992.md](@goelStructureDesignProblem1992.md)
-- **Informed By::** [@rittelDilemmasGeneralTheory1973.md](@rittelDilemmasGeneralTheory1973.md)
-- **Informed By::** [@alvessonGeneratingResearchQuestions2011.md](@alvessonGeneratingResearchQuestions2011.md)
-- **Informed By::** [@dorstCreativityDesignProcess2001.md](@dorstCreativityDesignProcess2001.md)
-- **Informed By::** [@biethDynamicChangesSemantic2021.md](@biethDynamicChangesSemantic2021.md)
-- **Informed By::** [@kaplanSearchInsight1990.md](@kaplanSearchInsight1990.md)
-
+- **Informs::** [[QUE - How do people effectively (re)formulate creative problems]]
+- **Supported By::** [[EVD - Representing a mutilated checkerboard in a way that made perceptual features of squares more salient facilitated problem reformulation and insight - @kaplanSearchInsight1990]]
+- **Informed By::** [[@schonReflectivePractitionerHow1983]]
+- **Informed By::** [[@goelStructureDesignProblem1992]]
+- **Informed By::** [[@rittelDilemmasGeneralTheory1973]]
+- **Informed By::** [[@alvessonGeneratingResearchQuestions2011]]
+- **Informed By::** [[@dorstCreativityDesignProcess2001]]
+- **Informed By::** [[@biethDynamicChangesSemantic2021]]
+- **Informed By::** [[@kaplanSearchInsight1990]]

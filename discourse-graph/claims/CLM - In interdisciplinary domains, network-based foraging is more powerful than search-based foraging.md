@@ -49,11 +49,10 @@ date: Tue Apr 28 2020 22:54:59 GMT-0400 (Eastern Daylight Time)
 
 ###### Discourse Context
 
-- **Informs::** [QUE - What are the most efficient routes to useful cross-boundary knowledge.md](QUE - What are the most efficient routes to useful cross-boundary knowledge.md)
-- **Informed By::** [@bates1996learning.md](@bates1996learning.md)
-- **Informed By::** [@palmerWorkBoundariesScience2001.md](@palmerWorkBoundariesScience2001.md)
-- **Informed By::** [@hjorlandNewHorizonInformation1995.md](@hjorlandNewHorizonInformation1995.md)
-- **Informed By::** [@delaneySearchingEvidenceApproval2018.md](@delaneySearchingEvidenceApproval2018.md)
-- **Informed By::** [@moteReasonsVariationInformation1962.md](@moteReasonsVariationInformation1962.md)
-- **Informed By::** [@taljaReasonsUseNon2003.md](@taljaReasonsUseNon2003.md)
-
+- **Informs::** [[QUE - What are the most efficient routes to useful cross-boundary knowledge]]
+- **Informed By::** [[@bates1996learning]]
+- **Informed By::** [[@palmerWorkBoundariesScience2001]]
+- **Informed By::** [[@hjorlandNewHorizonInformation1995]]
+- **Informed By::** [[@delaneySearchingEvidenceApproval2018]]
+- **Informed By::** [[@moteReasonsVariationInformation1962]]
+- **Informed By::** [[@taljaReasonsUseNon2003]]

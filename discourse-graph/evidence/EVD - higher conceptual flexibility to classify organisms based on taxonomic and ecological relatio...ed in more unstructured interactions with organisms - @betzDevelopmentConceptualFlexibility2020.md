@@ -32,7 +32,6 @@ date: Thu Feb 24 2022 10:11:11 GMT-0500 (Eastern Standard Time)
 
 ###### Discourse Context
 
-- **Informs::** [THE - interaction-oriented theory of creative inspiration from examples.md](THE - interaction-oriented theory of creative inspiration from examples.md)
-- **Consistent With::** [EVD - estimated semantic networks of animal concepts from montessori-educated children were more in...orks from traditional-schooled but comparable children - @denervaudEducationShapesStructure2021.md](EVD - estimated semantic networks of animal concepts from montessori-educated children were more in...orks from traditional-schooled but comparable children - @denervaudEducationShapesStructure2021.md)
-- **FromSource::** [@betzDevelopmentConceptualFlexibility2020.md](@betzDevelopmentConceptualFlexibility2020.md)
-
+- **Informs::** [[THE - interaction-oriented theory of creative inspiration from examples]]
+- **Consistent With::** [[EVD - estimated semantic networks of animal concepts from montessori-educated children were more in...orks from traditional-schooled but comparable children - @denervaudEducationShapesStructure2021]]
+- **FromSource::** [[@betzDevelopmentConceptualFlexibility2020]]

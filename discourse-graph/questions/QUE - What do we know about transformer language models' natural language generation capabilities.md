@@ -68,14 +68,13 @@ date: Wed Nov 10 2021 09:37:39 GMT-0500 (Eastern Standard Time)
 
 ###### Discourse Context
 
-- **Informed By::** [EVD - crowd workers were at chance accuracy in distinguishing human-written from GPT-3-written stories, news stories, and recipes - @clarkAllThatHuman2021.md](EVD - crowd workers were at chance accuracy in distinguishing human-written from GPT-3-written stories, news stories, and recipes - @clarkAllThatHuman2021.md)
-- **Informed By::** [CLM - transformer language models have some analogical reasoning ability.md](CLM - transformer language models have some analogical reasoning ability.md)
-- **Informed By::** [@alammarIllustratedTransformer.md](@alammarIllustratedTransformer.md)
-- **Informed By::** [@reynoldsPromptProgrammingLarge2021a.md](@reynoldsPromptProgrammingLarge2021a.md)
-- **Informed By::** [@brownLanguageModelsAre2020.md](@brownLanguageModelsAre2020.md)
-- **Informed By::** [@liuPretrainPromptPredict2021.md](@liuPretrainPromptPredict2021.md)
-- **Informed By::** [@branwenGPT3CreativeFiction2020.md](@branwenGPT3CreativeFiction2020.md)
-- **Informed By::** [@bommasaniOpportunitiesRisksFoundation2021.md](@bommasaniOpportunitiesRisksFoundation2021.md)
-- **Informed By::** [@lescaoHowManyData2021.md](@lescaoHowManyData2021.md)
-- **Informed By::** [@clarkAllThatHuman2021.md](@clarkAllThatHuman2021.md)
-
+- **Informed By::** [[EVD - crowd workers were at chance accuracy in distinguishing human-written from GPT-3-written stories, news stories, and recipes - @clarkAllThatHuman2021]]
+- **Informed By::** [[CLM - transformer language models have some analogical reasoning ability]]
+- **Informed By::** [[@alammarIllustratedTransformer]]
+- **Informed By::** [[@reynoldsPromptProgrammingLarge2021a]]
+- **Informed By::** [[@brownLanguageModelsAre2020]]
+- **Informed By::** [[@liuPretrainPromptPredict2021]]
+- **Informed By::** [[@branwenGPT3CreativeFiction2020]]
+- **Informed By::** [[@bommasaniOpportunitiesRisksFoundation2021]]
+- **Informed By::** [[@lescaoHowManyData2021]]
+- **Informed By::** [[@clarkAllThatHuman2021]]

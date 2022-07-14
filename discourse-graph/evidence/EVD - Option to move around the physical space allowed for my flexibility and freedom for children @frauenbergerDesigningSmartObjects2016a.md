@@ -31,5 +31,5 @@ date: Mon Jun 28 2021 20:22:57 GMT-0400 (Eastern Daylight Time)
 
 ###### Discourse Context
 
-- **Informs::** [QUE - What tension points exist between the goals of diversity and depth of user participation in participatory design.md](QUE - What tension points exist between the goals of diversity and depth of user participation in participatory design.md)
-- **FromSource::** [@frauenbergerDesigningSmartObjects2016a.md](@frauenbergerDesigningSmartObjects2016a.md)
+- **Informs::** [[QUE - What tension points exist between the goals of diversity and depth of user participation in participatory design]]
+- **FromSource::** [[@frauenbergerDesigningSmartObjects2016a]]

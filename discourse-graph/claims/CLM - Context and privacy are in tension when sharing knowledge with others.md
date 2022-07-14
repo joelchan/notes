@@ -53,8 +53,7 @@ date: Fri Jan 07 2022 09:29:36 GMT-0500 (Eastern Standard Time)
 
 ###### Discourse Context
 
-- **Informs::** [QUE - How can we best bridge private vs. public knowledge.md](QUE - How can we best bridge private vs. public knowledge.md)
-- **Informed By::** [@gruberDarwinManPsychological1974.md](@gruberDarwinManPsychological1974.md)
-- **Informed By::** [@chanWhereRubberMeets2020.md](@chanWhereRubberMeets2020.md)
-- **Informed By::** [@dryNewtonPapersStrange2014.md](@dryNewtonPapersStrange2014.md)
-
+- **Informs::** [[QUE - How can we best bridge private vs. public knowledge]]
+- **Informed By::** [[@gruberDarwinManPsychological1974]]
+- **Informed By::** [[@chanWhereRubberMeets2020]]
+- **Informed By::** [[@dryNewtonPapersStrange2014]]

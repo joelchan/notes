@@ -29,6 +29,5 @@ date: Sun Jan 17 2021 22:03:42 GMT-0500 (Eastern Standard Time)
 
 ###### Discourse Context
 
-- **Informs::** [QUE - What are the most efficient routes to useful cross-boundary knowledge.md](QUE - What are the most efficient routes to useful cross-boundary knowledge.md)
-- **Informs::** [QUE - How and in what ways is collocation important for collaborative innovation.md](QUE - How and in what ways is collocation important for collaborative innovation.md)
-
+- **Informs::** [[QUE - What are the most efficient routes to useful cross-boundary knowledge]]
+- **Informs::** [[QUE - How and in what ways is collocation important for collaborative innovation]]

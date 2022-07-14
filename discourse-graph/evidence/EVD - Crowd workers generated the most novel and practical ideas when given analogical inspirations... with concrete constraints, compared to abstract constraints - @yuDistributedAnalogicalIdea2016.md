@@ -14,5 +14,4 @@ date: Fri Feb 18 2022 14:24:15 GMT-0500 (Eastern Standard Time)
 
 ###### Discourse Context
 
-- **FromSource::** [@yuDistributedAnalogicalIdea2016.md](@yuDistributedAnalogicalIdea2016.md)
-
+- **FromSource::** [[@yuDistributedAnalogicalIdea2016]]

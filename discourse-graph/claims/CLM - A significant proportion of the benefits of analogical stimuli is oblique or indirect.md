@@ -21,6 +21,5 @@ date: Fri Aug 21 2020 13:57:02 GMT-0400 (Eastern Daylight Time)
 
 ###### Discourse Context
 
-- **Informs::** [QUE - What are the mechanisms by which analogies help drive creative breakthroughs.md](QUE - What are the mechanisms by which analogies help drive creative breakthroughs.md)
-- **Informs::** [QUE - What are the most efficient routes to useful cross-boundary knowledge.md](QUE - What are the most efficient routes to useful cross-boundary knowledge.md)
-
+- **Informs::** [[QUE - What are the mechanisms by which analogies help drive creative breakthroughs]]
+- **Informs::** [[QUE - What are the most efficient routes to useful cross-boundary knowledge]]

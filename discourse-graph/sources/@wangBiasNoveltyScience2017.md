@@ -29,11 +29,10 @@ date: Fri Jul 16 2021 10:09:22 GMT-0400 (Eastern Daylight Time)
 
 ###### Discourse Context
 
-- **Informs::** [CLM - Prevailing incentives in academia are bad for science.md](CLM - Prevailing incentives in academia are bad for science.md)
-- **Informs::** [QUE - How might domain distance modulate the effects of analogies on creative output.md](QUE - How might domain distance modulate the effects of analogies on creative output.md)
-- **SourceFor::** [EVD - highly novel combinations of cited journals in a paper were almost always cross-disciplinary, but cross-disciplinary combinations were infrequently novel - @wangBiasNoveltyScience2017.md](EVD - highly novel combinations of cited journals in a paper were almost always cross-disciplinary, but cross-disciplinary combinations were infrequently novel - @wangBiasNoveltyScience2017.md)
-- **SourceFor::** [EVD - highly novel papers had higher variance in their citation outcomes over a 15-year window, biased towards the higher impact tail of the distribution - @wangBiasNoveltyScience2017.md](EVD - highly novel papers had higher variance in their citation outcomes over a 15-year window, biased towards the higher impact tail of the distribution - @wangBiasNoveltyScience2017.md)
-- **SourceFor::** [EVD - highly novel papers were more likely to be in the top 1% of citations in the long run, but not in the short run, and particularly in other fields - @wangBiasNoveltyScience2017.md](EVD - highly novel papers were more likely to be in the top 1% of citations in the long run, but not in the short run, and particularly in other fields - @wangBiasNoveltyScience2017.md)
-- **SourceFor::** [EVD - highly novel papers were more likely to be published in lower impact journals - @wangBiasNoveltyScience2017.md](EVD - highly novel papers were more likely to be published in lower impact journals - @wangBiasNoveltyScience2017.md)
-- **SourceFor::** [EVD - here is another result - i'm not sure i care about it yet - @wangBiasNoveltyScience2017.md](EVD - here is another result - i'm not sure i care about it yet - @wangBiasNoveltyScience2017.md)
-
+- **Informs::** [[CLM - Prevailing incentives in academia are bad for science]]
+- **Informs::** [[QUE - How might domain distance modulate the effects of analogies on creative output]]
+- **SourceFor::** [[EVD - highly novel combinations of cited journals in a paper were almost always cross-disciplinary, but cross-disciplinary combinations were infrequently novel - @wangBiasNoveltyScience2017]]
+- **SourceFor::** [[EVD - highly novel papers had higher variance in their citation outcomes over a 15-year window, biased towards the higher impact tail of the distribution - @wangBiasNoveltyScience2017]]
+- **SourceFor::** [[EVD - highly novel papers were more likely to be in the top 1% of citations in the long run, but not in the short run, and particularly in other fields - @wangBiasNoveltyScience2017]]
+- **SourceFor::** [[EVD - highly novel papers were more likely to be published in lower impact journals - @wangBiasNoveltyScience2017]]
+- **SourceFor::** [[EVD - here is another result - i'm not sure i care about it yet - @wangBiasNoveltyScience2017]]

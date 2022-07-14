@@ -50,5 +50,4 @@ date: Fri Aug 06 2021 17:22:37 GMT-0400 (Eastern Daylight Time)
 
 ###### Discourse Context
 
-- **FromSource::** [@uzziAtypicalCombinationsScientific2013.md](@uzziAtypicalCombinationsScientific2013.md)
-
+- **FromSource::** [[@uzziAtypicalCombinationsScientific2013]]

@@ -29,6 +29,5 @@ date: Mon Jan 11 2021 20:53:25 GMT-0500 (Eastern Standard Time)
 
 ###### Discourse Context
 
-- **Informs::** [QUE - How do people effectively (re)formulate creative problems.md](QUE - How do people effectively (re)formulate creative problems.md)
-- **SourceFor::** [EVD - hospital workers reformulated the problem of designing a better patient experience based on i...loring an analogous setting of customer experience in airports - @cassTransformYourIndustry2019.md](EVD - hospital workers reformulated the problem of designing a better patient experience based on i...loring an analogous setting of customer experience in airports - @cassTransformYourIndustry2019.md)
-
+- **Informs::** [[QUE - How do people effectively (re)formulate creative problems]]
+- **SourceFor::** [[EVD - hospital workers reformulated the problem of designing a better patient experience based on i...loring an analogous setting of customer experience in airports - @cassTransformYourIndustry2019]]

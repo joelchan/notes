@@ -17,5 +17,4 @@ date: Thu Jan 20 2022 14:59:22 GMT-0500 (Eastern Standard Time)
 
 ###### Discourse Context
 
-- **SourceFor::** [EVD - People added substantial structure in their usage of spatial hypertext systems that were not explicitly encoded by the systems' data structure. - @marshallSearchingMissingLink1993.md](EVD - People added substantial structure in their usage of spatial hypertext systems that were not explicitly encoded by the systems' data structure. - @marshallSearchingMissingLink1993.md)
-
+- **SourceFor::** [[EVD - People added substantial structure in their usage of spatial hypertext systems that were not explicitly encoded by the systems' data structure. - @marshallSearchingMissingLink1993]]

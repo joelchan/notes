@@ -35,9 +35,8 @@ date: Sat Dec 26 2020 22:03:45 GMT-0500 (Eastern Standard Time)
 
 ###### Discourse Context
 
-- **Informs::** [QUE - How can we best bridge private vs. public knowledge.md](QUE - How can we best bridge private vs. public knowledge.md)
-- **Informs::** [QUE - Under what conditions do diverse initial examples lead to better final design solutions.md](QUE - Under what conditions do diverse initial examples lead to better final design solutions.md)
-- **Informs::** [THE - interaction-oriented theory of creative inspiration from examples.md](THE - interaction-oriented theory of creative inspiration from examples.md)
-- **SourceFor::** [EVD - designers used examples to shape their understanding of the problem before generating solutions - @herringGettingInspiredUnderstanding2009.md](EVD - designers used examples to shape their understanding of the problem before generating solutions - @herringGettingInspiredUnderstanding2009.md)
-- **SourceFor::** [EVD - designers used examples by re-appropriating and recombining solution components into novel ideas - @herringGettingInspiredUnderstanding2009.md](EVD - designers used examples by re-appropriating and recombining solution components into novel ideas - @herringGettingInspiredUnderstanding2009.md)
-
+- **Informs::** [[QUE - How can we best bridge private vs. public knowledge]]
+- **Informs::** [[QUE - Under what conditions do diverse initial examples lead to better final design solutions]]
+- **Informs::** [[THE - interaction-oriented theory of creative inspiration from examples]]
+- **SourceFor::** [[EVD - designers used examples to shape their understanding of the problem before generating solutions - @herringGettingInspiredUnderstanding2009]]
+- **SourceFor::** [[EVD - designers used examples by re-appropriating and recombining solution components into novel ideas - @herringGettingInspiredUnderstanding2009]]

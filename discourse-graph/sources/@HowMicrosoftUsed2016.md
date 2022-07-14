@@ -14,5 +14,4 @@ date: Sat Jan 30 2021 23:28:09 GMT-0500 (Eastern Standard Time)
 
 ###### Discourse Context
 
-- **Informs::** [QUE - What are the most efficient routes to useful cross-boundary knowledge.md](QUE - What are the most efficient routes to useful cross-boundary knowledge.md)
-
+- **Informs::** [[QUE - What are the most efficient routes to useful cross-boundary knowledge]]

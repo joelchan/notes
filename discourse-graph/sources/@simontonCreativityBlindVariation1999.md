@@ -29,4 +29,4 @@ date: Mon Jan 11 2021 22:04:53 GMT-0500 (Eastern Standard Time)
 
 ###### Discourse Context
 
-- **Informs::** [CLM - Paths to creative breakthroughs are frequently oblique.md](CLM - Paths to creative breakthroughs are frequently oblique.md)
+- **Informs::** [[CLM - Paths to creative breakthroughs are frequently oblique]]

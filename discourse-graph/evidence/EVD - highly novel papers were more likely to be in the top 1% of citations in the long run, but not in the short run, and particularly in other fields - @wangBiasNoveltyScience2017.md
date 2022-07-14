@@ -80,9 +80,8 @@ date: Mon Jul 19 2021 11:27:49 GMT-0400 (Eastern Daylight Time)
 
 ###### Discourse Context
 
-- **Informs::** [QUE - How might domain distance modulate the effects of analogies on creative output.md](QUE - How might domain distance modulate the effects of analogies on creative output.md)
-- **Supports::** [CLM - Analogical distance of inspirations for an idea are positively related to the idea's creativity.md](CLM - Analogical distance of inspirations for an idea are positively related to the idea's creativity.md)
-- **Consistent With::** [EVD - papers with high median conventionality and high tail atypical combinations of journals they ...erage to be in top 5 percent of citation distribution - @uzziAtypicalCombinationsScientific2013.md](EVD - papers with high median conventionality and high tail atypical combinations of journals they ...erage to be in top 5 percent of citation distribution - @uzziAtypicalCombinationsScientific2013.md)
-- **Consistent With::** [EVD - highly novel papers had higher variance in their citation outcomes over a 15-year window, biased towards the higher impact tail of the distribution - @wangBiasNoveltyScience2017.md](EVD - highly novel papers had higher variance in their citation outcomes over a 15-year window, biased towards the higher impact tail of the distribution - @wangBiasNoveltyScience2017.md)
-- **FromSource::** [@wangBiasNoveltyScience2017.md](@wangBiasNoveltyScience2017.md)
-
+- **Informs::** [[QUE - How might domain distance modulate the effects of analogies on creative output]]
+- **Supports::** [[CLM - Analogical distance of inspirations for an idea are positively related to the idea's creativity]]
+- **Consistent With::** [[EVD - papers with high median conventionality and high tail atypical combinations of journals they ...erage to be in top 5 percent of citation distribution - @uzziAtypicalCombinationsScientific2013]]
+- **Consistent With::** [[EVD - highly novel papers had higher variance in their citation outcomes over a 15-year window, biased towards the higher impact tail of the distribution - @wangBiasNoveltyScience2017]]
+- **FromSource::** [[@wangBiasNoveltyScience2017]]

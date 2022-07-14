@@ -36,10 +36,9 @@ date: Fri May 22 2020 11:05:34 GMT-0400 (Eastern Daylight Time)
 
 ###### Discourse Context
 
-- **Informs::** [QUE - Can deep learning discover analogical representations.md](QUE - Can deep learning discover analogical representations.md)
-- **Informed By::** [@luEmergenceAnalogyRelation2019.md](@luEmergenceAnalogyRelation2019.md)
-- **Informed By::** [@chenEvaluatingVectorspaceModels2017.md](@chenEvaluatingVectorspaceModels2017.md)
-- **Informed By::** [@schwartzSymmetricPatternsCoordinations2016.md](@schwartzSymmetricPatternsCoordinations2016.md)
-- **Informed By::** [@gentnerRelationalCategories2005.md](@gentnerRelationalCategories2005.md)
-- **Informed By::** [@linWhyDoesDeep2017.md](@linWhyDoesDeep2017.md)
-
+- **Informs::** [[QUE - Can deep learning discover analogical representations]]
+- **Informed By::** [[@luEmergenceAnalogyRelation2019]]
+- **Informed By::** [[@chenEvaluatingVectorspaceModels2017]]
+- **Informed By::** [[@schwartzSymmetricPatternsCoordinations2016]]
+- **Informed By::** [[@gentnerRelationalCategories2005]]
+- **Informed By::** [[@linWhyDoesDeep2017]]

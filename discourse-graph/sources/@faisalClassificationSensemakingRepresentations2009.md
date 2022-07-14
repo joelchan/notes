@@ -37,7 +37,6 @@ date: Tue Mar 17 2020 12:00:20 GMT-0400 (Eastern Daylight Time)
 
 ###### Discourse Context
 
-- **Informs::** [CLM - Synthesis is creating a new whole out of component parts.md](CLM - Synthesis is creating a new whole out of component parts.md)
-- **Informs::** [CLM - Requirements for sensemaking come from the particulars of the work task.md](CLM - Requirements for sensemaking come from the particulars of the work task.md)
-- **Informs::** [THE - interaction-oriented theory of creative inspiration from examples.md](THE - interaction-oriented theory of creative inspiration from examples.md)
-
+- **Informs::** [[CLM - Synthesis is creating a new whole out of component parts]]
+- **Informs::** [[CLM - Requirements for sensemaking come from the particulars of the work task]]
+- **Informs::** [[THE - interaction-oriented theory of creative inspiration from examples]]

@@ -48,7 +48,6 @@ date: Wed Jul 13 2022 11:32:41 GMT-0400 (Eastern Daylight Time)
 
 ###### Discourse Context
 
-- **Supports::** [CLM - It is possible to benefit from receiving intermediate sensemaking outputs from others, particularly if those outputs have been iterated on.md](CLM - It is possible to benefit from receiving intermediate sensemaking outputs from others, particularly if those outputs have been iterated on.md)
-- **Consistent With::** [EVD - no reliable differences in time and effort when creating a sensemaking map for an everyday to...ting from scratch vs. building on maps from others - @fisherDistributedSensemakingImproving2012.md](EVD - no reliable differences in time and effort when creating a sensemaking map for an everyday to...ting from scratch vs. building on maps from others - @fisherDistributedSensemakingImproving2012.md)
-- **FromSource::** [@fisherDistributedSensemakingImproving2012.md](@fisherDistributedSensemakingImproving2012.md)
-
+- **Supports::** [[CLM - It is possible to benefit from receiving intermediate sensemaking outputs from others, particularly if those outputs have been iterated on]]
+- **Consistent With::** [[EVD - no reliable differences in time and effort when creating a sensemaking map for an everyday to...ting from scratch vs. building on maps from others - @fisherDistributedSensemakingImproving2012]]
+- **FromSource::** [[@fisherDistributedSensemakingImproving2012]]

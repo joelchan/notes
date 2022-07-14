@@ -58,7 +58,6 @@ date: Tue Mar 15 2022 10:55:28 GMT-0400 (Eastern Daylight Time)
 
 ###### Discourse Context
 
-- **Informs::** [THE - interaction-oriented theory of creative inspiration from examples.md](THE - interaction-oriented theory of creative inspiration from examples.md)
-- **Consistent With::** [EVD - higher conceptual flexibility to classify organisms based on taxonomic and ecological relatio...ed in more unstructured interactions with organisms - @betzDevelopmentConceptualFlexibility2020.md](EVD - higher conceptual flexibility to classify organisms based on taxonomic and ecological relatio...ed in more unstructured interactions with organisms - @betzDevelopmentConceptualFlexibility2020.md)
-- **FromSource::** [@denervaudEducationShapesStructure2021.md](@denervaudEducationShapesStructure2021.md)
-
+- **Informs::** [[THE - interaction-oriented theory of creative inspiration from examples]]
+- **Consistent With::** [[EVD - higher conceptual flexibility to classify organisms based on taxonomic and ecological relatio...ed in more unstructured interactions with organisms - @betzDevelopmentConceptualFlexibility2020]]
+- **FromSource::** [[@denervaudEducationShapesStructure2021]]

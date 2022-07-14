@@ -29,13 +29,12 @@ date: Wed Aug 12 2020 16:29:24 GMT-0400 (Eastern Daylight Time)
 
 ###### Discourse Context
 
-- **Informs::** [CLM - Inspiration favors the prepared mind.md](CLM - Inspiration favors the prepared mind.md)
-- **Informs::** [CLM - People are more likely to benefit from analogies if they encounterprocess them with an active goal or license to use them for inspiration.md](CLM - People are more likely to benefit from analogies if they encounterprocess them with an active goal or license to use them for inspiration.md)
-- **Informs::** [QUE - What factors control whether people appropriately benefit from analogies (especially far-field ones) during creative problem solving.md](QUE - What factors control whether people appropriately benefit from analogies (especially far-field ones) during creative problem solving.md)
-- **Informs::** [QUE - What are the mechanisms by which analogies help drive creative breakthroughs.md](QUE - What are the mechanisms by which analogies help drive creative breakthroughs.md)
-- **Informs::** [QUE - How might domain distance modulate the effects of analogies on creative output.md](QUE - How might domain distance modulate the effects of analogies on creative output.md)
-- **SourceFor::** [EVD - Far analogies' effects on MechE students' ideation fluency and diversity were different depen...olving began (during a break), both compared to seeing nothing - @tsengRoleTimingAnalogical2008.md](EVD - Far analogies' effects on MechE students' ideation fluency and diversity were different depen...olving began (during a break), both compared to seeing nothing - @tsengRoleTimingAnalogical2008.md)
-- **SourceFor::** [EVD - Far analogies' effects on MechE students' novelty of ideas were different depending on timing... ideas when seeing them after problem solving began vs. before - @tsengRoleTimingAnalogical2008.md](EVD - Far analogies' effects on MechE students' novelty of ideas were different depending on timing... ideas when seeing them after problem solving began vs. before - @tsengRoleTimingAnalogical2008.md)
-- **SourceFor::** [EVD - In general, MechE students' ideas when given near analogies were at least as novel, and somet...so, then ideas generated with far analogies, or seeing nothing - @tsengRoleTimingAnalogical2008.md](EVD - In general, MechE students' ideas when given near analogies were at least as novel, and somet...so, then ideas generated with far analogies, or seeing nothing - @tsengRoleTimingAnalogical2008.md)
-- **SourceFor::** [EVD - Undergrad MechE students who saw near analogies (clocks) for a time-keeping problem preferred...drip-based) solutions to continuous (e.g., flowfill) solutions - @tsengRoleTimingAnalogical2008.md](EVD - Undergrad MechE students who saw near analogies (clocks) for a time-keeping problem preferred...drip-based) solutions to continuous (e.g., flowfill) solutions - @tsengRoleTimingAnalogical2008.md)
-
+- **Informs::** [[CLM - Inspiration favors the prepared mind]]
+- **Informs::** [[CLM - People are more likely to benefit from analogies if they encounterprocess them with an active goal or license to use them for inspiration]]
+- **Informs::** [[QUE - What factors control whether people appropriately benefit from analogies (especially far-field ones) during creative problem solving]]
+- **Informs::** [[QUE - What are the mechanisms by which analogies help drive creative breakthroughs]]
+- **Informs::** [[QUE - How might domain distance modulate the effects of analogies on creative output]]
+- **SourceFor::** [[EVD - Far analogies' effects on MechE students' ideation fluency and diversity were different depen...olving began (during a break), both compared to seeing nothing - @tsengRoleTimingAnalogical2008]]
+- **SourceFor::** [[EVD - Far analogies' effects on MechE students' novelty of ideas were different depending on timing... ideas when seeing them after problem solving began vs. before - @tsengRoleTimingAnalogical2008]]
+- **SourceFor::** [[EVD - In general, MechE students' ideas when given near analogies were at least as novel, and somet...so, then ideas generated with far analogies, or seeing nothing - @tsengRoleTimingAnalogical2008]]
+- **SourceFor::** [[EVD - Undergrad MechE students who saw near analogies (clocks) for a time-keeping problem preferred...drip-based) solutions to continuous (e.g., flowfill) solutions - @tsengRoleTimingAnalogical2008]]

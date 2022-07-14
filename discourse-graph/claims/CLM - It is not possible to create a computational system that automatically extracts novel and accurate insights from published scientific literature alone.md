@@ -15,5 +15,4 @@ date: Wed May 11 2022 08:43:56 GMT-0400 (Eastern Daylight Time)
 
 ###### Discourse Context
 
-- **Informed By::** [@strasserBusinessExtractingKnowledge2021.md](@strasserBusinessExtractingKnowledge2021.md)
-
+- **Informed By::** [[@strasserBusinessExtractingKnowledge2021]]

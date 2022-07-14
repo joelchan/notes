@@ -14,5 +14,4 @@ date: Mon Jul 19 2021 11:29:14 GMT-0400 (Eastern Daylight Time)
 
 ###### Discourse Context
 
-- **FromSource::** [@wangBiasNoveltyScience2017.md](@wangBiasNoveltyScience2017.md)
-
+- **FromSource::** [[@wangBiasNoveltyScience2017]]

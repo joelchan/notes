@@ -41,7 +41,6 @@ date: Sat Nov 28 2020 16:05:58 GMT-0500 (Eastern Standard Time)
 
 ###### Discourse Context
 
-- **Informs::** [CLM - transformer language models have some analogical reasoning ability.md](CLM - transformer language models have some analogical reasoning ability.md)
-- **Informs::** [QUE - Can deep learning discover analogical representations.md](QUE - Can deep learning discover analogical representations.md)
-- **SourceFor::** [EVD - given one set of objects from a few classic analogies such as solar system  atom, sysGPT-3 wa...rresponding objects on the other side for a few examples - @stayMachinamentaFormingExtended2020.md](EVD - given one set of objects from a few classic analogies such as solar system  atom, sysGPT-3 wa...rresponding objects on the other side for a few examples - @stayMachinamentaFormingExtended2020.md)
-
+- **Informs::** [[CLM - transformer language models have some analogical reasoning ability]]
+- **Informs::** [[QUE - Can deep learning discover analogical representations]]
+- **SourceFor::** [[EVD - given one set of objects from a few classic analogies such as solar system  atom, sysGPT-3 wa...rresponding objects on the other side for a few examples - @stayMachinamentaFormingExtended2020]]

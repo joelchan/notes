@@ -29,8 +29,7 @@ date: Thu Aug 12 2021 23:17:05 GMT-0400 (Eastern Daylight Time)
 
 ###### Discourse Context
 
-- **Informs::** [QUE - Under what conditions do diverse initial examples lead to better final design solutions.md](QUE - Under what conditions do diverse initial examples lead to better final design solutions.md)
-- **Informs::** [THE - interaction-oriented theory of creative inspiration from examples.md](THE - interaction-oriented theory of creative inspiration from examples.md)
-- **SourceFor::** [EVD - undergraduates generated novel word combination noun phrases with more emergent features when noun pairs were dissimilar vs. similar - @wilkenfeldSimilarityEmergenceConceptual2001.md](EVD - undergraduates generated novel word combination noun phrases with more emergent features when noun pairs were dissimilar vs. similar - @wilkenfeldSimilarityEmergenceConceptual2001.md)
-- **SourceFor::** [EVD - undergraduates used more complex integration approaches (vs. property transfer and hybridizat...n phrases from dissimilar vs. similar noun pairs - @wilkenfeldSimilarityEmergenceConceptual2001.md](EVD - undergraduates used more complex integration approaches (vs. property transfer and hybridizat...n phrases from dissimilar vs. similar noun pairs - @wilkenfeldSimilarityEmergenceConceptual2001.md)
-
+- **Informs::** [[QUE - Under what conditions do diverse initial examples lead to better final design solutions]]
+- **Informs::** [[THE - interaction-oriented theory of creative inspiration from examples]]
+- **SourceFor::** [[EVD - undergraduates generated novel word combination noun phrases with more emergent features when noun pairs were dissimilar vs. similar - @wilkenfeldSimilarityEmergenceConceptual2001]]
+- **SourceFor::** [[EVD - undergraduates used more complex integration approaches (vs. property transfer and hybridizat...n phrases from dissimilar vs. similar noun pairs - @wilkenfeldSimilarityEmergenceConceptual2001]]

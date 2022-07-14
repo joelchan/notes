@@ -33,5 +33,4 @@ date: Fri May 22 2020 16:07:37 GMT-0400 (Eastern Daylight Time)
 
 ###### Discourse Context
 
-- **Informs::** [QUE - How can we best bridge private vs. public knowledge.md](QUE - How can we best bridge private vs. public knowledge.md)
-
+- **Informs::** [[QUE - How can we best bridge private vs. public knowledge]]

@@ -11,5 +11,4 @@ date: Fri May 15 2020 14:15:31 GMT-0400 (Eastern Daylight Time)
 
 ###### Discourse Context
 
-- **Informs::** [CLM - Compressing complex ideas into more manageable chunks facilitates more complex thought.md](CLM - Compressing complex ideas into more manageable chunks facilitates more complex thought.md)
-
+- **Informs::** [[CLM - Compressing complex ideas into more manageable chunks facilitates more complex thought]]

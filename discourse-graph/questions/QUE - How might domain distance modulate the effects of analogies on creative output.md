@@ -269,92 +269,91 @@ date: Fri Oct 30 2020 11:32:53 GMT-0400 (Eastern Daylight Time)
 
 ###### Discourse Context
 
-- **Informed By::** [EVD - Undergrad MechE students who saw near analogies (clocks) for a time-keeping problem preferred...drip-based) solutions to continuous (e.g., flowfill) solutions - @tsengRoleTimingAnalogical2008.md](EVD - Undergrad MechE students who saw near analogies (clocks) for a time-keeping problem preferred...drip-based) solutions to continuous (e.g., flowfill) solutions - @tsengRoleTimingAnalogical2008.md)
-- **Informed By::** [EVD - A molecular biologist who had made a major scientific conceptual change did not recall any of the spontaneous analogies used to enact that change - @dunbarHowScientistsThink1997.md](EVD - A molecular biologist who had made a major scientific conceptual change did not recall any of the spontaneous analogies used to enact that change - @dunbarHowScientistsThink1997.md)
-- **Informed By::** [EVD - greater mean and max conceptual distance of cited inspirations was associated with lower prob...cept being shortlisted across 12 social innovation design challenges - @chanBestDesignIdeas2015.md](EVD - greater mean and max conceptual distance of cited inspirations was associated with lower prob...cept being shortlisted across 12 social innovation design challenges - @chanBestDesignIdeas2015.md)
-- **Informed By::** [EVD - Engineering students who were given one or more near analogies as stimuli generated design id...tential customer judges, compared to being given no stimuli - @dahlInfluenceValueAnalogical2002.md](EVD - Engineering students who were given one or more near analogies as stimuli generated design id...tential customer judges, compared to being given no stimuli - @dahlInfluenceValueAnalogical2002.md)
-- **Informed By::** [EVD - a substantial number of IDEO-designed products incorporated technological solutions from other industries - @hargadonTechnologyBrokeringInnovation1997.md](EVD - a substantial number of IDEO-designed products incorporated technological solutions from other industries - @hargadonTechnologyBrokeringInnovation1997.md)
-- **Informed By::** [EVD - no overall effect of analogical distance of cases on novelty or usefulness of campaign ad ideas - @althuizenSupportingCreativeProblem2014.md](EVD - no overall effect of analogical distance of cases on novelty or usefulness of campaign ad ideas - @althuizenSupportingCreativeProblem2014.md)
-- **Informed By::** [EVD - overall marginally significant negative effect of analogically distant cases on creativity of...ideas, mostly for students with high creative ability - @althuizenSupportingCreativeProblem2014.md](EVD - overall marginally significant negative effect of analogically distant cases on creativity of...ideas, mostly for students with high creative ability - @althuizenSupportingCreativeProblem2014.md)
-- **Informed By::** [EVD - In general, MechE students' ideas when given near analogies were at least as novel, and somet...so, then ideas generated with far analogies, or seeing nothing - @tsengRoleTimingAnalogical2008.md](EVD - In general, MechE students' ideas when given near analogies were at least as novel, and somet...so, then ideas generated with far analogies, or seeing nothing - @tsengRoleTimingAnalogical2008.md)
-- **Informed By::** [EVD - Far analogies' effects on MechE students' novelty of ideas were different depending on timing... ideas when seeing them after problem solving began vs. before - @tsengRoleTimingAnalogical2008.md](EVD - Far analogies' effects on MechE students' novelty of ideas were different depending on timing... ideas when seeing them after problem solving began vs. before - @tsengRoleTimingAnalogical2008.md)
-- **Informed By::** [EVD - patents filed by inventors who was new to the patent's field tended to be more novel; this was less true if they collaborated with an expert in the new field - @artsParadiseNoveltyLoss2018a.md](EVD - patents filed by inventors who was new to the patent's field tended to be more novel; this was less true if they collaborated with an expert in the new field - @artsParadiseNoveltyLoss2018a.md)
-- **Informed By::** [EVD - Molecular biologists with a reputation for innovation rarely used very far analogies in their...d mainly on analogies to the same or other biological organisms - @dunbarHowScientistsThink1997.md](EVD - Molecular biologists with a reputation for innovation rarely used very far analogies in their...d mainly on analogies to the same or other biological organisms - @dunbarHowScientistsThink1997.md)
-- **Informed By::** [EVD - Far analogies' effects on MechE students' ideation fluency and diversity were different depen...olving began (during a break), both compared to seeing nothing - @tsengRoleTimingAnalogical2008.md](EVD - Far analogies' effects on MechE students' ideation fluency and diversity were different depen...olving began (during a break), both compared to seeing nothing - @tsengRoleTimingAnalogical2008.md)
-- **Informed By::** [EVD - participants who received computationally selected far analogical stimuli had a lower ceiling...s compared to participants who received near or no analogical stimuli - @fuMeaningFarImpact2013.md](EVD - participants who received computationally selected far analogical stimuli had a lower ceiling...s compared to participants who received near or no analogical stimuli - @fuMeaningFarImpact2013.md)
-- **Informed By::** [EVD - Self-rated technical distance from open innovation contest problems was slightly positively correlated with submitting winning solutions - @jeppesenMarginalityProblemsolvingEffectiveness2010.md](EVD - Self-rated technical distance from open innovation contest problems was slightly positively correlated with submitting winning solutions - @jeppesenMarginalityProblemsolvingEffectiveness2010.md)
-- **Informed By::** [EVD - Far analogies were rare and never used in psychology lab group meetings for reasoning (vs. me... rare in colloquia as well, but were frequently used for reasoning - @sanerAnalogiesOutBlue1999.md](EVD - Far analogies were rare and never used in psychology lab group meetings for reasoning (vs. me... rare in colloquia as well, but were frequently used for reasoning - @sanerAnalogiesOutBlue1999.md)
-- **Informed By::** [EVD - No significant correlation between analogical distance of cross-industry inspirations and deg...tcome (incremental, market or breakthrough, and radical) - @enkelCreativeImitationExploring2010.md](EVD - No significant correlation between analogical distance of cross-industry inspirations and deg...tcome (incremental, market or breakthrough, and radical) - @enkelCreativeImitationExploring2010.md)
-- **Informed By::** [EVD - highly novel papers had higher variance in their citation outcomes over a 15-year window, biased towards the higher impact tail of the distribution - @wangBiasNoveltyScience2017.md](EVD - highly novel papers had higher variance in their citation outcomes over a 15-year window, biased towards the higher impact tail of the distribution - @wangBiasNoveltyScience2017.md)
-- **Informed By::** [EVD - In a design team, concepts tended to be more similar to their immediately preceding concepts after far analogy use compared to using near or no analogies - @chanImpactAnalogiesCreative2015.md](EVD - In a design team, concepts tended to be more similar to their immediately preceding concepts after far analogy use compared to using near or no analogies - @chanImpactAnalogiesCreative2015.md)
-- **Informed By::** [EVD - highly novel papers were more likely to be in the top 1% of citations in the long run, but not in the short run, and particularly in other fields - @wangBiasNoveltyScience2017.md](EVD - highly novel papers were more likely to be in the top 1% of citations in the long run, but not in the short run, and particularly in other fields - @wangBiasNoveltyScience2017.md)
-- **Informed By::** [EVD - patenting teams with a greater number of prior patenting fields were more likely to generate patents that were technological outliers - @kneelandExploringUnchartedTerritory2020.md](EVD - patenting teams with a greater number of prior patenting fields were more likely to generate patents that were technological outliers - @kneelandExploringUnchartedTerritory2020.md)
-- **Informed By::** [EVD - designs that were measured during an ideation session to have come from a higher percentage o... as more original and valuable by potential customer judges - @dahlInfluenceValueAnalogical2002.md](EVD - designs that were measured during an ideation session to have come from a higher percentage o... as more original and valuable by potential customer judges - @dahlInfluenceValueAnalogical2002.md)
-- **Informed By::** [EVD - patents filed by inventors who was new to the patent's field tended to receive slightly fewer..., except when they collaborated with an expert in the new field - @artsParadiseNoveltyLoss2018a.md](EVD - patents filed by inventors who was new to the patent's field tended to receive slightly fewer..., except when they collaborated with an expert in the new field - @artsParadiseNoveltyLoss2018a.md)
-- **Informed By::** [EVD - papers with high median conventionality and high tail atypical combinations of journals they ...erage to be in top 5 percent of citation distribution - @uzziAtypicalCombinationsScientific2013.md](EVD - papers with high median conventionality and high tail atypical combinations of journals they ...erage to be in top 5 percent of citation distribution - @uzziAtypicalCombinationsScientific2013.md)
-- **Informed By::** [CLM - There is a 'Sweet Spot' in Analogical Distance. Somewhat far analogies lead to better creative outcomes than very near or very far analogies.md](CLM - There is a 'Sweet Spot' in Analogical Distance. Somewhat far analogies lead to better creative outcomes than very near or very far analogies.md)
-- **Informed By::** [CLM - Analogical distance of inspirations for an idea are positively related to the idea's creativity.md](CLM - Analogical distance of inspirations for an idea are positively related to the idea's creativity.md)
-- **Informed By::** [@dunbarHowScientistsThink1997.md](@dunbarHowScientistsThink1997.md)
-- **Informed By::** [@catramboneEffectsSurfaceStructural2002.md](@catramboneEffectsSurfaceStructural2002.md)
-- **Informed By::** [@okadaAnalogicalModificationCreation2009.md](@okadaAnalogicalModificationCreation2009.md)
-- **Informed By::** [@wangBiasNoveltyScience2017.md](@wangBiasNoveltyScience2017.md)
-- **Informed By::** [@tiwariDevelopingFrugalInnovations2017.md](@tiwariDevelopingFrugalInnovations2017.md)
-- **Informed By::** [@pozeAnalogicalConnectionsEssence1983.md](@pozeAnalogicalConnectionsEssence1983.md)
-- **Informed By::** [@dahlInfluenceValueAnalogical2002.md](@dahlInfluenceValueAnalogical2002.md)
-- **Informed By::** [@althuizenSupportingCreativeProblem2014.md](@althuizenSupportingCreativeProblem2014.md)
-- **Informed By::** [@hargadonTechnologyBrokeringInnovation1997.md](@hargadonTechnologyBrokeringInnovation1997.md)
-- **Informed By::** [@kneelandExploringUnchartedTerritory2020.md](@kneelandExploringUnchartedTerritory2020.md)
-- **Informed By::** [@fuMeaningFarImpact2013.md](@fuMeaningFarImpact2013.md)
-- **Informed By::** [@goncalvesInspirationPeakExploring2013.md](@goncalvesInspirationPeakExploring2013.md)
-- **Informed By::** [@holyoakMentalLeapsAnalogy1996.md](@holyoakMentalLeapsAnalogy1996.md)
-- **Informed By::** [@binghamProcessSchemaEmergence2012.md](@binghamProcessSchemaEmergence2012.md)
-- **Informed By::** [@chanBenefitsPitfallsAnalogies2011.md](@chanBenefitsPitfallsAnalogies2011.md)
-- **Informed By::** [@rothenbergCreativeCognitiveProcesses1995.md](@rothenbergCreativeCognitiveProcesses1995.md)
-- **Informed By::** [@chanBestDesignIdeas2015.md](@chanBestDesignIdeas2015.md)
-- **Informed By::** [@caoDifferencesBeginningAdvanced2018.md](@caoDifferencesBeginningAdvanced2018.md)
-- **Informed By::** [@chaiBehavioralAnalysisAnalogical2014.md](@chaiBehavioralAnalysisAnalogical2014.md)
-- **Informed By::** [@kretzExpertAnalogyUse2014.md](@kretzExpertAnalogyUse2014.md)
-- **Informed By::** [@gentnerStructureMappingAnalogy1997.md](@gentnerStructureMappingAnalogy1997.md)
-- **Informed By::** [@uzziAtypicalCombinationsScientific2013.md](@uzziAtypicalCombinationsScientific2013.md)
-- **Informed By::** [@gickSchemaInductionAnalogical1983.md](@gickSchemaInductionAnalogical1983.md)
-- **Informed By::** [@kalogerakisDevelopingInnovationsBased2010.md](@kalogerakisDevelopingInnovationsBased2010.md)
-- **Informed By::** [@artsParadiseNoveltyLoss2018a.md](@artsParadiseNoveltyLoss2018a.md)
-- **Informed By::** [@chanAnalogyStrategySupporting2012.md](@chanAnalogyStrategySupporting2012.md)
-- **Informed By::** [@enkelCreativeImitationExploring2010.md](@enkelCreativeImitationExploring2010.md)
-- **Informed By::** [@ozkanCognitiveStrategiesAnalogical2013.md](@ozkanCognitiveStrategiesAnalogical2013.md)
-- **Informed By::** [@jeppesenMarginalityProblemsolvingEffectiveness2010.md](@jeppesenMarginalityProblemsolvingEffectiveness2010.md)
-- **Informed By::** [@bearmanExplorationRealWorldAnalogical2002.md](@bearmanExplorationRealWorldAnalogical2002.md)
-- **Informed By::** [@bonnardelEvocationProcessesNovice2004.md](@bonnardelEvocationProcessesNovice2004.md)
-- **Informed By::** [@perkinsNovelRemoteAnalogies1983.md](@perkinsNovelRemoteAnalogies1983.md)
-- **Informed By::** [@nersessianHybridAnalogiesConceptual2009.md](@nersessianHybridAnalogiesConceptual2009.md)
-- **Informed By::** [@sanerAnalogiesOutBlue1999.md](@sanerAnalogiesOutBlue1999.md)
-- **Informed By::** [@swearingenIdeaThatStuck2016.md](@swearingenIdeaThatStuck2016.md)
-- **Informed By::** [@scotneyUbiquityCrossDomainThinking2019.md](@scotneyUbiquityCrossDomainThinking2019.md)
-- **Informed By::** [@leclercqAnalogiesHour2002.md](@leclercqAnalogiesHour2002.md)
-- **Informed By::** [@gickAnalogicalProblemSolving1980.md](@gickAnalogicalProblemSolving1980.md)
-- **Informed By::** [@yuEncouragingOutsideBox2016a.md](@yuEncouragingOutsideBox2016a.md)
-- **Informed By::** [@tsengRoleTimingAnalogical2008.md](@tsengRoleTimingAnalogical2008.md)
-- **Informed By::** [@karhuHowAmbidextrousTeams2016.md](@karhuHowAmbidextrousTeams2016.md)
-- **Informed By::** [@toreyarginUserRequirementsAnalogical.md](@toreyarginUserRequirementsAnalogical.md)
-- **Informed By::** [@wilsonEffectsBiologicalExamples2010.md](@wilsonEffectsBiologicalExamples2010.md)
-- **Informed By::** [@heyAnalogiesMetaphorsCreative2008.md](@heyAnalogiesMetaphorsCreative2008.md)
-- **Informed By::** [@chiuInvestigatingEffectsOppositely2012.md](@chiuInvestigatingEffectsOppositely2012.md)
-- **Informed By::** [@wang2019wikipedia.md](@wang2019wikipedia.md)
-- **Informed By::** [@yuDistributedAnalogicalIdea2016.md](@yuDistributedAnalogicalIdea2016.md)
-- **Informed By::** [@chanImpactAnalogiesCreative2015.md](@chanImpactAnalogiesCreative2015.md)
-- **Informed By::** [@vanlehnAnalogyEventsHow1998.md](@vanlehnAnalogyEventsHow1998.md)
-- **Informed By::** [@ahmedSituStudyAnalogical2009.md](@ahmedSituStudyAnalogical2009.md)
-- **Informed By::** [@ngoIdentifyingTrendsAnalogy2014.md](@ngoIdentifyingTrendsAnalogy2014.md)
-- **Informed By::** [@malagaEffectStimulusModes2000.md](@malagaEffectStimulusModes2000.md)
-- **Informed By::** [@catramboneOvercomingContextualLimitations1989.md](@catramboneOvercomingContextualLimitations1989.md)
-- **Informed By::** [@ballSpontaneousAnalogisingEngineering2004.md](@ballSpontaneousAnalogisingEngineering2004.md)
-- **Informed By::** [@helmsCompoundAnalogicalDesign2008.md](@helmsCompoundAnalogicalDesign2008.md)
-- **Informed By::** [@bergPrimalMarkHow2014.md](@bergPrimalMarkHow2014.md)
-- **Informed By::** [@sioFixationInspirationMetaanalytic2015.md](@sioFixationInspirationMetaanalytic2015.md)
-- **Informed By::** [@henderExaminationImpactStimuli2002.md](@henderExaminationImpactStimuli2002.md)
-- **Informed By::** [@clementObservedMethodsGenerating1988.md](@clementObservedMethodsGenerating1988.md)
-- **Informed By::** [@christensenRelationshipAnalogicalDistance2007.md](@christensenRelationshipAnalogicalDistance2007.md)
-- **Informed By::** [@wardAnalogicalDistancePurpose1998.md](@wardAnalogicalDistancePurpose1998.md)
-- **Informed By::** [@gassmannOpeningSolutionSpace2008.md](@gassmannOpeningSolutionSpace2008.md)
-- **Informed By::** [@gilonAnalogyMiningSpecific2018.md](@gilonAnalogyMiningSpecific2018.md)
-
+- **Informed By::** [[EVD - Undergrad MechE students who saw near analogies (clocks) for a time-keeping problem preferred...drip-based) solutions to continuous (e.g., flowfill) solutions - @tsengRoleTimingAnalogical2008]]
+- **Informed By::** [[EVD - A molecular biologist who had made a major scientific conceptual change did not recall any of the spontaneous analogies used to enact that change - @dunbarHowScientistsThink1997]]
+- **Informed By::** [[EVD - greater mean and max conceptual distance of cited inspirations was associated with lower prob...cept being shortlisted across 12 social innovation design challenges - @chanBestDesignIdeas2015]]
+- **Informed By::** [[EVD - Engineering students who were given one or more near analogies as stimuli generated design id...tential customer judges, compared to being given no stimuli - @dahlInfluenceValueAnalogical2002]]
+- **Informed By::** [[EVD - a substantial number of IDEO-designed products incorporated technological solutions from other industries - @hargadonTechnologyBrokeringInnovation1997]]
+- **Informed By::** [[EVD - no overall effect of analogical distance of cases on novelty or usefulness of campaign ad ideas - @althuizenSupportingCreativeProblem2014]]
+- **Informed By::** [[EVD - overall marginally significant negative effect of analogically distant cases on creativity of...ideas, mostly for students with high creative ability - @althuizenSupportingCreativeProblem2014]]
+- **Informed By::** [[EVD - In general, MechE students' ideas when given near analogies were at least as novel, and somet...so, then ideas generated with far analogies, or seeing nothing - @tsengRoleTimingAnalogical2008]]
+- **Informed By::** [[EVD - Far analogies' effects on MechE students' novelty of ideas were different depending on timing... ideas when seeing them after problem solving began vs. before - @tsengRoleTimingAnalogical2008]]
+- **Informed By::** [[EVD - patents filed by inventors who was new to the patent's field tended to be more novel; this was less true if they collaborated with an expert in the new field - @artsParadiseNoveltyLoss2018a]]
+- **Informed By::** [[EVD - Molecular biologists with a reputation for innovation rarely used very far analogies in their...d mainly on analogies to the same or other biological organisms - @dunbarHowScientistsThink1997]]
+- **Informed By::** [[EVD - Far analogies' effects on MechE students' ideation fluency and diversity were different depen...olving began (during a break), both compared to seeing nothing - @tsengRoleTimingAnalogical2008]]
+- **Informed By::** [[EVD - participants who received computationally selected far analogical stimuli had a lower ceiling...s compared to participants who received near or no analogical stimuli - @fuMeaningFarImpact2013]]
+- **Informed By::** [[EVD - Self-rated technical distance from open innovation contest problems was slightly positively correlated with submitting winning solutions - @jeppesenMarginalityProblemsolvingEffectiveness2010]]
+- **Informed By::** [[EVD - Far analogies were rare and never used in psychology lab group meetings for reasoning (vs. me... rare in colloquia as well, but were frequently used for reasoning - @sanerAnalogiesOutBlue1999]]
+- **Informed By::** [[EVD - No significant correlation between analogical distance of cross-industry inspirations and deg...tcome (incremental, market or breakthrough, and radical) - @enkelCreativeImitationExploring2010]]
+- **Informed By::** [[EVD - highly novel papers had higher variance in their citation outcomes over a 15-year window, biased towards the higher impact tail of the distribution - @wangBiasNoveltyScience2017]]
+- **Informed By::** [[EVD - In a design team, concepts tended to be more similar to their immediately preceding concepts after far analogy use compared to using near or no analogies - @chanImpactAnalogiesCreative2015]]
+- **Informed By::** [[EVD - highly novel papers were more likely to be in the top 1% of citations in the long run, but not in the short run, and particularly in other fields - @wangBiasNoveltyScience2017]]
+- **Informed By::** [[EVD - patenting teams with a greater number of prior patenting fields were more likely to generate patents that were technological outliers - @kneelandExploringUnchartedTerritory2020]]
+- **Informed By::** [[EVD - designs that were measured during an ideation session to have come from a higher percentage o... as more original and valuable by potential customer judges - @dahlInfluenceValueAnalogical2002]]
+- **Informed By::** [[EVD - patents filed by inventors who was new to the patent's field tended to receive slightly fewer..., except when they collaborated with an expert in the new field - @artsParadiseNoveltyLoss2018a]]
+- **Informed By::** [[EVD - papers with high median conventionality and high tail atypical combinations of journals they ...erage to be in top 5 percent of citation distribution - @uzziAtypicalCombinationsScientific2013]]
+- **Informed By::** [[CLM - There is a 'Sweet Spot' in Analogical Distance. Somewhat far analogies lead to better creative outcomes than very near or very far analogies]]
+- **Informed By::** [[CLM - Analogical distance of inspirations for an idea are positively related to the idea's creativity]]
+- **Informed By::** [[@dunbarHowScientistsThink1997]]
+- **Informed By::** [[@catramboneEffectsSurfaceStructural2002]]
+- **Informed By::** [[@okadaAnalogicalModificationCreation2009]]
+- **Informed By::** [[@wangBiasNoveltyScience2017]]
+- **Informed By::** [[@tiwariDevelopingFrugalInnovations2017]]
+- **Informed By::** [[@pozeAnalogicalConnectionsEssence1983]]
+- **Informed By::** [[@dahlInfluenceValueAnalogical2002]]
+- **Informed By::** [[@althuizenSupportingCreativeProblem2014]]
+- **Informed By::** [[@hargadonTechnologyBrokeringInnovation1997]]
+- **Informed By::** [[@kneelandExploringUnchartedTerritory2020]]
+- **Informed By::** [[@fuMeaningFarImpact2013]]
+- **Informed By::** [[@goncalvesInspirationPeakExploring2013]]
+- **Informed By::** [[@holyoakMentalLeapsAnalogy1996]]
+- **Informed By::** [[@binghamProcessSchemaEmergence2012]]
+- **Informed By::** [[@chanBenefitsPitfallsAnalogies2011]]
+- **Informed By::** [[@rothenbergCreativeCognitiveProcesses1995]]
+- **Informed By::** [[@chanBestDesignIdeas2015]]
+- **Informed By::** [[@caoDifferencesBeginningAdvanced2018]]
+- **Informed By::** [[@chaiBehavioralAnalysisAnalogical2014]]
+- **Informed By::** [[@kretzExpertAnalogyUse2014]]
+- **Informed By::** [[@gentnerStructureMappingAnalogy1997]]
+- **Informed By::** [[@uzziAtypicalCombinationsScientific2013]]
+- **Informed By::** [[@gickSchemaInductionAnalogical1983]]
+- **Informed By::** [[@kalogerakisDevelopingInnovationsBased2010]]
+- **Informed By::** [[@artsParadiseNoveltyLoss2018a]]
+- **Informed By::** [[@chanAnalogyStrategySupporting2012]]
+- **Informed By::** [[@enkelCreativeImitationExploring2010]]
+- **Informed By::** [[@ozkanCognitiveStrategiesAnalogical2013]]
+- **Informed By::** [[@jeppesenMarginalityProblemsolvingEffectiveness2010]]
+- **Informed By::** [[@bearmanExplorationRealWorldAnalogical2002]]
+- **Informed By::** [[@bonnardelEvocationProcessesNovice2004]]
+- **Informed By::** [[@perkinsNovelRemoteAnalogies1983]]
+- **Informed By::** [[@nersessianHybridAnalogiesConceptual2009]]
+- **Informed By::** [[@sanerAnalogiesOutBlue1999]]
+- **Informed By::** [[@swearingenIdeaThatStuck2016]]
+- **Informed By::** [[@scotneyUbiquityCrossDomainThinking2019]]
+- **Informed By::** [[@leclercqAnalogiesHour2002]]
+- **Informed By::** [[@gickAnalogicalProblemSolving1980]]
+- **Informed By::** [[@yuEncouragingOutsideBox2016a]]
+- **Informed By::** [[@tsengRoleTimingAnalogical2008]]
+- **Informed By::** [[@karhuHowAmbidextrousTeams2016]]
+- **Informed By::** [[@toreyarginUserRequirementsAnalogical]]
+- **Informed By::** [[@wilsonEffectsBiologicalExamples2010]]
+- **Informed By::** [[@heyAnalogiesMetaphorsCreative2008]]
+- **Informed By::** [[@chiuInvestigatingEffectsOppositely2012]]
+- **Informed By::** [[@wang2019wikipedia]]
+- **Informed By::** [[@yuDistributedAnalogicalIdea2016]]
+- **Informed By::** [[@chanImpactAnalogiesCreative2015]]
+- **Informed By::** [[@vanlehnAnalogyEventsHow1998]]
+- **Informed By::** [[@ahmedSituStudyAnalogical2009]]
+- **Informed By::** [[@ngoIdentifyingTrendsAnalogy2014]]
+- **Informed By::** [[@malagaEffectStimulusModes2000]]
+- **Informed By::** [[@catramboneOvercomingContextualLimitations1989]]
+- **Informed By::** [[@ballSpontaneousAnalogisingEngineering2004]]
+- **Informed By::** [[@helmsCompoundAnalogicalDesign2008]]
+- **Informed By::** [[@bergPrimalMarkHow2014]]
+- **Informed By::** [[@sioFixationInspirationMetaanalytic2015]]
+- **Informed By::** [[@henderExaminationImpactStimuli2002]]
+- **Informed By::** [[@clementObservedMethodsGenerating1988]]
+- **Informed By::** [[@christensenRelationshipAnalogicalDistance2007]]
+- **Informed By::** [[@wardAnalogicalDistancePurpose1998]]
+- **Informed By::** [[@gassmannOpeningSolutionSpace2008]]
+- **Informed By::** [[@gilonAnalogyMiningSpecific2018]]

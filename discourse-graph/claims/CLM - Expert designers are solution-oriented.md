@@ -37,11 +37,10 @@ date: Thu Aug 20 2020 02:13:19 GMT-0400 (Eastern Daylight Time)
 
 ###### Discourse Context
 
-- **Informs::** [QUE - What are some major phenomena around designers' exploration of design spaces and how might these map to characteristics of optimizers.md](QUE - What are some major phenomena around designers' exploration of design spaces and how might these map to characteristics of optimizers.md)
-- **Supported By::** [EVD - science students made more planning errors and fewer structural errors on a spatial block des... fewer planning errors and more structural errors - @lawsonCognitiveStrategiesArchitectural1979.md](EVD - science students made more planning errors and fewer structural errors on a spatial block des... fewer planning errors and more structural errors - @lawsonCognitiveStrategiesArchitectural1979.md)
-- **Informed By::** [@crossExpertiseDesignOverview2004.md](@crossExpertiseDesignOverview2004.md)
-- **Informed By::** [@lawsonCognitiveStrategiesArchitectural1979.md](@lawsonCognitiveStrategiesArchitectural1979.md)
-- **Informed By::** [@fjaellegaardDesignersDeterminantsDesign2019.md](@fjaellegaardDesignersDeterminantsDesign2019.md)
-- **Informed By::** [@crossDesignerlyWaysKnowing1982.md](@crossDesignerlyWaysKnowing1982.md)
-- **Informed By::** [@crossDesignerlyWaysKnowing2001.md](@crossDesignerlyWaysKnowing2001.md)
-
+- **Informs::** [[QUE - What are some major phenomena around designers' exploration of design spaces and how might these map to characteristics of optimizers]]
+- **Supported By::** [[EVD - science students made more planning errors and fewer structural errors on a spatial block des... fewer planning errors and more structural errors - @lawsonCognitiveStrategiesArchitectural1979]]
+- **Informed By::** [[@crossExpertiseDesignOverview2004]]
+- **Informed By::** [[@lawsonCognitiveStrategiesArchitectural1979]]
+- **Informed By::** [[@fjaellegaardDesignersDeterminantsDesign2019]]
+- **Informed By::** [[@crossDesignerlyWaysKnowing1982]]
+- **Informed By::** [[@crossDesignerlyWaysKnowing2001]]

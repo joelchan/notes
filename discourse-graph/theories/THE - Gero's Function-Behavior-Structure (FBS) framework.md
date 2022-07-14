@@ -11,6 +11,5 @@ date: Tue Jan 04 2022 11:57:58 GMT-0500 (Eastern Standard Time)
 
 ###### Discourse Context
 
-- **Informed By::** [@geroSituatedFunctionbehaviourstructureFramework2004.md](@geroSituatedFunctionbehaviourstructureFramework2004.md)
-- **Informed By::** [@geroDesignPrototypesKnowledge1990.md](@geroDesignPrototypesKnowledge1990.md)
-
+- **Informed By::** [[@geroSituatedFunctionbehaviourstructureFramework2004]]
+- **Informed By::** [[@geroDesignPrototypesKnowledge1990]]

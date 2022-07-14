@@ -33,4 +33,4 @@ date: Sat Jun 26 2021 09:48:17 GMT-0400 (Eastern Daylight Time)
 
 ###### Discourse Context
 
-- **FromSource::** [@frauenbergerDesigningSmartObjects2016a.md](@frauenbergerDesigningSmartObjects2016a.md)
+- **FromSource::** [[@frauenbergerDesigningSmartObjects2016a]]

@@ -29,8 +29,7 @@ date: Fri May 14 2021 11:27:44 GMT-0400 (Eastern Daylight Time)
 
 ###### Discourse Context
 
-- **Informs::** [QUE - What tension points exist between the goals of diversity and depth of user participation in participatory design.md](QUE - What tension points exist between the goals of diversity and depth of user participation in participatory design.md)
-- **SourceFor::** [EVD - Older adults responded well to the use of video prompts to frame discussion about invisible future technologies - @lindsayEngagingOlderPeople2012b.md](EVD - Older adults responded well to the use of video prompts to frame discussion about invisible future technologies - @lindsayEngagingOlderPeople2012b.md)
-- **SourceFor::** [EVD - Older adults found it difficult to engage productively with a design topic around personal security, despite engaging productively with two other topics - @lindsayEngagingOlderPeople2012b.md](EVD - Older adults found it difficult to engage productively with a design topic around personal security, despite engaging productively with two other topics - @lindsayEngagingOlderPeople2012b.md)
-- **SourceFor::** [EVD - in exploratory sessions, older adults struggled to stay on the task of talking about abstract...ering into describing their own personal experiences instead - @lindsayEngagingOlderPeople2012b.md](EVD - in exploratory sessions, older adults struggled to stay on the task of talking about abstract...ering into describing their own personal experiences instead - @lindsayEngagingOlderPeople2012b.md)
-
+- **Informs::** [[QUE - What tension points exist between the goals of diversity and depth of user participation in participatory design]]
+- **SourceFor::** [[EVD - Older adults responded well to the use of video prompts to frame discussion about invisible future technologies - @lindsayEngagingOlderPeople2012b]]
+- **SourceFor::** [[EVD - Older adults found it difficult to engage productively with a design topic around personal security, despite engaging productively with two other topics - @lindsayEngagingOlderPeople2012b]]
+- **SourceFor::** [[EVD - in exploratory sessions, older adults struggled to stay on the task of talking about abstract...ering into describing their own personal experiences instead - @lindsayEngagingOlderPeople2012b]]

@@ -63,14 +63,13 @@ date: Sun Mar 01 2020 21:53:43 GMT-0500 (Eastern Standard Time)
 
 ###### Discourse Context
 
-- **Informed By::** [@bengioTimeRethinkPublication2020.md](@bengioTimeRethinkPublication2020.md)
-- **Informed By::** [@dedeoWhenScienceGame2020.md](@dedeoWhenScienceGame2020.md)
-- **Informed By::** [@heesen2018reward.md](@heesen2018reward.md)
-- **Informed By::** [@britzAIResearchReplicability2020.md](@britzAIResearchReplicability2020.md)
-- **Informed By::** [@wangBiasNoveltyScience2017.md](@wangBiasNoveltyScience2017.md)
-- **Informed By::** [@fortnowViewpointTimeComputer2009.md](@fortnowViewpointTimeComputer2009.md)
-- **Informed By::** [@johnMeasuringPrevalenceQuestionable2012.md](@johnMeasuringPrevalenceQuestionable2012.md)
-- **Informed By::** [@everettTragedyAcademicCommons2015.md](@everettTragedyAcademicCommons2015.md)
-- **Informed By::** [@smaldinoNaturalSelectionBad2016.md](@smaldinoNaturalSelectionBad2016.md)
-- **Informed By::** [@nosekScientificUtopiaII2012.md](@nosekScientificUtopiaII2012.md)
-
+- **Informed By::** [[@bengioTimeRethinkPublication2020]]
+- **Informed By::** [[@dedeoWhenScienceGame2020]]
+- **Informed By::** [[@heesen2018reward]]
+- **Informed By::** [[@britzAIResearchReplicability2020]]
+- **Informed By::** [[@wangBiasNoveltyScience2017]]
+- **Informed By::** [[@fortnowViewpointTimeComputer2009]]
+- **Informed By::** [[@johnMeasuringPrevalenceQuestionable2012]]
+- **Informed By::** [[@everettTragedyAcademicCommons2015]]
+- **Informed By::** [[@smaldinoNaturalSelectionBad2016]]
+- **Informed By::** [[@nosekScientificUtopiaII2012]]

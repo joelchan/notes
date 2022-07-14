@@ -45,8 +45,7 @@ date: Thu Oct 15 2020 20:25:29 GMT-0400 (Eastern Daylight Time)
 
 ###### Discourse Context
 
-- **Informed By::** [@chanSOLVENTMixedInitiative2018.md](@chanSOLVENTMixedInitiative2018.md)
-- **Informed By::** [@gilonAnalogyMiningSpecific2018.md](@gilonAnalogyMiningSpecific2018.md)
-- **Informed By::** [@zhuContingencyViewTransferring2016.md](@zhuContingencyViewTransferring2016.md)
-- **Informed By::** [@yuDistributedAnalogicalIdea2016.md](@yuDistributedAnalogicalIdea2016.md)
-
+- **Informed By::** [[@chanSOLVENTMixedInitiative2018]]
+- **Informed By::** [[@gilonAnalogyMiningSpecific2018]]
+- **Informed By::** [[@zhuContingencyViewTransferring2016]]
+- **Informed By::** [[@yuDistributedAnalogicalIdea2016]]

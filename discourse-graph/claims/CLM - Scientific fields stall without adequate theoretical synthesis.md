@@ -29,9 +29,8 @@ date: Thu May 28 2020 21:43:26 GMT-0400 (Eastern Daylight Time)
 
 ###### Discourse Context
 
-- **Informed By::** [@alvessonGeneratingResearchQuestions2011.md](@alvessonGeneratingResearchQuestions2011.md)
-- **Informed By::** [@gruberDarwinManPsychological1974.md](@gruberDarwinManPsychological1974.md)
-- **Informed By::** [@jollyFlatlandFallacyMoving2019.md](@jollyFlatlandFallacyMoving2019.md)
-- **Informed By::** [@newellYouCanPlay1973.md](@newellYouCanPlay1973.md)
-- **Informed By::** [@vanrooijTheoryTestHow2020.md](@vanrooijTheoryTestHow2020.md)
-
+- **Informed By::** [[@alvessonGeneratingResearchQuestions2011]]
+- **Informed By::** [[@gruberDarwinManPsychological1974]]
+- **Informed By::** [[@jollyFlatlandFallacyMoving2019]]
+- **Informed By::** [[@newellYouCanPlay1973]]
+- **Informed By::** [[@vanrooijTheoryTestHow2020]]

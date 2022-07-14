@@ -35,10 +35,9 @@ date: Fri Sep 18 2020 13:05:28 GMT-0400 (Eastern Daylight Time)
 
 ###### Discourse Context
 
-- **Informed By::** [CLM - There is a 'Sweet Spot' in Analogical Distance. Somewhat far analogies lead to better creative outcomes than very near or very far analogies.md](CLM - There is a 'Sweet Spot' in Analogical Distance. Somewhat far analogies lead to better creative outcomes than very near or very far analogies.md)
-- **Informed By::** [CLM - A significant proportion of the benefits of analogical stimuli is oblique or indirect.md](CLM - A significant proportion of the benefits of analogical stimuli is oblique or indirect.md)
-- **Informed By::** [@gickSchemaInductionAnalogical1983.md](@gickSchemaInductionAnalogical1983.md)
-- **Informed By::** [@gickAnalogicalProblemSolving1980.md](@gickAnalogicalProblemSolving1980.md)
-- **Informed By::** [@tsengRoleTimingAnalogical2008.md](@tsengRoleTimingAnalogical2008.md)
-- **Informed By::** [@helmsCompoundAnalogicalDesign2008.md](@helmsCompoundAnalogicalDesign2008.md)
-
+- **Informed By::** [[CLM - There is a 'Sweet Spot' in Analogical Distance. Somewhat far analogies lead to better creative outcomes than very near or very far analogies]]
+- **Informed By::** [[CLM - A significant proportion of the benefits of analogical stimuli is oblique or indirect]]
+- **Informed By::** [[@gickSchemaInductionAnalogical1983]]
+- **Informed By::** [[@gickAnalogicalProblemSolving1980]]
+- **Informed By::** [[@tsengRoleTimingAnalogical2008]]
+- **Informed By::** [[@helmsCompoundAnalogicalDesign2008]]

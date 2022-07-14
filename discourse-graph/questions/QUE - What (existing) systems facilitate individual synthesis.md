@@ -135,37 +135,36 @@ date: Tue Sep 07 2021 10:43:47 GMT-0400 (Eastern Daylight Time)
 
 ###### Discourse Context
 
-- **Informed By::** [EVD - Four positivist epistemological models from philosophy of science, including Popper, emphasiz... statements as a core component of scientific knowledge - @harsDesigningScientificKnowledge2001.md](EVD - Four positivist epistemological models from philosophy of science, including Popper, emphasiz... statements as a core component of scientific knowledge - @harsDesigningScientificKnowledge2001.md)
-- **Informed By::** [EVD - Scientists more often nonlinearly read subsections of papers for findings, hypotheses or othe...ion, rather than linearly reading whole documents - @ribaupierreExtractingDiscourseElements2017.md](EVD - Scientists more often nonlinearly read subsections of papers for findings, hypotheses or othe...ion, rather than linearly reading whole documents - @ribaupierreExtractingDiscourseElements2017.md)
-- **Informed By::** [EVD - Almost half of the pages in Darwin's notebooks were excised - @herbertRedNotebookCharles1980.md](EVD - Almost half of the pages in Darwin's notebooks were excised - @herbertRedNotebookCharles1980.md)
-- **Informed By::** [CLM - Scholars repurpose qualitative data analysis software to facilitate synthesis.md](CLM - Scholars repurpose qualitative data analysis software to facilitate synthesis.md)
-- **Informed By::** [CLM - A synthesis system needs to support manipulation of scholarly claims.md](CLM - A synthesis system needs to support manipulation of scholarly claims.md)
-- **Informed By::** [CLM - Synthesis is sensemaking on hard mode.md](CLM - Synthesis is sensemaking on hard mode.md)
-- **Informed By::** [CLM - Scholarly argumentation operates on atomic statements and concepts as fundamental units.md](CLM - Scholarly argumentation operates on atomic statements and concepts as fundamental units.md)
-- **Informed By::** [CLM - A synthesis system needs to operate on a unit of analysis that is more granular than a publication.md](CLM - A synthesis system needs to operate on a unit of analysis that is more granular than a publication.md)
-- **Informed By::** [CLM - Contextualizability is necessary for synthesis.md](CLM - Contextualizability is necessary for synthesis.md)
-- **Informed By::** [CLM - Scientists read strategically, not linearly.md](CLM - Scientists read strategically, not linearly.md)
-- **Informed By::** [CLM - PTN - incremental formalization can mitigate risks of formalism in interactive systems.md](CLM - PTN - incremental formalization can mitigate risks of formalism in interactive systems.md)
-- **Informed By::** [CLM - Knowledge must be recontextualized to be usefully reused.md](CLM - Knowledge must be recontextualized to be usefully reused.md)
-- **Informed By::** [CLM - Scholars constantly need to reread during a literature review.md](CLM - Scholars constantly need to reread during a literature review.md)
-- **Informed By::** [CLM - Effective individual synthesis systems (seem to mostly) exist (for a select few).md](CLM - Effective individual synthesis systems (seem to mostly) exist (for a select few).md)
-- **Informed By::** [@morabitoManagingContextScholarly2021.md](@morabitoManagingContextScholarly2021.md)
-- **Informed By::** [@ribaupierreExtractingDiscourseElements2017.md](@ribaupierreExtractingDiscourseElements2017.md)
-- **Informed By::** [@blakeCollaborativeInformationSynthesis2006.md](@blakeCollaborativeInformationSynthesis2006.md)
-- **Informed By::** [@blakeCollaborativeInformationSynthesis2006a.md](@blakeCollaborativeInformationSynthesis2006a.md)
-- **Informed By::** [@mccrickardMakingClaimsKnowledge2012.md](@mccrickardMakingClaimsKnowledge2012.md)
-- **Informed By::** [@qianOpeningBlackBox2020.md](@qianOpeningBlackBox2020.md)
-- **Informed By::** [@liddoContestedCollectiveIntelligence2012.md](@liddoContestedCollectiveIntelligence2012.md)
-- **Informed By::** [@oharaStudentReadersUse1998.md](@oharaStudentReadersUse1998.md)
-- **Informed By::** [@gruberDarwinManPsychological1974.md](@gruberDarwinManPsychological1974.md)
-- **Informed By::** [@urenSensemakingToolsUnderstanding2006.md](@urenSensemakingToolsUnderstanding2006.md)
-- **Informed By::** [@russellBeingLiterateLarge2006.md](@russellBeingLiterateLarge2006.md)
-- **Informed By::** [@pirolliSensemakingProcessLeverage2005.md](@pirolliSensemakingProcessLeverage2005.md)
-- **Informed By::** [@clarkMicropublicationsSemanticModel2014.md](@clarkMicropublicationsSemanticModel2014.md)
-- **Informed By::** [@zhangpengyiComprehensiveModelCognitive2014.md](@zhangpengyiComprehensiveModelCognitive2014.md)
-- **Informed By::** [@schmidtNiklasLuhmannCard2018.md](@schmidtNiklasLuhmannCard2018.md)
-- **Informed By::** [@herbertRedNotebookCharles1980.md](@herbertRedNotebookCharles1980.md)
-- **Informed By::** [@wolfswinkelUsingGroundedTheory2013.md](@wolfswinkelUsingGroundedTheory2013.md)
-- **Informed By::** [@russellCostStructureSensemaking1993.md](@russellCostStructureSensemaking1993.md)
-- **Informed By::** [@harsDesigningScientificKnowledge2001.md](@harsDesigningScientificKnowledge2001.md)
-
+- **Informed By::** [[EVD - Four positivist epistemological models from philosophy of science, including Popper, emphasiz... statements as a core component of scientific knowledge - @harsDesigningScientificKnowledge2001]]
+- **Informed By::** [[EVD - Scientists more often nonlinearly read subsections of papers for findings, hypotheses or othe...ion, rather than linearly reading whole documents - @ribaupierreExtractingDiscourseElements2017]]
+- **Informed By::** [[EVD - Almost half of the pages in Darwin's notebooks were excised - @herbertRedNotebookCharles1980]]
+- **Informed By::** [[CLM - Scholars repurpose qualitative data analysis software to facilitate synthesis]]
+- **Informed By::** [[CLM - A synthesis system needs to support manipulation of scholarly claims]]
+- **Informed By::** [[CLM - Synthesis is sensemaking on hard mode]]
+- **Informed By::** [[CLM - Scholarly argumentation operates on atomic statements and concepts as fundamental units]]
+- **Informed By::** [[CLM - A synthesis system needs to operate on a unit of analysis that is more granular than a publication]]
+- **Informed By::** [[CLM - Contextualizability is necessary for synthesis]]
+- **Informed By::** [[CLM - Scientists read strategically, not linearly]]
+- **Informed By::** [[CLM - PTN - incremental formalization can mitigate risks of formalism in interactive systems]]
+- **Informed By::** [[CLM - Knowledge must be recontextualized to be usefully reused]]
+- **Informed By::** [[CLM - Scholars constantly need to reread during a literature review]]
+- **Informed By::** [[CLM - Effective individual synthesis systems (seem to mostly) exist (for a select few)]]
+- **Informed By::** [[@morabitoManagingContextScholarly2021]]
+- **Informed By::** [[@ribaupierreExtractingDiscourseElements2017]]
+- **Informed By::** [[@blakeCollaborativeInformationSynthesis2006]]
+- **Informed By::** [[@blakeCollaborativeInformationSynthesis2006a]]
+- **Informed By::** [[@mccrickardMakingClaimsKnowledge2012]]
+- **Informed By::** [[@qianOpeningBlackBox2020]]
+- **Informed By::** [[@liddoContestedCollectiveIntelligence2012]]
+- **Informed By::** [[@oharaStudentReadersUse1998]]
+- **Informed By::** [[@gruberDarwinManPsychological1974]]
+- **Informed By::** [[@urenSensemakingToolsUnderstanding2006]]
+- **Informed By::** [[@russellBeingLiterateLarge2006]]
+- **Informed By::** [[@pirolliSensemakingProcessLeverage2005]]
+- **Informed By::** [[@clarkMicropublicationsSemanticModel2014]]
+- **Informed By::** [[@zhangpengyiComprehensiveModelCognitive2014]]
+- **Informed By::** [[@schmidtNiklasLuhmannCard2018]]
+- **Informed By::** [[@herbertRedNotebookCharles1980]]
+- **Informed By::** [[@wolfswinkelUsingGroundedTheory2013]]
+- **Informed By::** [[@russellCostStructureSensemaking1993]]
+- **Informed By::** [[@harsDesigningScientificKnowledge2001]]

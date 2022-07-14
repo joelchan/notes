@@ -33,5 +33,4 @@ date: Thu May 28 2020 21:34:54 GMT-0400 (Eastern Daylight Time)
 
 ###### Discourse Context
 
-- **Informs::** [CLM - Scientific fields stall without adequate theoretical synthesis.md](CLM - Scientific fields stall without adequate theoretical synthesis.md)
-
+- **Informs::** [[CLM - Scientific fields stall without adequate theoretical synthesis]]

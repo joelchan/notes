@@ -45,5 +45,4 @@ date: Fri Apr 17 2020 22:35:20 GMT-0400 (Eastern Daylight Time)
 
 ###### Discourse Context
 
-- **Informs::** [QUE - (How) do fields of innovation vary in their legibility of quality.md](QUE - (How) do fields of innovation vary in their legibility of quality.md)
-
+- **Informs::** [[QUE - (How) do fields of innovation vary in their legibility of quality]]

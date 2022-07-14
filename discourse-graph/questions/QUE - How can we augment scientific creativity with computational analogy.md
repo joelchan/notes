@@ -101,12 +101,11 @@ date: Fri Sep 18 2020 12:56:45 GMT-0400 (Eastern Daylight Time)
 
 ###### Discourse Context
 
-- **Informed By::** [CLM - There is a 'Sweet Spot' in Analogical Distance. Somewhat far analogies lead to better creative outcomes than very near or very far analogies.md](CLM - There is a 'Sweet Spot' in Analogical Distance. Somewhat far analogies lead to better creative outcomes than very near or very far analogies.md)
-- **Informed By::** [CLM - Core attribute (mis)matches mediate the benefits of analogies in real-world, complex problem solving.md](CLM - Core attribute (mis)matches mediate the benefits of analogies in real-world, complex problem solving.md)
-- **Informed By::** [CLM - Analogical retrieval in humans is dominated by surface similarity.md](CLM - Analogical retrieval in humans is dominated by surface similarity.md)
-- **Informed By::** [@hopeAcceleratingInnovationAnalogy2017.md](@hopeAcceleratingInnovationAnalogy2017.md)
-- **Informed By::** [@chanSOLVENTMixedInitiative2018.md](@chanSOLVENTMixedInitiative2018.md)
-- **Informed By::** [@gentnerAnalogicalRemindingGood1985.md](@gentnerAnalogicalRemindingGood1985.md)
-- **Informed By::** [@gentnerStructureMappingAnalogy1997.md](@gentnerStructureMappingAnalogy1997.md)
-- **Informed By::** [@huangCODA19UsingNonExpert2020.md](@huangCODA19UsingNonExpert2020.md)
-
+- **Informed By::** [[CLM - There is a 'Sweet Spot' in Analogical Distance. Somewhat far analogies lead to better creative outcomes than very near or very far analogies]]
+- **Informed By::** [[CLM - Core attribute (mis)matches mediate the benefits of analogies in real-world, complex problem solving]]
+- **Informed By::** [[CLM - Analogical retrieval in humans is dominated by surface similarity]]
+- **Informed By::** [[@hopeAcceleratingInnovationAnalogy2017]]
+- **Informed By::** [[@chanSOLVENTMixedInitiative2018]]
+- **Informed By::** [[@gentnerAnalogicalRemindingGood1985]]
+- **Informed By::** [[@gentnerStructureMappingAnalogy1997]]
+- **Informed By::** [[@huangCODA19UsingNonExpert2020]]

@@ -22,4 +22,4 @@ date: Sat Dec 11 2021 13:11:00 GMT-0500 (Eastern Standard Time)
 
 ###### Discourse Context
 
-- **SourceFor::** [EVD - When Given relational scaffolding related to the content participants scored better on post-tests - @jeeRelationalScaffoldingEnhances2019.md](EVD - When Given relational scaffolding related to the content participants scored better on post-tests - @jeeRelationalScaffoldingEnhances2019.md)
+- **SourceFor::** [[EVD - When Given relational scaffolding related to the content participants scored better on post-tests - @jeeRelationalScaffoldingEnhances2019]]

@@ -18,5 +18,4 @@ date: Sun Jul 10 2022 23:27:27 GMT-0400 (Eastern Daylight Time)
 
 ###### Discourse Context
 
-- **FromSource::** [@chanImprovingCrowdInnovation2016.md](@chanImprovingCrowdInnovation2016.md)
-
+- **FromSource::** [[@chanImprovingCrowdInnovation2016]]

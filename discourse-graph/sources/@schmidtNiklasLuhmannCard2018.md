@@ -31,5 +31,4 @@ date: Mon May 25 2020 12:16:52 GMT-0400 (Eastern Daylight Time)
 
 ###### Discourse Context
 
-- **Informs::** [QUE - What (existing) systems facilitate individual synthesis.md](QUE - What (existing) systems facilitate individual synthesis.md)
-
+- **Informs::** [[QUE - What (existing) systems facilitate individual synthesis]]

@@ -17,5 +17,4 @@ date: Wed Feb 10 2021 13:33:36 GMT-0500 (Eastern Standard Time)
 
 ###### Discourse Context
 
-- **Informed By::** [@vaughanValuePublicLibrary1996a.md](@vaughanValuePublicLibrary1996a.md)
-
+- **Informed By::** [[@vaughanValuePublicLibrary1996a]]

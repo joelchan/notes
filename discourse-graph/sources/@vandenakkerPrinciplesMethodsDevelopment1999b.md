@@ -37,5 +37,4 @@ date: Tue Jun 01 2021 14:17:26 GMT-0400 (Eastern Daylight Time)
 
 ###### Discourse Context
 
-- **Informs::** [QUE - What makes for an excellent systems research contribution.md](QUE - What makes for an excellent systems research contribution.md)
-
+- **Informs::** [[QUE - What makes for an excellent systems research contribution]]

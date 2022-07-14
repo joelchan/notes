@@ -29,7 +29,6 @@ date: Fri May 14 2021 11:27:44 GMT-0400 (Eastern Daylight Time)
 
 ###### Discourse Context
 
-- **Informs::** [QUE - What tension points exist between the goals of diversity and depth of user participation in participatory design.md](QUE - What tension points exist between the goals of diversity and depth of user participation in participatory design.md)
-- **SourceFor::** [EVD - physical prototypes were necessary to prompt aid discussion with codesigners with dementia, b...o led to fixation on unfinished aspects of the design - @lindsayEmpathyParticipatoryDesign2012b.md](EVD - physical prototypes were necessary to prompt aid discussion with codesigners with dementia, b...o led to fixation on unfinished aspects of the design - @lindsayEmpathyParticipatoryDesign2012b.md)
-- **SourceFor::** [EVD - Designers inadvertently made assumptions while analyzing transcripts from design sessions whi...ted important desires from participants with dementia - @lindsayEmpathyParticipatoryDesign2012b.md](EVD - Designers inadvertently made assumptions while analyzing transcripts from design sessions whi...ted important desires from participants with dementia - @lindsayEmpathyParticipatoryDesign2012b.md)
-
+- **Informs::** [[QUE - What tension points exist between the goals of diversity and depth of user participation in participatory design]]
+- **SourceFor::** [[EVD - physical prototypes were necessary to prompt aid discussion with codesigners with dementia, b...o led to fixation on unfinished aspects of the design - @lindsayEmpathyParticipatoryDesign2012b]]
+- **SourceFor::** [[EVD - Designers inadvertently made assumptions while analyzing transcripts from design sessions whi...ted important desires from participants with dementia - @lindsayEmpathyParticipatoryDesign2012b]]

@@ -19,7 +19,7 @@ date: Sun Oct 24 2021 16:48:49 GMT-0400 (Eastern Daylight Time)
 
 ###### Discourse Context
 
-- **Informed By::** [EVD - viewers in Twitch chat engaged in less bad behaviors after a user was banned by a moderator for that bad behavior - @seeringShapingProAntiSocial2017.md](EVD - viewers in Twitch chat engaged in less bad behaviors after a user was banned by a moderator for that bad behavior - @seeringShapingProAntiSocial2017.md)
-- **Informed By::** [EVD - users from subreddits banned for hate speech did not engage in hate speech in new forums they joined - @chandrasekharanYouCanStay2017.md](EVD - users from subreddits banned for hate speech did not engage in hate speech in new forums they joined - @chandrasekharanYouCanStay2017.md)
-- **Informed By::** [@seeringShapingProAntiSocial2017.md](@seeringShapingProAntiSocial2017.md)
-- **Informed By::** [@chandrasekharanYouCanStay2017.md](@chandrasekharanYouCanStay2017.md)
+- **Informed By::** [[EVD - viewers in Twitch chat engaged in less bad behaviors after a user was banned by a moderator for that bad behavior - @seeringShapingProAntiSocial2017]]
+- **Informed By::** [[EVD - users from subreddits banned for hate speech did not engage in hate speech in new forums they joined - @chandrasekharanYouCanStay2017]]
+- **Informed By::** [[@seeringShapingProAntiSocial2017]]
+- **Informed By::** [[@chandrasekharanYouCanStay2017]]

@@ -167,26 +167,25 @@ date: Wed Feb 17 2021 13:29:16 GMT-0500 (Eastern Standard Time)
 
 ###### Discourse Context
 
-- **Informed By::** [EVD - Local developers evolved into gardener roles to meet perceived demand for disseminating best practices for a software amongst users in an organization - @ganttGardenersGurusPatterns1992.md](EVD - Local developers evolved into gardener roles to meet perceived demand for disseminating best practices for a software amongst users in an organization - @ganttGardenersGurusPatterns1992.md)
-- **Informed By::** [CLM - Knowledge is fundamentally contextual.md](CLM - Knowledge is fundamentally contextual.md)
-- **Informed By::** [@laveSituatedLearningLegitimate1991.md](@laveSituatedLearningLegitimate1991.md)
-- **Informed By::** [@ackermanSharingExpertiseKnowledge2003.md](@ackermanSharingExpertiseKnowledge2003.md)
-- **Informed By::** [@langerWhenPracticeMakes1979.md](@langerWhenPracticeMakes1979.md)
-- **Informed By::** [@ackermanAnswerGardenMerging1996.md](@ackermanAnswerGardenMerging1996.md)
-- **Informed By::** [@eppleEmpiricalInvestigationMicrostructure1996.md](@eppleEmpiricalInvestigationMicrostructure1996.md)
-- **Informed By::** [@ackermanAugmentingOrganizationalMemory1994.md](@ackermanAugmentingOrganizationalMemory1994.md)
-- **Informed By::** [@finkelExpertiseCurseKnowledge2001.md](@finkelExpertiseCurseKnowledge2001.md)
-- **Informed By::** [@bobrowCommunityKnowledgeSharing2002.md](@bobrowCommunityKnowledgeSharing2002.md)
-- **Informed By::** [@singleyTransferCognitiveSkill1989.md](@singleyTransferCognitiveSkill1989.md)
-- **Informed By::** [@ganttGardenersGurusPatterns1992.md](@ganttGardenersGurusPatterns1992.md)
-- **Informed By::** [@orrTalkingMachinesEthnography1996.md](@orrTalkingMachinesEthnography1996.md)
-- **Informed By::** [@argoteLearningCurvesManufacturing1990.md](@argoteLearningCurvesManufacturing1990.md)
-- **Informed By::** [@ackermanDefinitionalContextualIssues1996.md](@ackermanDefinitionalContextualIssues1996.md)
-- **Informed By::** [@hindsLayingGroundworkRole2001.md](@hindsLayingGroundworkRole2001.md)
-- **Informed By::** [@hindsBotheredAbstractionEffect2001.md](@hindsBotheredAbstractionEffect2001.md)
-- **Informed By::** [@darrAcquisitionTransferDepreciation1995.md](@darrAcquisitionTransferDepreciation1995.md)
-- **Informed By::** [@adelsonWhenNovicesSurpass1984.md](@adelsonWhenNovicesSurpass1984.md)
-- **Informed By::** [@camererCurseKnowledgeEconomic1989.md](@camererCurseKnowledgeEconomic1989.md)
-- **Informed By::** [@hindsCurseExpertiseEffects1999.md](@hindsCurseExpertiseEffects1999.md)
-- **Informed By::** [@gitomerIndividualDifferencesTechnical1988.md](@gitomerIndividualDifferencesTechnical1988.md)
-
+- **Informed By::** [[EVD - Local developers evolved into gardener roles to meet perceived demand for disseminating best practices for a software amongst users in an organization - @ganttGardenersGurusPatterns1992]]
+- **Informed By::** [[CLM - Knowledge is fundamentally contextual]]
+- **Informed By::** [[@laveSituatedLearningLegitimate1991]]
+- **Informed By::** [[@ackermanSharingExpertiseKnowledge2003]]
+- **Informed By::** [[@langerWhenPracticeMakes1979]]
+- **Informed By::** [[@ackermanAnswerGardenMerging1996]]
+- **Informed By::** [[@eppleEmpiricalInvestigationMicrostructure1996]]
+- **Informed By::** [[@ackermanAugmentingOrganizationalMemory1994]]
+- **Informed By::** [[@finkelExpertiseCurseKnowledge2001]]
+- **Informed By::** [[@bobrowCommunityKnowledgeSharing2002]]
+- **Informed By::** [[@singleyTransferCognitiveSkill1989]]
+- **Informed By::** [[@ganttGardenersGurusPatterns1992]]
+- **Informed By::** [[@orrTalkingMachinesEthnography1996]]
+- **Informed By::** [[@argoteLearningCurvesManufacturing1990]]
+- **Informed By::** [[@ackermanDefinitionalContextualIssues1996]]
+- **Informed By::** [[@hindsLayingGroundworkRole2001]]
+- **Informed By::** [[@hindsBotheredAbstractionEffect2001]]
+- **Informed By::** [[@darrAcquisitionTransferDepreciation1995]]
+- **Informed By::** [[@adelsonWhenNovicesSurpass1984]]
+- **Informed By::** [[@camererCurseKnowledgeEconomic1989]]
+- **Informed By::** [[@hindsCurseExpertiseEffects1999]]
+- **Informed By::** [[@gitomerIndividualDifferencesTechnical1988]]

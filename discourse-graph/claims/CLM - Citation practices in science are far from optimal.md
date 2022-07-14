@@ -41,8 +41,7 @@ date: Tue Mar 22 2022 15:52:55 GMT-0400 (Eastern Daylight Time)
 
 ###### Discourse Context
 
-- **Informed By::** [@greenbergHowCitationDistortions2009.md](@greenbergHowCitationDistortions2009.md)
-- **Informed By::** [@tahamtanWhatCitationCounts2019.md](@tahamtanWhatCitationCounts2019.md)
-- **Informed By::** [@bornmannWhatCitationCounts2008.md](@bornmannWhatCitationCounts2008.md)
-- **Informed By::** [@letrudAffirmativeCitationBias2019.md](@letrudAffirmativeCitationBias2019.md)
-
+- **Informed By::** [[@greenbergHowCitationDistortions2009]]
+- **Informed By::** [[@tahamtanWhatCitationCounts2019]]
+- **Informed By::** [[@bornmannWhatCitationCounts2008]]
+- **Informed By::** [[@letrudAffirmativeCitationBias2019]]

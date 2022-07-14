@@ -31,7 +31,6 @@ date: Wed Mar 18 2020 11:42:16 GMT-0400 (Eastern Daylight Time)
 
 ###### Discourse Context
 
-- **Informs::** [CLM - Most scholarly communication infrastructure operates on the document as the base unit.md](CLM - Most scholarly communication infrastructure operates on the document as the base unit.md)
-- **Informs::** [QUE - How can we best bridge private vs. public knowledge.md](QUE - How can we best bridge private vs. public knowledge.md)
-- **Informs::** [QUE - How might we characterize scientists' synthesis practices from a processtool perspective.md](QUE - How might we characterize scientists' synthesis practices from a processtool perspective.md)
-
+- **Informs::** [[CLM - Most scholarly communication infrastructure operates on the document as the base unit]]
+- **Informs::** [[QUE - How can we best bridge private vs. public knowledge]]
+- **Informs::** [[QUE - How might we characterize scientists' synthesis practices from a processtool perspective]]

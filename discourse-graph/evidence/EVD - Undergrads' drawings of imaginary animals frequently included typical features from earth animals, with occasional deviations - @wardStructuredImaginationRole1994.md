@@ -16,6 +16,6 @@ date: Tue Dec 28 2021 14:18:19 GMT-0500 (Eastern Standard Time)
 
 ###### Discourse Context
 
-- **Informs::** [QUE - What are some major phenomena around designers' exploration of design spaces and how might these map to characteristics of optimizers.md](QUE - What are some major phenomena around designers' exploration of design spaces and how might these map to characteristics of optimizers.md)
-- **Informs::** [THE - interaction-oriented theory of creative inspiration from examples.md](THE - interaction-oriented theory of creative inspiration from examples.md)
-- **FromSource::** [@wardStructuredImaginationRole1994.md](@wardStructuredImaginationRole1994.md)
+- **Informs::** [[QUE - What are some major phenomena around designers' exploration of design spaces and how might these map to characteristics of optimizers]]
+- **Informs::** [[THE - interaction-oriented theory of creative inspiration from examples]]
+- **FromSource::** [[@wardStructuredImaginationRole1994]]

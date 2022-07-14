@@ -20,10 +20,9 @@ date: Thu Dec 23 2021 10:34:47 GMT-0500 (Eastern Standard Time)
 
 ###### Discourse Context
 
-- **Informs::** [QUE - What factors control whether people appropriately benefit from analogies (especially far-field ones) during creative problem solving.md](QUE - What factors control whether people appropriately benefit from analogies (especially far-field ones) during creative problem solving.md)
-- **Informs::** [THE - interaction-oriented theory of creative inspiration from examples.md](THE - interaction-oriented theory of creative inspiration from examples.md)
-- **Supports::** [CLM - Bridging analogies can help students understand difficult new concepts.md](CLM - Bridging analogies can help students understand difficult new concepts.md)
-- **Consistent With::** [EVD - When provided scaffolding for a similar problem students performed similarly compared to thei...group provided scaffolding performed significantly better. - @richlandReducingCognitiveLoad2013.md](EVD - When provided scaffolding for a similar problem students performed similarly compared to thei...group provided scaffolding performed significantly better. - @richlandReducingCognitiveLoad2013.md)
-- **Consistent With::** [EVD - giving a bridging analogy to a far analogy for a numerical representations led to better stud...wers) on a math post test compared to no or just the analogy - @vamvakoussiBridgingGapDense2012.md](EVD - giving a bridging analogy to a far analogy for a numerical representations led to better stud...wers) on a math post test compared to no or just the analogy - @vamvakoussiBridgingGapDense2012.md)
-- **FromSource::** [@richlandCognitiveSupportsAnalogies2007.md](@richlandCognitiveSupportsAnalogies2007.md)
-
+- **Informs::** [[QUE - What factors control whether people appropriately benefit from analogies (especially far-field ones) during creative problem solving]]
+- **Informs::** [[THE - interaction-oriented theory of creative inspiration from examples]]
+- **Supports::** [[CLM - Bridging analogies can help students understand difficult new concepts]]
+- **Consistent With::** [[EVD - When provided scaffolding for a similar problem students performed similarly compared to thei...group provided scaffolding performed significantly better. - @richlandReducingCognitiveLoad2013]]
+- **Consistent With::** [[EVD - giving a bridging analogy to a far analogy for a numerical representations led to better stud...wers) on a math post test compared to no or just the analogy - @vamvakoussiBridgingGapDense2012]]
+- **FromSource::** [[@richlandCognitiveSupportsAnalogies2007]]

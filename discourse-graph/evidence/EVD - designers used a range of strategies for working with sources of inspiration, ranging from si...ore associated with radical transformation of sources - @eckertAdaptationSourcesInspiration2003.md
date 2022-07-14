@@ -78,6 +78,5 @@ date: Mon Dec 27 2021 22:37:32 GMT-0500 (Eastern Standard Time)
 
 ###### Discourse Context
 
-- **Informs::** [THE - interaction-oriented theory of creative inspiration from examples.md](THE - interaction-oriented theory of creative inspiration from examples.md)
-- **FromSource::** [@eckertAdaptationSourcesInspiration2003.md](@eckertAdaptationSourcesInspiration2003.md)
-
+- **Informs::** [[THE - interaction-oriented theory of creative inspiration from examples]]
+- **FromSource::** [[@eckertAdaptationSourcesInspiration2003]]

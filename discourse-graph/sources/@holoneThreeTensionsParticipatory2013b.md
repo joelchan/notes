@@ -29,7 +29,6 @@ date: Fri May 14 2021 11:27:44 GMT-0400 (Eastern Daylight Time)
 
 ###### Discourse Context
 
-- **Informs::** [QUE - What tension points exist between the goals of diversity and depth of user participation in participatory design.md](QUE - What tension points exist between the goals of diversity and depth of user participation in participatory design.md)
-- **SourceFor::** [EVD - children with severe disabilities were not used to being active participants in design, becau...passive recipients and others spokedid things for them - @holoneThreeTensionsParticipatory2013b.md](EVD - children with severe disabilities were not used to being active participants in design, becau...passive recipients and others spokedid things for them - @holoneThreeTensionsParticipatory2013b.md)
-- **SourceFor::** [EVD - helpers - who had to be present - sometimes made assumptions and spoke for children with disabilities during design activities - @holoneThreeTensionsParticipatory2013b.md](EVD - helpers - who had to be present - sometimes made assumptions and spoke for children with disabilities during design activities - @holoneThreeTensionsParticipatory2013b.md)
-
+- **Informs::** [[QUE - What tension points exist between the goals of diversity and depth of user participation in participatory design]]
+- **SourceFor::** [[EVD - children with severe disabilities were not used to being active participants in design, becau...passive recipients and others spokedid things for them - @holoneThreeTensionsParticipatory2013b]]
+- **SourceFor::** [[EVD - helpers - who had to be present - sometimes made assumptions and spoke for children with disabilities during design activities - @holoneThreeTensionsParticipatory2013b]]

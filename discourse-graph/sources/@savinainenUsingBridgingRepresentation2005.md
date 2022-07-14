@@ -23,5 +23,4 @@ date: Mon Dec 06 2021 15:42:18 GMT-0500 (Eastern Standard Time)
 
 ###### Discourse Context
 
-- **SourceFor::** [EVD - When provided instruction using a bridging analogies students had a better understanding of t... but had trouble putting into the correct context. - @savinainenUsingBridgingRepresentation2005.md](EVD - When provided instruction using a bridging analogies students had a better understanding of t... but had trouble putting into the correct context. - @savinainenUsingBridgingRepresentation2005.md)
-
+- **SourceFor::** [[EVD - When provided instruction using a bridging analogies students had a better understanding of t... but had trouble putting into the correct context. - @savinainenUsingBridgingRepresentation2005]]

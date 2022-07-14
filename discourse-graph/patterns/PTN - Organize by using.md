@@ -21,6 +21,5 @@ date: Thu May 14 2020 10:05:42 GMT-0400 (Eastern Daylight Time)
 
 ###### Discourse Context
 
-- **Informed By::** [@ahrensHowTakeSmart2017.md](@ahrensHowTakeSmart2017.md)
-- **Informed By::** [@ adlerCruisingLibraryPerversities2017.md](@ adlerCruisingLibraryPerversities2017.md)
-
+- **Informed By::** [[@ahrensHowTakeSmart2017]]
+- **Informed By::** [[@ adlerCruisingLibraryPerversities2017]]

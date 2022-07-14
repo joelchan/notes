@@ -49,8 +49,7 @@ date: Mon Nov 16 2020 17:39:25 GMT-0500 (Eastern Standard Time)
 
 ###### Discourse Context
 
-- **Informs::** [QUE - Under what conditions do diverse initial examples lead to better final design solutions.md](QUE - Under what conditions do diverse initial examples lead to better final design solutions.md)
-- **Informs::** [QUE - What are the most efficient routes to useful cross-boundary knowledge.md](QUE - What are the most efficient routes to useful cross-boundary knowledge.md)
-- **Informs::** [THE - interaction-oriented theory of creative inspiration from examples.md](THE - interaction-oriented theory of creative inspiration from examples.md)
-- **SourceFor::** [EVD - designers used a range of strategies for working with sources of inspiration, ranging from si...ore associated with radical transformation of sources - @eckertAdaptationSourcesInspiration2003.md](EVD - designers used a range of strategies for working with sources of inspiration, ranging from si...ore associated with radical transformation of sources - @eckertAdaptationSourcesInspiration2003.md)
-
+- **Informs::** [[QUE - Under what conditions do diverse initial examples lead to better final design solutions]]
+- **Informs::** [[QUE - What are the most efficient routes to useful cross-boundary knowledge]]
+- **Informs::** [[THE - interaction-oriented theory of creative inspiration from examples]]
+- **SourceFor::** [[EVD - designers used a range of strategies for working with sources of inspiration, ranging from si...ore associated with radical transformation of sources - @eckertAdaptationSourcesInspiration2003]]

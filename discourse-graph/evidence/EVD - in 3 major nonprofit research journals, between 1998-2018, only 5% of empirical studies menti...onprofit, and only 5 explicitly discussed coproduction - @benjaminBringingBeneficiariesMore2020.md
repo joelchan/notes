@@ -14,5 +14,5 @@ date: Tue Dec 21 2021 13:35:56 GMT-0500 (Eastern Standard Time)
 
 ###### Discourse Context
 
-- **Informs::** [QUE - What does it take for a nonprofit service organization to deeply involve clients in the design of service programs.md](QUE - What does it take for a nonprofit service organization to deeply involve clients in the design of service programs.md)
-- **FromSource::** [@benjaminBringingBeneficiariesMore2020.md](@benjaminBringingBeneficiariesMore2020.md)
+- **Informs::** [[QUE - What does it take for a nonprofit service organization to deeply involve clients in the design of service programs]]
+- **FromSource::** [[@benjaminBringingBeneficiariesMore2020]]

@@ -37,7 +37,6 @@ date: Thu Mar 05 2020 22:28:12 GMT-0500 (Eastern Standard Time)
 
 ###### Discourse Context
 
-- **Informed By::** [@robsonBuildingModelsInformation2013.md](@robsonBuildingModelsInformation2013.md)
-- **Informed By::** [@taylorQuestionnegotationInformationseekingLibraries1968.md](@taylorQuestionnegotationInformationseekingLibraries1968.md)
-- **Informed By::** [@agarwalExploringContextInformation2017.md](@agarwalExploringContextInformation2017.md)
-
+- **Informed By::** [[@robsonBuildingModelsInformation2013]]
+- **Informed By::** [[@taylorQuestionnegotationInformationseekingLibraries1968]]
+- **Informed By::** [[@agarwalExploringContextInformation2017]]

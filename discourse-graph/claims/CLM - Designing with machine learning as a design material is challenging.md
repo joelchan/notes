@@ -25,9 +25,8 @@ date: Fri Mar 18 2022 09:32:59 GMT-0400 (Eastern Daylight Time)
 
 ###### Discourse Context
 
-- **Informed By::** [@luciani2018machine.md](@luciani2018machine.md)
-- **Informed By::** [@yangReexaminingWhetherWhy2020.md](@yangReexaminingWhetherWhy2020.md)
-- **Informed By::** [@doveMonstersMetaphorsMachine2020.md](@doveMonstersMetaphorsMachine2020.md)
-- **Informed By::** [@yangInvestigatingHowExperienced2018.md](@yangInvestigatingHowExperienced2018.md)
-- **Informed By::** [@doveUXDesignInnovation2017.md](@doveUXDesignInnovation2017.md)
-
+- **Informed By::** [[@luciani2018machine]]
+- **Informed By::** [[@yangReexaminingWhetherWhy2020]]
+- **Informed By::** [[@doveMonstersMetaphorsMachine2020]]
+- **Informed By::** [[@yangInvestigatingHowExperienced2018]]
+- **Informed By::** [[@doveUXDesignInnovation2017]]

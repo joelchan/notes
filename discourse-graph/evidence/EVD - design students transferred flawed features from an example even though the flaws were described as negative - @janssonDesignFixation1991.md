@@ -16,7 +16,6 @@ date: Wed Jan 12 2022 12:45:41 GMT-0500 (Eastern Standard Time)
 
 ###### Discourse Context
 
-- **Informs::** [QUE - What is the relationship between prior knowledge and new ideas.md](QUE - What is the relationship between prior knowledge and new ideas.md)
-- **Informs::** [THE - interaction-oriented theory of creative inspiration from examples.md](THE - interaction-oriented theory of creative inspiration from examples.md)
-- **FromSource::** [@janssonDesignFixation1991.md](@janssonDesignFixation1991.md)
-
+- **Informs::** [[QUE - What is the relationship between prior knowledge and new ideas]]
+- **Informs::** [[THE - interaction-oriented theory of creative inspiration from examples]]
+- **FromSource::** [[@janssonDesignFixation1991]]

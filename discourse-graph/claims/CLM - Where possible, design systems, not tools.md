@@ -35,7 +35,6 @@ date: Sat Jun 06 2020 15:22:53 GMT-0400 (Eastern Daylight Time)
 
 ###### Discourse Context
 
-- **Informs::** [QUE - How can we measure efficacy of creativity support systems.md](QUE - How can we measure efficacy of creativity support systems.md)
-- **Informed By::** [@americaninstituteofphysicsInterviewRichardFeyman2015.md](@americaninstituteofphysicsInterviewRichardFeyman2015.md)
-- **Informed By::** [@qianOpeningBlackBox2020.md](@qianOpeningBlackBox2020.md)
-
+- **Informs::** [[QUE - How can we measure efficacy of creativity support systems]]
+- **Informed By::** [[@americaninstituteofphysicsInterviewRichardFeyman2015]]
+- **Informed By::** [[@qianOpeningBlackBox2020]]

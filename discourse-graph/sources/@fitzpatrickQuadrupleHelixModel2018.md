@@ -17,5 +17,4 @@ date: Tue Jul 12 2022 21:11:07 GMT-0400 (Eastern Daylight Time)
 
 ###### Discourse Context
 
-- **SourceFor::** [EVD - in one European municipality involved in a citizen participatory design project, progress was...neglected to budget for a dedicated community coordinator - @fitzpatrickQuadrupleHelixModel2018.md](EVD - in one European municipality involved in a citizen participatory design project, progress was...neglected to budget for a dedicated community coordinator - @fitzpatrickQuadrupleHelixModel2018.md)
-
+- **SourceFor::** [[EVD - in one European municipality involved in a citizen participatory design project, progress was...neglected to budget for a dedicated community coordinator - @fitzpatrickQuadrupleHelixModel2018]]

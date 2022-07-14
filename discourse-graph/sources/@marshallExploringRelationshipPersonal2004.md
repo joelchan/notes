@@ -51,6 +51,5 @@ date: Mon Mar 16 2020 11:50:15 GMT-0400 (Eastern Daylight Time)
 
 ###### Discourse Context
 
-- **Informs::** [CLM - Most private annotations aren't useful to other people.md](CLM - Most private annotations aren't useful to other people.md)
-- **Informs::** [QUE - How can we best bridge private vs. public knowledge.md](QUE - How can we best bridge private vs. public knowledge.md)
-
+- **Informs::** [[CLM - Most private annotations aren't useful to other people]]
+- **Informs::** [[QUE - How can we best bridge private vs. public knowledge]]

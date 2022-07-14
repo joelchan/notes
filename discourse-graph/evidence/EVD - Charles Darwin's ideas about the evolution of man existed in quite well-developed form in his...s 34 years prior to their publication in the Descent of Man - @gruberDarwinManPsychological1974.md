@@ -10,5 +10,4 @@ date: Tue Jan 11 2022 20:52:27 GMT-0500 (Eastern Standard Time)
 
 ###### Discourse Context
 
-- **FromSource::** [@gruberDarwinManPsychological1974.md](@gruberDarwinManPsychological1974.md)
-
+- **FromSource::** [[@gruberDarwinManPsychological1974]]

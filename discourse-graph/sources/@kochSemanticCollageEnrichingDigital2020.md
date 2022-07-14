@@ -16,5 +16,4 @@ date: Mon Dec 13 2021 14:28:00 GMT-0500 (Eastern Standard Time)
 
 ###### Discourse Context
 
-- **Informs::** [THE - interaction-oriented theory of creative inspiration from examples.md](THE - interaction-oriented theory of creative inspiration from examples.md)
-
+- **Informs::** [[THE - interaction-oriented theory of creative inspiration from examples]]

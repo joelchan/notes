@@ -27,8 +27,7 @@ date: Sat Aug 29 2020 13:46:54 GMT-0400 (Eastern Daylight Time)
 
 ###### Discourse Context
 
-- **Informed By::** [@victorHumaneRepresentationThought2014.md](@victorHumaneRepresentationThought2014.md)
-- **Informed By::** [@herbertRedNotebookCharles1980.md](@herbertRedNotebookCharles1980.md)
-- **Informed By::** [@gussVinciFlyingMachines2021.md](@gussVinciFlyingMachines2021.md)
-- **Informed By::** [@pearsonDesigningDigitalReading2013.md](@pearsonDesigningDigitalReading2013.md)
-
+- **Informed By::** [[@victorHumaneRepresentationThought2014]]
+- **Informed By::** [[@herbertRedNotebookCharles1980]]
+- **Informed By::** [[@gussVinciFlyingMachines2021]]
+- **Informed By::** [[@pearsonDesigningDigitalReading2013]]

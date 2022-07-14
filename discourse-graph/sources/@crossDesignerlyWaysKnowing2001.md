@@ -29,5 +29,4 @@ date: Wed Nov 04 2020 16:30:31 GMT-0500 (Eastern Standard Time)
 
 ###### Discourse Context
 
-- **Informs::** [CLM - Expert designers are solution-oriented.md](CLM - Expert designers are solution-oriented.md)
-
+- **Informs::** [[CLM - Expert designers are solution-oriented]]

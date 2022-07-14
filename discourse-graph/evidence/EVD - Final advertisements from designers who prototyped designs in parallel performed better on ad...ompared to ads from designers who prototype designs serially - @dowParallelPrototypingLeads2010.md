@@ -43,7 +43,6 @@ date: Wed Sep 29 2021 10:47:08 GMT-0400 (Eastern Daylight Time)
 
 ###### Discourse Context
 
-- **Informs::** [QUE - Under what conditions do diverse initial examples lead to better final design solutions.md](QUE - Under what conditions do diverse initial examples lead to better final design solutions.md)
-- **Consistent With::** [EVD - Designers who prototyped designs in parallel generated more diverse designs compared to designers who prototyped serially - @dowParallelPrototypingLeads2010.md](EVD - Designers who prototyped designs in parallel generated more diverse designs compared to designers who prototyped serially - @dowParallelPrototypingLeads2010.md)
-- **FromSource::** [@dowParallelPrototypingLeads2010.md](@dowParallelPrototypingLeads2010.md)
-
+- **Informs::** [[QUE - Under what conditions do diverse initial examples lead to better final design solutions]]
+- **Consistent With::** [[EVD - Designers who prototyped designs in parallel generated more diverse designs compared to designers who prototyped serially - @dowParallelPrototypingLeads2010]]
+- **FromSource::** [[@dowParallelPrototypingLeads2010]]

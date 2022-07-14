@@ -18,7 +18,6 @@ date: Fri Jan 14 2022 11:33:26 GMT-0500 (Eastern Standard Time)
 
 ###### Discourse Context
 
-- **Informs::** [THE - interaction-oriented theory of creative inspiration from examples.md](THE - interaction-oriented theory of creative inspiration from examples.md)
-- **Supports::** [CLM - Breaking ideas down into component parts facilitates creative reinterpretation.md](CLM - Breaking ideas down into component parts facilitates creative reinterpretation.md)
-- **FromSource::** [@knoblichConstraintRelaxationChunk1999.md](@knoblichConstraintRelaxationChunk1999.md)
-
+- **Informs::** [[THE - interaction-oriented theory of creative inspiration from examples]]
+- **Supports::** [[CLM - Breaking ideas down into component parts facilitates creative reinterpretation]]
+- **FromSource::** [[@knoblichConstraintRelaxationChunk1999]]

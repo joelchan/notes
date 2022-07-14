@@ -41,4 +41,4 @@ date: Fri May 22 2020 11:30:13 GMT-0400 (Eastern Daylight Time)
 
 ###### Discourse Context
 
-- **Informs::** [CLM - Vector-space models of language struggle with relational similarity.md](CLM - Vector-space models of language struggle with relational similarity.md)
+- **Informs::** [[CLM - Vector-space models of language struggle with relational similarity]]

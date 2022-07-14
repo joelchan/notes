@@ -2,7 +2,7 @@
 title: [[QUE]] - Can deep learning discover analogical representations?
 url: https://roamresearch.com/#/app/megacoglab/page/7ArZLTQUN
 author: Unknown
-date: Wed Jul 13 2022 19:25:38 GMT-0400 (Eastern Daylight Time)
+date: Wed Jul 13 2022 22:26:29 GMT-0400 (Eastern Daylight Time)
 ---
 
 - # Synthesis
@@ -51,13 +51,12 @@ date: Wed Jul 13 2022 19:25:38 GMT-0400 (Eastern Daylight Time)
 
 ###### Discourse Context
 
-- **Informed By::** [EVD - given one set of objects from a few classic analogies such as solar system  atom, sysGPT-3 wa...rresponding objects on the other side for a few examples - @stayMachinamentaFormingExtended2020.md](EVD - given one set of objects from a few classic analogies such as solar system  atom, sysGPT-3 wa...rresponding objects on the other side for a few examples - @stayMachinamentaFormingExtended2020.md)
-- **Informed By::** [CLM - Vector-space models of language struggle with relational similarity.md](CLM - Vector-space models of language struggle with relational similarity.md)
-- **Informed By::** [CLM - Analogies are fundamentally about relational similarity.md](CLM - Analogies are fundamentally about relational similarity.md)
-- **Informed By::** [CLM - Relational categories are almost overwhelmingly expressed as verbs.md](CLM - Relational categories are almost overwhelmingly expressed as verbs.md)
-- **Informed By::** [CLM - transformer language models have some analogical reasoning ability.md](CLM - transformer language models have some analogical reasoning ability.md)
-- **Informed By::** [@gentnerRelationalCategories2005.md](@gentnerRelationalCategories2005.md)
-- **Informed By::** [@stayMachinamentaFormingExtended2020.md](@stayMachinamentaFormingExtended2020.md)
-- **Informed By::** [@teamWorldCreationAnalogy2020.md](@teamWorldCreationAnalogy2020.md)
-- **Informed By::** [@brownLanguageModelsAre2020.md](@brownLanguageModelsAre2020.md)
-
+- **Informed By::** [[EVD - given one set of objects from a few classic analogies such as solar system  atom, sysGPT-3 wa...rresponding objects on the other side for a few examples - @stayMachinamentaFormingExtended2020]]
+- **Informed By::** [[CLM - Vector-space models of language struggle with relational similarity]]
+- **Informed By::** [[CLM - Analogies are fundamentally about relational similarity]]
+- **Informed By::** [[CLM - Relational categories are almost overwhelmingly expressed as verbs]]
+- **Informed By::** [[CLM - transformer language models have some analogical reasoning ability]]
+- **Informed By::** [[@gentnerRelationalCategories2005]]
+- **Informed By::** [[@stayMachinamentaFormingExtended2020]]
+- **Informed By::** [[@teamWorldCreationAnalogy2020]]
+- **Informed By::** [[@brownLanguageModelsAre2020]]

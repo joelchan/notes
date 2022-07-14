@@ -31,5 +31,4 @@ date: Mon Apr 27 2020 15:55:53 GMT-0400 (Eastern Daylight Time)
 
 ###### Discourse Context
 
-- **Informs::** [CLM - Design proceeds by co-evolution of problem and solution space.md](CLM - Design proceeds by co-evolution of problem and solution space.md)
-
+- **Informs::** [[CLM - Design proceeds by co-evolution of problem and solution space]]

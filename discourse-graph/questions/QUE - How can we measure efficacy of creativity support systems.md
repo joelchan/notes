@@ -20,10 +20,9 @@ date: Sat Jan 22 2022 22:43:56 GMT-0500 (Eastern Standard Time)
 
 ###### Discourse Context
 
-- **Informed By::** [EVD - Starbucks baristas used a paper cup to support complex coordination to reduce the cost struct...ght, multi-tasking and interruption-intensive environment - @kirshMultitaskingCostStructure2005.md](EVD - Starbucks baristas used a paper cup to support complex coordination to reduce the cost struct...ght, multi-tasking and interruption-intensive environment - @kirshMultitaskingCostStructure2005.md)
-- **Informed By::** [CLM - Where possible, design systems, not tools.md](CLM - Where possible, design systems, not tools.md)
-- **Informed By::** [CLM - The notion of an 'idea' is very complicated.md](CLM - The notion of an 'idea' is very complicated.md)
-- **Informed By::** [@shneidermanCreativitySupportTools2006.md](@shneidermanCreativitySupportTools2006.md)
-- **Informed By::** [@orlikowskiUsingTechnologyConstituting2000.md](@orlikowskiUsingTechnologyConstituting2000.md)
-- **Informed By::** [@kirshMultitaskingCostStructure2005.md](@kirshMultitaskingCostStructure2005.md)
-
+- **Informed By::** [[EVD - Starbucks baristas used a paper cup to support complex coordination to reduce the cost struct...ght, multi-tasking and interruption-intensive environment - @kirshMultitaskingCostStructure2005]]
+- **Informed By::** [[CLM - Where possible, design systems, not tools]]
+- **Informed By::** [[CLM - The notion of an 'idea' is very complicated]]
+- **Informed By::** [[@shneidermanCreativitySupportTools2006]]
+- **Informed By::** [[@orlikowskiUsingTechnologyConstituting2000]]
+- **Informed By::** [[@kirshMultitaskingCostStructure2005]]

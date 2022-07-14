@@ -17,5 +17,4 @@ date: Mon Jan 18 2021 22:59:31 GMT-0500 (Eastern Standard Time)
 
 ###### Discourse Context
 
-- **Informed By::** [@laneEngineeringSerendipityWhen.md](@laneEngineeringSerendipityWhen.md)
-
+- **Informed By::** [[@laneEngineeringSerendipityWhen]]

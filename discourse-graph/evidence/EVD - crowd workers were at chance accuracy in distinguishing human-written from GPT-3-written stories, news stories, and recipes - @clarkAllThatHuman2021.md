@@ -10,7 +10,6 @@ date: Wed Dec 01 2021 14:33:43 GMT-0500 (Eastern Standard Time)
 
 ###### Discourse Context
 
-- **Informs::** [QUE - How does the choice of what data we about scholarly papers we index influence performance for information retrieval systems.md](QUE - How does the choice of what data we about scholarly papers we index influence performance for information retrieval systems.md)
-- **Informs::** [QUE - What do we know about transformer language models' natural language generation capabilities.md](QUE - What do we know about transformer language models' natural language generation capabilities.md)
-- **FromSource::** [@clarkAllThatHuman2021.md](@clarkAllThatHuman2021.md)
-
+- **Informs::** [[QUE - How does the choice of what data we about scholarly papers we index influence performance for information retrieval systems]]
+- **Informs::** [[QUE - What do we know about transformer language models' natural language generation capabilities]]
+- **FromSource::** [[@clarkAllThatHuman2021]]

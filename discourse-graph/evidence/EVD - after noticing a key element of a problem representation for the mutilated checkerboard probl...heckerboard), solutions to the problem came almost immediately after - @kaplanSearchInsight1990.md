@@ -14,4 +14,4 @@ date: Mon May 23 2022 13:58:12 GMT-0400 (Eastern Daylight Time)
 
 ###### Discourse Context
 
-- **FromSource::** [@kaplanSearchInsight1990.md](@kaplanSearchInsight1990.md)
+- **FromSource::** [[@kaplanSearchInsight1990]]

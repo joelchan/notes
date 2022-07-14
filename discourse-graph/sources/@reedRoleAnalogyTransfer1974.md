@@ -121,7 +121,6 @@ date: Tue Mar 09 2021 23:11:14 GMT-0500 (Eastern Standard Time)
 
 ###### Discourse Context
 
-- **Informs::** [QUE - What factors control whether people appropriately benefit from analogies (especially far-field ones) during creative problem solving.md](QUE - What factors control whether people appropriately benefit from analogies (especially far-field ones) during creative problem solving.md)
-- **SourceFor::** [EVD - No analogical transfer amongst undergraduates between insight problems without hints about analogical mapping - @reedRoleAnalogyTransfer1974.md](EVD - No analogical transfer amongst undergraduates between insight problems without hints about analogical mapping - @reedRoleAnalogyTransfer1974.md)
-- **SourceFor::** [EVD - Limited increases in transfer between analogous insight problems when explicit hint (mapping + solution) was given - @reedRoleAnalogyTransfer1974.md](EVD - Limited increases in transfer between analogous insight problems when explicit hint (mapping + solution) was given - @reedRoleAnalogyTransfer1974.md)
-
+- **Informs::** [[QUE - What factors control whether people appropriately benefit from analogies (especially far-field ones) during creative problem solving]]
+- **SourceFor::** [[EVD - No analogical transfer amongst undergraduates between insight problems without hints about analogical mapping - @reedRoleAnalogyTransfer1974]]
+- **SourceFor::** [[EVD - Limited increases in transfer between analogous insight problems when explicit hint (mapping + solution) was given - @reedRoleAnalogyTransfer1974]]

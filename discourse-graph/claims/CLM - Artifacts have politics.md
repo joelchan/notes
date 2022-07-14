@@ -17,5 +17,4 @@ date: Wed Jul 22 2020 16:30:28 GMT-0400 (Eastern Daylight Time)
 
 ###### Discourse Context
 
-- **Informed By::** [@winnerArtifactsHavePolitics1980.md](@winnerArtifactsHavePolitics1980.md)
-
+- **Informed By::** [[@winnerArtifactsHavePolitics1980]]

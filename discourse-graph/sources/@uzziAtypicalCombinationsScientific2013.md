@@ -52,8 +52,7 @@ Highly cited work is simultaneously conventional and unconventional.
 
 ###### Discourse Context
 
-- **Informs::** [QUE - How might domain distance modulate the effects of analogies on creative output.md](QUE - How might domain distance modulate the effects of analogies on creative output.md)
-- **SourceFor::** [EVD - papers with high median conventionality and high tail atypical combinations of journals they ...erage to be in top 5 percent of citation distribution - @uzziAtypicalCombinationsScientific2013.md](EVD - papers with high median conventionality and high tail atypical combinations of journals they ...erage to be in top 5 percent of citation distribution - @uzziAtypicalCombinationsScientific2013.md)
-- **SourceFor::** [EVD - journal pairs from the same Web of Science discipline had significantly higher z-scores than journal pairs across disciplines - @uzziAtypicalCombinationsScientific2013.md](EVD - journal pairs from the same Web of Science discipline had significantly higher z-scores than journal pairs across disciplines - @uzziAtypicalCombinationsScientific2013.md)
-- **SourceFor::** [EVD - teams were more likely than single or pair-authored papers to cite atypical combinations of journals - @uzziAtypicalCombinationsScientific2013.md](EVD - teams were more likely than single or pair-authored papers to cite atypical combinations of journals - @uzziAtypicalCombinationsScientific2013.md)
-
+- **Informs::** [[QUE - How might domain distance modulate the effects of analogies on creative output]]
+- **SourceFor::** [[EVD - papers with high median conventionality and high tail atypical combinations of journals they ...erage to be in top 5 percent of citation distribution - @uzziAtypicalCombinationsScientific2013]]
+- **SourceFor::** [[EVD - journal pairs from the same Web of Science discipline had significantly higher z-scores than journal pairs across disciplines - @uzziAtypicalCombinationsScientific2013]]
+- **SourceFor::** [[EVD - teams were more likely than single or pair-authored papers to cite atypical combinations of journals - @uzziAtypicalCombinationsScientific2013]]

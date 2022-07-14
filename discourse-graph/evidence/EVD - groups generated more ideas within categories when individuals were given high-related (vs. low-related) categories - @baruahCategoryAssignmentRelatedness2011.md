@@ -34,5 +34,5 @@ date: Thu Sep 16 2021 14:06:07 GMT-0400 (Eastern Daylight Time)
 
 ###### Discourse Context
 
-- **Informs::** [QUE - Under what conditions do diverse initial examples lead to better final design solutions.md](QUE - Under what conditions do diverse initial examples lead to better final design solutions.md)
-- **FromSource::** [@baruahCategoryAssignmentRelatedness2011.md](@baruahCategoryAssignmentRelatedness2011.md)
+- **Informs::** [[QUE - Under what conditions do diverse initial examples lead to better final design solutions]]
+- **FromSource::** [[@baruahCategoryAssignmentRelatedness2011]]

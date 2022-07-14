@@ -9,6 +9,5 @@ date: Mon Jul 12 2021 12:40:45 GMT-0400 (Eastern Daylight Time)
 
 ###### Discourse Context
 
-- **Supported By::** [EVD - increased word ambiguity in abstracts was associated with slightly lower modularity of citation networks for those abstracts - @mcmahanAmbiguityEngagement2018.md](EVD - increased word ambiguity in abstracts was associated with slightly lower modularity of citation networks for those abstracts - @mcmahanAmbiguityEngagement2018.md)
-- **Supported By::** [CLM - ambiguity can be measured using word-level synonym entropy - @mcmahanAmbiguityEngagement2018.md](CLM - ambiguity can be measured using word-level synonym entropy - @mcmahanAmbiguityEngagement2018.md)
-
+- **Supported By::** [[EVD - increased word ambiguity in abstracts was associated with slightly lower modularity of citation networks for those abstracts - @mcmahanAmbiguityEngagement2018]]
+- **Supported By::** [[CLM - ambiguity can be measured using word-level synonym entropy - @mcmahanAmbiguityEngagement2018]]

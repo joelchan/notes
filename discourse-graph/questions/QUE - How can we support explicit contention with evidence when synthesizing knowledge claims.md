@@ -83,12 +83,11 @@ date: Wed Oct 21 2020 16:58:53 GMT-0400 (Eastern Daylight Time)
 
 ###### Discourse Context
 
-- **Informed By::** [@brushSEPIOSemanticModel2016.md](@brushSEPIOSemanticModel2016.md)
-- **Informed By::** [@niccolucciExpressingReliabilityCIDOC2017.md](@niccolucciExpressingReliabilityCIDOC2017.md)
-- **Informed By::** [@suriAdvancementsResearchSynthesis2009.md](@suriAdvancementsResearchSynthesis2009.md)
-- **Informed By::** [@greenhalghTimeChallengeSpurious2018.md](@greenhalghTimeChallengeSpurious2018.md)
-- **Informed By::** [@thorneRediscoveringNarrativeReview2018.md](@thorneRediscoveringNarrativeReview2018.md)
-- **Informed By::** [@clarkMicropublicationsSemanticModel2014.md](@clarkMicropublicationsSemanticModel2014.md)
-- **Informed By::** [@dewaardFormalisingUncertaintyOntology2012.md](@dewaardFormalisingUncertaintyOntology2012.md)
-- **Informed By::** [@grothAnatomyNanopublication2010.md](@grothAnatomyNanopublication2010.md)
-
+- **Informed By::** [[@brushSEPIOSemanticModel2016]]
+- **Informed By::** [[@niccolucciExpressingReliabilityCIDOC2017]]
+- **Informed By::** [[@suriAdvancementsResearchSynthesis2009]]
+- **Informed By::** [[@greenhalghTimeChallengeSpurious2018]]
+- **Informed By::** [[@thorneRediscoveringNarrativeReview2018]]
+- **Informed By::** [[@clarkMicropublicationsSemanticModel2014]]
+- **Informed By::** [[@dewaardFormalisingUncertaintyOntology2012]]
+- **Informed By::** [[@grothAnatomyNanopublication2010]]

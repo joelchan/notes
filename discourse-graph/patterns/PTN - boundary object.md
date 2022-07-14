@@ -13,5 +13,4 @@ date: Thu May 14 2020 22:49:36 GMT-0400 (Eastern Daylight Time)
 
 ###### Discourse Context
 
-- **Informed By::** [@huvilaBoundaryObjectsInformation2017.md](@huvilaBoundaryObjectsInformation2017.md)
-
+- **Informed By::** [[@huvilaBoundaryObjectsInformation2017]]

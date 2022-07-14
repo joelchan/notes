@@ -21,9 +21,8 @@ date: Fri Sep 18 2020 11:10:11 GMT-0400 (Eastern Daylight Time)
 
 ###### Discourse Context
 
-- **Informs::** [CLM - There is a 'Sweet Spot' in Analogical Distance. Somewhat far analogies lead to better creative outcomes than very near or very far analogies.md](CLM - There is a 'Sweet Spot' in Analogical Distance. Somewhat far analogies lead to better creative outcomes than very near or very far analogies.md)
-- **Informs::** [CLM - Analogies are fundamentally about relational similarity.md](CLM - Analogies are fundamentally about relational similarity.md)
-- **Informs::** [QUE - How can we augment scientific creativity with computational analogy.md](QUE - How can we augment scientific creativity with computational analogy.md)
-- **Informs::** [QUE - How might domain distance modulate the effects of analogies on creative output.md](QUE - How might domain distance modulate the effects of analogies on creative output.md)
-- **Informs::** [QUE - What is analogy.md](QUE - What is analogy.md)
-
+- **Informs::** [[CLM - There is a 'Sweet Spot' in Analogical Distance. Somewhat far analogies lead to better creative outcomes than very near or very far analogies]]
+- **Informs::** [[CLM - Analogies are fundamentally about relational similarity]]
+- **Informs::** [[QUE - How can we augment scientific creativity with computational analogy]]
+- **Informs::** [[QUE - How might domain distance modulate the effects of analogies on creative output]]
+- **Informs::** [[QUE - What is analogy]]

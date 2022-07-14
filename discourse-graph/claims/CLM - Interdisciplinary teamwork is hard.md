@@ -17,7 +17,6 @@ date: Thu Aug 20 2020 17:26:58 GMT-0400 (Eastern Daylight Time)
 
 ###### Discourse Context
 
-- **Informed By::** [@baronSynthesisCentersCritical2017.md](@baronSynthesisCentersCritical2017.md)
-- **Informed By::** [@palmerWorkBoundariesScience2001.md](@palmerWorkBoundariesScience2001.md)
-- **Informed By::** [@kaneMultidisciplinaryTeamMeetings2007.md](@kaneMultidisciplinaryTeamMeetings2007.md)
-
+- **Informed By::** [[@baronSynthesisCentersCritical2017]]
+- **Informed By::** [[@palmerWorkBoundariesScience2001]]
+- **Informed By::** [[@kaneMultidisciplinaryTeamMeetings2007]]

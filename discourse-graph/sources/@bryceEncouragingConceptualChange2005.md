@@ -59,6 +59,5 @@ date: Tue Nov 23 2021 10:19:41 GMT-0500 (Eastern Standard Time)
 
 ###### Discourse Context
 
-- **SourceFor::** [EVD - Students were able to alter their conceptions after being provided with bridging analogies - @bryceEncouragingConceptualChange2005.md](EVD - Students were able to alter their conceptions after being provided with bridging analogies - @bryceEncouragingConceptualChange2005.md)
-- **SourceFor::** [EVD - Students were mixed in their subjective opinion of whether or not the bridging analogies aided in their misconceptions. - @bryceEncouragingConceptualChange2005.md](EVD - Students were mixed in their subjective opinion of whether or not the bridging analogies aided in their misconceptions. - @bryceEncouragingConceptualChange2005.md)
-
+- **SourceFor::** [[EVD - Students were able to alter their conceptions after being provided with bridging analogies - @bryceEncouragingConceptualChange2005]]
+- **SourceFor::** [[EVD - Students were mixed in their subjective opinion of whether or not the bridging analogies aided in their misconceptions. - @bryceEncouragingConceptualChange2005]]

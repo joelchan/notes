@@ -19,7 +19,6 @@ date: Tue Jul 28 2020 20:51:48 GMT-0400 (Eastern Daylight Time)
 
 ###### Discourse Context
 
-- **Informed By::** [@ackermanSharingKnowledgeExpertise2013.md](@ackermanSharingKnowledgeExpertise2013.md)
-- **Informed By::** [@shipmanFormalityConsideredHarmful1999.md](@shipmanFormalityConsideredHarmful1999.md)
-- **Informed By::** [@poirierTurnScruffyEthnographic2017.md](@poirierTurnScruffyEthnographic2017.md)
-
+- **Informed By::** [[@ackermanSharingKnowledgeExpertise2013]]
+- **Informed By::** [[@shipmanFormalityConsideredHarmful1999]]
+- **Informed By::** [[@poirierTurnScruffyEthnographic2017]]

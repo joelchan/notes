@@ -17,10 +17,9 @@ date: Tue Dec 28 2021 21:17:04 GMT-0500 (Eastern Standard Time)
 
 ###### Discourse Context
 
-- **Informs::** [QUE - How can we best bridge private vs. public knowledge.md](QUE - How can we best bridge private vs. public knowledge.md)
-- **Informs::** [QUE - Under what conditions do diverse initial examples lead to better final design solutions.md](QUE - Under what conditions do diverse initial examples lead to better final design solutions.md)
-- **Informs::** [THE - interaction-oriented theory of creative inspiration from examples.md](THE - interaction-oriented theory of creative inspiration from examples.md)
-- **SourceFor::** [EVD - professional designers curated examples to understand trends and design approaches to inform .... simple direct transfer of solution approaches - @sharminUnderstandingKnowledgeManagement2009b.md](EVD - professional designers curated examples to understand trends and design approaches to inform .... simple direct transfer of solution approaches - @sharminUnderstandingKnowledgeManagement2009b.md)
-- **SourceFor::** [EVD - professional designers were highly motivated to and often did share and retrieve ideas and ex...document ideas in shared repositories and wikis - @sharminUnderstandingKnowledgeManagement2009b.md](EVD - professional designers were highly motivated to and often did share and retrieve ideas and ex...document ideas in shared repositories and wikis - @sharminUnderstandingKnowledgeManagement2009b.md)
-- **SourceFor::** [EVD - professional designers lacked robust and consistent organization and metadata for ideas and examples, which hampered reuse - @sharminUnderstandingKnowledgeManagement2009b.md](EVD - professional designers lacked robust and consistent organization and metadata for ideas and examples, which hampered reuse - @sharminUnderstandingKnowledgeManagement2009b.md)
-
+- **Informs::** [[QUE - How can we best bridge private vs. public knowledge]]
+- **Informs::** [[QUE - Under what conditions do diverse initial examples lead to better final design solutions]]
+- **Informs::** [[THE - interaction-oriented theory of creative inspiration from examples]]
+- **SourceFor::** [[EVD - professional designers curated examples to understand trends and design approaches to inform .... simple direct transfer of solution approaches - @sharminUnderstandingKnowledgeManagement2009b]]
+- **SourceFor::** [[EVD - professional designers were highly motivated to and often did share and retrieve ideas and ex...document ideas in shared repositories and wikis - @sharminUnderstandingKnowledgeManagement2009b]]
+- **SourceFor::** [[EVD - professional designers lacked robust and consistent organization and metadata for ideas and examples, which hampered reuse - @sharminUnderstandingKnowledgeManagement2009b]]

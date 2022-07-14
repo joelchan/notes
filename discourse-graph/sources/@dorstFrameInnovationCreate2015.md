@@ -43,6 +43,5 @@ date: Thu Oct 08 2020 15:54:03 GMT-0400 (Eastern Daylight Time)
 
 ###### Discourse Context
 
-- **Informs::** [CLM - Core mismatches in analogical inspiration improve creativity.md](CLM - Core mismatches in analogical inspiration improve creativity.md)
-- **Informs::** [CLM - Analogies can power creative breakthroughs by stimulating effective problem (re)formulation.md](CLM - Analogies can power creative breakthroughs by stimulating effective problem (re)formulation.md)
-
+- **Informs::** [[CLM - Core mismatches in analogical inspiration improve creativity]]
+- **Informs::** [[CLM - Analogies can power creative breakthroughs by stimulating effective problem (re)formulation]]

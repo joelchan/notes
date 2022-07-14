@@ -48,6 +48,5 @@ date: Wed Jul 14 2021 13:59:18 GMT-0400 (Eastern Daylight Time)
 
 ###### Discourse Context
 
-- **Informs::** [QUE - What tension points exist between the goals of diversity and depth of user participation in participatory design.md](QUE - What tension points exist between the goals of diversity and depth of user participation in participatory design.md)
-- **FromSource::** [@yipBrowniesBagsofstuffDomain2013.md](@yipBrowniesBagsofstuffDomain2013.md)
-
+- **Informs::** [[QUE - What tension points exist between the goals of diversity and depth of user participation in participatory design]]
+- **FromSource::** [[@yipBrowniesBagsofstuffDomain2013]]

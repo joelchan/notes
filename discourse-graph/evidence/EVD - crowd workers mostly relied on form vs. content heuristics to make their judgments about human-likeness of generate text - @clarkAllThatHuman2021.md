@@ -10,5 +10,4 @@ date: Wed Dec 01 2021 14:35:21 GMT-0500 (Eastern Standard Time)
 
 ###### Discourse Context
 
-- **FromSource::** [@clarkAllThatHuman2021.md](@clarkAllThatHuman2021.md)
-
+- **FromSource::** [[@clarkAllThatHuman2021]]

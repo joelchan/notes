@@ -35,12 +35,11 @@ date: Tue Feb 18 2020 09:19:02 GMT-0500 (Eastern Standard Time)
 
 ###### Discourse Context
 
-- **Informed By::** [@siangliulueIdeaHoundImprovingLargescale2016.md](@siangliulueIdeaHoundImprovingLargescale2016.md)
-- **Informed By::** [@hillEditWearRead1992.md](@hillEditWearRead1992.md)
-- **Informed By::** [@kimUnderstandingInvideoDropouts2014.md](@kimUnderstandingInvideoDropouts2014.md)
-- **Informed By::** [@kimDatadrivenInteractionTechniques2014.md](@kimDatadrivenInteractionTechniques2014.md)
-- **Informed By::** [@weirLearnersourcingSubgoalLabels2015.md](@weirLearnersourcingSubgoalLabels2015.md)
-- **Informed By::** [@kimCrowdsourcingStepbystepInformation2014.md](@kimCrowdsourcingStepbystepInformation2014.md)
-- **Informed By::** [@andreCommunityClusteringLeveraging2013.md](@andreCommunityClusteringLeveraging2013.md)
-- **Informed By::** [@chiltonFrenzyCollaborativeData2014.md](@chiltonFrenzyCollaborativeData2014.md)
-
+- **Informed By::** [[@siangliulueIdeaHoundImprovingLargescale2016]]
+- **Informed By::** [[@hillEditWearRead1992]]
+- **Informed By::** [[@kimUnderstandingInvideoDropouts2014]]
+- **Informed By::** [[@kimDatadrivenInteractionTechniques2014]]
+- **Informed By::** [[@weirLearnersourcingSubgoalLabels2015]]
+- **Informed By::** [[@kimCrowdsourcingStepbystepInformation2014]]
+- **Informed By::** [[@andreCommunityClusteringLeveraging2013]]
+- **Informed By::** [[@chiltonFrenzyCollaborativeData2014]]

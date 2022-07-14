@@ -7,12 +7,8 @@
         "id": "452403bb402bdb59",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "discourse-graph/questions/QUE - How might domain distance modulate the effects of analogies on creative output.md",
-            "mode": "source",
-            "source": false
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -77,7 +73,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "discourse-graph/questions/QUE - How might domain distance modulate the effects of analogies on creative output.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +89,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "discourse-graph/questions/QUE - How might domain distance modulate the effects of analogies on creative output.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -116,26 +110,61 @@
             "type": "leaf",
             "state": {
               "type": "outline",
+              "state": {}
+            }
+          },
+          {
+            "id": "440a46d6d498522d",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
               "state": {
-                "file": "discourse-graph/questions/QUE - How might domain distance modulate the effects of analogies on creative output.md"
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 1,
+                  "close": false
+                }
               }
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 438.5
   },
-  "active": "452403bb402bdb59",
+  "active": "fbb0332023157d88",
   "lastOpenFiles": [
-    "discourse-graph/sources/@dunbarHowScientistsThink1997.md",
-    "discourse-graph/questions/QUE - How might domain distance modulate the effects of analogies on creative output.md",
-    "discourse-graph/questions/QUE - What (existing) systems facilitate individual synthesis.md",
-    "discourse-graph/evidence/EVD - Almost half of the pages in Darwin's notebooks were excised - @herbertRedNotebookCharles1980.md",
-    "discourse-graph/claims/CLM - A synthesis system needs to operate on a unit of analysis that is more granular than a publication.md",
-    "README.md",
-    "discourse-graph/claims/CLM - A significant proportion of the benefits of analogical stimuli is oblique or indirect.md"
+    "discourse-graph/sources/@victorHumaneRepresentationThought2014.md",
+    "discourse-graph/sources/@luciani2018machine.md",
+    "discourse-graph/questions/QUE - How can we best bridge private vs. public knowledge.md",
+    "discourse-graph/claims/CLM - Most private annotations aren't useful to other people.md",
+    "discourse-graph/questions/QUE - How can we measure efficacy of creativity support systems.md",
+    "discourse-graph/questions/QUE - How and in what ways is collocation important for collaborative innovation.md",
+    "discourse-graph/claims/CLM - Physical proximity greatly facilitates initiation of new collaborations.md",
+    "discourse-graph/questions/QUE - Do scholarly synthesis infrastructures already exist.md",
+    "discourse-graph/questions/QUE - Can hypertext notetaking systems enhance cognitive flexibility.md",
+    "discourse-graph/sources/@spiroCognitiveFlexibilityTheory1988.md"
   ]
 }

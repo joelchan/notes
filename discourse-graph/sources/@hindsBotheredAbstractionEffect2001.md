@@ -29,6 +29,5 @@ date: Wed Feb 17 2021 13:20:32 GMT-0500 (Eastern Standard Time)
 
 ###### Discourse Context
 
-- **Informs::** [QUE - What factors control whether people appropriately benefit from analogies (especially far-field ones) during creative problem solving.md](QUE - What factors control whether people appropriately benefit from analogies (especially far-field ones) during creative problem solving.md)
-- **Informs::** [QUE - Under what conditions is it possible to transfer expertise from one person to another.md](QUE - Under what conditions is it possible to transfer expertise from one person to another.md)
-
+- **Informs::** [[QUE - What factors control whether people appropriately benefit from analogies (especially far-field ones) during creative problem solving]]
+- **Informs::** [[QUE - Under what conditions is it possible to transfer expertise from one person to another]]

@@ -29,7 +29,6 @@ date: Wed Jun 23 2021 10:37:21 GMT-0400 (Eastern Daylight Time)
 
 ###### Discourse Context
 
-- **Informs::** [QUE - How can we best bridge private vs. public knowledge.md](QUE - How can we best bridge private vs. public knowledge.md)
-- **Informs::** [QUE - What (existing) systems facilitate individual synthesis.md](QUE - What (existing) systems facilitate individual synthesis.md)
-- **Informs::** [QUE - What user behaviors are scholars doing already that specifies structure for synthesis.md](QUE - What user behaviors are scholars doing already that specifies structure for synthesis.md)
-
+- **Informs::** [[QUE - How can we best bridge private vs. public knowledge]]
+- **Informs::** [[QUE - What (existing) systems facilitate individual synthesis]]
+- **Informs::** [[QUE - What user behaviors are scholars doing already that specifies structure for synthesis]]

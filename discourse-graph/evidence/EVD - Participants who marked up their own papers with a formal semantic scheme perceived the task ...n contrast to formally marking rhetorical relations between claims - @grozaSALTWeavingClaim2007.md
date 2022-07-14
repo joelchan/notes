@@ -34,4 +34,4 @@ date: Thu Jun 30 2022 21:59:47 GMT-0400 (Eastern Daylight Time)
 
 ###### Discourse Context
 
-- **FromSource::** [@grozaSALTWeavingClaim2007.md](@grozaSALTWeavingClaim2007.md)
+- **FromSource::** [[@grozaSALTWeavingClaim2007]]

@@ -81,5 +81,4 @@ date: Tue Mar 03 2020 16:39:16 GMT-0500 (Eastern Standard Time)
 
 ###### Discourse Context
 
-- **Informs::** [CLM - Dedicated business centers are an effective way for libraries to serve information needs of businesses in a comprehensive way.md](CLM - Dedicated business centers are an effective way for libraries to serve information needs of businesses in a comprehensive way.md)
-
+- **Informs::** [[CLM - Dedicated business centers are an effective way for libraries to serve information needs of businesses in a comprehensive way]]

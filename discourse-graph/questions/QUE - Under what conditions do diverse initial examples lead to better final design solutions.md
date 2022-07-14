@@ -213,59 +213,58 @@ date: Sat Aug 08 2020 22:38:19 GMT-0400 (Eastern Daylight Time)
 
 ###### Discourse Context
 
-- **Informed By::** [EVD - designers used examples by re-appropriating and recombining solution components into novel ideas - @herringGettingInspiredUnderstanding2009.md](EVD - designers used examples by re-appropriating and recombining solution components into novel ideas - @herringGettingInspiredUnderstanding2009.md)
-- **Informed By::** [EVD - groups generated more ideas within categories when individuals were given high-related (vs. low-related) categories - @baruahCategoryAssignmentRelatedness2011.md](EVD - groups generated more ideas within categories when individuals were given high-related (vs. low-related) categories - @baruahCategoryAssignmentRelatedness2011.md)
-- **Informed By::** [EVD - groups given low-related categories of solutions ended up exploring more categories in their solutions compared to high-related category groups - @baruahCategoryAssignmentRelatedness2011.md](EVD - groups given low-related categories of solutions ended up exploring more categories in their solutions compared to high-related category groups - @baruahCategoryAssignmentRelatedness2011.md)
-- **Informed By::** [EVD - designers used examples to shape their understanding of the problem before generating solutions - @herringGettingInspiredUnderstanding2009.md](EVD - designers used examples to shape their understanding of the problem before generating solutions - @herringGettingInspiredUnderstanding2009.md)
-- **Informed By::** [EVD - case-based reasoning system loaded with diverse cases increased overall novelty of ad campaign ideas, but only for people with lower creative ability - @althuizenSupportingCreativeProblem2014.md](EVD - case-based reasoning system loaded with diverse cases increased overall novelty of ad campaign ideas, but only for people with lower creative ability - @althuizenSupportingCreativeProblem2014.md)
-- **Informed By::** [EVD - case-based reasoning system loaded with diverse cases increased overall usefulness and creati...as, especially for people with lower creative ability - @althuizenSupportingCreativeProblem2014.md](EVD - case-based reasoning system loaded with diverse cases increased overall usefulness and creati...as, especially for people with lower creative ability - @althuizenSupportingCreativeProblem2014.md)
-- **Informed By::** [EVD - Final advertisements from designers who prototyped designs in parallel performed better on ad...ompared to ads from designers who prototype designs serially - @dowParallelPrototypingLeads2010.md](EVD - Final advertisements from designers who prototyped designs in parallel performed better on ad...ompared to ads from designers who prototype designs serially - @dowParallelPrototypingLeads2010.md)
-- **Informed By::** [EVD - Designers who prototyped designs in parallel generated more diverse designs compared to designers who prototyped serially - @dowParallelPrototypingLeads2010.md](EVD - Designers who prototyped designs in parallel generated more diverse designs compared to designers who prototyped serially - @dowParallelPrototypingLeads2010.md)
-- **Informed By::** [EVD - Design students generated more creative web service ideas when combining interdomain web service examples, compared to intradomain examples - @zengFosteringCreativityProduct2011.md](EVD - Design students generated more creative web service ideas when combining interdomain web service examples, compared to intradomain examples - @zengFosteringCreativityProduct2011.md)
-- **Informed By::** [EVD - Only small business owners with high divergent thinking ability generated more ideas with diverse (vs. constrained) stimuli - @gielnikCreativityOpportunityIdentification2011.md](EVD - Only small business owners with high divergent thinking ability generated more ideas with diverse (vs. constrained) stimuli - @gielnikCreativityOpportunityIdentification2011.md)
-- **Informed By::** [EVD - Only small business owners with high divergent thinking ability generated more original ideas with diverse (vs. constrained) stimuli - @gielnikCreativityOpportunityIdentification2011.md](EVD - Only small business owners with high divergent thinking ability generated more original ideas with diverse (vs. constrained) stimuli - @gielnikCreativityOpportunityIdentification2011.md)
-- **Informed By::** [CLM - people with lower propensity or capacity to explore benefit less from diverse information during ideation.md](CLM - people with lower propensity or capacity to explore benefit less from diverse information during ideation.md)
-- **Informed By::** [CLM - Examples can improve creative outcomes by stimulating more exploration away from obvious starting points.md](CLM - Examples can improve creative outcomes by stimulating more exploration away from obvious starting points.md)
-- **Informed By::** [CLM - diverse examples improve creative outcomes by enabling novel conceptual integrations.md](CLM - diverse examples improve creative outcomes by enabling novel conceptual integrations.md)
-- **Informed By::** [CLM - examples can improve creative outcomes by enabling more robust (re)modeling of the problem space.md](CLM - examples can improve creative outcomes by enabling more robust (re)modeling of the problem space.md)
-- **Informed By::** [@chaseExploringVariationExamples2012.md](@chaseExploringVariationExamples2012.md)
-- **Informed By::** [@zengFosteringCreativityProduct2011.md](@zengFosteringCreativityProduct2011.md)
-- **Informed By::** [@chanSemanticallyFarInspirations2017.md](@chanSemanticallyFarInspirations2017.md)
-- **Informed By::** [@xuIdeateRelateExamplesGallery2021.md](@xuIdeateRelateExamplesGallery2021.md)
-- **Informed By::** [@licalziPowerDiversityLarge2012.md](@licalziPowerDiversityLarge2012.md)
-- **Informed By::** [@baruahCategoryAssignmentRelatedness2011.md](@baruahCategoryAssignmentRelatedness2011.md)
-- **Informed By::** [@sosaAccretionTheoryIdeation2019.md](@sosaAccretionTheoryIdeation2019.md)
-- **Informed By::** [@althuizenSupportingCreativeProblem2014.md](@althuizenSupportingCreativeProblem2014.md)
-- **Informed By::** [@dowParallelPrototypingLeads2010.md](@dowParallelPrototypingLeads2010.md)
-- **Informed By::** [@sharminUnderstandingKnowledgeManagement2009b.md](@sharminUnderstandingKnowledgeManagement2009b.md)
-- **Informed By::** [@wilkenfeldSimilarityEmergenceConceptual2001.md](@wilkenfeldSimilarityEmergenceConceptual2001.md)
-- **Informed By::** [@leeDesigningInteractiveExample2010.md](@leeDesigningInteractiveExample2010.md)
-- **Informed By::** [@millerSearchingInspirationInDepth2014.md](@millerSearchingInspirationInDepth2014.md)
-- **Informed By::** [@gielnikCreativityOpportunityIdentification2011.md](@gielnikCreativityOpportunityIdentification2011.md)
-- **Informed By::** [@baughmanProcessanalyticModelsCreative1995.md](@baughmanProcessanalyticModelsCreative1995.md)
-- **Informed By::** [@jangEffectImageStimulus2014.md](@jangEffectImageStimulus2014.md)
-- **Informed By::** [@eckertAdaptationSourcesInspiration2003.md](@eckertAdaptationSourcesInspiration2003.md)
-- **Informed By::** [@rothenbergJanusianProcessScientific1996.md](@rothenbergJanusianProcessScientific1996.md)
-- **Informed By::** [@wuExploringDesignersPractice2021.md](@wuExploringDesignersPractice2021.md)
-- **Informed By::** [@kilgourWhyHowCreative2009.md](@kilgourWhyHowCreative2009.md)
-- **Informed By::** [@hargadonTechnologyBrokeringInnovation1997.md](@hargadonTechnologyBrokeringInnovation1997.md)
-- **Informed By::** [@kimHowFloristApprentices2021.md](@kimHowFloristApprentices2021.md)
-- **Informed By::** [@nagaiConceptBlendingDissimilarity2009.md](@nagaiConceptBlendingDissimilarity2009.md)
-- **Informed By::** [@tauraDesignSpaceBlending2005.md](@tauraDesignSpaceBlending2005.md)
-- **Informed By::** [@helmsCompoundAnalogicalDesign2008.md](@helmsCompoundAnalogicalDesign2008.md)
-- **Informed By::** [@tohImpactExampleModality2014.md](@tohImpactExampleModality2014.md)
-- **Informed By::** [@rhyscoxDirectedDiversityLeveraging2021.md](@rhyscoxDirectedDiversityLeveraging2021.md)
-- **Informed By::** [@guoImpactSemanticRelevance2014.md](@guoImpactSemanticRelevance2014.md)
-- **Informed By::** [@wisniewskiConceptualCombinationPossibilities1997.md](@wisniewskiConceptualCombinationPossibilities1997.md)
-- **Informed By::** [@mumfordPickingRightMaterial2003.md](@mumfordPickingRightMaterial2003.md)
-- **Informed By::** [@nijstadCognitiveStimulationInterference2002.md](@nijstadCognitiveStimulationInterference2002.md)
-- **Informed By::** [@nagleJackAllTrades2020.md](@nagleJackAllTrades2020.md)
-- **Informed By::** [@siangliulueProvidingTimelyExamples2015.md](@siangliulueProvidingTimelyExamples2015.md)
-- **Informed By::** [@doboliTwoExperimentalStudies2014.md](@doboliTwoExperimentalStudies2014.md)
-- **Informed By::** [@birdsellCreativeCognitionConceptual2019.md](@birdsellCreativeCognitionConceptual2019.md)
-- **Informed By::** [@mobleyProcessAnalyticModels1992.md](@mobleyProcessAnalyticModels1992.md)
-- **Informed By::** [@kerneStrategiesFreeFormWeb2017.md](@kerneStrategiesFreeFormWeb2017.md)
-- **Informed By::** [@herringGettingInspiredUnderstanding2009.md](@herringGettingInspiredUnderstanding2009.md)
-- **Informed By::** [@siangliulueCollaborativeIdeationScale2015.md](@siangliulueCollaborativeIdeationScale2015.md)
-- **Informed By::** [@wisniewskiWhenConceptsCombine1997.md](@wisniewskiWhenConceptsCombine1997.md)
-
+- **Informed By::** [[EVD - designers used examples by re-appropriating and recombining solution components into novel ideas - @herringGettingInspiredUnderstanding2009]]
+- **Informed By::** [[EVD - groups generated more ideas within categories when individuals were given high-related (vs. low-related) categories - @baruahCategoryAssignmentRelatedness2011]]
+- **Informed By::** [[EVD - groups given low-related categories of solutions ended up exploring more categories in their solutions compared to high-related category groups - @baruahCategoryAssignmentRelatedness2011]]
+- **Informed By::** [[EVD - designers used examples to shape their understanding of the problem before generating solutions - @herringGettingInspiredUnderstanding2009]]
+- **Informed By::** [[EVD - case-based reasoning system loaded with diverse cases increased overall novelty of ad campaign ideas, but only for people with lower creative ability - @althuizenSupportingCreativeProblem2014]]
+- **Informed By::** [[EVD - case-based reasoning system loaded with diverse cases increased overall usefulness and creati...as, especially for people with lower creative ability - @althuizenSupportingCreativeProblem2014]]
+- **Informed By::** [[EVD - Final advertisements from designers who prototyped designs in parallel performed better on ad...ompared to ads from designers who prototype designs serially - @dowParallelPrototypingLeads2010]]
+- **Informed By::** [[EVD - Designers who prototyped designs in parallel generated more diverse designs compared to designers who prototyped serially - @dowParallelPrototypingLeads2010]]
+- **Informed By::** [[EVD - Design students generated more creative web service ideas when combining interdomain web service examples, compared to intradomain examples - @zengFosteringCreativityProduct2011]]
+- **Informed By::** [[EVD - Only small business owners with high divergent thinking ability generated more ideas with diverse (vs. constrained) stimuli - @gielnikCreativityOpportunityIdentification2011]]
+- **Informed By::** [[EVD - Only small business owners with high divergent thinking ability generated more original ideas with diverse (vs. constrained) stimuli - @gielnikCreativityOpportunityIdentification2011]]
+- **Informed By::** [[CLM - people with lower propensity or capacity to explore benefit less from diverse information during ideation]]
+- **Informed By::** [[CLM - Examples can improve creative outcomes by stimulating more exploration away from obvious starting points]]
+- **Informed By::** [[CLM - diverse examples improve creative outcomes by enabling novel conceptual integrations]]
+- **Informed By::** [[CLM - examples can improve creative outcomes by enabling more robust (re)modeling of the problem space]]
+- **Informed By::** [[@chaseExploringVariationExamples2012]]
+- **Informed By::** [[@zengFosteringCreativityProduct2011]]
+- **Informed By::** [[@chanSemanticallyFarInspirations2017]]
+- **Informed By::** [[@xuIdeateRelateExamplesGallery2021]]
+- **Informed By::** [[@licalziPowerDiversityLarge2012]]
+- **Informed By::** [[@baruahCategoryAssignmentRelatedness2011]]
+- **Informed By::** [[@sosaAccretionTheoryIdeation2019]]
+- **Informed By::** [[@althuizenSupportingCreativeProblem2014]]
+- **Informed By::** [[@dowParallelPrototypingLeads2010]]
+- **Informed By::** [[@sharminUnderstandingKnowledgeManagement2009b]]
+- **Informed By::** [[@wilkenfeldSimilarityEmergenceConceptual2001]]
+- **Informed By::** [[@leeDesigningInteractiveExample2010]]
+- **Informed By::** [[@millerSearchingInspirationInDepth2014]]
+- **Informed By::** [[@gielnikCreativityOpportunityIdentification2011]]
+- **Informed By::** [[@baughmanProcessanalyticModelsCreative1995]]
+- **Informed By::** [[@jangEffectImageStimulus2014]]
+- **Informed By::** [[@eckertAdaptationSourcesInspiration2003]]
+- **Informed By::** [[@rothenbergJanusianProcessScientific1996]]
+- **Informed By::** [[@wuExploringDesignersPractice2021]]
+- **Informed By::** [[@kilgourWhyHowCreative2009]]
+- **Informed By::** [[@hargadonTechnologyBrokeringInnovation1997]]
+- **Informed By::** [[@kimHowFloristApprentices2021]]
+- **Informed By::** [[@nagaiConceptBlendingDissimilarity2009]]
+- **Informed By::** [[@tauraDesignSpaceBlending2005]]
+- **Informed By::** [[@helmsCompoundAnalogicalDesign2008]]
+- **Informed By::** [[@tohImpactExampleModality2014]]
+- **Informed By::** [[@rhyscoxDirectedDiversityLeveraging2021]]
+- **Informed By::** [[@guoImpactSemanticRelevance2014]]
+- **Informed By::** [[@wisniewskiConceptualCombinationPossibilities1997]]
+- **Informed By::** [[@mumfordPickingRightMaterial2003]]
+- **Informed By::** [[@nijstadCognitiveStimulationInterference2002]]
+- **Informed By::** [[@nagleJackAllTrades2020]]
+- **Informed By::** [[@siangliulueProvidingTimelyExamples2015]]
+- **Informed By::** [[@doboliTwoExperimentalStudies2014]]
+- **Informed By::** [[@birdsellCreativeCognitionConceptual2019]]
+- **Informed By::** [[@mobleyProcessAnalyticModels1992]]
+- **Informed By::** [[@kerneStrategiesFreeFormWeb2017]]
+- **Informed By::** [[@herringGettingInspiredUnderstanding2009]]
+- **Informed By::** [[@siangliulueCollaborativeIdeationScale2015]]
+- **Informed By::** [[@wisniewskiWhenConceptsCombine1997]]

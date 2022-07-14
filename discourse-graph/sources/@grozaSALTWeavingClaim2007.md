@@ -113,7 +113,6 @@ date: Mon Jun 15 2020 15:13:20 GMT-0400 (Eastern Daylight Time)
 
 ###### Discourse Context
 
-- **Informs::** [QUE - What is the user experience of semantic authoring within regular scholarly workflows.md](QUE - What is the user experience of semantic authoring within regular scholarly workflows.md)
-- **SourceFor::** [EVD - Participants who marked up their own papers with a formal semantic scheme perceived the task ...n contrast to formally marking rhetorical relations between claims - @grozaSALTWeavingClaim2007.md](EVD - Participants who marked up their own papers with a formal semantic scheme perceived the task ...n contrast to formally marking rhetorical relations between claims - @grozaSALTWeavingClaim2007.md)
-- **SourceFor::** [EVD - Participants who marked up their own papers with a formal semantic scheme self-reported that ...d less clear in terms of payoff compared to formally making claims - @grozaSALTWeavingClaim2007.md](EVD - Participants who marked up their own papers with a formal semantic scheme self-reported that ...d less clear in terms of payoff compared to formally making claims - @grozaSALTWeavingClaim2007.md)
-
+- **Informs::** [[QUE - What is the user experience of semantic authoring within regular scholarly workflows]]
+- **SourceFor::** [[EVD - Participants who marked up their own papers with a formal semantic scheme perceived the task ...n contrast to formally marking rhetorical relations between claims - @grozaSALTWeavingClaim2007]]
+- **SourceFor::** [[EVD - Participants who marked up their own papers with a formal semantic scheme self-reported that ...d less clear in terms of payoff compared to formally making claims - @grozaSALTWeavingClaim2007]]

@@ -37,4 +37,4 @@ date: Mon Jun 29 2020 10:32:04 GMT-0400 (Eastern Daylight Time)
 
 ###### Discourse Context
 
-- **Informs::** [CLM - Designing with machine learning as a design material is challenging.md](CLM - Designing with machine learning as a design material is challenging.md)
+- **Informs::** [[CLM - Designing with machine learning as a design material is challenging]]

@@ -39,10 +39,10 @@ date: Thu Dec 30 2021 16:21:40 GMT-0500 (Eastern Standard Time)
 
 ###### Discourse Context
 
-- **Informs::** [THE - interaction-oriented theory of creative inspiration from examples.md](THE - interaction-oriented theory of creative inspiration from examples.md)
-- **Supports::** [CLM - examples can improve creative outcomes by enabling more robust (re)modeling of the problem space.md](CLM - examples can improve creative outcomes by enabling more robust (re)modeling of the problem space.md)
-- **Supports::** [CLM - creative workers use examples to support problem (re)formulation.md](CLM - creative workers use examples to support problem (re)formulation.md)
-- **Consistent With::** [EVD - Engineering design students used multiple cross-domain analogies to fulfill design needs, and...on of how to decompose the problem and find new analogies. - @helmsCompoundAnalogicalDesign2008.md](EVD - Engineering design students used multiple cross-domain analogies to fulfill design needs, and...on of how to decompose the problem and find new analogies. - @helmsCompoundAnalogicalDesign2008.md)
-- **Consistent With::** [EVD - Two artists used individual artworks to shape not just their ideas, but used a process of ana...ion. This process unfolded over the course of years. - @okadaAnalogicalModificationCreation2009.md](EVD - Two artists used individual artworks to shape not just their ideas, but used a process of ana...ion. This process unfolded over the course of years. - @okadaAnalogicalModificationCreation2009.md)
-- **Consistent With::** [EVD - designers used examples to shape their understanding of the problem before generating solutions - @herringGettingInspiredUnderstanding2009.md](EVD - designers used examples to shape their understanding of the problem before generating solutions - @herringGettingInspiredUnderstanding2009.md)
-- **FromSource::** [@sharminUnderstandingKnowledgeManagement2009b.md](@sharminUnderstandingKnowledgeManagement2009b.md)
+- **Informs::** [[THE - interaction-oriented theory of creative inspiration from examples]]
+- **Supports::** [[CLM - examples can improve creative outcomes by enabling more robust (re)modeling of the problem space]]
+- **Supports::** [[CLM - creative workers use examples to support problem (re)formulation]]
+- **Consistent With::** [[EVD - Engineering design students used multiple cross-domain analogies to fulfill design needs, and...on of how to decompose the problem and find new analogies. - @helmsCompoundAnalogicalDesign2008]]
+- **Consistent With::** [[EVD - Two artists used individual artworks to shape not just their ideas, but used a process of ana...ion. This process unfolded over the course of years. - @okadaAnalogicalModificationCreation2009]]
+- **Consistent With::** [[EVD - designers used examples to shape their understanding of the problem before generating solutions - @herringGettingInspiredUnderstanding2009]]
+- **FromSource::** [[@sharminUnderstandingKnowledgeManagement2009b]]

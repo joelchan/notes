@@ -37,7 +37,6 @@ date: Thu Nov 04 2021 19:46:28 GMT-0400 (Eastern Daylight Time)
 
 ###### Discourse Context
 
-- **Informs::** [CLM - transformer language models have some analogical reasoning ability.md](CLM - transformer language models have some analogical reasoning ability.md)
-- **Informs::** [QUE - Can deep learning discover analogical representations.md](QUE - Can deep learning discover analogical representations.md)
-- **Informs::** [QUE - What do we know about transformer language models' natural language generation capabilities.md](QUE - What do we know about transformer language models' natural language generation capabilities.md)
-
+- **Informs::** [[CLM - transformer language models have some analogical reasoning ability]]
+- **Informs::** [[QUE - Can deep learning discover analogical representations]]
+- **Informs::** [[QUE - What do we know about transformer language models' natural language generation capabilities]]

@@ -16,4 +16,4 @@ date: Wed Nov 10 2021 11:41:32 GMT-0500 (Eastern Standard Time)
 
 ###### Discourse Context
 
-- **Informs::** [CLM - transformer language models have some analogical reasoning ability.md](CLM - transformer language models have some analogical reasoning ability.md)
+- **Informs::** [[CLM - transformer language models have some analogical reasoning ability]]

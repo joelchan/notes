@@ -9,4 +9,4 @@ date: Fri Sep 18 2020 12:12:37 GMT-0400 (Eastern Daylight Time)
 
 ###### Discourse Context
 
-- **Informs::** [QUE - How can we augment scientific creativity with computational analogy.md](QUE - How can we augment scientific creativity with computational analogy.md)
+- **Informs::** [[QUE - How can we augment scientific creativity with computational analogy]]

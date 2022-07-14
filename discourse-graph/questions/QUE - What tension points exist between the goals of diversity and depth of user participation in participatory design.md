@@ -1405,138 +1405,137 @@ date: Tue Dec 08 2020 11:35:17 GMT-0500 (Eastern Standard Time)
 
 ###### Discourse Context
 
-- **Informed By::** [EVD - Sex-trafficking survivor organization staff members would sometimes speak of and for the survivors when talking about their needs - @gautamParticipatoryTensionsWorking2018.md](EVD - Sex-trafficking survivor organization staff members would sometimes speak of and for the survivors when talking about their needs - @gautamParticipatoryTensionsWorking2018.md)
-- **Informed By::** [EVD - Low-income, African-American older adults perceived ideation materials used for brainstorming as infantilizing and belittling - @harringtonDeconstructingCommunityBasedCollaborative2019.md](EVD - Low-income, African-American older adults perceived ideation materials used for brainstorming as infantilizing and belittling - @harringtonDeconstructingCommunityBasedCollaborative2019.md)
-- **Informed By::** [EVD - children with severe disabilities were not used to being active participants in design, becau...passive recipients and others spokedid things for them - @holoneThreeTensionsParticipatory2013b.md](EVD - children with severe disabilities were not used to being active participants in design, becau...passive recipients and others spokedid things for them - @holoneThreeTensionsParticipatory2013b.md)
-- **Informed By::** [EVD - Aboriginal informants expressed deep skepticism of evidence-based top-down models and perceived them as conflicting with more effective local knowledge - @butcherCommunityEngagementYouth2020.md](EVD - Aboriginal informants expressed deep skepticism of evidence-based top-down models and perceived them as conflicting with more effective local knowledge - @butcherCommunityEngagementYouth2020.md)
-- **Informed By::** [EVD - Older adults needed to use special take-home activities to escape self-stereotyping - @pradhanUnderstandingOlderAdults2020.md](EVD - Older adults needed to use special take-home activities to escape self-stereotyping - @pradhanUnderstandingOlderAdults2020.md)
-- **Informed By::** [EVD - Designers experienced issues with (and had to compromise) design activities, such as analogie...s due to cognitive and difficulties with focus and abstract ideas - @largeBondedDesignNovel2006.md](EVD - Designers experienced issues with (and had to compromise) design activities, such as analogie...s due to cognitive and difficulties with focus and abstract ideas - @largeBondedDesignNovel2006.md)
-- **Informed By::** [EVD - Due to liabilities of potentially inducing physical illness Usability testing was not possible -@tengParticipatoryDesignVirtual2019b.md](EVD - Due to liabilities of potentially inducing physical illness Usability testing was not possible -@tengParticipatoryDesignVirtual2019b.md)
-- **Informed By::** [EVD - Aboriginal informants expressed significant distrust of government and human service provider...egative history of misaligned time frames and incentives - @butcherCommunityEngagementYouth2020.md](EVD - Aboriginal informants expressed significant distrust of government and human service provider...egative history of misaligned time frames and incentives - @butcherCommunityEngagementYouth2020.md)
-- **Informed By::** [EVD - in one European municipality involved in a citizen participatory design project, progress was...neglected to budget for a dedicated community coordinator - @fitzpatrickQuadrupleHelixModel2018.md](EVD - in one European municipality involved in a citizen participatory design project, progress was...neglected to budget for a dedicated community coordinator - @fitzpatrickQuadrupleHelixModel2018.md)
-- **Informed By::** [EVD - Low-income, African-American older adults preferred realistic local-governance-based solutions over blue sky ideas - @harringtonDeconstructingCommunityBasedCollaborative2019.md](EVD - Low-income, African-American older adults preferred realistic local-governance-based solutions over blue sky ideas - @harringtonDeconstructingCommunityBasedCollaborative2019.md)
-- **Informed By::** [EVD - Low-income, African-American older adults were reluctant to share sensitive health informatio...h studies by the university hospital - @harringtonDeconstructingCommunityBasedCollaborative2019.md](EVD - Low-income, African-American older adults were reluctant to share sensitive health informatio...h studies by the university hospital - @harringtonDeconstructingCommunityBasedCollaborative2019.md)
-- **Informed By::** [EVD - helpers - who had to be present - sometimes made assumptions and spoke for children with disabilities during design activities - @holoneThreeTensionsParticipatory2013b.md](EVD - helpers - who had to be present - sometimes made assumptions and spoke for children with disabilities during design activities - @holoneThreeTensionsParticipatory2013b.md)
-- **Informed By::** [EVD - in design sessions with children, there were tensions between interpretation of the participant voice v. the stakeholder @frauenbergerInterpretingInputChildren2012a.md](EVD - in design sessions with children, there were tensions between interpretation of the participant voice v. the stakeholder @frauenbergerInterpretingInputChildren2012a.md)
-- **Informed By::** [EVD - success of one mixed-race community at influencing policy through ICTs depended on a single a...rns, and there were concerns over this being a bottleneck - @ereteEmpoweredParticipationHow2017.md](EVD - success of one mixed-race community at influencing policy through ICTs depended on a single a...rns, and there were concerns over this being a bottleneck - @ereteEmpoweredParticipationHow2017.md)
-- **Informed By::** [EVD - Teachers and helpers needed to be present in the beginning of PD session to help and make sur...were comfortable but were not needed in future sessions @frauenbergerDesigningSmartObjects2016a.md](EVD - Teachers and helpers needed to be present in the beginning of PD session to help and make sur...were comfortable but were not needed in future sessions @frauenbergerDesigningSmartObjects2016a.md)
-- **Informed By::** [EVD - Using language to evoke separation between participants with dementia and the design team was sometimes necessary to allow for honest feedback - @lindsayEmpathyParticipatoryDesign2012b.md](EVD - Using language to evoke separation between participants with dementia and the design team was sometimes necessary to allow for honest feedback - @lindsayEmpathyParticipatoryDesign2012b.md)
-- **Informed By::** [EVD - Design team modified photo elicitation method so sex trafficking survivor participants' faces were not shown, for safety concerns - @gautamParticipatoryTensionsWorking2018.md](EVD - Design team modified photo elicitation method so sex trafficking survivor participants' faces were not shown, for safety concerns - @gautamParticipatoryTensionsWorking2018.md)
-- **Informed By::** [EVD - Sex trafficking survivors shared concerns about painful experiences from writing their storie... elicitation method seemed to be a viable alternative - @gautamParticipatoryTensionsWorking2018.md](EVD - Sex trafficking survivors shared concerns about painful experiences from writing their storie... elicitation method seemed to be a viable alternative - @gautamParticipatoryTensionsWorking2018.md)
-- **Informed By::** [EVD - Option to move around the physical space allowed for my flexibility and freedom for children @frauenbergerDesigningSmartObjects2016a.md](EVD - Option to move around the physical space allowed for my flexibility and freedom for children @frauenbergerDesigningSmartObjects2016a.md)
-- **Informed By::** [EVD - Designers inadvertently made assumptions while analyzing transcripts from design sessions whi...ted important desires from participants with dementia - @lindsayEmpathyParticipatoryDesign2012b.md](EVD - Designers inadvertently made assumptions while analyzing transcripts from design sessions whi...ted important desires from participants with dementia - @lindsayEmpathyParticipatoryDesign2012b.md)
-- **Informed By::** [EVD - Working with an advocate within the prison system allowed researchers to navigate bureaucratic hierarchy with relative ease - @tengParticipatoryDesignVirtual2019b.md](EVD - Working with an advocate within the prison system allowed researchers to navigate bureaucratic hierarchy with relative ease - @tengParticipatoryDesignVirtual2019b.md)
-- **Informed By::** [EVD - Black and LatinX codesign participants were skeptical of technological solutions due to past ...iences with inequitable policieslaws - @harringtonDeconstructingCommunityBasedCollaborative2019.md](EVD - Black and LatinX codesign participants were skeptical of technological solutions due to past ...iences with inequitable policieslaws - @harringtonDeconstructingCommunityBasedCollaborative2019.md)
-- **Informed By::** [EVD - Black and LatinX codesign participants distrusted researchers from the local university due t...ndonment after past research studies - @harringtonDeconstructingCommunityBasedCollaborative2019.md](EVD - Black and LatinX codesign participants distrusted researchers from the local university due t...ndonment after past research studies - @harringtonDeconstructingCommunityBasedCollaborative2019.md)
-- **Informed By::** [EVD - three communities across a range of race and income effectively used ICTs to engage with poli...ive with the majority white  middle-high income community - @ereteEmpoweredParticipationHow2017.md](EVD - three communities across a range of race and income effectively used ICTs to engage with poli...ive with the majority white  middle-high income community - @ereteEmpoweredParticipationHow2017.md)
-- **Informed By::** [EVD - experts who work with young adults with neurological vision impairments (NVI) do not have com...udge the difficulty of the vision therapy game - @waddingtonParticipatoryDesignTherapeutic2015b.md](EVD - experts who work with young adults with neurological vision impairments (NVI) do not have com...udge the difficulty of the vision therapy game - @waddingtonParticipatoryDesignTherapeutic2015b.md)
-- **Informed By::** [EVD - In-situ prototypes were needed to enable genuine design input from local marginalized users, ...h required creative adaptations to the prototypes - @ssozi-mugaruraSupportingCommunityNeeds2016.md](EVD - In-situ prototypes were needed to enable genuine design input from local marginalized users, ...h required creative adaptations to the prototypes - @ssozi-mugaruraSupportingCommunityNeeds2016.md)
-- **Informed By::** [EVD - Children from underserved communities were often unable to attend in-lab PD sessions due to travel and time constraints - @walshEquityEqualityAmerican2018.md](EVD - Children from underserved communities were often unable to attend in-lab PD sessions due to travel and time constraints - @walshEquityEqualityAmerican2018.md)
-- **Informed By::** [EVD - Black and LatinX codesign participants were reluctant to fully disclose past experiences bc t...ider authorities who could harm them - @harringtonDeconstructingCommunityBasedCollaborative2019.md](EVD - Black and LatinX codesign participants were reluctant to fully disclose past experiences bc t...ider authorities who could harm them - @harringtonDeconstructingCommunityBasedCollaborative2019.md)
-- **Informed By::** [EVD - Children without design experience generated feedback that was less granular, elaborated, and generative than children with design experience - @yipBrowniesBagsofstuffDomain2013.md](EVD - Children without design experience generated feedback that was less granular, elaborated, and generative than children with design experience - @yipBrowniesBagsofstuffDomain2013.md)
-- **Informed By::** [EVD - PD sessions had to be significantly scoped down in both length and focus to accommodate trave...d time constraints for children from underserved communities - @walshEquityEqualityAmerican2018.md](EVD - PD sessions had to be significantly scoped down in both length and focus to accommodate trave...d time constraints for children from underserved communities - @walshEquityEqualityAmerican2018.md)
-- **Informed By::** [EVD - online participation options for civic input diversified and strengthened participation in Chicago neighborhoods - @ereteEmpoweredParticipationHow2017.md](EVD - online participation options for civic input diversified and strengthened participation in Chicago neighborhoods - @ereteEmpoweredParticipationHow2017.md)
-- **Informed By::** [EVD - physical prototypes were necessary to prompt aid discussion with codesigners with dementia, b...o led to fixation on unfinished aspects of the design - @lindsayEmpathyParticipatoryDesign2012b.md](EVD - physical prototypes were necessary to prompt aid discussion with codesigners with dementia, b...o led to fixation on unfinished aspects of the design - @lindsayEmpathyParticipatoryDesign2012b.md)
-- **Informed By::** [EVD - Intermediaries such as local government officials were necessary for accessing and co-designi...ople in ways that opposed what they really wanted - @ssozi-mugaruraSupportingCommunityNeeds2016.md](EVD - Intermediaries such as local government officials were necessary for accessing and co-designi...ople in ways that opposed what they really wanted - @ssozi-mugaruraSupportingCommunityNeeds2016.md)
-- **Informed By::** [CLM - The materials and trappings of design might be an inadvertent barrier to inclusion, though they are useful (or at least perceived as such) for depth of participation in the design process.md](CLM - The materials and trappings of design might be an inadvertent barrier to inclusion, though they are useful (or at least perceived as such) for depth of participation in the design process.md)
-- **Informed By::** [CLM - Marginalized user populations may require involvement of extra stakeholders who may complicate hearing the users' voices.md](CLM - Marginalized user populations may require involvement of extra stakeholders who may complicate hearing the users' voices.md)
-- **Informed By::** [CLM - Conducting co-design in situ can broaden who is able to participate, but can also introduce other barriers to depth of participation.md](CLM - Conducting co-design in situ can broaden who is able to participate, but can also introduce other barriers to depth of participation.md)
-- **Informed By::** [CLM - There is a tension between analyzing participants' direct inputs, and respecting their actual... when working with design partners who struggle to contribute more directly to design artifacts.md](CLM - There is a tension between analyzing participants' direct inputs, and respecting their actual... when working with design partners who struggle to contribute more directly to design artifacts.md)
-- **Informed By::** [@chapkoWeHaveBeen2020a.md](@chapkoWeHaveBeen2020a.md)
-- **Informed By::** [@gomezBridgingDesignPrototype2007a.md](@gomezBridgingDesignPrototype2007a.md)
-- **Informed By::** [@frauenbergerInterpretingInputChildren2012a.md](@frauenbergerInterpretingInputChildren2012a.md)
-- **Informed By::** [@hourcadeEarlyOlpcExperiences2008a.md](@hourcadeEarlyOlpcExperiences2008a.md)
-- **Informed By::** [@ssozi-mugaruraSupportingCommunityNeeds2016.md](@ssozi-mugaruraSupportingCommunityNeeds2016.md)
-- **Informed By::** [@barryMHealthMaternalMental2017a.md](@barryMHealthMaternalMental2017a.md)
-- **Informed By::** [@scaifeDesigningDesigningInformant1997b.md](@scaifeDesigningDesigningInformant1997b.md)
-- **Informed By::** [@woodruffQualitativeExplorationPerceptions2018a.md](@woodruffQualitativeExplorationPerceptions2018a.md)
-- **Informed By::** [@walshEquityEqualityAmerican2018.md](@walshEquityEqualityAmerican2018.md)
-- **Informed By::** [@harringtonDeconstructingCommunityBasedCollaborative2019.md](@harringtonDeconstructingCommunityBasedCollaborative2019.md)
-- **Informed By::** [@kearney-volpeEntertainmentAllUnderstanding2019a.md](@kearney-volpeEntertainmentAllUnderstanding2019a.md)
-- **Informed By::** [@hornungNavigatingRelationshipsBoundaries2017a.md](@hornungNavigatingRelationshipsBoundaries2017a.md)
-- **Informed By::** [@massimiParticipatoryDesignProcess2006.md](@massimiParticipatoryDesignProcess2006.md)
-- **Informed By::** [@wilsonCodesignWordsMoments2019a.md](@wilsonCodesignWordsMoments2019a.md)
-- **Informed By::** [@woodwardUsingCodesignExamine2018a.md](@woodwardUsingCodesignExamine2018a.md)
-- **Informed By::** [@vishwanathEngagingLivedVirtual2019b.md](@vishwanathEngagingLivedVirtual2019b.md)
-- **Informed By::** [@mcnallyCodesigningMobileOnline2018b.md](@mcnallyCodesigningMobileOnline2018b.md)
-- **Informed By::** [@ashktorabDesigningCyberbullyingMitigation2016b.md](@ashktorabDesigningCyberbullyingMitigation2016b.md)
-- **Informed By::** [@gautamParticipatoryTensionsWorking2018.md](@gautamParticipatoryTensionsWorking2018.md)
-- **Informed By::** [@snyderVisuallyEncodingLived2019a.md](@snyderVisuallyEncodingLived2019a.md)
-- **Informed By::** [@flobakTechnologybasedInterventionsImproving2018a.md](@flobakTechnologybasedInterventionsImproving2018a.md)
-- **Informed By::** [@yipBrowniesBagsofstuffDomain2013.md](@yipBrowniesBagsofstuffDomain2013.md)
-- **Informed By::** [@taylorStrategiesEngagingCommunities2018a.md](@taylorStrategiesEngagingCommunities2018a.md)
-- **Informed By::** [@holoneThreeTensionsParticipatory2013b.md](@holoneThreeTensionsParticipatory2013b.md)
-- **Informed By::** [@hudsonCodesigningDigitalTools2020a.md](@hudsonCodesigningDigitalTools2020a.md)
-- **Informed By::** [@simmAnxietyAutismPersonalized2016a.md](@simmAnxietyAutismPersonalized2016a.md)
-- **Informed By::** [@hodgeExploringDesignTailored2018a.md](@hodgeExploringDesignTailored2018a.md)
-- **Informed By::** [@harringtonEngagingLowincomeAfrican2019a.md](@harringtonEngagingLowincomeAfrican2019a.md)
-- **Informed By::** [@wilsonSelfexpressionDesignCodesigning2020a.md](@wilsonSelfexpressionDesignCodesigning2020a.md)
-- **Informed By::** [@unbehaunExploringPotentialExergames2018a.md](@unbehaunExploringPotentialExergames2018a.md)
-- **Informed By::** [@ambeAdventuresOlderAuthors2019a.md](@ambeAdventuresOlderAuthors2019a.md)
-- **Informed By::** [@maziluGaitAssistDailylifeSupport2014a.md](@maziluGaitAssistDailylifeSupport2014a.md)
-- **Informed By::** [@bardramDesigningMobileHealth2013a.md](@bardramDesigningMobileHealth2013a.md)
-- **Informed By::** [@cibrianSupportingSelfregulationChildren2020a.md](@cibrianSupportingSelfregulationChildren2020a.md)
-- **Informed By::** [@belliniMechanismsMoralResponsibility2020b.md](@belliniMechanismsMoralResponsibility2020b.md)
-- **Informed By::** [@ereteEmpoweredParticipationHow2017.md](@ereteEmpoweredParticipationHow2017.md)
-- **Informed By::** [@munteanuTaleTwoStudies2012a.md](@munteanuTaleTwoStudies2012a.md)
-- **Informed By::** [@wong-villacresCultureActionUnpacking2020a.md](@wong-villacresCultureActionUnpacking2020a.md)
-- **Informed By::** [@walshKidCraftCodesignGame2015a.md](@walshKidCraftCodesignGame2015a.md)
-- **Informed By::** [@lindsayEmpathyParticipatoryDesign2012b.md](@lindsayEmpathyParticipatoryDesign2012b.md)
-- **Informed By::** [@gatehouseTroublingVulnerabilityDesigning2018a.md](@gatehouseTroublingVulnerabilityDesigning2018a.md)
-- **Informed By::** [@haimsonDesigningTransTechnology2020b.md](@haimsonDesigningTransTechnology2020b.md)
-- **Informed By::** [@pradhanUnderstandingOlderAdults2020.md](@pradhanUnderstandingOlderAdults2020.md)
-- **Informed By::** [@vinesChequeMatesParticipatory2012b.md](@vinesChequeMatesParticipatory2012b.md)
-- **Informed By::** [@largeBondedDesignNovel2006.md](@largeBondedDesignNovel2006.md)
-- **Informed By::** [@hongVisualODLsCodesigning2018a.md](@hongVisualODLsCodesigning2018a.md)
-- **Informed By::** [@boydVrSocialImmersiveTherapeutic2018b.md](@boydVrSocialImmersiveTherapeutic2018b.md)
-- **Informed By::** [@borjessonTeachersExpectedPerceived2019b.md](@borjessonTeachersExpectedPerceived2019b.md)
-- **Informed By::** [@tengParticipatoryDesignVirtual2019b.md](@tengParticipatoryDesignVirtual2019b.md)
-- **Informed By::** [@walshFACITPDFramework2013b.md](@walshFACITPDFramework2013b.md)
-- **Informed By::** [@doderoGamifiedCodesignCooperative2014a.md](@doderoGamifiedCodesignCooperative2014a.md)
-- **Informed By::** [@alabdulqaderExploringParticipatoryDesign2018b.md](@alabdulqaderExploringParticipatoryDesign2018b.md)
-- **Informed By::** [@lindsayEngagingOlderPeople2012b.md](@lindsayEngagingOlderPeople2012b.md)
-- **Informed By::** [@wuUnderstandingOlderUsers2018a.md](@wuUnderstandingOlderUsers2018a.md)
-- **Informed By::** [@butcherCommunityEngagementYouth2020.md](@butcherCommunityEngagementYouth2020.md)
-- **Informed By::** [@skinnerChildrenColorPerceptions2020c.md](@skinnerChildrenColorPerceptions2020c.md)
-- **Informed By::** [@zolyomiValuesIdentitySocial2018a.md](@zolyomiValuesIdentitySocial2018a.md)
-- **Informed By::** [@vinesQuestionableConceptsCritique2012a.md](@vinesQuestionableConceptsCritique2012a.md)
-- **Informed By::** [@bellCollaborativeFuturesCodesigning2019b.md](@bellCollaborativeFuturesCodesigning2019b.md)
-- **Informed By::** [@taylorLeavingWildLessons2013a.md](@taylorLeavingWildLessons2013a.md)
-- **Informed By::** [@hongUsingDiariesProbe2020a.md](@hongUsingDiariesProbe2020a.md)
-- **Informed By::** [@demaDesigningNetworkRelations2020b.md](@demaDesigningNetworkRelations2020b.md)
-- **Informed By::** [@ledantecPublicsPracticeUbiquitous2011a.md](@ledantecPublicsPracticeUbiquitous2011a.md)
-- **Informed By::** [@bonnerActivitybasedInteractionDesigning2012a.md](@bonnerActivitybasedInteractionDesigning2012a.md)
-- **Informed By::** [@frauenbergerDesigningSmartObjects2016a.md](@frauenbergerDesigningSmartObjects2016a.md)
-- **Informed By::** [@bentonDiversityDesignFramework2014b.md](@bentonDiversityDesignFramework2014b.md)
-- **Informed By::** [@waddingtonParticipatoryDesignTherapeutic2015b.md](@waddingtonParticipatoryDesignTherapeutic2015b.md)
-- **Informed By::** [@mcnaneyCueingDroolingParkinson2011a.md](@mcnaneyCueingDroolingParkinson2011a.md)
-- **Informed By::** [@grayDesignLifeRedesigning2020b.md](@grayDesignLifeRedesigning2020b.md)
-- **Informed By::** [@zhengAssistingStudentsIntellectual2018a.md](@zhengAssistingStudentsIntellectual2018a.md)
-- **Informed By::** [@chakrabortyFLightLowcostReading2017a.md](@chakrabortyFLightLowcostReading2017a.md)
-- **Informed By::** [@mcnaneyEnablingParticipationPeople2018b.md](@mcnaneyEnablingParticipationPeople2018b.md)
-- **Informed By::** [@haraDesignAssistiveLocationbased2016a.md](@haraDesignAssistiveLocationbased2016a.md)
-- **Informed By::** [@gilesWeavingLighthousesStitching2018a.md](@gilesWeavingLighthousesStitching2018a.md)
-- **Informed By::** [@spielParticipatoryEvaluationAutistic2017a.md](@spielParticipatoryEvaluationAutistic2017a.md)
-- **Informed By::** [@tanakaHapticWaveCrossmodal2016a.md](@tanakaHapticWaveCrossmodal2016a.md)
-- **Informed By::** [@carringtonWearablesChairablesInclusive2014a.md](@carringtonWearablesChairablesInclusive2014a.md)
-- **Informed By::** [@dachteraResearchResearchDesign2014b.md](@dachteraResearchResearchDesign2014b.md)
-- **Informed By::** [@kozubaevSpacesTracesImplications2019a.md](@kozubaevSpacesTracesImplications2019a.md)
-- **Informed By::** [@gerlingDesigningMovementbasedPlay2016b.md](@gerlingDesigningMovementbasedPlay2016b.md)
-- **Informed By::** [@barbareschiSocialNetworkHow2020a.md](@barbareschiSocialNetworkHow2020a.md)
-- **Informed By::** [@banerjeeEmpoweringFamiliesFacing2018a.md](@banerjeeEmpoweringFamiliesFacing2018a.md)
-- **Informed By::** [@edmeadsDesigningReminiscencePeople2019a.md](@edmeadsDesigningReminiscencePeople2019a.md)
-- **Informed By::** [@druinCooperativeInquiryDeveloping1999.md](@druinCooperativeInquiryDeveloping1999.md)
-- **Informed By::** [@metatlaRobotsInclusivePlay2020a.md](@metatlaRobotsInclusivePlay2020a.md)
-- **Informed By::** [@metatlaBurstingAssistanceBubble2018a.md](@metatlaBurstingAssistanceBubble2018a.md)
-- **Informed By::** [@sitbonEngagingITStudents2018a.md](@sitbonEngagingITStudents2018a.md)
-- **Informed By::** [@giglittoEyeStudentIntangible2018a.md](@giglittoEyeStudentIntangible2018a.md)
-- **Informed By::** [@johnsonCommunityConversationalSupporting2017b.md](@johnsonCommunityConversationalSupporting2017b.md)
-- **Informed By::** [@bowyerHumandataInteractionContext2019a.md](@bowyerHumandataInteractionContext2019a.md)
-- **Informed By::** [@heathRelationsAreMore2019a.md](@heathRelationsAreMore2019a.md)
-- **Informed By::** [@crowellGenPlayGenerativePlayscape2018a.md](@crowellGenPlayGenerativePlayscape2018a.md)
-- **Informed By::** [@supertipantojaPlaybasedDesignGiving2020a.md](@supertipantojaPlaybasedDesignGiving2020a.md)
-- **Informed By::** [@spielWhenEmpathyNot2017a.md](@spielWhenEmpathyNot2017a.md)
-- **Informed By::** [@bentonDevelopingIDEASSupporting2012b.md](@bentonDevelopingIDEASSupporting2012b.md)
-- **Informed By::** [@pengSpeechBubblesEnhancingCaptioning2018a.md](@pengSpeechBubblesEnhancingCaptioning2018a.md)
-- **Informed By::** [@metatlaVoiceUserInterfaces2019b.md](@metatlaVoiceUserInterfaces2019b.md)
-
+- **Informed By::** [[EVD - Sex-trafficking survivor organization staff members would sometimes speak of and for the survivors when talking about their needs - @gautamParticipatoryTensionsWorking2018]]
+- **Informed By::** [[EVD - Low-income, African-American older adults perceived ideation materials used for brainstorming as infantilizing and belittling - @harringtonDeconstructingCommunityBasedCollaborative2019]]
+- **Informed By::** [[EVD - children with severe disabilities were not used to being active participants in design, becau...passive recipients and others spokedid things for them - @holoneThreeTensionsParticipatory2013b]]
+- **Informed By::** [[EVD - Aboriginal informants expressed deep skepticism of evidence-based top-down models and perceived them as conflicting with more effective local knowledge - @butcherCommunityEngagementYouth2020]]
+- **Informed By::** [[EVD - Older adults needed to use special take-home activities to escape self-stereotyping - @pradhanUnderstandingOlderAdults2020]]
+- **Informed By::** [[EVD - Designers experienced issues with (and had to compromise) design activities, such as analogie...s due to cognitive and difficulties with focus and abstract ideas - @largeBondedDesignNovel2006]]
+- **Informed By::** [[EVD - Due to liabilities of potentially inducing physical illness Usability testing was not possible -@tengParticipatoryDesignVirtual2019b]]
+- **Informed By::** [[EVD - Aboriginal informants expressed significant distrust of government and human service provider...egative history of misaligned time frames and incentives - @butcherCommunityEngagementYouth2020]]
+- **Informed By::** [[EVD - in one European municipality involved in a citizen participatory design project, progress was...neglected to budget for a dedicated community coordinator - @fitzpatrickQuadrupleHelixModel2018]]
+- **Informed By::** [[EVD - Low-income, African-American older adults preferred realistic local-governance-based solutions over blue sky ideas - @harringtonDeconstructingCommunityBasedCollaborative2019]]
+- **Informed By::** [[EVD - Low-income, African-American older adults were reluctant to share sensitive health informatio...h studies by the university hospital - @harringtonDeconstructingCommunityBasedCollaborative2019]]
+- **Informed By::** [[EVD - helpers - who had to be present - sometimes made assumptions and spoke for children with disabilities during design activities - @holoneThreeTensionsParticipatory2013b]]
+- **Informed By::** [[EVD - in design sessions with children, there were tensions between interpretation of the participant voice v. the stakeholder @frauenbergerInterpretingInputChildren2012a]]
+- **Informed By::** [[EVD - success of one mixed-race community at influencing policy through ICTs depended on a single a...rns, and there were concerns over this being a bottleneck - @ereteEmpoweredParticipationHow2017]]
+- **Informed By::** [[EVD - Teachers and helpers needed to be present in the beginning of PD session to help and make sur...were comfortable but were not needed in future sessions @frauenbergerDesigningSmartObjects2016a]]
+- **Informed By::** [[EVD - Using language to evoke separation between participants with dementia and the design team was sometimes necessary to allow for honest feedback - @lindsayEmpathyParticipatoryDesign2012b]]
+- **Informed By::** [[EVD - Design team modified photo elicitation method so sex trafficking survivor participants' faces were not shown, for safety concerns - @gautamParticipatoryTensionsWorking2018]]
+- **Informed By::** [[EVD - Sex trafficking survivors shared concerns about painful experiences from writing their storie... elicitation method seemed to be a viable alternative - @gautamParticipatoryTensionsWorking2018]]
+- **Informed By::** [[EVD - Option to move around the physical space allowed for my flexibility and freedom for children @frauenbergerDesigningSmartObjects2016a]]
+- **Informed By::** [[EVD - Designers inadvertently made assumptions while analyzing transcripts from design sessions whi...ted important desires from participants with dementia - @lindsayEmpathyParticipatoryDesign2012b]]
+- **Informed By::** [[EVD - Working with an advocate within the prison system allowed researchers to navigate bureaucratic hierarchy with relative ease - @tengParticipatoryDesignVirtual2019b]]
+- **Informed By::** [[EVD - Black and LatinX codesign participants were skeptical of technological solutions due to past ...iences with inequitable policieslaws - @harringtonDeconstructingCommunityBasedCollaborative2019]]
+- **Informed By::** [[EVD - Black and LatinX codesign participants distrusted researchers from the local university due t...ndonment after past research studies - @harringtonDeconstructingCommunityBasedCollaborative2019]]
+- **Informed By::** [[EVD - three communities across a range of race and income effectively used ICTs to engage with poli...ive with the majority white  middle-high income community - @ereteEmpoweredParticipationHow2017]]
+- **Informed By::** [[EVD - experts who work with young adults with neurological vision impairments (NVI) do not have com...udge the difficulty of the vision therapy game - @waddingtonParticipatoryDesignTherapeutic2015b]]
+- **Informed By::** [[EVD - In-situ prototypes were needed to enable genuine design input from local marginalized users, ...h required creative adaptations to the prototypes - @ssozi-mugaruraSupportingCommunityNeeds2016]]
+- **Informed By::** [[EVD - Children from underserved communities were often unable to attend in-lab PD sessions due to travel and time constraints - @walshEquityEqualityAmerican2018]]
+- **Informed By::** [[EVD - Black and LatinX codesign participants were reluctant to fully disclose past experiences bc t...ider authorities who could harm them - @harringtonDeconstructingCommunityBasedCollaborative2019]]
+- **Informed By::** [[EVD - Children without design experience generated feedback that was less granular, elaborated, and generative than children with design experience - @yipBrowniesBagsofstuffDomain2013]]
+- **Informed By::** [[EVD - PD sessions had to be significantly scoped down in both length and focus to accommodate trave...d time constraints for children from underserved communities - @walshEquityEqualityAmerican2018]]
+- **Informed By::** [[EVD - online participation options for civic input diversified and strengthened participation in Chicago neighborhoods - @ereteEmpoweredParticipationHow2017]]
+- **Informed By::** [[EVD - physical prototypes were necessary to prompt aid discussion with codesigners with dementia, b...o led to fixation on unfinished aspects of the design - @lindsayEmpathyParticipatoryDesign2012b]]
+- **Informed By::** [[EVD - Intermediaries such as local government officials were necessary for accessing and co-designi...ople in ways that opposed what they really wanted - @ssozi-mugaruraSupportingCommunityNeeds2016]]
+- **Informed By::** [[CLM - The materials and trappings of design might be an inadvertent barrier to inclusion, though they are useful (or at least perceived as such) for depth of participation in the design process]]
+- **Informed By::** [[CLM - Marginalized user populations may require involvement of extra stakeholders who may complicate hearing the users' voices]]
+- **Informed By::** [[CLM - Conducting co-design in situ can broaden who is able to participate, but can also introduce other barriers to depth of participation]]
+- **Informed By::** [[CLM - There is a tension between analyzing participants' direct inputs, and respecting their actual... when working with design partners who struggle to contribute more directly to design artifacts]]
+- **Informed By::** [[@chapkoWeHaveBeen2020a]]
+- **Informed By::** [[@gomezBridgingDesignPrototype2007a]]
+- **Informed By::** [[@frauenbergerInterpretingInputChildren2012a]]
+- **Informed By::** [[@hourcadeEarlyOlpcExperiences2008a]]
+- **Informed By::** [[@ssozi-mugaruraSupportingCommunityNeeds2016]]
+- **Informed By::** [[@barryMHealthMaternalMental2017a]]
+- **Informed By::** [[@scaifeDesigningDesigningInformant1997b]]
+- **Informed By::** [[@woodruffQualitativeExplorationPerceptions2018a]]
+- **Informed By::** [[@walshEquityEqualityAmerican2018]]
+- **Informed By::** [[@harringtonDeconstructingCommunityBasedCollaborative2019]]
+- **Informed By::** [[@kearney-volpeEntertainmentAllUnderstanding2019a]]
+- **Informed By::** [[@hornungNavigatingRelationshipsBoundaries2017a]]
+- **Informed By::** [[@massimiParticipatoryDesignProcess2006]]
+- **Informed By::** [[@wilsonCodesignWordsMoments2019a]]
+- **Informed By::** [[@woodwardUsingCodesignExamine2018a]]
+- **Informed By::** [[@vishwanathEngagingLivedVirtual2019b]]
+- **Informed By::** [[@mcnallyCodesigningMobileOnline2018b]]
+- **Informed By::** [[@ashktorabDesigningCyberbullyingMitigation2016b]]
+- **Informed By::** [[@gautamParticipatoryTensionsWorking2018]]
+- **Informed By::** [[@snyderVisuallyEncodingLived2019a]]
+- **Informed By::** [[@flobakTechnologybasedInterventionsImproving2018a]]
+- **Informed By::** [[@yipBrowniesBagsofstuffDomain2013]]
+- **Informed By::** [[@taylorStrategiesEngagingCommunities2018a]]
+- **Informed By::** [[@holoneThreeTensionsParticipatory2013b]]
+- **Informed By::** [[@hudsonCodesigningDigitalTools2020a]]
+- **Informed By::** [[@simmAnxietyAutismPersonalized2016a]]
+- **Informed By::** [[@hodgeExploringDesignTailored2018a]]
+- **Informed By::** [[@harringtonEngagingLowincomeAfrican2019a]]
+- **Informed By::** [[@wilsonSelfexpressionDesignCodesigning2020a]]
+- **Informed By::** [[@unbehaunExploringPotentialExergames2018a]]
+- **Informed By::** [[@ambeAdventuresOlderAuthors2019a]]
+- **Informed By::** [[@maziluGaitAssistDailylifeSupport2014a]]
+- **Informed By::** [[@bardramDesigningMobileHealth2013a]]
+- **Informed By::** [[@cibrianSupportingSelfregulationChildren2020a]]
+- **Informed By::** [[@belliniMechanismsMoralResponsibility2020b]]
+- **Informed By::** [[@ereteEmpoweredParticipationHow2017]]
+- **Informed By::** [[@munteanuTaleTwoStudies2012a]]
+- **Informed By::** [[@wong-villacresCultureActionUnpacking2020a]]
+- **Informed By::** [[@walshKidCraftCodesignGame2015a]]
+- **Informed By::** [[@lindsayEmpathyParticipatoryDesign2012b]]
+- **Informed By::** [[@gatehouseTroublingVulnerabilityDesigning2018a]]
+- **Informed By::** [[@haimsonDesigningTransTechnology2020b]]
+- **Informed By::** [[@pradhanUnderstandingOlderAdults2020]]
+- **Informed By::** [[@vinesChequeMatesParticipatory2012b]]
+- **Informed By::** [[@largeBondedDesignNovel2006]]
+- **Informed By::** [[@hongVisualODLsCodesigning2018a]]
+- **Informed By::** [[@boydVrSocialImmersiveTherapeutic2018b]]
+- **Informed By::** [[@borjessonTeachersExpectedPerceived2019b]]
+- **Informed By::** [[@tengParticipatoryDesignVirtual2019b]]
+- **Informed By::** [[@walshFACITPDFramework2013b]]
+- **Informed By::** [[@doderoGamifiedCodesignCooperative2014a]]
+- **Informed By::** [[@alabdulqaderExploringParticipatoryDesign2018b]]
+- **Informed By::** [[@lindsayEngagingOlderPeople2012b]]
+- **Informed By::** [[@wuUnderstandingOlderUsers2018a]]
+- **Informed By::** [[@butcherCommunityEngagementYouth2020]]
+- **Informed By::** [[@skinnerChildrenColorPerceptions2020c]]
+- **Informed By::** [[@zolyomiValuesIdentitySocial2018a]]
+- **Informed By::** [[@vinesQuestionableConceptsCritique2012a]]
+- **Informed By::** [[@bellCollaborativeFuturesCodesigning2019b]]
+- **Informed By::** [[@taylorLeavingWildLessons2013a]]
+- **Informed By::** [[@hongUsingDiariesProbe2020a]]
+- **Informed By::** [[@demaDesigningNetworkRelations2020b]]
+- **Informed By::** [[@ledantecPublicsPracticeUbiquitous2011a]]
+- **Informed By::** [[@bonnerActivitybasedInteractionDesigning2012a]]
+- **Informed By::** [[@frauenbergerDesigningSmartObjects2016a]]
+- **Informed By::** [[@bentonDiversityDesignFramework2014b]]
+- **Informed By::** [[@waddingtonParticipatoryDesignTherapeutic2015b]]
+- **Informed By::** [[@mcnaneyCueingDroolingParkinson2011a]]
+- **Informed By::** [[@grayDesignLifeRedesigning2020b]]
+- **Informed By::** [[@zhengAssistingStudentsIntellectual2018a]]
+- **Informed By::** [[@chakrabortyFLightLowcostReading2017a]]
+- **Informed By::** [[@mcnaneyEnablingParticipationPeople2018b]]
+- **Informed By::** [[@haraDesignAssistiveLocationbased2016a]]
+- **Informed By::** [[@gilesWeavingLighthousesStitching2018a]]
+- **Informed By::** [[@spielParticipatoryEvaluationAutistic2017a]]
+- **Informed By::** [[@tanakaHapticWaveCrossmodal2016a]]
+- **Informed By::** [[@carringtonWearablesChairablesInclusive2014a]]
+- **Informed By::** [[@dachteraResearchResearchDesign2014b]]
+- **Informed By::** [[@kozubaevSpacesTracesImplications2019a]]
+- **Informed By::** [[@gerlingDesigningMovementbasedPlay2016b]]
+- **Informed By::** [[@barbareschiSocialNetworkHow2020a]]
+- **Informed By::** [[@banerjeeEmpoweringFamiliesFacing2018a]]
+- **Informed By::** [[@edmeadsDesigningReminiscencePeople2019a]]
+- **Informed By::** [[@druinCooperativeInquiryDeveloping1999]]
+- **Informed By::** [[@metatlaRobotsInclusivePlay2020a]]
+- **Informed By::** [[@metatlaBurstingAssistanceBubble2018a]]
+- **Informed By::** [[@sitbonEngagingITStudents2018a]]
+- **Informed By::** [[@giglittoEyeStudentIntangible2018a]]
+- **Informed By::** [[@johnsonCommunityConversationalSupporting2017b]]
+- **Informed By::** [[@bowyerHumandataInteractionContext2019a]]
+- **Informed By::** [[@heathRelationsAreMore2019a]]
+- **Informed By::** [[@crowellGenPlayGenerativePlayscape2018a]]
+- **Informed By::** [[@supertipantojaPlaybasedDesignGiving2020a]]
+- **Informed By::** [[@spielWhenEmpathyNot2017a]]
+- **Informed By::** [[@bentonDevelopingIDEASSupporting2012b]]
+- **Informed By::** [[@pengSpeechBubblesEnhancingCaptioning2018a]]
+- **Informed By::** [[@metatlaVoiceUserInterfaces2019b]]

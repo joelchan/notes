@@ -9,4 +9,4 @@ date: Tue Jan 11 2022 21:02:43 GMT-0500 (Eastern Standard Time)
 
 ###### Discourse Context
 
-- **Informs::** [CLM - Context and privacy are in tension when sharing knowledge with others.md](CLM - Context and privacy are in tension when sharing knowledge with others.md)
+- **Informs::** [[CLM - Context and privacy are in tension when sharing knowledge with others]]

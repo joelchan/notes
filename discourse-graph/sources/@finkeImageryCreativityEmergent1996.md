@@ -20,4 +20,4 @@ date: Fri Jan 14 2022 10:29:16 GMT-0500 (Eastern Standard Time)
 
 ###### Discourse Context
 
-- **Informs::** [THE - Geneplore model.md](THE - Geneplore model.md)
+- **Informs::** [[THE - Geneplore model]]

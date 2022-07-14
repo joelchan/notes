@@ -37,5 +37,4 @@ date: Tue Apr 28 2020 12:51:57 GMT-0400 (Eastern Daylight Time)
 
 ###### Discourse Context
 
-- **Informs::** [PTN - Prefer to grow rather than build  design new infrastructures a priori.md](PTN - Prefer to grow rather than build  design new infrastructures a priori.md)
-
+- **Informs::** [[PTN - Prefer to grow rather than build  design new infrastructures a priori]]

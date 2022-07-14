@@ -84,9 +84,8 @@ date: Sat Feb 05 2022 20:39:08 GMT-0500 (Eastern Standard Time)
 
 ###### Discourse Context
 
-- **Informed By::** [@greenbergHowCitationDistortions2009.md](@greenbergHowCitationDistortions2009.md)
-- **Informed By::** [@tahamtanWhatCitationCounts2019.md](@tahamtanWhatCitationCounts2019.md)
-- **Informed By::** [@letrudAffirmativeCitationBias2019.md](@letrudAffirmativeCitationBias2019.md)
-- **Informed By::** [@lengPhantomReferencePropagation2020.md](@lengPhantomReferencePropagation2020.md)
-- **Informed By::** [@clausetDatadrivenPredictionsScience2017.md](@clausetDatadrivenPredictionsScience2017.md)
-
+- **Informed By::** [[@greenbergHowCitationDistortions2009]]
+- **Informed By::** [[@tahamtanWhatCitationCounts2019]]
+- **Informed By::** [[@letrudAffirmativeCitationBias2019]]
+- **Informed By::** [[@lengPhantomReferencePropagation2020]]
+- **Informed By::** [[@clausetDatadrivenPredictionsScience2017]]

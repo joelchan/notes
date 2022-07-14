@@ -9,5 +9,4 @@ date: Sun Jul 10 2022 23:20:45 GMT-0400 (Eastern Daylight Time)
 
 ###### Discourse Context
 
-- **Uses::** [PTN - block-based programming.md](PTN - block-based programming.md)
-
+- **Uses::** [[PTN - block-based programming]]

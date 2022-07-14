@@ -67,7 +67,6 @@ date: Sun Aug 02 2020 22:42:02 GMT-0400 (Eastern Daylight Time)
 
 ###### Discourse Context
 
-- **Informs::** [QUE - What is context for the purposes of scholarly synthesis.md](QUE - What is context for the purposes of scholarly synthesis.md)
-- **Informs::** [QUE - What (existing) systems facilitate individual synthesis.md](QUE - What (existing) systems facilitate individual synthesis.md)
-- **Informs::** [QUE - What user behaviors are scholars doing already that specifies structure for synthesis.md](QUE - What user behaviors are scholars doing already that specifies structure for synthesis.md)
-
+- **Informs::** [[QUE - What is context for the purposes of scholarly synthesis]]
+- **Informs::** [[QUE - What (existing) systems facilitate individual synthesis]]
+- **Informs::** [[QUE - What user behaviors are scholars doing already that specifies structure for synthesis]]

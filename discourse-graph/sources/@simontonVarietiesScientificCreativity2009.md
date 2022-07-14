@@ -45,6 +45,5 @@ date: Fri May 01 2020 23:48:54 GMT-0400 (Eastern Daylight Time)
 
 ###### Discourse Context
 
-- **Informs::** [CLM - Scientific fields vary substantially in terms of ease of consensus on judging what constitutes a valuable new contribution.md](CLM - Scientific fields vary substantially in terms of ease of consensus on judging what constitutes a valuable new contribution.md)
-- **Informs::** [QUE - (How) do fields of innovation vary in their legibility of quality.md](QUE - (How) do fields of innovation vary in their legibility of quality.md)
-
+- **Informs::** [[CLM - Scientific fields vary substantially in terms of ease of consensus on judging what constitutes a valuable new contribution]]
+- **Informs::** [[QUE - (How) do fields of innovation vary in their legibility of quality]]

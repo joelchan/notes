@@ -17,7 +17,7 @@ date: Sat Nov 28 2020 16:18:52 GMT-0500 (Eastern Standard Time)
 
 ###### Discourse Context
 
-- **Informs::** [QUE - Can deep learning discover analogical representations.md](QUE - Can deep learning discover analogical representations.md)
-- **Informs::** [QUE - What is analogy.md](QUE - What is analogy.md)
-- **Informed By::** [@gentnerStructureMappingTheoretical1983.md](@gentnerStructureMappingTheoretical1983.md)
-- **Informed By::** [@gentnerStructureMappingAnalogy1997.md](@gentnerStructureMappingAnalogy1997.md)
+- **Informs::** [[QUE - Can deep learning discover analogical representations]]
+- **Informs::** [[QUE - What is analogy]]
+- **Informed By::** [[@gentnerStructureMappingTheoretical1983]]
+- **Informed By::** [[@gentnerStructureMappingAnalogy1997]]

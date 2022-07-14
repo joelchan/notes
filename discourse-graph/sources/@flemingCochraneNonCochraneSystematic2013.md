@@ -41,5 +41,4 @@ date: Fri May 08 2020 22:22:42 GMT-0400 (Eastern Daylight Time)
 
 ###### Discourse Context
 
-- **Informs::** [CLM - Effective synthesis is rare.md](CLM - Effective synthesis is rare.md)
-
+- **Informs::** [[CLM - Effective synthesis is rare]]

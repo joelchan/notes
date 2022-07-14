@@ -33,5 +33,4 @@ date: Wed Jun 17 2020 13:44:06 GMT-0400 (Eastern Daylight Time)
 
 ###### Discourse Context
 
-- **Informs::** [QUE - What are the most efficient routes to useful cross-boundary knowledge.md](QUE - What are the most efficient routes to useful cross-boundary knowledge.md)
-
+- **Informs::** [[QUE - What are the most efficient routes to useful cross-boundary knowledge]]

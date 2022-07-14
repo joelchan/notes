@@ -51,4 +51,4 @@ date: Fri Jun 25 2021 11:30:01 GMT-0400 (Eastern Daylight Time)
 
 ###### Discourse Context
 
-- **FromSource::** [@frauenbergerNurturingConstructiveDisagreement2019b.md](@frauenbergerNurturingConstructiveDisagreement2019b.md)
+- **FromSource::** [[@frauenbergerNurturingConstructiveDisagreement2019b]]

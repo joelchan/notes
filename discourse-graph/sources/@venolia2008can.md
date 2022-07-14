@@ -38,5 +38,4 @@ Olson 2002]
 
 ###### Discourse Context
 
-- **SourceFor::** [EVD - People were really reluctant to share their private notes with anyone else - @venolia2008can.md](EVD - People were really reluctant to share their private notes with anyone else - @venolia2008can.md)
-
+- **SourceFor::** [[EVD - People were really reluctant to share their private notes with anyone else - @venolia2008can]]

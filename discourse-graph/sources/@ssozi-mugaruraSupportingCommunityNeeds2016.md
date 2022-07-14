@@ -29,7 +29,6 @@ date: Tue Jul 13 2021 10:50:40 GMT-0400 (Eastern Daylight Time)
 
 ###### Discourse Context
 
-- **Informs::** [QUE - What tension points exist between the goals of diversity and depth of user participation in participatory design.md](QUE - What tension points exist between the goals of diversity and depth of user participation in participatory design.md)
-- **SourceFor::** [EVD - Intermediaries such as local government officials were necessary for accessing and co-designi...ople in ways that opposed what they really wanted - @ssozi-mugaruraSupportingCommunityNeeds2016.md](EVD - Intermediaries such as local government officials were necessary for accessing and co-designi...ople in ways that opposed what they really wanted - @ssozi-mugaruraSupportingCommunityNeeds2016.md)
-- **SourceFor::** [EVD - In-situ prototypes were needed to enable genuine design input from local marginalized users, ...h required creative adaptations to the prototypes - @ssozi-mugaruraSupportingCommunityNeeds2016.md](EVD - In-situ prototypes were needed to enable genuine design input from local marginalized users, ...h required creative adaptations to the prototypes - @ssozi-mugaruraSupportingCommunityNeeds2016.md)
-
+- **Informs::** [[QUE - What tension points exist between the goals of diversity and depth of user participation in participatory design]]
+- **SourceFor::** [[EVD - Intermediaries such as local government officials were necessary for accessing and co-designi...ople in ways that opposed what they really wanted - @ssozi-mugaruraSupportingCommunityNeeds2016]]
+- **SourceFor::** [[EVD - In-situ prototypes were needed to enable genuine design input from local marginalized users, ...h required creative adaptations to the prototypes - @ssozi-mugaruraSupportingCommunityNeeds2016]]

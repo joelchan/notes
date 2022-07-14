@@ -20,6 +20,5 @@ date: Fri May 28 2021 23:10:55 GMT-0400 (Eastern Daylight Time)
 
 ###### Discourse Context
 
-- **Informs::** [CLM - Analogical retrieval in humans is dominated by surface similarity.md](CLM - Analogical retrieval in humans is dominated by surface similarity.md)
-- **Informs::** [QUE - What factors control whether people appropriately benefit from analogies (especially far-field ones) during creative problem solving.md](QUE - What factors control whether people appropriately benefit from analogies (especially far-field ones) during creative problem solving.md)
-
+- **Informs::** [[CLM - Analogical retrieval in humans is dominated by surface similarity]]
+- **Informs::** [[QUE - What factors control whether people appropriately benefit from analogies (especially far-field ones) during creative problem solving]]

@@ -73,11 +73,10 @@ date: Thu Feb 27 2020 14:25:04 GMT-0500 (Eastern Standard Time)
 
 ###### Discourse Context
 
-- **Informs::** [QUE - What are some major phenomena around designers' exploration of design spaces and how might these map to characteristics of optimizers.md](QUE - What are some major phenomena around designers' exploration of design spaces and how might these map to characteristics of optimizers.md)
-- **Informed By::** [@mccrickardMakingClaimsKnowledge2012.md](@mccrickardMakingClaimsKnowledge2012.md)
-- **Informed By::** [@cowanMagicalNumberShortterm2000.md](@cowanMagicalNumberShortterm2000.md)
-- **Informed By::** [@galeyHowPrototypeArgues2010.md](@galeyHowPrototypeArgues2010.md)
-- **Informed By::** [@hookStrongConceptsIntermediatelevel2012.md](@hookStrongConceptsIntermediatelevel2012.md)
-- **Informed By::** [@kuhnBroadeningScopeNanopublications2013.md](@kuhnBroadeningScopeNanopublications2013.md)
-- **Informed By::** [@ribaupierreExtractingDiscourseElements2017.md](@ribaupierreExtractingDiscourseElements2017.md)
-
+- **Informs::** [[QUE - What are some major phenomena around designers' exploration of design spaces and how might these map to characteristics of optimizers]]
+- **Informed By::** [[@mccrickardMakingClaimsKnowledge2012]]
+- **Informed By::** [[@cowanMagicalNumberShortterm2000]]
+- **Informed By::** [[@galeyHowPrototypeArgues2010]]
+- **Informed By::** [[@hookStrongConceptsIntermediatelevel2012]]
+- **Informed By::** [[@kuhnBroadeningScopeNanopublications2013]]
+- **Informed By::** [[@ribaupierreExtractingDiscourseElements2017]]

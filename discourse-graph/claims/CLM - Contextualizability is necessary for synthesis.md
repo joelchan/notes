@@ -39,6 +39,5 @@ date: Fri Mar 18 2022 09:54:11 GMT-0400 (Eastern Daylight Time)
 
 ###### Discourse Context
 
-- **Informs::** [QUE - What (existing) systems facilitate individual synthesis.md](QUE - What (existing) systems facilitate individual synthesis.md)
-- **Informed By::** [@granelloPromotingCognitiveComplexity2001.md](@granelloPromotingCognitiveComplexity2001.md)
-
+- **Informs::** [[QUE - What (existing) systems facilitate individual synthesis]]
+- **Informed By::** [[@granelloPromotingCognitiveComplexity2001]]

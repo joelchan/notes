@@ -39,7 +39,6 @@ date: Tue Feb 11 2020 13:26:02 GMT-0500 (Eastern Standard Time)
 
 ###### Discourse Context
 
-- **Informs::** [CLM - Compression is necessary for synthesis.md](CLM - Compression is necessary for synthesis.md)
-- **Informs::** [QUE - Do scholarly synthesis infrastructures already exist.md](QUE - Do scholarly synthesis infrastructures already exist.md)
-- **Informs::** [QUE - What is the user experience of semantic authoring within regular scholarly workflows.md](QUE - What is the user experience of semantic authoring within regular scholarly workflows.md)
-
+- **Informs::** [[CLM - Compression is necessary for synthesis]]
+- **Informs::** [[QUE - Do scholarly synthesis infrastructures already exist]]
+- **Informs::** [[QUE - What is the user experience of semantic authoring within regular scholarly workflows]]

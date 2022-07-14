@@ -65,6 +65,5 @@ date: Thu Jul 23 2020 14:12:17 GMT-0400 (Eastern Daylight Time)
 
 ###### Discourse Context
 
-- **Informs::** [CLM - Synthesis work requires explicit (usually external) representations of both evidence and claims.md](CLM - Synthesis work requires explicit (usually external) representations of both evidence and claims.md)
-- **Informs::** [CLM - Citation practices in science are far from optimal.md](CLM - Citation practices in science are far from optimal.md)
-
+- **Informs::** [[CLM - Synthesis work requires explicit (usually external) representations of both evidence and claims]]
+- **Informs::** [[CLM - Citation practices in science are far from optimal]]

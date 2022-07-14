@@ -27,10 +27,9 @@ date: Thu Oct 15 2020 20:59:50 GMT-0400 (Eastern Daylight Time)
 
 ###### Discourse Context
 
-- **Informs::** [QUE - How can we measure everyday progress in open-ended creative work.md](QUE - How can we measure everyday progress in open-ended creative work.md)
-- **Informed By::** [@sosaAccretionTheoryIdeation2019.md](@sosaAccretionTheoryIdeation2019.md)
-- **Informed By::** [@chanImportanceIterationCreative2015.md](@chanImportanceIterationCreative2015.md)
-- **Informed By::** [@gruberDarwinManPsychological1974.md](@gruberDarwinManPsychological1974.md)
-- **Informed By::** [@bergPrimalMarkHow2014.md](@bergPrimalMarkHow2014.md)
-- **Informed By::** [@simontonCreativityBlindVariation1999.md](@simontonCreativityBlindVariation1999.md)
-
+- **Informs::** [[QUE - How can we measure everyday progress in open-ended creative work]]
+- **Informed By::** [[@sosaAccretionTheoryIdeation2019]]
+- **Informed By::** [[@chanImportanceIterationCreative2015]]
+- **Informed By::** [[@gruberDarwinManPsychological1974]]
+- **Informed By::** [[@bergPrimalMarkHow2014]]
+- **Informed By::** [[@simontonCreativityBlindVariation1999]]

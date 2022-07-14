@@ -31,7 +31,6 @@ date: Wed Aug 05 2020 17:35:37 GMT-0400 (Eastern Daylight Time)
 
 ###### Discourse Context
 
-- **Informs::** [QUE - What tension points exist between the goals of diversity and depth of user participation in participatory design.md](QUE - What tension points exist between the goals of diversity and depth of user participation in participatory design.md)
-- **SourceFor::** [EVD - Design team modified photo elicitation method so sex trafficking survivor participants' faces were not shown, for safety concerns - @gautamParticipatoryTensionsWorking2018.md](EVD - Design team modified photo elicitation method so sex trafficking survivor participants' faces were not shown, for safety concerns - @gautamParticipatoryTensionsWorking2018.md)
-- **SourceFor::** [EVD - Sex-trafficking survivor organization staff members would sometimes speak of and for the survivors when talking about their needs - @gautamParticipatoryTensionsWorking2018.md](EVD - Sex-trafficking survivor organization staff members would sometimes speak of and for the survivors when talking about their needs - @gautamParticipatoryTensionsWorking2018.md)
-
+- **Informs::** [[QUE - What tension points exist between the goals of diversity and depth of user participation in participatory design]]
+- **SourceFor::** [[EVD - Design team modified photo elicitation method so sex trafficking survivor participants' faces were not shown, for safety concerns - @gautamParticipatoryTensionsWorking2018]]
+- **SourceFor::** [[EVD - Sex-trafficking survivor organization staff members would sometimes speak of and for the survivors when talking about their needs - @gautamParticipatoryTensionsWorking2018]]

@@ -37,5 +37,4 @@ date: Thu Jan 23 2020 09:54:15 GMT-0500 (Eastern Standard Time)
 
 ###### Discourse Context
 
-- **Informs::** [CLM - Effective synthesis is hard.md](CLM - Effective synthesis is hard.md)
-
+- **Informs::** [[CLM - Effective synthesis is hard]]

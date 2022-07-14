@@ -38,7 +38,6 @@ date: Thu Aug 12 2021 23:12:45 GMT-0400 (Eastern Daylight Time)
 
 ###### Discourse Context
 
-- **Informs::** [QUE - Under what conditions do diverse initial examples lead to better final design solutions.md](QUE - Under what conditions do diverse initial examples lead to better final design solutions.md)
-- **Informs::** [QUE - How can we conceptualize diversity in creative knowledge work.md](QUE - How can we conceptualize diversity in creative knowledge work.md)
-- **Informs::** [THE - interaction-oriented theory of creative inspiration from examples.md](THE - interaction-oriented theory of creative inspiration from examples.md)
-
+- **Informs::** [[QUE - Under what conditions do diverse initial examples lead to better final design solutions]]
+- **Informs::** [[QUE - How can we conceptualize diversity in creative knowledge work]]
+- **Informs::** [[THE - interaction-oriented theory of creative inspiration from examples]]

@@ -16,6 +16,5 @@ date: Fri Sep 18 2020 11:08:42 GMT-0400 (Eastern Daylight Time)
 
 ###### Discourse Context
 
-- **Informs::** [CLM - Analogical retrieval in humans is dominated by surface similarity.md](CLM - Analogical retrieval in humans is dominated by surface similarity.md)
-- **Informs::** [QUE - How can we augment scientific creativity with computational analogy.md](QUE - How can we augment scientific creativity with computational analogy.md)
-
+- **Informs::** [[CLM - Analogical retrieval in humans is dominated by surface similarity]]
+- **Informs::** [[QUE - How can we augment scientific creativity with computational analogy]]

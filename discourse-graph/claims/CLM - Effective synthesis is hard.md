@@ -33,7 +33,6 @@ date: Thu Apr 30 2020 15:40:50 GMT-0400 (Eastern Daylight Time)
 
 ###### Discourse Context
 
-- **Informed By::** [@knightEnslavedTrappedData2019.md](@knightEnslavedTrappedData2019.md)
-- **Informed By::** [@greenhalghTimeChallengeSpurious2018.md](@greenhalghTimeChallengeSpurious2018.md)
-- **Informed By::** [@jonesBurdenKnowledgeDeath2009.md](@jonesBurdenKnowledgeDeath2009.md)
-
+- **Informed By::** [[@knightEnslavedTrappedData2019]]
+- **Informed By::** [[@greenhalghTimeChallengeSpurious2018]]
+- **Informed By::** [[@jonesBurdenKnowledgeDeath2009]]

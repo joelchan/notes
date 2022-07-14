@@ -39,6 +39,5 @@ date: Thu May 21 2020 10:11:29 GMT-0400 (Eastern Daylight Time)
 
 ###### Discourse Context
 
-- **Informed By::** [@kuhnBroadeningScopeNanopublications2013.md](@kuhnBroadeningScopeNanopublications2013.md)
-- **Informed By::** [@grozaSALTWeavingClaim2007.md](@grozaSALTWeavingClaim2007.md)
-
+- **Informed By::** [[@kuhnBroadeningScopeNanopublications2013]]
+- **Informed By::** [[@grozaSALTWeavingClaim2007]]

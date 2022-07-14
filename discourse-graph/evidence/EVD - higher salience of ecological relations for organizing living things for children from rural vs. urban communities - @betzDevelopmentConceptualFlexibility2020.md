@@ -31,5 +31,4 @@ date: Thu Feb 24 2022 10:00:27 GMT-0500 (Eastern Standard Time)
 
 ###### Discourse Context
 
-- **FromSource::** [@betzDevelopmentConceptualFlexibility2020.md](@betzDevelopmentConceptualFlexibility2020.md)
-
+- **FromSource::** [[@betzDevelopmentConceptualFlexibility2020]]

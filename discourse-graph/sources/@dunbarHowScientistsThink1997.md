@@ -49,9 +49,8 @@ date: Thu Sep 17 2020 13:44:49 GMT-0400 (Eastern Daylight Time)
 
 ###### Discourse Context
 
-- **Informs::** [CLM - There is a 'Sweet Spot' in Analogical Distance. Somewhat far analogies lead to better creative outcomes than very near or very far analogies.md](CLM - There is a 'Sweet Spot' in Analogical Distance. Somewhat far analogies lead to better creative outcomes than very near or very far analogies.md)
-- **Informs::** [CLM - Analogies can be a powerful source of new innovations.md](CLM - Analogies can be a powerful source of new innovations.md)
-- **Informs::** [QUE - How might domain distance modulate the effects of analogies on creative output.md](QUE - How might domain distance modulate the effects of analogies on creative output.md)
-- **SourceFor::** [EVD - Molecular biologists with a reputation for innovation rarely used very far analogies in their...d mainly on analogies to the same or other biological organisms - @dunbarHowScientistsThink1997.md](EVD - Molecular biologists with a reputation for innovation rarely used very far analogies in their...d mainly on analogies to the same or other biological organisms - @dunbarHowScientistsThink1997.md)
-- **SourceFor::** [EVD - A molecular biologist who had made a major scientific conceptual change did not recall any of the spontaneous analogies used to enact that change - @dunbarHowScientistsThink1997.md](EVD - A molecular biologist who had made a major scientific conceptual change did not recall any of the spontaneous analogies used to enact that change - @dunbarHowScientistsThink1997.md)
-
+- **Informs::** [[CLM - There is a 'Sweet Spot' in Analogical Distance. Somewhat far analogies lead to better creative outcomes than very near or very far analogies]]
+- **Informs::** [[CLM - Analogies can be a powerful source of new innovations]]
+- **Informs::** [[QUE - How might domain distance modulate the effects of analogies on creative output]]
+- **SourceFor::** [[EVD - Molecular biologists with a reputation for innovation rarely used very far analogies in their...d mainly on analogies to the same or other biological organisms - @dunbarHowScientistsThink1997]]
+- **SourceFor::** [[EVD - A molecular biologist who had made a major scientific conceptual change did not recall any of the spontaneous analogies used to enact that change - @dunbarHowScientistsThink1997]]

@@ -39,5 +39,4 @@ date: Sun Mar 22 2020 15:21:01 GMT-0400 (Eastern Daylight Time)
 
 ###### Discourse Context
 
-- **Informs::** [PTN - Integrated crowdsourcing.md](PTN - Integrated crowdsourcing.md)
-
+- **Informs::** [[PTN - Integrated crowdsourcing]]

@@ -29,7 +29,7 @@ date: Tue Jun 08 2021 15:42:33 GMT-0400 (Eastern Daylight Time)
 
 ###### Discourse Context
 
-- **Informs::** [QUE - What tension points exist between the goals of diversity and depth of user participation in participatory design.md](QUE - What tension points exist between the goals of diversity and depth of user participation in participatory design.md)
-- **Supports::** [CLM - The materials and trappings of design might be an inadvertent barrier to inclusion, though they are useful (or at least perceived as such) for depth of participation in the design process.md](CLM - The materials and trappings of design might be an inadvertent barrier to inclusion, though they are useful (or at least perceived as such) for depth of participation in the design process.md)
-- **Consistent With::** [EVD - Low-income, African-American older adults perceived ideation materials used for brainstorming as infantilizing and belittling - @harringtonDeconstructingCommunityBasedCollaborative2019.md](EVD - Low-income, African-American older adults perceived ideation materials used for brainstorming as infantilizing and belittling - @harringtonDeconstructingCommunityBasedCollaborative2019.md)
-- **FromSource::** [@harringtonDeconstructingCommunityBasedCollaborative2019.md](@harringtonDeconstructingCommunityBasedCollaborative2019.md)
+- **Informs::** [[QUE - What tension points exist between the goals of diversity and depth of user participation in participatory design]]
+- **Supports::** [[CLM - The materials and trappings of design might be an inadvertent barrier to inclusion, though they are useful (or at least perceived as such) for depth of participation in the design process]]
+- **Consistent With::** [[EVD - Low-income, African-American older adults perceived ideation materials used for brainstorming as infantilizing and belittling - @harringtonDeconstructingCommunityBasedCollaborative2019]]
+- **FromSource::** [[@harringtonDeconstructingCommunityBasedCollaborative2019]]

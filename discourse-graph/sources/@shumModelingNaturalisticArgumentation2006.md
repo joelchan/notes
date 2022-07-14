@@ -55,6 +55,5 @@ date: Tue Feb 11 2020 15:55:26 GMT-0500 (Eastern Standard Time)
 
 ###### Discourse Context
 
-- **Informs::** [CLM - Scholarly argumentation operates on atomic statements and concepts as fundamental units.md](CLM - Scholarly argumentation operates on atomic statements and concepts as fundamental units.md)
-- **Informs::** [QUE - How can we best bridge private vs. public knowledge.md](QUE - How can we best bridge private vs. public knowledge.md)
-
+- **Informs::** [[CLM - Scholarly argumentation operates on atomic statements and concepts as fundamental units]]
+- **Informs::** [[QUE - How can we best bridge private vs. public knowledge]]

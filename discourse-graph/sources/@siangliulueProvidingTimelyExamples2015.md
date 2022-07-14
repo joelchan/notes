@@ -29,7 +29,6 @@ date: Tue May 19 2020 22:42:33 GMT-0400 (Eastern Daylight Time)
 
 ###### Discourse Context
 
-- **Informs::** [CLM - Inspiration favors the prepared mind.md](CLM - Inspiration favors the prepared mind.md)
-- **Informs::** [QUE - What factors control whether people appropriately benefit from analogies (especially far-field ones) during creative problem solving.md](QUE - What factors control whether people appropriately benefit from analogies (especially far-field ones) during creative problem solving.md)
-- **Informs::** [QUE - Under what conditions do diverse initial examples lead to better final design solutions.md](QUE - Under what conditions do diverse initial examples lead to better final design solutions.md)
-
+- **Informs::** [[CLM - Inspiration favors the prepared mind]]
+- **Informs::** [[QUE - What factors control whether people appropriately benefit from analogies (especially far-field ones) during creative problem solving]]
+- **Informs::** [[QUE - Under what conditions do diverse initial examples lead to better final design solutions]]

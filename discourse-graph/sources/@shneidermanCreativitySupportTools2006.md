@@ -29,5 +29,4 @@ date: Sun Feb 07 2021 14:46:42 GMT-0500 (Eastern Standard Time)
 
 ###### Discourse Context
 
-- **Informs::** [QUE - How can we measure efficacy of creativity support systems.md](QUE - How can we measure efficacy of creativity support systems.md)
-
+- **Informs::** [[QUE - How can we measure efficacy of creativity support systems]]

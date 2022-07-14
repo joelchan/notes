@@ -15,5 +15,4 @@ date: Tue Sep 28 2021 12:33:41 GMT-0400 (Eastern Daylight Time)
 
 ###### Discourse Context
 
-- **Supported By::** [EVD - y defines quality differently, and gets different results from x -.md](EVD - y defines quality differently, and gets different results from x -.md)
-
+- **Supported By::** [[EVD - y defines quality differently, and gets different results from x -]]

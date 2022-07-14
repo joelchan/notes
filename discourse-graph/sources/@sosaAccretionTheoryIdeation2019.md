@@ -33,10 +33,9 @@ date: Wed Feb 12 2020 17:23:38 GMT-0500 (Eastern Standard Time)
 
 ###### Discourse Context
 
-- **Informs::** [CLM - Paths to creative breakthroughs are frequently oblique.md](CLM - Paths to creative breakthroughs are frequently oblique.md)
-- **Informs::** [CLM - The notion of an 'idea' is very complicated.md](CLM - The notion of an 'idea' is very complicated.md)
-- **Informs::** [QUE - Under what conditions do diverse initial examples lead to better final design solutions.md](QUE - Under what conditions do diverse initial examples lead to better final design solutions.md)
-- **Informs::** [QUE - What are some major phenomena around designers' exploration of design spaces and how might these map to characteristics of optimizers.md](QUE - What are some major phenomena around designers' exploration of design spaces and how might these map to characteristics of optimizers.md)
-- **Informs::** [QUE - Is it possible to measure creativity in a scientifically precise way If so, how.md](QUE - Is it possible to measure creativity in a scientifically precise way If so, how.md)
-- **Informs::** [THE - Accretion theory of ideation.md](THE - Accretion theory of ideation.md)
-
+- **Informs::** [[CLM - Paths to creative breakthroughs are frequently oblique]]
+- **Informs::** [[CLM - The notion of an 'idea' is very complicated]]
+- **Informs::** [[QUE - Under what conditions do diverse initial examples lead to better final design solutions]]
+- **Informs::** [[QUE - What are some major phenomena around designers' exploration of design spaces and how might these map to characteristics of optimizers]]
+- **Informs::** [[QUE - Is it possible to measure creativity in a scientifically precise way If so, how]]
+- **Informs::** [[THE - Accretion theory of ideation]]

@@ -9,4 +9,4 @@ date: Wed Jan 12 2022 00:21:27 GMT-0500 (Eastern Standard Time)
 
 ###### Discourse Context
 
-- **Informed By::** [@marshallVIKISpatialHypertext1994.md](@marshallVIKISpatialHypertext1994.md)
+- **Informed By::** [[@marshallVIKISpatialHypertext1994]]

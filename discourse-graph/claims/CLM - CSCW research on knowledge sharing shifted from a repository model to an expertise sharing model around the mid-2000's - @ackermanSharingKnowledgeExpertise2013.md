@@ -16,6 +16,5 @@ date: Sat Jan 01 2022 11:56:17 GMT-0500 (Eastern Standard Time)
 
 ###### Discourse Context
 
-- **Informs::** [QUE - What are the most efficient routes to useful cross-boundary knowledge.md](QUE - What are the most efficient routes to useful cross-boundary knowledge.md)
-- **Informed By::** [@ackermanSharingKnowledgeExpertise2013.md](@ackermanSharingKnowledgeExpertise2013.md)
-
+- **Informs::** [[QUE - What are the most efficient routes to useful cross-boundary knowledge]]
+- **Informed By::** [[@ackermanSharingKnowledgeExpertise2013]]

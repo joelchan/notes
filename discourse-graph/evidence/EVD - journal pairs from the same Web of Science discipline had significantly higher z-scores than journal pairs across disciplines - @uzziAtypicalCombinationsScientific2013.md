@@ -16,4 +16,4 @@ date: Thu Jul 22 2021 11:17:04 GMT-0400 (Eastern Daylight Time)
 
 ###### Discourse Context
 
-- **FromSource::** [@uzziAtypicalCombinationsScientific2013.md](@uzziAtypicalCombinationsScientific2013.md)
+- **FromSource::** [[@uzziAtypicalCombinationsScientific2013]]

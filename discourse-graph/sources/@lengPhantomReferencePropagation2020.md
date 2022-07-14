@@ -37,6 +37,5 @@ date: Sun Oct 11 2020 21:34:45 GMT-0400 (Eastern Daylight Time)
 
 ###### Discourse Context
 
-- **Informs::** [CLM - Synthesis work requires explicit (usually external) representations of both evidence and claims.md](CLM - Synthesis work requires explicit (usually external) representations of both evidence and claims.md)
-- **SourceFor::** [EVD - A style guide example citation (not a real paper) was copied by more than 10 later papers to support claims of therapeutic effects of Rutin - @lengPhantomReferencePropagation2020.md](EVD - A style guide example citation (not a real paper) was copied by more than 10 later papers to support claims of therapeutic effects of Rutin - @lengPhantomReferencePropagation2020.md)
-
+- **Informs::** [[CLM - Synthesis work requires explicit (usually external) representations of both evidence and claims]]
+- **SourceFor::** [[EVD - A style guide example citation (not a real paper) was copied by more than 10 later papers to support claims of therapeutic effects of Rutin - @lengPhantomReferencePropagation2020]]

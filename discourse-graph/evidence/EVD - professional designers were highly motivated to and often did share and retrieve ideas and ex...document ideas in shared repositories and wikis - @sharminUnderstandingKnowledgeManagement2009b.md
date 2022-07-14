@@ -38,4 +38,4 @@ date: Thu Dec 30 2021 16:25:13 GMT-0500 (Eastern Standard Time)
 
 ###### Discourse Context
 
-- **FromSource::** [@sharminUnderstandingKnowledgeManagement2009b.md](@sharminUnderstandingKnowledgeManagement2009b.md)
+- **FromSource::** [[@sharminUnderstandingKnowledgeManagement2009b]]

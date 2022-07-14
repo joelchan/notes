@@ -73,7 +73,6 @@ date: Sun Jan 02 2022 15:34:00 GMT-0500 (Eastern Standard Time)
 
 ###### Discourse Context
 
-- **Informs::** [QUE - How can we measure efficacy of creativity support systems.md](QUE - How can we measure efficacy of creativity support systems.md)
-- **Informs::** [QUE - Can hypertext notetaking systems enhance cognitive flexibility.md](QUE - Can hypertext notetaking systems enhance cognitive flexibility.md)
-- **SourceFor::** [EVD - Starbucks baristas used a paper cup to support complex coordination to reduce the cost struct...ght, multi-tasking and interruption-intensive environment - @kirshMultitaskingCostStructure2005.md](EVD - Starbucks baristas used a paper cup to support complex coordination to reduce the cost struct...ght, multi-tasking and interruption-intensive environment - @kirshMultitaskingCostStructure2005.md)
-
+- **Informs::** [[QUE - How can we measure efficacy of creativity support systems]]
+- **Informs::** [[QUE - Can hypertext notetaking systems enhance cognitive flexibility]]
+- **SourceFor::** [[EVD - Starbucks baristas used a paper cup to support complex coordination to reduce the cost struct...ght, multi-tasking and interruption-intensive environment - @kirshMultitaskingCostStructure2005]]

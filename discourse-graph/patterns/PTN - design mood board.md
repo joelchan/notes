@@ -15,5 +15,4 @@ date: Wed Jun 15 2022 10:24:07 GMT-0400 (Eastern Daylight Time)
 
 ###### Discourse Context
 
-- **Informed By::** [@luceroFramingAligningParadoxing2012.md](@luceroFramingAligningParadoxing2012.md)
-
+- **Informed By::** [[@luceroFramingAligningParadoxing2012]]

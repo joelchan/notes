@@ -45,6 +45,5 @@ date: Fri Jun 19 2020 10:56:59 GMT-0400 (Eastern Daylight Time)
 
 ###### Discourse Context
 
-- **Informs::** [CLM - Effective synthesis is rare.md](CLM - Effective synthesis is rare.md)
-- **SourceFor::** [EVD - approximately one-third of criticisms in reviews of submitted manuscripts for a teacher educa...irectly related to inadequacies in synthesis - @alton-leeTroubleshooterChecklistProspective1998.md](EVD - approximately one-third of criticisms in reviews of submitted manuscripts for a teacher educa...irectly related to inadequacies in synthesis - @alton-leeTroubleshooterChecklistProspective1998.md)
-
+- **Informs::** [[CLM - Effective synthesis is rare]]
+- **SourceFor::** [[EVD - approximately one-third of criticisms in reviews of submitted manuscripts for a teacher educa...irectly related to inadequacies in synthesis - @alton-leeTroubleshooterChecklistProspective1998]]

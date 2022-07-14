@@ -15,5 +15,5 @@ date: Fri Dec 18 2020 16:58:22 GMT-0500 (Eastern Standard Time)
 
 ###### Discourse Context
 
-- **Informs::** [QUE - Can deep learning discover analogical representations.md](QUE - Can deep learning discover analogical representations.md)
-- **Informed By::** [@gentnerRelationalCategories2005.md](@gentnerRelationalCategories2005.md)
+- **Informs::** [[QUE - Can deep learning discover analogical representations]]
+- **Informed By::** [[@gentnerRelationalCategories2005]]

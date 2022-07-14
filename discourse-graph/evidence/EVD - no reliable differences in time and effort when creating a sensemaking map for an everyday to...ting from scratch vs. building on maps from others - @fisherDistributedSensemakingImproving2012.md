@@ -42,6 +42,6 @@ date: Wed Jul 13 2022 11:49:14 GMT-0400 (Eastern Daylight Time)
 
 ###### Discourse Context
 
-- **Supports::** [CLM - It is possible to benefit from receiving intermediate sensemaking outputs from others, particularly if those outputs have been iterated on.md](CLM - It is possible to benefit from receiving intermediate sensemaking outputs from others, particularly if those outputs have been iterated on.md)
-- **Consistent With::** [EVD - highest self-rated map quality, as measured by overall quality, and helpfulness to others, wh...er person, for the same everyday sensemaking topic - @fisherDistributedSensemakingImproving2012.md](EVD - highest self-rated map quality, as measured by overall quality, and helpfulness to others, wh...er person, for the same everyday sensemaking topic - @fisherDistributedSensemakingImproving2012.md)
-- **FromSource::** [@fisherDistributedSensemakingImproving2012.md](@fisherDistributedSensemakingImproving2012.md)
+- **Supports::** [[CLM - It is possible to benefit from receiving intermediate sensemaking outputs from others, particularly if those outputs have been iterated on]]
+- **Consistent With::** [[EVD - highest self-rated map quality, as measured by overall quality, and helpfulness to others, wh...er person, for the same everyday sensemaking topic - @fisherDistributedSensemakingImproving2012]]
+- **FromSource::** [[@fisherDistributedSensemakingImproving2012]]

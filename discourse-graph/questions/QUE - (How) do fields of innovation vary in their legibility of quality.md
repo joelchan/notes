@@ -93,16 +93,15 @@ date: Fri Sep 10 2021 21:40:23 GMT-0400 (Eastern Daylight Time)
 
 ###### Discourse Context
 
-- **Informed By::** [EVD - undergrad 1980s textbooks in physics and chemistry cited far fewer texts compare to sociology textbooks - @coleHierarchySciences1983.md](EVD - undergrad 1980s textbooks in physics and chemistry cited far fewer texts compare to sociology textbooks - @coleHierarchySciences1983.md)
-- **Informed By::** [EVD - most undergrad 1980s textbooks in physics and chemistry cited work published before 1960; sociology texts mostly cited work published after 1960 - @coleHierarchySciences1983.md](EVD - most undergrad 1980s textbooks in physics and chemistry cited work published before 1960; sociology texts mostly cited work published after 1960 - @coleHierarchySciences1983.md)
-- **Informed By::** [EVD - statistically significant but small differences in bibliometric measures of consensus across ...cal, hard and soft biological, and social sciences  - @fanelliBibliometricEvidenceHierarchy2013.md](EVD - statistically significant but small differences in bibliometric measures of consensus across ...cal, hard and soft biological, and social sciences  - @fanelliBibliometricEvidenceHierarchy2013.md)
-- **Informed By::** [CLM - Scientific fields vary substantially in terms of ease of consensus on judging what constitutes a valuable new contribution.md](CLM - Scientific fields vary substantially in terms of ease of consensus on judging what constitutes a valuable new contribution.md)
-- **Informed By::** [CLM - There is no systematic variation in consensus across fields on judging quality of contributions to research frontiers - @coleHierarchySciences1983.md](CLM - There is no systematic variation in consensus across fields on judging quality of contributions to research frontiers - @coleHierarchySciences1983.md)
-- **Informed By::** [CLM - There is systematic variation in consensus of the core knowledge of fields - @coleHierarchySciences1983.md](CLM - There is systematic variation in consensus of the core knowledge of fields - @coleHierarchySciences1983.md)
-- **Informed By::** [@kuhnStructureScientificRevolutions1996.md](@kuhnStructureScientificRevolutions1996.md)
-- **Informed By::** [@sulsSocialComparisonSocial1983.md](@sulsSocialComparisonSocial1983.md)
-- **Informed By::** [@coleHierarchySciences1983.md](@coleHierarchySciences1983.md)
-- **Informed By::** [@simontonVarietiesScientificCreativity2009.md](@simontonVarietiesScientificCreativity2009.md)
-- **Informed By::** [@fanelliBibliometricEvidenceHierarchy2013.md](@fanelliBibliometricEvidenceHierarchy2013.md)
-- **Informed By::** [@hjorlandEpistemologySociocognitivePerspective2002.md](@hjorlandEpistemologySociocognitivePerspective2002.md)
-
+- **Informed By::** [[EVD - undergrad 1980s textbooks in physics and chemistry cited far fewer texts compare to sociology textbooks - @coleHierarchySciences1983]]
+- **Informed By::** [[EVD - most undergrad 1980s textbooks in physics and chemistry cited work published before 1960; sociology texts mostly cited work published after 1960 - @coleHierarchySciences1983]]
+- **Informed By::** [[EVD - statistically significant but small differences in bibliometric measures of consensus across ...cal, hard and soft biological, and social sciences  - @fanelliBibliometricEvidenceHierarchy2013]]
+- **Informed By::** [[CLM - Scientific fields vary substantially in terms of ease of consensus on judging what constitutes a valuable new contribution]]
+- **Informed By::** [[CLM - There is no systematic variation in consensus across fields on judging quality of contributions to research frontiers - @coleHierarchySciences1983]]
+- **Informed By::** [[CLM - There is systematic variation in consensus of the core knowledge of fields - @coleHierarchySciences1983]]
+- **Informed By::** [[@kuhnStructureScientificRevolutions1996]]
+- **Informed By::** [[@sulsSocialComparisonSocial1983]]
+- **Informed By::** [[@coleHierarchySciences1983]]
+- **Informed By::** [[@simontonVarietiesScientificCreativity2009]]
+- **Informed By::** [[@fanelliBibliometricEvidenceHierarchy2013]]
+- **Informed By::** [[@hjorlandEpistemologySociocognitivePerspective2002]]

@@ -29,8 +29,7 @@ date: Fri Jul 16 2021 00:56:52 GMT-0400 (Eastern Daylight Time)
 
 ###### Discourse Context
 
-- **Informs::** [CLM - Diversity in epistemology and methodology is critical for scientific progress.md](CLM - Diversity in epistemology and methodology is critical for scientific progress.md)
-- **Informs::** [QUE - What tension points exist between the goals of diversity and depth of user participation in participatory design.md](QUE - What tension points exist between the goals of diversity and depth of user participation in participatory design.md)
-- **SourceFor::** [EVD - Aboriginal informants expressed deep skepticism of evidence-based top-down models and perceived them as conflicting with more effective local knowledge - @butcherCommunityEngagementYouth2020.md](EVD - Aboriginal informants expressed deep skepticism of evidence-based top-down models and perceived them as conflicting with more effective local knowledge - @butcherCommunityEngagementYouth2020.md)
-- **SourceFor::** [EVD - Aboriginal informants expressed significant distrust of government and human service provider...egative history of misaligned time frames and incentives - @butcherCommunityEngagementYouth2020.md](EVD - Aboriginal informants expressed significant distrust of government and human service provider...egative history of misaligned time frames and incentives - @butcherCommunityEngagementYouth2020.md)
-
+- **Informs::** [[CLM - Diversity in epistemology and methodology is critical for scientific progress]]
+- **Informs::** [[QUE - What tension points exist between the goals of diversity and depth of user participation in participatory design]]
+- **SourceFor::** [[EVD - Aboriginal informants expressed deep skepticism of evidence-based top-down models and perceived them as conflicting with more effective local knowledge - @butcherCommunityEngagementYouth2020]]
+- **SourceFor::** [[EVD - Aboriginal informants expressed significant distrust of government and human service provider...egative history of misaligned time frames and incentives - @butcherCommunityEngagementYouth2020]]

@@ -47,14 +47,13 @@ date: Sat Dec 26 2020 21:46:50 GMT-0500 (Eastern Standard Time)
 
 ###### Discourse Context
 
-- **Informed By::** [EVD - design students transferred flawed features from an example even though the flaws were described as negative - @janssonDesignFixation1991.md](EVD - design students transferred flawed features from an example even though the flaws were described as negative - @janssonDesignFixation1991.md)
-- **Informed By::** [CLM - Recent or concurrent exposure to ideas can substantially influence the direction of ideation.md](CLM - Recent or concurrent exposure to ideas can substantially influence the direction of ideation.md)
-- **Informed By::** [CLM - Examples can improve creative outcomes by stimulating more exploration away from obvious starting points.md](CLM - Examples can improve creative outcomes by stimulating more exploration away from obvious starting points.md)
-- **Informed By::** [@gickAnalogicalProblemSolving1980.md](@gickAnalogicalProblemSolving1980.md)
-- **Informed By::** [@janssonDesignFixation1991.md](@janssonDesignFixation1991.md)
-- **Informed By::** [@sioRoleIncubationPeriod2007.md](@sioRoleIncubationPeriod2007.md)
-- **Informed By::** [@stormThinkingCanCause2011.md](@stormThinkingCanCause2011.md)
-- **Informed By::** [@andersonRememberingCanCause1994.md](@andersonRememberingCanCause1994.md)
-- **Informed By::** [@murayamaForgettingConsequenceRetrieval2014.md](@murayamaForgettingConsequenceRetrieval2014.md)
-- **Informed By::** [@stormProgressReportInhibitory2012.md](@stormProgressReportInhibitory2012.md)
-
+- **Informed By::** [[EVD - design students transferred flawed features from an example even though the flaws were described as negative - @janssonDesignFixation1991]]
+- **Informed By::** [[CLM - Recent or concurrent exposure to ideas can substantially influence the direction of ideation]]
+- **Informed By::** [[CLM - Examples can improve creative outcomes by stimulating more exploration away from obvious starting points]]
+- **Informed By::** [[@gickAnalogicalProblemSolving1980]]
+- **Informed By::** [[@janssonDesignFixation1991]]
+- **Informed By::** [[@sioRoleIncubationPeriod2007]]
+- **Informed By::** [[@stormThinkingCanCause2011]]
+- **Informed By::** [[@andersonRememberingCanCause1994]]
+- **Informed By::** [[@murayamaForgettingConsequenceRetrieval2014]]
+- **Informed By::** [[@stormProgressReportInhibitory2012]]

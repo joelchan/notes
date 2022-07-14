@@ -719,43 +719,42 @@ approach
 
 ###### Discourse Context
 
-- **Informed By::** [CLM - In interdisciplinary domains, network-based foraging is more powerful than search-based foraging.md](CLM - In interdisciplinary domains, network-based foraging is more powerful than search-based foraging.md)
-- **Informed By::** [CLM - A significant proportion of the benefits of analogical stimuli is oblique or indirect.md](CLM - A significant proportion of the benefits of analogical stimuli is oblique or indirect.md)
-- **Informed By::** [CLM - CSCW research on knowledge sharing shifted from a repository model to an expertise sharing model around the mid-2000's - @ackermanSharingKnowledgeExpertise2013.md](CLM - CSCW research on knowledge sharing shifted from a repository model to an expertise sharing model around the mid-2000's - @ackermanSharingKnowledgeExpertise2013.md)
-- **Informed By::** [CLM - Knowledge is fundamentally contextual.md](CLM - Knowledge is fundamentally contextual.md)
-- **Informed By::** [CLM - Substantial portions of knowledge that is critical for innovation are not written down.md](CLM - Substantial portions of knowledge that is critical for innovation are not written down.md)
-- **Informed By::** [CLM - Physical proximity greatly facilitates initiation of new collaborations.md](CLM - Physical proximity greatly facilitates initiation of new collaborations.md)
-- **Informed By::** [@palmerWorkBoundariesScience2001.md](@palmerWorkBoundariesScience2001.md)
-- **Informed By::** [@laneEngineeringSerendipityWhen.md](@laneEngineeringSerendipityWhen.md)
-- **Informed By::** [@sebastianEmergingApproachesLiteraturebased2017.md](@sebastianEmergingApproachesLiteraturebased2017.md)
-- **Informed By::** [@cataliniHowTravelCosts2020.md](@cataliniHowTravelCosts2020.md)
-- **Informed By::** [@caiExtendedLinkographyDistance2010.md](@caiExtendedLinkographyDistance2010.md)
-- **Informed By::** [@smalheiserRediscoveringDonSwanson2017.md](@smalheiserRediscoveringDonSwanson2017.md)
-- **Informed By::** [@ackermanSharingKnowledgeExpertise2013.md](@ackermanSharingKnowledgeExpertise2013.md)
-- **Informed By::** [@hargadonTechnologyBrokeringInnovation1997.md](@hargadonTechnologyBrokeringInnovation1997.md)
-- **Informed By::** [@boudreauFieldExperimentSearch2017.md](@boudreauFieldExperimentSearch2017.md)
-- **Informed By::** [@eckertFortuneFavoursOnly1998.md](@eckertFortuneFavoursOnly1998.md)
-- **Informed By::** [@cataliniMicrogeographyDirectionInventive2017.md](@cataliniMicrogeographyDirectionInventive2017.md)
-- **Informed By::** [@jeppesenMarginalityProblemsolvingEffectiveness2010.md](@jeppesenMarginalityProblemsolvingEffectiveness2010.md)
-- **Informed By::** [@palmerAligningStudiesInformation1999.md](@palmerAligningStudiesInformation1999.md)
-- **Informed By::** [@kostoffLiteraturerelatedDiscovery2009.md](@kostoffLiteraturerelatedDiscovery2009.md)
-- **Informed By::** [@beelResearchpaperRecommenderSystems2016.md](@beelResearchpaperRecommenderSystems2016.md)
-- **Informed By::** [@cattaniDeconstructingOutsiderPuzzle2017.md](@cattaniDeconstructingOutsiderPuzzle2017.md)
-- **Informed By::** [@burtStructuralHolesGood2004.md](@burtStructuralHolesGood2004.md)
-- **Informed By::** [@moteReasonsVariationInformation1962.md](@moteReasonsVariationInformation1962.md)
-- **Informed By::** [@swansonFishOilRaynaud1986.md](@swansonFishOilRaynaud1986.md)
-- **Informed By::** [@okadaAnalogicalModificationCreation2009.md](@okadaAnalogicalModificationCreation2009.md)
-- **Informed By::** [@eckertSourcesInspirationLanguage2000.md](@eckertSourcesInspirationLanguage2000.md)
-- **Informed By::** [@frankeIntegratingProblemSolvers2014.md](@frankeIntegratingProblemSolvers2014.md)
-- **Informed By::** [@chanBestDesignIdeas2015.md](@chanBestDesignIdeas2015.md)
-- **Informed By::** [@HowMicrosoftUsed2016.md](@HowMicrosoftUsed2016.md)
-- **Informed By::** [@bates1996learning.md](@bates1996learning.md)
-- **Informed By::** [@helmsCompoundAnalogicalDesign2008.md](@helmsCompoundAnalogicalDesign2008.md)
-- **Informed By::** [@eckertAdaptationSourcesInspiration2003.md](@eckertAdaptationSourcesInspiration2003.md)
-- **Informed By::** [@packerImportanceSDICurrent1979.md](@packerImportanceSDICurrent1979.md)
-- **Informed By::** [@kimWorkspaceSatisfactionPrivacycommunication2013.md](@kimWorkspaceSatisfactionPrivacycommunication2013.md)
-- **Informed By::** [@inieHowInteractionDesigners2020.md](@inieHowInteractionDesigners2020.md)
-- **Informed By::** [@fosterNonlinearModelInformationseeking2004.md](@fosterNonlinearModelInformationseeking2004.md)
-- **Informed By::** [@halskovEmergenceIdeasInterplay2007.md](@halskovEmergenceIdeasInterplay2007.md)
-- **Informed By::** [@swansonUndiscoveredPublicKnowledge1996.md](@swansonUndiscoveredPublicKnowledge1996.md)
-
+- **Informed By::** [[CLM - In interdisciplinary domains, network-based foraging is more powerful than search-based foraging]]
+- **Informed By::** [[CLM - A significant proportion of the benefits of analogical stimuli is oblique or indirect]]
+- **Informed By::** [[CLM - CSCW research on knowledge sharing shifted from a repository model to an expertise sharing model around the mid-2000's - @ackermanSharingKnowledgeExpertise2013]]
+- **Informed By::** [[CLM - Knowledge is fundamentally contextual]]
+- **Informed By::** [[CLM - Substantial portions of knowledge that is critical for innovation are not written down]]
+- **Informed By::** [[CLM - Physical proximity greatly facilitates initiation of new collaborations]]
+- **Informed By::** [[@palmerWorkBoundariesScience2001]]
+- **Informed By::** [[@laneEngineeringSerendipityWhen]]
+- **Informed By::** [[@sebastianEmergingApproachesLiteraturebased2017]]
+- **Informed By::** [[@cataliniHowTravelCosts2020]]
+- **Informed By::** [[@caiExtendedLinkographyDistance2010]]
+- **Informed By::** [[@smalheiserRediscoveringDonSwanson2017]]
+- **Informed By::** [[@ackermanSharingKnowledgeExpertise2013]]
+- **Informed By::** [[@hargadonTechnologyBrokeringInnovation1997]]
+- **Informed By::** [[@boudreauFieldExperimentSearch2017]]
+- **Informed By::** [[@eckertFortuneFavoursOnly1998]]
+- **Informed By::** [[@cataliniMicrogeographyDirectionInventive2017]]
+- **Informed By::** [[@jeppesenMarginalityProblemsolvingEffectiveness2010]]
+- **Informed By::** [[@palmerAligningStudiesInformation1999]]
+- **Informed By::** [[@kostoffLiteraturerelatedDiscovery2009]]
+- **Informed By::** [[@beelResearchpaperRecommenderSystems2016]]
+- **Informed By::** [[@cattaniDeconstructingOutsiderPuzzle2017]]
+- **Informed By::** [[@burtStructuralHolesGood2004]]
+- **Informed By::** [[@moteReasonsVariationInformation1962]]
+- **Informed By::** [[@swansonFishOilRaynaud1986]]
+- **Informed By::** [[@okadaAnalogicalModificationCreation2009]]
+- **Informed By::** [[@eckertSourcesInspirationLanguage2000]]
+- **Informed By::** [[@frankeIntegratingProblemSolvers2014]]
+- **Informed By::** [[@chanBestDesignIdeas2015]]
+- **Informed By::** [[@HowMicrosoftUsed2016]]
+- **Informed By::** [[@bates1996learning]]
+- **Informed By::** [[@helmsCompoundAnalogicalDesign2008]]
+- **Informed By::** [[@eckertAdaptationSourcesInspiration2003]]
+- **Informed By::** [[@packerImportanceSDICurrent1979]]
+- **Informed By::** [[@kimWorkspaceSatisfactionPrivacycommunication2013]]
+- **Informed By::** [[@inieHowInteractionDesigners2020]]
+- **Informed By::** [[@fosterNonlinearModelInformationseeking2004]]
+- **Informed By::** [[@halskovEmergenceIdeasInterplay2007]]
+- **Informed By::** [[@swansonUndiscoveredPublicKnowledge1996]]

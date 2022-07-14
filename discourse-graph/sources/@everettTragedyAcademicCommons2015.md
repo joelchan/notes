@@ -31,4 +31,4 @@ date: Fri Jul 10 2020 23:02:11 GMT-0400 (Eastern Daylight Time)
 
 ###### Discourse Context
 
-- **Informs::** [CLM - Prevailing incentives in academia are bad for science.md](CLM - Prevailing incentives in academia are bad for science.md)
+- **Informs::** [[CLM - Prevailing incentives in academia are bad for science]]

@@ -33,9 +33,8 @@ date: Sun Feb 07 2021 12:50:44 GMT-0500 (Eastern Standard Time)
 
 ###### Discourse Context
 
-- **Informed By::** [CLM - The notion of an 'idea' is very complicated.md](CLM - The notion of an 'idea' is very complicated.md)
-- **Informed By::** [@sosaAccretionTheoryIdeation2019.md](@sosaAccretionTheoryIdeation2019.md)
-- **Informed By::** [@simontonDefiningCreativityDon2016.md](@simontonDefiningCreativityDon2016.md)
-- **Informed By::** [@amabileSocialPsychologyCreativity1982.md](@amabileSocialPsychologyCreativity1982.md)
-- **Informed By::** [@kornishImportanceRawIdea2014.md](@kornishImportanceRawIdea2014.md)
-
+- **Informed By::** [[CLM - The notion of an 'idea' is very complicated]]
+- **Informed By::** [[@sosaAccretionTheoryIdeation2019]]
+- **Informed By::** [[@simontonDefiningCreativityDon2016]]
+- **Informed By::** [[@amabileSocialPsychologyCreativity1982]]
+- **Informed By::** [[@kornishImportanceRawIdea2014]]

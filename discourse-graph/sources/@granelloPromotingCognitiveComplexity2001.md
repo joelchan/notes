@@ -54,6 +54,5 @@ date: Tue Dec 24 2019 10:12:47 GMT-0500 (Eastern Standard Time)
 
 ###### Discourse Context
 
-- **Informs::** [CLM - Contextualizability is necessary for synthesis.md](CLM - Contextualizability is necessary for synthesis.md)
-- **Informs::** [QUE - How might we conceptualize and measure synthesis quality.md](QUE - How might we conceptualize and measure synthesis quality.md)
-
+- **Informs::** [[CLM - Contextualizability is necessary for synthesis]]
+- **Informs::** [[QUE - How might we conceptualize and measure synthesis quality]]

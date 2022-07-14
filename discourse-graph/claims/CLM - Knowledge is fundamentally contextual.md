@@ -42,11 +42,10 @@ date: Fri Mar 18 2022 13:39:02 GMT-0400 (Eastern Daylight Time)
 
 ###### Discourse Context
 
-- **Informs::** [QUE - What are the most efficient routes to useful cross-boundary knowledge.md](QUE - What are the most efficient routes to useful cross-boundary knowledge.md)
-- **Informs::** [QUE - Under what conditions is it possible to transfer expertise from one person to another.md](QUE - Under what conditions is it possible to transfer expertise from one person to another.md)
-- **Informed By::** [@agarwalExploringContextInformation2017.md](@agarwalExploringContextInformation2017.md)
-- **Informed By::** [@dourishWhatWeTalk2004.md](@dourishWhatWeTalk2004.md)
-- **Informed By::** [@halfordDigitalFuturesSociological2013.md](@halfordDigitalFuturesSociological2013.md)
-- **Informed By::** [@bowkerAllKnowledgeLocal2010.md](@bowkerAllKnowledgeLocal2010.md)
-- **Informed By::** [@harawaySituatedKnowledgesScience1988.md](@harawaySituatedKnowledgesScience1988.md)
-
+- **Informs::** [[QUE - What are the most efficient routes to useful cross-boundary knowledge]]
+- **Informs::** [[QUE - Under what conditions is it possible to transfer expertise from one person to another]]
+- **Informed By::** [[@agarwalExploringContextInformation2017]]
+- **Informed By::** [[@dourishWhatWeTalk2004]]
+- **Informed By::** [[@halfordDigitalFuturesSociological2013]]
+- **Informed By::** [[@bowkerAllKnowledgeLocal2010]]
+- **Informed By::** [[@harawaySituatedKnowledgesScience1988]]

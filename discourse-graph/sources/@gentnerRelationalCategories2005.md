@@ -33,7 +33,6 @@ date: Sat Nov 28 2020 15:50:28 GMT-0500 (Eastern Standard Time)
 
 ###### Discourse Context
 
-- **Informs::** [CLM - Vector-space models of language struggle with relational similarity.md](CLM - Vector-space models of language struggle with relational similarity.md)
-- **Informs::** [CLM - Relational categories are almost overwhelmingly expressed as verbs.md](CLM - Relational categories are almost overwhelmingly expressed as verbs.md)
-- **Informs::** [QUE - Can deep learning discover analogical representations.md](QUE - Can deep learning discover analogical representations.md)
-
+- **Informs::** [[CLM - Vector-space models of language struggle with relational similarity]]
+- **Informs::** [[CLM - Relational categories are almost overwhelmingly expressed as verbs]]
+- **Informs::** [[QUE - Can deep learning discover analogical representations]]

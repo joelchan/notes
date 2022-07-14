@@ -21,5 +21,4 @@ date: Thu May 14 2020 17:07:05 GMT-0400 (Eastern Daylight Time)
 
 ###### Discourse Context
 
-- **Informed By::** [@qianITunesPapersRedefining2019a.md](@qianITunesPapersRedefining2019a.md)
-
+- **Informed By::** [[@qianITunesPapersRedefining2019a]]

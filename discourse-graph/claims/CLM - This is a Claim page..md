@@ -9,5 +9,4 @@ date: Tue Jul 12 2022 12:56:22 GMT-0400 (Eastern Daylight Time)
 
 ###### Discourse Context
 
-- **Supported By::** [EVD - This is a Evidence page. - {Source}.md](EVD - This is a Evidence page. - {Source}.md)
-
+- **Supported By::** [[EVD - This is a Evidence page. - {Source}]]

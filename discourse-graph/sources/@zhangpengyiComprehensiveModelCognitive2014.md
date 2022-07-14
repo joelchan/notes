@@ -35,6 +35,5 @@ date: Wed Feb 12 2020 17:27:32 GMT-0500 (Eastern Standard Time)
 
 ###### Discourse Context
 
-- **Informs::** [CLM - Requirements for sensemaking come from the particulars of the work task.md](CLM - Requirements for sensemaking come from the particulars of the work task.md)
-- **Informs::** [QUE - What (existing) systems facilitate individual synthesis.md](QUE - What (existing) systems facilitate individual synthesis.md)
-
+- **Informs::** [[CLM - Requirements for sensemaking come from the particulars of the work task]]
+- **Informs::** [[QUE - What (existing) systems facilitate individual synthesis]]

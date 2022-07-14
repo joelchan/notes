@@ -21,7 +21,6 @@ date: Fri Feb 28 2020 17:08:14 GMT-0500 (Eastern Standard Time)
 
 ###### Discourse Context
 
-- **Informs::** [QUE - What is synthesis.md](QUE - What is synthesis.md)
-- **Informs::** [QUE - What (existing) systems facilitate individual synthesis.md](QUE - What (existing) systems facilitate individual synthesis.md)
-- **Informed By::** [@strikeTypesSynthesisTheir1983.md](@strikeTypesSynthesisTheir1983.md)
-
+- **Informs::** [[QUE - What is synthesis]]
+- **Informs::** [[QUE - What (existing) systems facilitate individual synthesis]]
+- **Informed By::** [[@strikeTypesSynthesisTheir1983]]

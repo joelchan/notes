@@ -35,8 +35,7 @@ date: Sun Jan 19 2020 21:57:29 GMT-0500 (Eastern Standard Time)
 
 ###### Discourse Context
 
-- **Informs::** [CLM - Compression is necessary for synthesis.md](CLM - Compression is necessary for synthesis.md)
-- **Informs::** [CLM - Scholarly argumentation operates on atomic statements and concepts as fundamental units.md](CLM - Scholarly argumentation operates on atomic statements and concepts as fundamental units.md)
-- **Informs::** [CLM - Compressing complex ideas into more manageable chunks facilitates more complex thought.md](CLM - Compressing complex ideas into more manageable chunks facilitates more complex thought.md)
-- **Informs::** [QUE - What (existing) systems facilitate individual synthesis.md](QUE - What (existing) systems facilitate individual synthesis.md)
-
+- **Informs::** [[CLM - Compression is necessary for synthesis]]
+- **Informs::** [[CLM - Scholarly argumentation operates on atomic statements and concepts as fundamental units]]
+- **Informs::** [[CLM - Compressing complex ideas into more manageable chunks facilitates more complex thought]]
+- **Informs::** [[QUE - What (existing) systems facilitate individual synthesis]]

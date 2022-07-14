@@ -35,5 +35,4 @@ date: Sat Mar 07 2020 17:29:04 GMT-0500 (Eastern Standard Time)
 
 ###### Discourse Context
 
-- **Informed By::** [@shipmanFormalityConsideredHarmful1999.md](@shipmanFormalityConsideredHarmful1999.md)
-
+- **Informed By::** [[@shipmanFormalityConsideredHarmful1999]]

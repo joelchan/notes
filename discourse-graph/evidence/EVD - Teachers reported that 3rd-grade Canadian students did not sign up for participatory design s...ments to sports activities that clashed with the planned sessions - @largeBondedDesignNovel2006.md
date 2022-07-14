@@ -28,5 +28,4 @@ date: Tue Jul 12 2022 20:55:06 GMT-0400 (Eastern Daylight Time)
 
 ###### Discourse Context
 
-- **FromSource::** [@largeBondedDesignNovel2006.md](@largeBondedDesignNovel2006.md)
-
+- **FromSource::** [[@largeBondedDesignNovel2006]]

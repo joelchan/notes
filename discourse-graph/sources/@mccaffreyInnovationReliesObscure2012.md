@@ -56,7 +56,6 @@ date: Thu May 14 2020 16:36:09 GMT-0400 (Eastern Daylight Time)
 
 ###### Discourse Context
 
-- **Informs::** [CLM - Breaking ideas down into component parts facilitates creative reinterpretation.md](CLM - Breaking ideas down into component parts facilitates creative reinterpretation.md)
-- **Informs::** [QUE - How do people effectively (re)formulate creative problems.md](QUE - How do people effectively (re)formulate creative problems.md)
-- **Informs::** [THE - interaction-oriented theory of creative inspiration from examples.md](THE - interaction-oriented theory of creative inspiration from examples.md)
-
+- **Informs::** [[CLM - Breaking ideas down into component parts facilitates creative reinterpretation]]
+- **Informs::** [[QUE - How do people effectively (re)formulate creative problems]]
+- **Informs::** [[THE - interaction-oriented theory of creative inspiration from examples]]

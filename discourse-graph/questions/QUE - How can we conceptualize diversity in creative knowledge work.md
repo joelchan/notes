@@ -33,5 +33,5 @@ date: Sun Aug 08 2021 13:18:04 GMT-0400 (Eastern Daylight Time)
 
 ###### Discourse Context
 
-- **Informed By::** [@harrisonWhatDifferenceDiversity2007.md](@harrisonWhatDifferenceDiversity2007.md)
-- **Informed By::** [@siangliulueCollaborativeIdeationScale2015.md](@siangliulueCollaborativeIdeationScale2015.md)
+- **Informed By::** [[@harrisonWhatDifferenceDiversity2007]]
+- **Informed By::** [[@siangliulueCollaborativeIdeationScale2015]]

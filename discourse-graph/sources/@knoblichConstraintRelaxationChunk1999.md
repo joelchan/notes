@@ -136,8 +136,7 @@ date: Fri Feb 28 2020 21:57:05 GMT-0500 (Eastern Standard Time)
 
 ###### Discourse Context
 
-- **Informs::** [CLM - Breaking ideas down into component parts facilitates creative reinterpretation.md](CLM - Breaking ideas down into component parts facilitates creative reinterpretation.md)
-- **Informs::** [CLM - Analogies can power creative breakthroughs by stimulating effective problem (re)formulation.md](CLM - Analogies can power creative breakthroughs by stimulating effective problem (re)formulation.md)
-- **Informs::** [THE - interaction-oriented theory of creative inspiration from examples.md](THE - interaction-oriented theory of creative inspiration from examples.md)
-- **SourceFor::** [EVD - People were ~2x worse at solving matchstick arithmetic problems when the elements were harder to decompose into chunks - @knoblichConstraintRelaxationChunk1999.md](EVD - People were ~2x worse at solving matchstick arithmetic problems when the elements were harder to decompose into chunks - @knoblichConstraintRelaxationChunk1999.md)
-
+- **Informs::** [[CLM - Breaking ideas down into component parts facilitates creative reinterpretation]]
+- **Informs::** [[CLM - Analogies can power creative breakthroughs by stimulating effective problem (re)formulation]]
+- **Informs::** [[THE - interaction-oriented theory of creative inspiration from examples]]
+- **SourceFor::** [[EVD - People were ~2x worse at solving matchstick arithmetic problems when the elements were harder to decompose into chunks - @knoblichConstraintRelaxationChunk1999]]

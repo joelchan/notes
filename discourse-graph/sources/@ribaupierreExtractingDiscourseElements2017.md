@@ -55,9 +55,8 @@ date: Sat Feb 15 2020 23:44:15 GMT-0500 (Eastern Standard Time)
 
 ###### Discourse Context
 
-- **Informs::** [CLM - Compression is necessary for synthesis.md](CLM - Compression is necessary for synthesis.md)
-- **Informs::** [CLM - Scientists read strategically, not linearly.md](CLM - Scientists read strategically, not linearly.md)
-- **Informs::** [QUE - How can we best bridge private vs. public knowledge.md](QUE - How can we best bridge private vs. public knowledge.md)
-- **Informs::** [QUE - What (existing) systems facilitate individual synthesis.md](QUE - What (existing) systems facilitate individual synthesis.md)
-- **SourceFor::** [EVD - Scientists more often nonlinearly read subsections of papers for findings, hypotheses or othe...ion, rather than linearly reading whole documents - @ribaupierreExtractingDiscourseElements2017.md](EVD - Scientists more often nonlinearly read subsections of papers for findings, hypotheses or othe...ion, rather than linearly reading whole documents - @ribaupierreExtractingDiscourseElements2017.md)
-
+- **Informs::** [[CLM - Compression is necessary for synthesis]]
+- **Informs::** [[CLM - Scientists read strategically, not linearly]]
+- **Informs::** [[QUE - How can we best bridge private vs. public knowledge]]
+- **Informs::** [[QUE - What (existing) systems facilitate individual synthesis]]
+- **SourceFor::** [[EVD - Scientists more often nonlinearly read subsections of papers for findings, hypotheses or othe...ion, rather than linearly reading whole documents - @ribaupierreExtractingDiscourseElements2017]]

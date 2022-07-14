@@ -45,4 +45,4 @@ date: Tue May 26 2020 01:18:05 GMT-0400 (Eastern Daylight Time)
 
 ###### Discourse Context
 
-- **Informs::** [PTN - boundary object.md](PTN - boundary object.md)
+- **Informs::** [[PTN - boundary object]]

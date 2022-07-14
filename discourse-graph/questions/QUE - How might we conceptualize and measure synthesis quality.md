@@ -21,11 +21,10 @@ date: Thu Jun 10 2021 09:55:33 GMT-0400 (Eastern Daylight Time)
 
 ###### Discourse Context
 
-- **Informed By::** [@holbrookInvestigatingPhDThesis2004.md](@holbrookInvestigatingPhDThesis2004.md)
-- **Informed By::** [@granelloPromotingCognitiveComplexity2001.md](@granelloPromotingCognitiveComplexity2001.md)
-- **Informed By::** [@strikeTypesSynthesisTheir1983.md](@strikeTypesSynthesisTheir1983.md)
-- **Informed By::** [@booteScholarsResearchersCentrality2005.md](@booteScholarsResearchersCentrality2005.md)
-- **Informed By::** [@shipmanFormalityConsideredHarmful1999.md](@shipmanFormalityConsideredHarmful1999.md)
-- **Informed By::** [@lovittsMakingImplicitExplicit2007.md](@lovittsMakingImplicitExplicit2007.md)
-- **Informed By::** [@gruberDarwinManPsychological1974.md](@gruberDarwinManPsychological1974.md)
-
+- **Informed By::** [[@holbrookInvestigatingPhDThesis2004]]
+- **Informed By::** [[@granelloPromotingCognitiveComplexity2001]]
+- **Informed By::** [[@strikeTypesSynthesisTheir1983]]
+- **Informed By::** [[@booteScholarsResearchersCentrality2005]]
+- **Informed By::** [[@shipmanFormalityConsideredHarmful1999]]
+- **Informed By::** [[@lovittsMakingImplicitExplicit2007]]
+- **Informed By::** [[@gruberDarwinManPsychological1974]]

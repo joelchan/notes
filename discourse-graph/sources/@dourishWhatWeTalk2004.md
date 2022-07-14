@@ -41,7 +41,6 @@ date: Wed May 20 2020 11:20:00 GMT-0400 (Eastern Daylight Time)
 
 ###### Discourse Context
 
-- **Informs::** [CLM - Context is a slippery notion.md](CLM - Context is a slippery notion.md)
-- **Informs::** [CLM - Knowledge is fundamentally contextual.md](CLM - Knowledge is fundamentally contextual.md)
-- **Informs::** [QUE - How can we best bridge private vs. public knowledge.md](QUE - How can we best bridge private vs. public knowledge.md)
-
+- **Informs::** [[CLM - Context is a slippery notion]]
+- **Informs::** [[CLM - Knowledge is fundamentally contextual]]
+- **Informs::** [[QUE - How can we best bridge private vs. public knowledge]]

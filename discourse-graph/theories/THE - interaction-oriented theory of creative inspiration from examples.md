@@ -425,87 +425,86 @@ date: Thu Dec 23 2021 09:48:49 GMT-0500 (Eastern Standard Time)
 
 ###### Discourse Context
 
-- **Informed By::** [@linseyStudyDesignFixation2010.md](@linseyStudyDesignFixation2010.md)
-- **Informed By::** [@helmsCompoundAnalogicalDesign2008.md](@helmsCompoundAnalogicalDesign2008.md)
-- **Informed By::** [@yuDistributedAnalogicalIdea2014.md](@yuDistributedAnalogicalIdea2014.md)
-- **Informed By::** [@leeDesigningInteractiveExample2010.md](@leeDesigningInteractiveExample2010.md)
-- **Informed By::** [@linseyModalityRepresentationAnalogy2008.md](@linseyModalityRepresentationAnalogy2008.md)
-- **Informed By::** [@kochMayAIDesign2019.md](@kochMayAIDesign2019.md)
-- **Informed By::** [@kaplanSearchInsight1990.md](@kaplanSearchInsight1990.md)
-- **Informed By::** [@georgeConstrainingConstructiveEffects2017.md](@georgeConstrainingConstructiveEffects2017.md)
-- **Informed By::** [@maierReasoningHumansII1931.md](@maierReasoningHumansII1931.md)
-- **Informed By::** [@ivanovMoodCubesImmersiveSpaces2022.md](@ivanovMoodCubesImmersiveSpaces2022.md)
-- **Informed By::** [@ratcliffDoesActivationReally1981.md](@ratcliffDoesActivationReally1981.md)
-- **Informed By::** [@denervaudEducationShapesStructure2021.md](@denervaudEducationShapesStructure2021.md)
-- **Informed By::** [@vasconcelosCopyNotCopy2017.md](@vasconcelosCopyNotCopy2017.md)
-- **Informed By::** [@sharminReflectionSpaceInteractiveVisualization2013.md](@sharminReflectionSpaceInteractiveVisualization2013.md)
-- **Informed By::** [@okadaAnalogicalModificationCreation2009.md](@okadaAnalogicalModificationCreation2009.md)
-- **Informed By::** [@marshInadvertentUsePrior1999.md](@marshInadvertentUsePrior1999.md)
-- **Informed By::** [@gickSchemaInductionAnalogical1983.md](@gickSchemaInductionAnalogical1983.md)
-- **Informed By::** [@sauderQualitativeStudyCollaborative2016.md](@sauderQualitativeStudyCollaborative2016.md)
-- **Informed By::** [@sharminUnderstandingKnowledgeManagement2009b.md](@sharminUnderstandingKnowledgeManagement2009b.md)
-- **Informed By::** [@vasconcelosEffectExplicitInstructions2018.md](@vasconcelosEffectExplicitInstructions2018.md)
-- **Informed By::** [@kordeAlternatingIndividualGroup2016.md](@kordeAlternatingIndividualGroup2016.md)
-- **Informed By::** [@mccaffreyInnovationReliesObscure2012.md](@mccaffreyInnovationReliesObscure2012.md)
-- **Informed By::** [@luceroFramingAligningParadoxing2012.md](@luceroFramingAligningParadoxing2012.md)
-- **Informed By::** [@purcellDesignOtherTypes1996.md](@purcellDesignOtherTypes1996.md)
-- **Informed By::** [@gilonAnalogyMiningSpecific2018.md](@gilonAnalogyMiningSpecific2018.md)
-- **Informed By::** [@dowCheatersNeverProsper2015.md](@dowCheatersNeverProsper2015.md)
-- **Informed By::** [@dowParallelPrototypingLeads2010.md](@dowParallelPrototypingLeads2010.md)
-- **Informed By::** [@tohImpactExampleModality2014.md](@tohImpactExampleModality2014.md)
-- **Informed By::** [@mcnamaraPrimingConstraintsIt1992.md](@mcnamaraPrimingConstraintsIt1992.md)
-- **Informed By::** [@wardRoleSpecificityAbstraction2004.md](@wardRoleSpecificityAbstraction2004.md)
-- **Informed By::** [@zengFosteringCreativityProduct2011.md](@zengFosteringCreativityProduct2011.md)
-- **Informed By::** [@kellerCollectingCabinetHow2009.md](@kellerCollectingCabinetHow2009.md)
-- **Informed By::** [@bergPrimalMarkHow2014.md](@bergPrimalMarkHow2014.md)
-- **Informed By::** [@smithConstrainingEffectsExamples1993.md](@smithConstrainingEffectsExamples1993.md)
-- **Informed By::** [@vasconcelosInspirationFixationInfluences2017.md](@vasconcelosInspirationFixationInfluences2017.md)
-- **Informed By::** [@janssonDesignFixation1991.md](@janssonDesignFixation1991.md)
-- **Informed By::** [@faisalClassificationSensemakingRepresentations2009.md](@faisalClassificationSensemakingRepresentations2009.md)
-- **Informed By::** [@zahnerFixFixationRerepresenting2010.md](@zahnerFixFixationRerepresenting2010.md)
-- **Informed By::** [@kochSemanticCollageEnrichingDigital2020.md](@kochSemanticCollageEnrichingDigital2020.md)
-- **Informed By::** [@wardStructuredImaginationRole1994.md](@wardStructuredImaginationRole1994.md)
-- **Informed By::** [@dongUnfixingDesignFixation2011.md](@dongUnfixingDesignFixation2011.md)
-- **Informed By::** [@chanImprovingCrowdInnovation2016.md](@chanImprovingCrowdInnovation2016.md)
-- **Informed By::** [@ezzatSpecificityAbstractionExamples2020.md](@ezzatSpecificityAbstractionExamples2020.md)
-- **Informed By::** [@okadaImitationInspirationCreation2017.md](@okadaImitationInspirationCreation2017.md)
-- **Informed By::** [@marshItemAvailabilityCryptomnesia1995.md](@marshItemAvailabilityCryptomnesia1995.md)
-- **Informed By::** [@eckertAdaptationSourcesInspiration2003.md](@eckertAdaptationSourcesInspiration2003.md)
-- **Informed By::** [@herringGettingInspiredUnderstanding2009.md](@herringGettingInspiredUnderstanding2009.md)
-- **Informed By::** [@xuIdeateRelateExamplesGallery2021.md](@xuIdeateRelateExamplesGallery2021.md)
-- **Informed By::** [@wilkenfeldSimilarityEmergenceConceptual2001.md](@wilkenfeldSimilarityEmergenceConceptual2001.md)
-- **Informed By::** [@javadiIdeaVisibilityInformation2011.md](@javadiIdeaVisibilityInformation2011.md)
-- **Informed By::** [@marshHowExamplesMay1996.md](@marshHowExamplesMay1996.md)
-- **Informed By::** [@nijstadHowGroupAffects2006.md](@nijstadHowGroupAffects2006.md)
-- **Informed By::** [@clementEffectStructuralEmbedding1994.md](@clementEffectStructuralEmbedding1994.md)
-- **Informed By::** [@mendelsFreedSystemCreating2011.md](@mendelsFreedSystemCreating2011.md)
-- **Informed By::** [@kochImageSenseIntelligentCollaborative2020.md](@kochImageSenseIntelligentCollaborative2020.md)
-- **Informed By::** [@perttulaExposureEffectsDesign2006.md](@perttulaExposureEffectsDesign2006.md)
-- **Informed By::** [@meccaImitationCreativityBeneficial2013.md](@meccaImitationCreativityBeneficial2013.md)
-- **Informed By::** [@collinsSpreadingactivationTheorySemantic1975.md](@collinsSpreadingactivationTheorySemantic1975.md)
-- **Informed By::** [@knoblichConstraintRelaxationChunk1999.md](@knoblichConstraintRelaxationChunk1999.md)
-- **Informed By::** [@camardaRoleExpertiseDesign2017.md](@camardaRoleExpertiseDesign2017.md)
-- **Informed By::** [@betzDevelopmentConceptualFlexibility2020.md](@betzDevelopmentConceptualFlexibility2020.md)
-- **Informed By::** [@siangliulueCollaborativeIdeationScale2015.md](@siangliulueCollaborativeIdeationScale2015.md)
-- **Informed By::** [@marshElicitingCryptomnesiaUnconscious1993.md](@marshElicitingCryptomnesiaUnconscious1993.md)
-- **Informed By::** [EVD - designers used examples by re-appropriating and recombining solution components into novel ideas - @herringGettingInspiredUnderstanding2009.md](EVD - designers used examples by re-appropriating and recombining solution components into novel ideas - @herringGettingInspiredUnderstanding2009.md)
-- **Informed By::** [EVD - teachers in countries with high math and science achievement scores also displayed more cogni... in a country with lower math and science achievement - @richlandCognitiveSupportsAnalogies2007.md](EVD - teachers in countries with high math and science achievement scores also displayed more cogni... in a country with lower math and science achievement - @richlandCognitiveSupportsAnalogies2007.md)
-- **Informed By::** [EVD - Two artists used individual artworks to shape not just their ideas, but used a process of ana...ion. This process unfolded over the course of years. - @okadaAnalogicalModificationCreation2009.md](EVD - Two artists used individual artworks to shape not just their ideas, but used a process of ana...ion. This process unfolded over the course of years. - @okadaAnalogicalModificationCreation2009.md)
-- **Informed By::** [EVD - designers used examples to shape their understanding of the problem before generating solutions - @herringGettingInspiredUnderstanding2009.md](EVD - designers used examples to shape their understanding of the problem before generating solutions - @herringGettingInspiredUnderstanding2009.md)
-- **Informed By::** [EVD - undergraduates used more complex integration approaches (vs. property transfer and hybridizat...n phrases from dissimilar vs. similar noun pairs - @wilkenfeldSimilarityEmergenceConceptual2001.md](EVD - undergraduates used more complex integration approaches (vs. property transfer and hybridizat...n phrases from dissimilar vs. similar noun pairs - @wilkenfeldSimilarityEmergenceConceptual2001.md)
-- **Informed By::** [EVD - professional designers curated examples to understand trends and design approaches to inform .... simple direct transfer of solution approaches - @sharminUnderstandingKnowledgeManagement2009b.md](EVD - professional designers curated examples to understand trends and design approaches to inform .... simple direct transfer of solution approaches - @sharminUnderstandingKnowledgeManagement2009b.md)
-- **Informed By::** [EVD - Engineering design students used multiple cross-domain analogies to fulfill design needs, and...on of how to decompose the problem and find new analogies. - @helmsCompoundAnalogicalDesign2008.md](EVD - Engineering design students used multiple cross-domain analogies to fulfill design needs, and...on of how to decompose the problem and find new analogies. - @helmsCompoundAnalogicalDesign2008.md)
-- **Informed By::** [EVD - overall salience of taxonomic relations for organizing living things for 6-12 year old children - @betzDevelopmentConceptualFlexibility2020.md](EVD - overall salience of taxonomic relations for organizing living things for 6-12 year old children - @betzDevelopmentConceptualFlexibility2020.md)
-- **Informed By::** [EVD - design students transferred flawed features from an example even though the flaws were described as negative - @janssonDesignFixation1991.md](EVD - design students transferred flawed features from an example even though the flaws were described as negative - @janssonDesignFixation1991.md)
-- **Informed By::** [EVD - Undergrads' drawings of imaginary animals frequently included typical features from earth animals, with occasional deviations - @wardStructuredImaginationRole1994.md](EVD - Undergrads' drawings of imaginary animals frequently included typical features from earth animals, with occasional deviations - @wardStructuredImaginationRole1994.md)
-- **Informed By::** [EVD - estimated semantic networks of animal concepts from montessori-educated children were more in...orks from traditional-schooled but comparable children - @denervaudEducationShapesStructure2021.md](EVD - estimated semantic networks of animal concepts from montessori-educated children were more in...orks from traditional-schooled but comparable children - @denervaudEducationShapesStructure2021.md)
-- **Informed By::** [EVD - Designers who prototyped designs in parallel generated more diverse designs compared to designers who prototyped serially - @dowParallelPrototypingLeads2010.md](EVD - Designers who prototyped designs in parallel generated more diverse designs compared to designers who prototyped serially - @dowParallelPrototypingLeads2010.md)
-- **Informed By::** [EVD - designers used a range of strategies for working with sources of inspiration, ranging from si...ore associated with radical transformation of sources - @eckertAdaptationSourcesInspiration2003.md](EVD - designers used a range of strategies for working with sources of inspiration, ranging from si...ore associated with radical transformation of sources - @eckertAdaptationSourcesInspiration2003.md)
-- **Informed By::** [EVD - People were ~2x worse at solving matchstick arithmetic problems when the elements were harder to decompose into chunks - @knoblichConstraintRelaxationChunk1999.md](EVD - People were ~2x worse at solving matchstick arithmetic problems when the elements were harder to decompose into chunks - @knoblichConstraintRelaxationChunk1999.md)
-- **Informed By::** [EVD - Design students generated more creative web service ideas when combining interdomain web service examples, compared to intradomain examples - @zengFosteringCreativityProduct2011.md](EVD - Design students generated more creative web service ideas when combining interdomain web service examples, compared to intradomain examples - @zengFosteringCreativityProduct2011.md)
-- **Informed By::** [EVD - College students imagined novel alien creatures with more atypical features vs. Earth creatur...fe forms, vs. building on specific Earth animal exemplars - @wardRoleSpecificityAbstraction2004.md](EVD - College students imagined novel alien creatures with more atypical features vs. Earth creatur...fe forms, vs. building on specific Earth animal exemplars - @wardRoleSpecificityAbstraction2004.md)
-- **Informed By::** [EVD - Designers reported that visual juxtaposition of often contradictory themes, in the context of... essential for productively reframing the design problem - @luceroFramingAligningParadoxing2012.md](EVD - Designers reported that visual juxtaposition of often contradictory themes, in the context of... essential for productively reframing the design problem - @luceroFramingAligningParadoxing2012.md)
-- **Informed By::** [EVD - direct comparison of dissimilar analogs approximately doubled rates of spontaneous far analogical transfer for the radiation problem - @gickSchemaInductionAnalogical1983.md](EVD - direct comparison of dissimilar analogs approximately doubled rates of spontaneous far analogical transfer for the radiation problem - @gickSchemaInductionAnalogical1983.md)
-- **Informed By::** [EVD - higher conceptual flexibility to classify organisms based on taxonomic and ecological relatio...ed in more unstructured interactions with organisms - @betzDevelopmentConceptualFlexibility2020.md](EVD - higher conceptual flexibility to classify organisms based on taxonomic and ecological relatio...ed in more unstructured interactions with organisms - @betzDevelopmentConceptualFlexibility2020.md)
-- **Informed By::** [EVD - undergraduates generated novel word combination noun phrases with more emergent features when noun pairs were dissimilar vs. similar - @wilkenfeldSimilarityEmergenceConceptual2001.md](EVD - undergraduates generated novel word combination noun phrases with more emergent features when noun pairs were dissimilar vs. similar - @wilkenfeldSimilarityEmergenceConceptual2001.md)
-
+- **Informed By::** [[@linseyStudyDesignFixation2010]]
+- **Informed By::** [[@helmsCompoundAnalogicalDesign2008]]
+- **Informed By::** [[@yuDistributedAnalogicalIdea2014]]
+- **Informed By::** [[@leeDesigningInteractiveExample2010]]
+- **Informed By::** [[@linseyModalityRepresentationAnalogy2008]]
+- **Informed By::** [[@kochMayAIDesign2019]]
+- **Informed By::** [[@kaplanSearchInsight1990]]
+- **Informed By::** [[@georgeConstrainingConstructiveEffects2017]]
+- **Informed By::** [[@maierReasoningHumansII1931]]
+- **Informed By::** [[@ivanovMoodCubesImmersiveSpaces2022]]
+- **Informed By::** [[@ratcliffDoesActivationReally1981]]
+- **Informed By::** [[@denervaudEducationShapesStructure2021]]
+- **Informed By::** [[@vasconcelosCopyNotCopy2017]]
+- **Informed By::** [[@sharminReflectionSpaceInteractiveVisualization2013]]
+- **Informed By::** [[@okadaAnalogicalModificationCreation2009]]
+- **Informed By::** [[@marshInadvertentUsePrior1999]]
+- **Informed By::** [[@gickSchemaInductionAnalogical1983]]
+- **Informed By::** [[@sauderQualitativeStudyCollaborative2016]]
+- **Informed By::** [[@sharminUnderstandingKnowledgeManagement2009b]]
+- **Informed By::** [[@vasconcelosEffectExplicitInstructions2018]]
+- **Informed By::** [[@kordeAlternatingIndividualGroup2016]]
+- **Informed By::** [[@mccaffreyInnovationReliesObscure2012]]
+- **Informed By::** [[@luceroFramingAligningParadoxing2012]]
+- **Informed By::** [[@purcellDesignOtherTypes1996]]
+- **Informed By::** [[@gilonAnalogyMiningSpecific2018]]
+- **Informed By::** [[@dowCheatersNeverProsper2015]]
+- **Informed By::** [[@dowParallelPrototypingLeads2010]]
+- **Informed By::** [[@tohImpactExampleModality2014]]
+- **Informed By::** [[@mcnamaraPrimingConstraintsIt1992]]
+- **Informed By::** [[@wardRoleSpecificityAbstraction2004]]
+- **Informed By::** [[@zengFosteringCreativityProduct2011]]
+- **Informed By::** [[@kellerCollectingCabinetHow2009]]
+- **Informed By::** [[@bergPrimalMarkHow2014]]
+- **Informed By::** [[@smithConstrainingEffectsExamples1993]]
+- **Informed By::** [[@vasconcelosInspirationFixationInfluences2017]]
+- **Informed By::** [[@janssonDesignFixation1991]]
+- **Informed By::** [[@faisalClassificationSensemakingRepresentations2009]]
+- **Informed By::** [[@zahnerFixFixationRerepresenting2010]]
+- **Informed By::** [[@kochSemanticCollageEnrichingDigital2020]]
+- **Informed By::** [[@wardStructuredImaginationRole1994]]
+- **Informed By::** [[@dongUnfixingDesignFixation2011]]
+- **Informed By::** [[@chanImprovingCrowdInnovation2016]]
+- **Informed By::** [[@ezzatSpecificityAbstractionExamples2020]]
+- **Informed By::** [[@okadaImitationInspirationCreation2017]]
+- **Informed By::** [[@marshItemAvailabilityCryptomnesia1995]]
+- **Informed By::** [[@eckertAdaptationSourcesInspiration2003]]
+- **Informed By::** [[@herringGettingInspiredUnderstanding2009]]
+- **Informed By::** [[@xuIdeateRelateExamplesGallery2021]]
+- **Informed By::** [[@wilkenfeldSimilarityEmergenceConceptual2001]]
+- **Informed By::** [[@javadiIdeaVisibilityInformation2011]]
+- **Informed By::** [[@marshHowExamplesMay1996]]
+- **Informed By::** [[@nijstadHowGroupAffects2006]]
+- **Informed By::** [[@clementEffectStructuralEmbedding1994]]
+- **Informed By::** [[@mendelsFreedSystemCreating2011]]
+- **Informed By::** [[@kochImageSenseIntelligentCollaborative2020]]
+- **Informed By::** [[@perttulaExposureEffectsDesign2006]]
+- **Informed By::** [[@meccaImitationCreativityBeneficial2013]]
+- **Informed By::** [[@collinsSpreadingactivationTheorySemantic1975]]
+- **Informed By::** [[@knoblichConstraintRelaxationChunk1999]]
+- **Informed By::** [[@camardaRoleExpertiseDesign2017]]
+- **Informed By::** [[@betzDevelopmentConceptualFlexibility2020]]
+- **Informed By::** [[@siangliulueCollaborativeIdeationScale2015]]
+- **Informed By::** [[@marshElicitingCryptomnesiaUnconscious1993]]
+- **Informed By::** [[EVD - designers used examples by re-appropriating and recombining solution components into novel ideas - @herringGettingInspiredUnderstanding2009]]
+- **Informed By::** [[EVD - teachers in countries with high math and science achievement scores also displayed more cogni... in a country with lower math and science achievement - @richlandCognitiveSupportsAnalogies2007]]
+- **Informed By::** [[EVD - Two artists used individual artworks to shape not just their ideas, but used a process of ana...ion. This process unfolded over the course of years. - @okadaAnalogicalModificationCreation2009]]
+- **Informed By::** [[EVD - designers used examples to shape their understanding of the problem before generating solutions - @herringGettingInspiredUnderstanding2009]]
+- **Informed By::** [[EVD - undergraduates used more complex integration approaches (vs. property transfer and hybridizat...n phrases from dissimilar vs. similar noun pairs - @wilkenfeldSimilarityEmergenceConceptual2001]]
+- **Informed By::** [[EVD - professional designers curated examples to understand trends and design approaches to inform .... simple direct transfer of solution approaches - @sharminUnderstandingKnowledgeManagement2009b]]
+- **Informed By::** [[EVD - Engineering design students used multiple cross-domain analogies to fulfill design needs, and...on of how to decompose the problem and find new analogies. - @helmsCompoundAnalogicalDesign2008]]
+- **Informed By::** [[EVD - overall salience of taxonomic relations for organizing living things for 6-12 year old children - @betzDevelopmentConceptualFlexibility2020]]
+- **Informed By::** [[EVD - design students transferred flawed features from an example even though the flaws were described as negative - @janssonDesignFixation1991]]
+- **Informed By::** [[EVD - Undergrads' drawings of imaginary animals frequently included typical features from earth animals, with occasional deviations - @wardStructuredImaginationRole1994]]
+- **Informed By::** [[EVD - estimated semantic networks of animal concepts from montessori-educated children were more in...orks from traditional-schooled but comparable children - @denervaudEducationShapesStructure2021]]
+- **Informed By::** [[EVD - Designers who prototyped designs in parallel generated more diverse designs compared to designers who prototyped serially - @dowParallelPrototypingLeads2010]]
+- **Informed By::** [[EVD - designers used a range of strategies for working with sources of inspiration, ranging from si...ore associated with radical transformation of sources - @eckertAdaptationSourcesInspiration2003]]
+- **Informed By::** [[EVD - People were ~2x worse at solving matchstick arithmetic problems when the elements were harder to decompose into chunks - @knoblichConstraintRelaxationChunk1999]]
+- **Informed By::** [[EVD - Design students generated more creative web service ideas when combining interdomain web service examples, compared to intradomain examples - @zengFosteringCreativityProduct2011]]
+- **Informed By::** [[EVD - College students imagined novel alien creatures with more atypical features vs. Earth creatur...fe forms, vs. building on specific Earth animal exemplars - @wardRoleSpecificityAbstraction2004]]
+- **Informed By::** [[EVD - Designers reported that visual juxtaposition of often contradictory themes, in the context of... essential for productively reframing the design problem - @luceroFramingAligningParadoxing2012]]
+- **Informed By::** [[EVD - direct comparison of dissimilar analogs approximately doubled rates of spontaneous far analogical transfer for the radiation problem - @gickSchemaInductionAnalogical1983]]
+- **Informed By::** [[EVD - higher conceptual flexibility to classify organisms based on taxonomic and ecological relatio...ed in more unstructured interactions with organisms - @betzDevelopmentConceptualFlexibility2020]]
+- **Informed By::** [[EVD - undergraduates generated novel word combination noun phrases with more emergent features when noun pairs were dissimilar vs. similar - @wilkenfeldSimilarityEmergenceConceptual2001]]

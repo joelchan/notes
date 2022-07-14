@@ -23,6 +23,5 @@ date: Fri May 22 2020 21:49:41 GMT-0400 (Eastern Daylight Time)
 
 ###### Discourse Context
 
-- **Informed By::** [@martinExploringLimitsPrediction2016.md](@martinExploringLimitsPrediction2016.md)
-- **Informed By::** [@salganikMeasuringPredictabilityLife2020.md](@salganikMeasuringPredictabilityLife2020.md)
-
+- **Informed By::** [[@martinExploringLimitsPrediction2016]]
+- **Informed By::** [[@salganikMeasuringPredictabilityLife2020]]

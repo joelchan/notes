@@ -30,7 +30,6 @@ date: Thu Feb 13 2020 09:43:35 GMT-0500 (Eastern Standard Time)
 
 ###### Discourse Context
 
-- **Informs::** [QUE - What tension points exist between the goals of diversity and depth of user participation in participatory design.md](QUE - What tension points exist between the goals of diversity and depth of user participation in participatory design.md)
-- **SourceFor::** [EVD - Designers experienced issues with (and had to compromise) design activities, such as analogie...s due to cognitive and difficulties with focus and abstract ideas - @largeBondedDesignNovel2006.md](EVD - Designers experienced issues with (and had to compromise) design activities, such as analogie...s due to cognitive and difficulties with focus and abstract ideas - @largeBondedDesignNovel2006.md)
-- **SourceFor::** [EVD - Teachers reported that 3rd-grade Canadian students did not sign up for participatory design s...ments to sports activities that clashed with the planned sessions - @largeBondedDesignNovel2006.md](EVD - Teachers reported that 3rd-grade Canadian students did not sign up for participatory design s...ments to sports activities that clashed with the planned sessions - @largeBondedDesignNovel2006.md)
-
+- **Informs::** [[QUE - What tension points exist between the goals of diversity and depth of user participation in participatory design]]
+- **SourceFor::** [[EVD - Designers experienced issues with (and had to compromise) design activities, such as analogie...s due to cognitive and difficulties with focus and abstract ideas - @largeBondedDesignNovel2006]]
+- **SourceFor::** [[EVD - Teachers reported that 3rd-grade Canadian students did not sign up for participatory design s...ments to sports activities that clashed with the planned sessions - @largeBondedDesignNovel2006]]

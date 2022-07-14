@@ -38,6 +38,6 @@ date: Wed Jul 13 2022 11:48:33 GMT-0400 (Eastern Daylight Time)
 
 ###### Discourse Context
 
-- **Supports::** [CLM - Organizations and schemas from others' intermediate sensemaking outputs may be more beneficial for distributed sensemaking compared to the content.md](CLM - Organizations and schemas from others' intermediate sensemaking outputs may be more beneficial for distributed sensemaking compared to the content.md)
-- **Consistent With::** [EVD - participants more frequently cited organization as helpful when building on sensemaking maps from others, compared to the content itself - @fisherDistributedSensemakingImproving2012.md](EVD - participants more frequently cited organization as helpful when building on sensemaking maps from others, compared to the content itself - @fisherDistributedSensemakingImproving2012.md)
-- **FromSource::** [@fisherDistributedSensemakingImproving2012.md](@fisherDistributedSensemakingImproving2012.md)
+- **Supports::** [[CLM - Organizations and schemas from others' intermediate sensemaking outputs may be more beneficial for distributed sensemaking compared to the content]]
+- **Consistent With::** [[EVD - participants more frequently cited organization as helpful when building on sensemaking maps from others, compared to the content itself - @fisherDistributedSensemakingImproving2012]]
+- **FromSource::** [[@fisherDistributedSensemakingImproving2012]]

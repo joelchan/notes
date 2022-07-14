@@ -69,7 +69,6 @@ date: Mon Jul 20 2020 13:15:22 GMT-0400 (Eastern Daylight Time)
 
 ###### Discourse Context
 
-- **Informs::** [CLM - Specifying context for future reuse is costly.md](CLM - Specifying context for future reuse is costly.md)
-- **Informs::** [CLM - Context is a slippery notion.md](CLM - Context is a slippery notion.md)
-- **Informs::** [QUE - How can we best bridge private vs. public knowledge.md](QUE - How can we best bridge private vs. public knowledge.md)
-
+- **Informs::** [[CLM - Specifying context for future reuse is costly]]
+- **Informs::** [[CLM - Context is a slippery notion]]
+- **Informs::** [[QUE - How can we best bridge private vs. public knowledge]]

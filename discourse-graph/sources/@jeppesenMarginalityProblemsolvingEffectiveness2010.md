@@ -33,11 +33,10 @@ date: Wed Nov 25 2020 16:16:16 GMT-0500 (Eastern Standard Time)
 
 ###### Discourse Context
 
-- **Informs::** [CLM - Analogies can power creative breakthroughs by stimulating effective problem (re)formulation.md](CLM - Analogies can power creative breakthroughs by stimulating effective problem (re)formulation.md)
-- **Informs::** [CLM - Analogical distance of inspirations for an idea are positively related to the idea's creativity.md](CLM - Analogical distance of inspirations for an idea are positively related to the idea's creativity.md)
-- **Informs::** [QUE - How might domain distance modulate the effects of analogies on creative output.md](QUE - How might domain distance modulate the effects of analogies on creative output.md)
-- **Informs::** [QUE - What are the most efficient routes to useful cross-boundary knowledge.md](QUE - What are the most efficient routes to useful cross-boundary knowledge.md)
-- **Informs::** [QUE - How do people effectively (re)formulate creative problems.md](QUE - How do people effectively (re)formulate creative problems.md)
-- **SourceFor::** [EVD - Self-rated technical distance from open innovation contest problems was slightly positively correlated with submitting winning solutions - @jeppesenMarginalityProblemsolvingEffectiveness2010.md](EVD - Self-rated technical distance from open innovation contest problems was slightly positively correlated with submitting winning solutions - @jeppesenMarginalityProblemsolvingEffectiveness2010.md)
-- **SourceFor::** [EVD - Women were more likely than men to submit winning solutions for open innovation contests - @jeppesenMarginalityProblemsolvingEffectiveness2010.md](EVD - Women were more likely than men to submit winning solutions for open innovation contests - @jeppesenMarginalityProblemsolvingEffectiveness2010.md)
-
+- **Informs::** [[CLM - Analogies can power creative breakthroughs by stimulating effective problem (re)formulation]]
+- **Informs::** [[CLM - Analogical distance of inspirations for an idea are positively related to the idea's creativity]]
+- **Informs::** [[QUE - How might domain distance modulate the effects of analogies on creative output]]
+- **Informs::** [[QUE - What are the most efficient routes to useful cross-boundary knowledge]]
+- **Informs::** [[QUE - How do people effectively (re)formulate creative problems]]
+- **SourceFor::** [[EVD - Self-rated technical distance from open innovation contest problems was slightly positively correlated with submitting winning solutions - @jeppesenMarginalityProblemsolvingEffectiveness2010]]
+- **SourceFor::** [[EVD - Women were more likely than men to submit winning solutions for open innovation contests - @jeppesenMarginalityProblemsolvingEffectiveness2010]]

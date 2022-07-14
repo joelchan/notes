@@ -75,8 +75,7 @@ date: Sat Mar 07 2020 17:22:46 GMT-0500 (Eastern Standard Time)
 
 ###### Discourse Context
 
-- **Informed By::** [@holbrookLevelsSuccessUse2008.md](@holbrookLevelsSuccessUse2008.md)
-- **Informed By::** [@harsDesigningScientificKnowledge2001.md](@harsDesigningScientificKnowledge2001.md)
-- **Informed By::** [@russellCostStructureSensemaking1993.md](@russellCostStructureSensemaking1993.md)
-- **Informed By::** [@pirolliSensemakingProcessLeverage2005.md](@pirolliSensemakingProcessLeverage2005.md)
-
+- **Informed By::** [[@holbrookLevelsSuccessUse2008]]
+- **Informed By::** [[@harsDesigningScientificKnowledge2001]]
+- **Informed By::** [[@russellCostStructureSensemaking1993]]
+- **Informed By::** [[@pirolliSensemakingProcessLeverage2005]]

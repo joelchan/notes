@@ -9,9 +9,8 @@ date: Thu Mar 24 2022 13:10:08 GMT-0400 (Eastern Daylight Time)
 
 ###### Discourse Context
 
-- **Supports::** [CLM - bridging analogies can help people benefit from far analogies for creative ideation.md](CLM - bridging analogies can help people benefit from far analogies for creative ideation.md)
-- **Informs::** [QUE - What factors control whether people appropriately benefit from analogies (especially far-field ones) during creative problem solving.md](QUE - What factors control whether people appropriately benefit from analogies (especially far-field ones) during creative problem solving.md)
-- **Supported By::** [EVD - teachers in countries with high math and science achievement scores also displayed more cogni... in a country with lower math and science achievement - @richlandCognitiveSupportsAnalogies2007.md](EVD - teachers in countries with high math and science achievement scores also displayed more cogni... in a country with lower math and science achievement - @richlandCognitiveSupportsAnalogies2007.md)
-- **Supported By::** [EVD - When provided scaffolding for a similar problem students performed similarly compared to thei...group provided scaffolding performed significantly better. - @richlandReducingCognitiveLoad2013.md](EVD - When provided scaffolding for a similar problem students performed similarly compared to thei...group provided scaffolding performed significantly better. - @richlandReducingCognitiveLoad2013.md)
-- **Supported By::** [EVD - giving a bridging analogy to a far analogy for a numerical representations led to better stud...wers) on a math post test compared to no or just the analogy - @vamvakoussiBridgingGapDense2012.md](EVD - giving a bridging analogy to a far analogy for a numerical representations led to better stud...wers) on a math post test compared to no or just the analogy - @vamvakoussiBridgingGapDense2012.md)
-
+- **Supports::** [[CLM - bridging analogies can help people benefit from far analogies for creative ideation]]
+- **Informs::** [[QUE - What factors control whether people appropriately benefit from analogies (especially far-field ones) during creative problem solving]]
+- **Supported By::** [[EVD - teachers in countries with high math and science achievement scores also displayed more cogni... in a country with lower math and science achievement - @richlandCognitiveSupportsAnalogies2007]]
+- **Supported By::** [[EVD - When provided scaffolding for a similar problem students performed similarly compared to thei...group provided scaffolding performed significantly better. - @richlandReducingCognitiveLoad2013]]
+- **Supported By::** [[EVD - giving a bridging analogy to a far analogy for a numerical representations led to better stud...wers) on a math post test compared to no or just the analogy - @vamvakoussiBridgingGapDense2012]]

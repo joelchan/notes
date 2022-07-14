@@ -16,4 +16,4 @@ date: Sun Dec 19 2021 09:59:16 GMT-0500 (Eastern Standard Time)
 
 ###### Discourse Context
 
-- **FromSource::** [@linEffectivenessTeachingScience1996.md](@linEffectivenessTeachingScience1996.md)
+- **FromSource::** [[@linEffectivenessTeachingScience1996]]

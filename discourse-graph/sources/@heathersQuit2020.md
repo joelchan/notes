@@ -33,5 +33,4 @@ date: Sun Jun 21 2020 23:42:42 GMT-0400 (Eastern Daylight Time)
 
 ###### Discourse Context
 
-- **Informs::** [CLM - Error detection work in science is systematically undervalued.md](CLM - Error detection work in science is systematically undervalued.md)
-
+- **Informs::** [[CLM - Error detection work in science is systematically undervalued]]

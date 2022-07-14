@@ -59,6 +59,6 @@ date: Tue May 03 2022 16:24:17 GMT-0400 (Eastern Daylight Time)
 
 ###### Discourse Context
 
-- **Informs::** [QUE - How might domain distance modulate the effects of analogies on creative output.md](QUE - How might domain distance modulate the effects of analogies on creative output.md)
-- **Supports::** [CLM - Analogical distance of inspirations for an idea are positively related to the idea's creativity.md](CLM - Analogical distance of inspirations for an idea are positively related to the idea's creativity.md)
-- **FromSource::** [@hargadonTechnologyBrokeringInnovation1997.md](@hargadonTechnologyBrokeringInnovation1997.md)
+- **Informs::** [[QUE - How might domain distance modulate the effects of analogies on creative output]]
+- **Supports::** [[CLM - Analogical distance of inspirations for an idea are positively related to the idea's creativity]]
+- **FromSource::** [[@hargadonTechnologyBrokeringInnovation1997]]

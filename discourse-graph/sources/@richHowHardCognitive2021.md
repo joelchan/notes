@@ -18,5 +18,4 @@ date: Thu Oct 21 2021 09:59:07 GMT-0400 (Eastern Daylight Time)
 
 ###### Discourse Context
 
-- **Informs::** [CLM - Diversity in epistemology and methodology is critical for scientific progress.md](CLM - Diversity in epistemology and methodology is critical for scientific progress.md)
-
+- **Informs::** [[CLM - Diversity in epistemology and methodology is critical for scientific progress]]

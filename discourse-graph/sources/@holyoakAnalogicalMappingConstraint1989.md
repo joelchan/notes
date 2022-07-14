@@ -20,6 +20,5 @@ date: Tue Mar 22 2022 09:56:06 GMT-0400 (Eastern Daylight Time)
 
 ###### Discourse Context
 
-- **Informs::** [CLM - Division of structural vs. surface features in analogical mapping varies is not constant; it varies by task..md](CLM - Division of structural vs. surface features in analogical mapping varies is not constant; it varies by task..md)
-- **Informs::** [QUE - What is analogy.md](QUE - What is analogy.md)
-
+- **Informs::** [[CLM - Division of structural vs. surface features in analogical mapping varies is not constant; it varies by task.]]
+- **Informs::** [[QUE - What is analogy]]

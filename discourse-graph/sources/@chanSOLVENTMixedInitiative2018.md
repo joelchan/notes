@@ -53,7 +53,6 @@ date: Sun Mar 22 2020 15:22:15 GMT-0400 (Eastern Daylight Time)
 
 ###### Discourse Context
 
-- **Informs::** [CLM - People rapidly reject analogical matches when there is a clear attribute mismatch.md](CLM - People rapidly reject analogical matches when there is a clear attribute mismatch.md)
-- **Informs::** [CLM - Core attribute mismatches in analogical inspiration harm creativity.md](CLM - Core attribute mismatches in analogical inspiration harm creativity.md)
-- **Informs::** [QUE - How can we augment scientific creativity with computational analogy.md](QUE - How can we augment scientific creativity with computational analogy.md)
-
+- **Informs::** [[CLM - People rapidly reject analogical matches when there is a clear attribute mismatch]]
+- **Informs::** [[CLM - Core attribute mismatches in analogical inspiration harm creativity]]
+- **Informs::** [[QUE - How can we augment scientific creativity with computational analogy]]

@@ -49,8 +49,7 @@ date: Wed Jan 22 2020 11:17:29 GMT-0500 (Eastern Standard Time)
 
 ###### Discourse Context
 
-- **Informs::** [CLM - Scholarly argumentation operates on atomic statements and concepts as fundamental units.md](CLM - Scholarly argumentation operates on atomic statements and concepts as fundamental units.md)
-- **Informs::** [CLM - Composability is necessary for synthesis.md](CLM - Composability is necessary for synthesis.md)
-- **Informs::** [QUE - What (existing) systems facilitate individual synthesis.md](QUE - What (existing) systems facilitate individual synthesis.md)
-- **SourceFor::** [EVD - Four positivist epistemological models from philosophy of science, including Popper, emphasiz... statements as a core component of scientific knowledge - @harsDesigningScientificKnowledge2001.md](EVD - Four positivist epistemological models from philosophy of science, including Popper, emphasiz... statements as a core component of scientific knowledge - @harsDesigningScientificKnowledge2001.md)
-
+- **Informs::** [[CLM - Scholarly argumentation operates on atomic statements and concepts as fundamental units]]
+- **Informs::** [[CLM - Composability is necessary for synthesis]]
+- **Informs::** [[QUE - What (existing) systems facilitate individual synthesis]]
+- **SourceFor::** [[EVD - Four positivist epistemological models from philosophy of science, including Popper, emphasiz... statements as a core component of scientific knowledge - @harsDesigningScientificKnowledge2001]]

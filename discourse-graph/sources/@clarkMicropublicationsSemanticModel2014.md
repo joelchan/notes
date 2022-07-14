@@ -47,9 +47,8 @@ date: Wed Jan 22 2020 11:06:57 GMT-0500 (Eastern Standard Time)
 
 ###### Discourse Context
 
-- **Informs::** [CLM - Scholarly argumentation operates on atomic statements and concepts as fundamental units.md](CLM - Scholarly argumentation operates on atomic statements and concepts as fundamental units.md)
-- **Informs::** [QUE - Do scholarly synthesis infrastructures already exist.md](QUE - Do scholarly synthesis infrastructures already exist.md)
-- **Informs::** [QUE - How can we support explicit contention with evidence when synthesizing knowledge claims.md](QUE - How can we support explicit contention with evidence when synthesizing knowledge claims.md)
-- **Informs::** [QUE - What (existing) systems facilitate individual synthesis.md](QUE - What (existing) systems facilitate individual synthesis.md)
-- **Informs::** [PTN - discourse graph.md](PTN - discourse graph.md)
-
+- **Informs::** [[CLM - Scholarly argumentation operates on atomic statements and concepts as fundamental units]]
+- **Informs::** [[QUE - Do scholarly synthesis infrastructures already exist]]
+- **Informs::** [[QUE - How can we support explicit contention with evidence when synthesizing knowledge claims]]
+- **Informs::** [[QUE - What (existing) systems facilitate individual synthesis]]
+- **Informs::** [[PTN - discourse graph]]

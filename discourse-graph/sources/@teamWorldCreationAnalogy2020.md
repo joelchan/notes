@@ -47,7 +47,6 @@ date: Thu Mar 04 2021 13:46:51 GMT-0500 (Eastern Standard Time)
 
 ###### Discourse Context
 
-- **Informs::** [CLM - transformer language models have some analogical reasoning ability.md](CLM - transformer language models have some analogical reasoning ability.md)
-- **Informs::** [QUE - Can deep learning discover analogical representations.md](QUE - Can deep learning discover analogical representations.md)
-- **SourceFor::** [EVD - was able to prompt sysGPT-3 to generate plausible new fantasy worlds that are analogous to some base fantasy worlds - @teamWorldCreationAnalogy2020.md](EVD - was able to prompt sysGPT-3 to generate plausible new fantasy worlds that are analogous to some base fantasy worlds - @teamWorldCreationAnalogy2020.md)
-
+- **Informs::** [[CLM - transformer language models have some analogical reasoning ability]]
+- **Informs::** [[QUE - Can deep learning discover analogical representations]]
+- **SourceFor::** [[EVD - was able to prompt sysGPT-3 to generate plausible new fantasy worlds that are analogous to some base fantasy worlds - @teamWorldCreationAnalogy2020]]

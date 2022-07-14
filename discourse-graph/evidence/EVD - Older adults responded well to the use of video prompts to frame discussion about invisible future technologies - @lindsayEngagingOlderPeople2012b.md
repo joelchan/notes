@@ -47,5 +47,4 @@ date: Tue Jun 22 2021 15:54:23 GMT-0400 (Eastern Daylight Time)
 
 ###### Discourse Context
 
-- **FromSource::** [@lindsayEngagingOlderPeople2012b.md](@lindsayEngagingOlderPeople2012b.md)
-
+- **FromSource::** [[@lindsayEngagingOlderPeople2012b]]

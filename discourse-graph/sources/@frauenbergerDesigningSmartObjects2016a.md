@@ -29,8 +29,7 @@ date: Fri May 14 2021 11:27:44 GMT-0400 (Eastern Daylight Time)
 
 ###### Discourse Context
 
-- **Informs::** [QUE - What tension points exist between the goals of diversity and depth of user participation in participatory design.md](QUE - What tension points exist between the goals of diversity and depth of user participation in participatory design.md)
-- **SourceFor::** [EVD - Neurodiverse children benefited from having design environments tailored to them unique needs for structure and freedom @frauenbergerDesigningSmartObjects2016a.md](EVD - Neurodiverse children benefited from having design environments tailored to them unique needs for structure and freedom @frauenbergerDesigningSmartObjects2016a.md)
-- **SourceFor::** [EVD - Teachers and helpers needed to be present in the beginning of PD session to help and make sur...were comfortable but were not needed in future sessions @frauenbergerDesigningSmartObjects2016a.md](EVD - Teachers and helpers needed to be present in the beginning of PD session to help and make sur...were comfortable but were not needed in future sessions @frauenbergerDesigningSmartObjects2016a.md)
-- **SourceFor::** [EVD - Option to move around the physical space allowed for my flexibility and freedom for children @frauenbergerDesigningSmartObjects2016a.md](EVD - Option to move around the physical space allowed for my flexibility and freedom for children @frauenbergerDesigningSmartObjects2016a.md)
-
+- **Informs::** [[QUE - What tension points exist between the goals of diversity and depth of user participation in participatory design]]
+- **SourceFor::** [[EVD - Neurodiverse children benefited from having design environments tailored to them unique needs for structure and freedom @frauenbergerDesigningSmartObjects2016a]]
+- **SourceFor::** [[EVD - Teachers and helpers needed to be present in the beginning of PD session to help and make sur...were comfortable but were not needed in future sessions @frauenbergerDesigningSmartObjects2016a]]
+- **SourceFor::** [[EVD - Option to move around the physical space allowed for my flexibility and freedom for children @frauenbergerDesigningSmartObjects2016a]]

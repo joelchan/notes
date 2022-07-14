@@ -23,6 +23,5 @@ date: Sun Mar 01 2020 21:04:38 GMT-0500 (Eastern Standard Time)
 
 ###### Discourse Context
 
-- **Informs::** [CLM - Substantial portions of knowledge that is critical for innovation are not written down.md](CLM - Substantial portions of knowledge that is critical for innovation are not written down.md)
-- **Informs::** [QUE - Under what conditions is it possible to transfer expertise from one person to another.md](QUE - Under what conditions is it possible to transfer expertise from one person to another.md)
-
+- **Informs::** [[CLM - Substantial portions of knowledge that is critical for innovation are not written down]]
+- **Informs::** [[QUE - Under what conditions is it possible to transfer expertise from one person to another]]

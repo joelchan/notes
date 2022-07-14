@@ -94,9 +94,8 @@ date: Fri Mar 11 2022 23:26:55 GMT-0500 (Eastern Standard Time)
 
 ###### Discourse Context
 
-- **Informs::** [CLM - There is a 'Sweet Spot' in Analogical Distance. Somewhat far analogies lead to better creative outcomes than very near or very far analogies.md](CLM - There is a 'Sweet Spot' in Analogical Distance. Somewhat far analogies lead to better creative outcomes than very near or very far analogies.md)
-- **Informs::** [CLM - Core mismatches in analogical inspiration improve creativity.md](CLM - Core mismatches in analogical inspiration improve creativity.md)
-- **Informs::** [CLM - Core attribute mismatches in analogical inspiration harm creativity.md](CLM - Core attribute mismatches in analogical inspiration harm creativity.md)
-- **Informs::** [QUE - How might domain distance modulate the effects of analogies on creative output.md](QUE - How might domain distance modulate the effects of analogies on creative output.md)
-- **SourceFor::** [EVD - Crowd workers generated the most novel and practical ideas when given analogical inspirations... with concrete constraints, compared to abstract constraints - @yuDistributedAnalogicalIdea2016.md](EVD - Crowd workers generated the most novel and practical ideas when given analogical inspirations... with concrete constraints, compared to abstract constraints - @yuDistributedAnalogicalIdea2016.md)
-
+- **Informs::** [[CLM - There is a 'Sweet Spot' in Analogical Distance. Somewhat far analogies lead to better creative outcomes than very near or very far analogies]]
+- **Informs::** [[CLM - Core mismatches in analogical inspiration improve creativity]]
+- **Informs::** [[CLM - Core attribute mismatches in analogical inspiration harm creativity]]
+- **Informs::** [[QUE - How might domain distance modulate the effects of analogies on creative output]]
+- **SourceFor::** [[EVD - Crowd workers generated the most novel and practical ideas when given analogical inspirations... with concrete constraints, compared to abstract constraints - @yuDistributedAnalogicalIdea2016]]

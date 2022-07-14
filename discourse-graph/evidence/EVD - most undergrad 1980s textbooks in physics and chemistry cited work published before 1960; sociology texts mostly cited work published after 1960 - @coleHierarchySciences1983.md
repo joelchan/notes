@@ -24,8 +24,8 @@ date: Fri Sep 10 2021 22:47:15 GMT-0400 (Eastern Daylight Time)
 
 ###### Discourse Context
 
-- **Informs::** [QUE - (How) do fields of innovation vary in their legibility of quality.md](QUE - (How) do fields of innovation vary in their legibility of quality.md)
-- **Supports::** [CLM - Scientific fields vary substantially in terms of ease of consensus on judging what constitutes a valuable new contribution.md](CLM - Scientific fields vary substantially in terms of ease of consensus on judging what constitutes a valuable new contribution.md)
-- **Supports::** [CLM - There is systematic variation in consensus of the core knowledge of fields - @coleHierarchySciences1983.md](CLM - There is systematic variation in consensus of the core knowledge of fields - @coleHierarchySciences1983.md)
-- **Consistent With::** [EVD - undergrad 1980s textbooks in physics and chemistry cited far fewer texts compare to sociology textbooks - @coleHierarchySciences1983.md](EVD - undergrad 1980s textbooks in physics and chemistry cited far fewer texts compare to sociology textbooks - @coleHierarchySciences1983.md)
-- **FromSource::** [@coleHierarchySciences1983.md](@coleHierarchySciences1983.md)
+- **Informs::** [[QUE - (How) do fields of innovation vary in their legibility of quality]]
+- **Supports::** [[CLM - Scientific fields vary substantially in terms of ease of consensus on judging what constitutes a valuable new contribution]]
+- **Supports::** [[CLM - There is systematic variation in consensus of the core knowledge of fields - @coleHierarchySciences1983]]
+- **Consistent With::** [[EVD - undergrad 1980s textbooks in physics and chemistry cited far fewer texts compare to sociology textbooks - @coleHierarchySciences1983]]
+- **FromSource::** [[@coleHierarchySciences1983]]

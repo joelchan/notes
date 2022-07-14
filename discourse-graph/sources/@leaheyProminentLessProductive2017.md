@@ -16,8 +16,7 @@ date: Mon Aug 09 2021 11:00:21 GMT-0400 (Eastern Daylight Time)
 
 ###### Discourse Context
 
-- **SourceFor::** [EVD - higher levels of interdisciplinary associated with higher visibility - @leaheyProminentLessProductive2017.md](EVD - higher levels of interdisciplinary associated with higher visibility - @leaheyProminentLessProductive2017.md)
-- **SourceFor::** [EVD - higher levels of interdisciplinarity was significantly associated with fewer publications, particularly in fields with less interdisciplinarity - @leaheyProminentLessProductive2017.md](EVD - higher levels of interdisciplinarity was significantly associated with fewer publications, particularly in fields with less interdisciplinarity - @leaheyProminentLessProductive2017.md)
-- **SourceFor::** [EVD - higher levels of interdisciplinarity associated with higher variance in their interdisciplinary papers' citation outcomes - @leaheyProminentLessProductive2017.md](EVD - higher levels of interdisciplinarity associated with higher variance in their interdisciplinary papers' citation outcomes - @leaheyProminentLessProductive2017.md)
-- **SourceFor::** [EVD - scientists in boundary-spanning collaborations self-reported more communication and other col...eads that hindered productivity (and got better over time) - @leaheyProminentLessProductive2017.md](EVD - scientists in boundary-spanning collaborations self-reported more communication and other col...eads that hindered productivity (and got better over time) - @leaheyProminentLessProductive2017.md)
-
+- **SourceFor::** [[EVD - higher levels of interdisciplinary associated with higher visibility - @leaheyProminentLessProductive2017]]
+- **SourceFor::** [[EVD - higher levels of interdisciplinarity was significantly associated with fewer publications, particularly in fields with less interdisciplinarity - @leaheyProminentLessProductive2017]]
+- **SourceFor::** [[EVD - higher levels of interdisciplinarity associated with higher variance in their interdisciplinary papers' citation outcomes - @leaheyProminentLessProductive2017]]
+- **SourceFor::** [[EVD - scientists in boundary-spanning collaborations self-reported more communication and other col...eads that hindered productivity (and got better over time) - @leaheyProminentLessProductive2017]]

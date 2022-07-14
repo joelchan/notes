@@ -51,7 +51,6 @@ date: Mon Feb 01 2021 16:24:13 GMT-0500 (Eastern Standard Time)
 
 ###### Discourse Context
 
-- **Informs::** [QUE - What tension points exist between the goals of diversity and depth of user participation in participatory design.md](QUE - What tension points exist between the goals of diversity and depth of user participation in participatory design.md)
-- **SourceFor::** [EVD - PD sessions had to be significantly scoped down in both length and focus to accommodate trave...d time constraints for children from underserved communities - @walshEquityEqualityAmerican2018.md](EVD - PD sessions had to be significantly scoped down in both length and focus to accommodate trave...d time constraints for children from underserved communities - @walshEquityEqualityAmerican2018.md)
-- **SourceFor::** [EVD - Children from underserved communities were often unable to attend in-lab PD sessions due to travel and time constraints - @walshEquityEqualityAmerican2018.md](EVD - Children from underserved communities were often unable to attend in-lab PD sessions due to travel and time constraints - @walshEquityEqualityAmerican2018.md)
-
+- **Informs::** [[QUE - What tension points exist between the goals of diversity and depth of user participation in participatory design]]
+- **SourceFor::** [[EVD - PD sessions had to be significantly scoped down in both length and focus to accommodate trave...d time constraints for children from underserved communities - @walshEquityEqualityAmerican2018]]
+- **SourceFor::** [[EVD - Children from underserved communities were often unable to attend in-lab PD sessions due to travel and time constraints - @walshEquityEqualityAmerican2018]]

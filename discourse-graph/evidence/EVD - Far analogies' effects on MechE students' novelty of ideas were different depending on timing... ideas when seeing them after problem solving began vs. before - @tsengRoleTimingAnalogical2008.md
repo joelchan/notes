@@ -74,7 +74,7 @@ date: Thu Jul 01 2021 10:34:06 GMT-0400 (Eastern Daylight Time)
 
 ###### Discourse Context
 
-- **Informs::** [QUE - How might domain distance modulate the effects of analogies on creative output.md](QUE - How might domain distance modulate the effects of analogies on creative output.md)
-- **Supports::** [CLM - Analogical distance of inspirations for an idea are positively related to the idea's creativity.md](CLM - Analogical distance of inspirations for an idea are positively related to the idea's creativity.md)
-- **Consistent With::** [EVD - Far analogies' effects on MechE students' ideation fluency and diversity were different depen...olving began (during a break), both compared to seeing nothing - @tsengRoleTimingAnalogical2008.md](EVD - Far analogies' effects on MechE students' ideation fluency and diversity were different depen...olving began (during a break), both compared to seeing nothing - @tsengRoleTimingAnalogical2008.md)
-- **FromSource::** [@tsengRoleTimingAnalogical2008.md](@tsengRoleTimingAnalogical2008.md)
+- **Informs::** [[QUE - How might domain distance modulate the effects of analogies on creative output]]
+- **Supports::** [[CLM - Analogical distance of inspirations for an idea are positively related to the idea's creativity]]
+- **Consistent With::** [[EVD - Far analogies' effects on MechE students' ideation fluency and diversity were different depen...olving began (during a break), both compared to seeing nothing - @tsengRoleTimingAnalogical2008]]
+- **FromSource::** [[@tsengRoleTimingAnalogical2008]]

@@ -11,10 +11,9 @@ date: Thu Dec 23 2021 10:48:39 GMT-0500 (Eastern Standard Time)
 
 ###### Discourse Context
 
-- **Informs::** [QUE - Under what conditions do diverse initial examples lead to better final design solutions.md](QUE - Under what conditions do diverse initial examples lead to better final design solutions.md)
-- **Informs::** [QUE - How do people effectively (re)formulate creative problems.md](QUE - How do people effectively (re)formulate creative problems.md)
-- **Supported By::** [EVD - Engineering design students used multiple cross-domain analogies to fulfill design needs, and...on of how to decompose the problem and find new analogies. - @helmsCompoundAnalogicalDesign2008.md](EVD - Engineering design students used multiple cross-domain analogies to fulfill design needs, and...on of how to decompose the problem and find new analogies. - @helmsCompoundAnalogicalDesign2008.md)
-- **Supported By::** [EVD - Two artists used individual artworks to shape not just their ideas, but used a process of ana...ion. This process unfolded over the course of years. - @okadaAnalogicalModificationCreation2009.md](EVD - Two artists used individual artworks to shape not just their ideas, but used a process of ana...ion. This process unfolded over the course of years. - @okadaAnalogicalModificationCreation2009.md)
-- **Supported By::** [EVD - professional designers curated examples to understand trends and design approaches to inform .... simple direct transfer of solution approaches - @sharminUnderstandingKnowledgeManagement2009b.md](EVD - professional designers curated examples to understand trends and design approaches to inform .... simple direct transfer of solution approaches - @sharminUnderstandingKnowledgeManagement2009b.md)
-- **Supported By::** [EVD - designers used examples to shape their understanding of the problem before generating solutions - @herringGettingInspiredUnderstanding2009.md](EVD - designers used examples to shape their understanding of the problem before generating solutions - @herringGettingInspiredUnderstanding2009.md)
-
+- **Informs::** [[QUE - Under what conditions do diverse initial examples lead to better final design solutions]]
+- **Informs::** [[QUE - How do people effectively (re)formulate creative problems]]
+- **Supported By::** [[EVD - Engineering design students used multiple cross-domain analogies to fulfill design needs, and...on of how to decompose the problem and find new analogies. - @helmsCompoundAnalogicalDesign2008]]
+- **Supported By::** [[EVD - Two artists used individual artworks to shape not just their ideas, but used a process of ana...ion. This process unfolded over the course of years. - @okadaAnalogicalModificationCreation2009]]
+- **Supported By::** [[EVD - professional designers curated examples to understand trends and design approaches to inform .... simple direct transfer of solution approaches - @sharminUnderstandingKnowledgeManagement2009b]]
+- **Supported By::** [[EVD - designers used examples to shape their understanding of the problem before generating solutions - @herringGettingInspiredUnderstanding2009]]

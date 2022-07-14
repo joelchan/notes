@@ -9,5 +9,4 @@ date: Sun Jul 10 2022 23:21:18 GMT-0400 (Eastern Daylight Time)
 
 ###### Discourse Context
 
-- **UsedIn::** [ART - Scratch.md](ART - Scratch.md)
-
+- **UsedIn::** [[ART - Scratch]]

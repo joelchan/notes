@@ -29,8 +29,7 @@ date: Mon Jan 11 2021 22:02:46 GMT-0500 (Eastern Standard Time)
 
 ###### Discourse Context
 
-- **Informs::** [QUE - Under what conditions do diverse initial examples lead to better final design solutions.md](QUE - Under what conditions do diverse initial examples lead to better final design solutions.md)
-- **Informs::** [THE - interaction-oriented theory of creative inspiration from examples.md](THE - interaction-oriented theory of creative inspiration from examples.md)
-- **SourceFor::** [EVD - Final advertisements from designers who prototyped designs in parallel performed better on ad...ompared to ads from designers who prototype designs serially - @dowParallelPrototypingLeads2010.md](EVD - Final advertisements from designers who prototyped designs in parallel performed better on ad...ompared to ads from designers who prototype designs serially - @dowParallelPrototypingLeads2010.md)
-- **SourceFor::** [EVD - Designers who prototyped designs in parallel generated more diverse designs compared to designers who prototyped serially - @dowParallelPrototypingLeads2010.md](EVD - Designers who prototyped designs in parallel generated more diverse designs compared to designers who prototyped serially - @dowParallelPrototypingLeads2010.md)
-
+- **Informs::** [[QUE - Under what conditions do diverse initial examples lead to better final design solutions]]
+- **Informs::** [[THE - interaction-oriented theory of creative inspiration from examples]]
+- **SourceFor::** [[EVD - Final advertisements from designers who prototyped designs in parallel performed better on ad...ompared to ads from designers who prototype designs serially - @dowParallelPrototypingLeads2010]]
+- **SourceFor::** [[EVD - Designers who prototyped designs in parallel generated more diverse designs compared to designers who prototyped serially - @dowParallelPrototypingLeads2010]]

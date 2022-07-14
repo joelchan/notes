@@ -36,5 +36,4 @@ date: Sat Nov 30 2019 01:49:56 GMT-0500 (Eastern Standard Time)
 
 ###### Discourse Context
 
-- **Informed By::** [@marshallVIKISpatialHypertext1994.md](@marshallVIKISpatialHypertext1994.md)
-
+- **Informed By::** [[@marshallVIKISpatialHypertext1994]]

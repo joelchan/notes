@@ -47,9 +47,8 @@ date: Fri Jun 12 2020 09:35:06 GMT-0400 (Eastern Daylight Time)
 
 ###### Discourse Context
 
-- **Informs::** [CLM - Scholars constantly need to reread during a literature review.md](CLM - Scholars constantly need to reread during a literature review.md)
-- **Informs::** [CLM - Where possible, design systems, not tools.md](CLM - Where possible, design systems, not tools.md)
-- **Informs::** [QUE - How might we characterize scientists' synthesis practices from a processtool perspective.md](QUE - How might we characterize scientists' synthesis practices from a processtool perspective.md)
-- **Informs::** [QUE - What (existing) systems facilitate individual synthesis.md](QUE - What (existing) systems facilitate individual synthesis.md)
-- **Informs::** [QUE - What user behaviors are scholars doing already that specifies structure for synthesis.md](QUE - What user behaviors are scholars doing already that specifies structure for synthesis.md)
-
+- **Informs::** [[CLM - Scholars constantly need to reread during a literature review]]
+- **Informs::** [[CLM - Where possible, design systems, not tools]]
+- **Informs::** [[QUE - How might we characterize scientists' synthesis practices from a processtool perspective]]
+- **Informs::** [[QUE - What (existing) systems facilitate individual synthesis]]
+- **Informs::** [[QUE - What user behaviors are scholars doing already that specifies structure for synthesis]]

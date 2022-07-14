@@ -60,7 +60,6 @@ date: Sun Mar 22 2020 15:19:27 GMT-0400 (Eastern Daylight Time)
 
 ###### Discourse Context
 
-- **Informs::** [CLM - Analogies can be a powerful source of new innovations.md](CLM - Analogies can be a powerful source of new innovations.md)
-- **Informs::** [QUE - How might domain distance modulate the effects of analogies on creative output.md](QUE - How might domain distance modulate the effects of analogies on creative output.md)
-- **SourceFor::** [EVD - In a design team, concepts tended to be more similar to their immediately preceding concepts after far analogy use compared to using near or no analogies - @chanImpactAnalogiesCreative2015.md](EVD - In a design team, concepts tended to be more similar to their immediately preceding concepts after far analogy use compared to using near or no analogies - @chanImpactAnalogiesCreative2015.md)
-
+- **Informs::** [[CLM - Analogies can be a powerful source of new innovations]]
+- **Informs::** [[QUE - How might domain distance modulate the effects of analogies on creative output]]
+- **SourceFor::** [[EVD - In a design team, concepts tended to be more similar to their immediately preceding concepts after far analogy use compared to using near or no analogies - @chanImpactAnalogiesCreative2015]]

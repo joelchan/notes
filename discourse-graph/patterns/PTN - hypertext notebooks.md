@@ -96,8 +96,7 @@ date: Fri May 22 2020 16:43:26 GMT-0400 (Eastern Daylight Time)
 
 ###### Discourse Context
 
-- **Informed By::** [@ahrensHowTakeSmart2017.md](@ahrensHowTakeSmart2017.md)
-- **Informed By::** [@haisfieldRoamTourProfessor2020.md](@haisfieldRoamTourProfessor2020.md)
-- **Informed By::** [@tenchLiteratureReviewZettelkasten2018.md](@tenchLiteratureReviewZettelkasten2018.md)
-- **Informed By::** [@forteInterviewSonkeAhrens2020.md](@forteInterviewSonkeAhrens2020.md)
-
+- **Informed By::** [[@ahrensHowTakeSmart2017]]
+- **Informed By::** [[@haisfieldRoamTourProfessor2020]]
+- **Informed By::** [[@tenchLiteratureReviewZettelkasten2018]]
+- **Informed By::** [[@forteInterviewSonkeAhrens2020]]

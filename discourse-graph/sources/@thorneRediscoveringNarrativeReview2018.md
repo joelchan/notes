@@ -25,6 +25,5 @@ date: Fri May 08 2020 00:53:18 GMT-0400 (Eastern Daylight Time)
 
 ###### Discourse Context
 
-- **Informs::** [CLM - systematic reviews are typically narrowly focused, and provide less insight.md](CLM - systematic reviews are typically narrowly focused, and provide less insight.md)
-- **Informs::** [QUE - How can we support explicit contention with evidence when synthesizing knowledge claims.md](QUE - How can we support explicit contention with evidence when synthesizing knowledge claims.md)
-
+- **Informs::** [[CLM - systematic reviews are typically narrowly focused, and provide less insight]]
+- **Informs::** [[QUE - How can we support explicit contention with evidence when synthesizing knowledge claims]]

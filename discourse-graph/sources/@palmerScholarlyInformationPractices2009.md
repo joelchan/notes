@@ -57,5 +57,4 @@ date: Thu Feb 06 2020 15:24:51 GMT-0500 (Eastern Standard Time)
 
 ###### Discourse Context
 
-- **Informs::** [CLM - Scholars constantly need to reread during a literature review.md](CLM - Scholars constantly need to reread during a literature review.md)
-
+- **Informs::** [[CLM - Scholars constantly need to reread during a literature review]]

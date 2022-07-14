@@ -29,6 +29,5 @@ date: Fri Jul 02 2021 22:21:24 GMT-0400 (Eastern Daylight Time)
 
 ###### Discourse Context
 
-- **Informs::** [QUE - How might domain distance modulate the effects of analogies on creative output.md](QUE - How might domain distance modulate the effects of analogies on creative output.md)
-- **SourceFor::** [EVD - Far analogies were rare and never used in psychology lab group meetings for reasoning (vs. me... rare in colloquia as well, but were frequently used for reasoning - @sanerAnalogiesOutBlue1999.md](EVD - Far analogies were rare and never used in psychology lab group meetings for reasoning (vs. me... rare in colloquia as well, but were frequently used for reasoning - @sanerAnalogiesOutBlue1999.md)
-
+- **Informs::** [[QUE - How might domain distance modulate the effects of analogies on creative output]]
+- **SourceFor::** [[EVD - Far analogies were rare and never used in psychology lab group meetings for reasoning (vs. me... rare in colloquia as well, but were frequently used for reasoning - @sanerAnalogiesOutBlue1999]]

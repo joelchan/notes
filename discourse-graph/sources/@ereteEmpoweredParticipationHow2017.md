@@ -29,8 +29,7 @@ date: Tue Jul 13 2021 10:44:21 GMT-0400 (Eastern Daylight Time)
 
 ###### Discourse Context
 
-- **Informs::** [QUE - What tension points exist between the goals of diversity and depth of user participation in participatory design.md](QUE - What tension points exist between the goals of diversity and depth of user participation in participatory design.md)
-- **SourceFor::** [EVD - success of one mixed-race community at influencing policy through ICTs depended on a single a...rns, and there were concerns over this being a bottleneck - @ereteEmpoweredParticipationHow2017.md](EVD - success of one mixed-race community at influencing policy through ICTs depended on a single a...rns, and there were concerns over this being a bottleneck - @ereteEmpoweredParticipationHow2017.md)
-- **SourceFor::** [EVD - online participation options for civic input diversified and strengthened participation in Chicago neighborhoods - @ereteEmpoweredParticipationHow2017.md](EVD - online participation options for civic input diversified and strengthened participation in Chicago neighborhoods - @ereteEmpoweredParticipationHow2017.md)
-- **SourceFor::** [EVD - three communities across a range of race and income effectively used ICTs to engage with poli...ive with the majority white  middle-high income community - @ereteEmpoweredParticipationHow2017.md](EVD - three communities across a range of race and income effectively used ICTs to engage with poli...ive with the majority white  middle-high income community - @ereteEmpoweredParticipationHow2017.md)
-
+- **Informs::** [[QUE - What tension points exist between the goals of diversity and depth of user participation in participatory design]]
+- **SourceFor::** [[EVD - success of one mixed-race community at influencing policy through ICTs depended on a single a...rns, and there were concerns over this being a bottleneck - @ereteEmpoweredParticipationHow2017]]
+- **SourceFor::** [[EVD - online participation options for civic input diversified and strengthened participation in Chicago neighborhoods - @ereteEmpoweredParticipationHow2017]]
+- **SourceFor::** [[EVD - three communities across a range of race and income effectively used ICTs to engage with poli...ive with the majority white  middle-high income community - @ereteEmpoweredParticipationHow2017]]

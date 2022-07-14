@@ -21,8 +21,7 @@ date: Wed Dec 01 2021 10:48:39 GMT-0500 (Eastern Standard Time)
 
 ###### Discourse Context
 
-- **Informs::** [QUE - What do we know about transformer language models' natural language generation capabilities.md](QUE - What do we know about transformer language models' natural language generation capabilities.md)
-- **Informs::** [QUE - How does the choice of what data we about scholarly papers we index influence performance for information retrieval systems.md](QUE - How does the choice of what data we about scholarly papers we index influence performance for information retrieval systems.md)
-- **SourceFor::** [EVD - crowd workers were at chance accuracy in distinguishing human-written from GPT-3-written stories, news stories, and recipes - @clarkAllThatHuman2021.md](EVD - crowd workers were at chance accuracy in distinguishing human-written from GPT-3-written stories, news stories, and recipes - @clarkAllThatHuman2021.md)
-- **SourceFor::** [EVD - crowd workers mostly relied on form vs. content heuristics to make their judgments about human-likeness of generate text - @clarkAllThatHuman2021.md](EVD - crowd workers mostly relied on form vs. content heuristics to make their judgments about human-likeness of generate text - @clarkAllThatHuman2021.md)
-
+- **Informs::** [[QUE - What do we know about transformer language models' natural language generation capabilities]]
+- **Informs::** [[QUE - How does the choice of what data we about scholarly papers we index influence performance for information retrieval systems]]
+- **SourceFor::** [[EVD - crowd workers were at chance accuracy in distinguishing human-written from GPT-3-written stories, news stories, and recipes - @clarkAllThatHuman2021]]
+- **SourceFor::** [[EVD - crowd workers mostly relied on form vs. content heuristics to make their judgments about human-likeness of generate text - @clarkAllThatHuman2021]]

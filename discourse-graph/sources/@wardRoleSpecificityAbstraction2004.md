@@ -26,6 +26,5 @@ date: Fri Jan 14 2022 11:41:41 GMT-0500 (Eastern Standard Time)
 
 ###### Discourse Context
 
-- **Informs::** [THE - interaction-oriented theory of creative inspiration from examples.md](THE - interaction-oriented theory of creative inspiration from examples.md)
-- **SourceFor::** [EVD - College students imagined novel alien creatures with more atypical features vs. Earth creatur...fe forms, vs. building on specific Earth animal exemplars - @wardRoleSpecificityAbstraction2004.md](EVD - College students imagined novel alien creatures with more atypical features vs. Earth creatur...fe forms, vs. building on specific Earth animal exemplars - @wardRoleSpecificityAbstraction2004.md)
-
+- **Informs::** [[THE - interaction-oriented theory of creative inspiration from examples]]
+- **SourceFor::** [[EVD - College students imagined novel alien creatures with more atypical features vs. Earth creatur...fe forms, vs. building on specific Earth animal exemplars - @wardRoleSpecificityAbstraction2004]]

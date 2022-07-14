@@ -67,6 +67,5 @@ date: Thu Aug 20 2020 01:59:25 GMT-0400 (Eastern Daylight Time)
 
 ###### Discourse Context
 
-- **Informs::** [CLM - Effective problem formulation is-necessary-for creative knowledge work.md](CLM - Effective problem formulation is-necessary-for creative knowledge work.md)
-- **Informs::** [CLM - Design proceeds by co-evolution of problem and solution space.md](CLM - Design proceeds by co-evolution of problem and solution space.md)
-
+- **Informs::** [[CLM - Effective problem formulation is-necessary-for creative knowledge work]]
+- **Informs::** [[CLM - Design proceeds by co-evolution of problem and solution space]]

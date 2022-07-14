@@ -29,11 +29,10 @@ date: Sun Dec 27 2020 22:10:57 GMT-0500 (Eastern Standard Time)
 
 ###### Discourse Context
 
-- **Informs::** [QUE - What is the relationship between prior knowledge and new ideas.md](QUE - What is the relationship between prior knowledge and new ideas.md)
-- **Informed By::** [@wardStructuredImaginationRole1994.md](@wardStructuredImaginationRole1994.md)
-- **Informed By::** [@janssonDesignFixation1991.md](@janssonDesignFixation1991.md)
-- **Informed By::** [@marshInadvertentUsePrior1999.md](@marshInadvertentUsePrior1999.md)
-- **Informed By::** [@linseyStudyDesignFixation2010.md](@linseyStudyDesignFixation2010.md)
-- **Informed By::** [@purcellDesignOtherTypes1996.md](@purcellDesignOtherTypes1996.md)
-- **Informed By::** [@marshHowExamplesMay1996.md](@marshHowExamplesMay1996.md)
-
+- **Informs::** [[QUE - What is the relationship between prior knowledge and new ideas]]
+- **Informed By::** [[@wardStructuredImaginationRole1994]]
+- **Informed By::** [[@janssonDesignFixation1991]]
+- **Informed By::** [[@marshInadvertentUsePrior1999]]
+- **Informed By::** [[@linseyStudyDesignFixation2010]]
+- **Informed By::** [[@purcellDesignOtherTypes1996]]
+- **Informed By::** [[@marshHowExamplesMay1996]]

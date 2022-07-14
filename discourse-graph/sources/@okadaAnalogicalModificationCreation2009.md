@@ -59,11 +59,10 @@ date: Mon Nov 16 2020 17:45:08 GMT-0500 (Eastern Standard Time)
 
 ###### Discourse Context
 
-- **Informs::** [CLM - Design proceeds by co-evolution of problem and solution space.md](CLM - Design proceeds by co-evolution of problem and solution space.md)
-- **Informs::** [CLM - Analogies can power creative breakthroughs by stimulating effective problem (re)formulation.md](CLM - Analogies can power creative breakthroughs by stimulating effective problem (re)formulation.md)
-- **Informs::** [QUE - How might domain distance modulate the effects of analogies on creative output.md](QUE - How might domain distance modulate the effects of analogies on creative output.md)
-- **Informs::** [QUE - What are the most efficient routes to useful cross-boundary knowledge.md](QUE - What are the most efficient routes to useful cross-boundary knowledge.md)
-- **Informs::** [QUE - How do people effectively (re)formulate creative problems.md](QUE - How do people effectively (re)formulate creative problems.md)
-- **Informs::** [THE - interaction-oriented theory of creative inspiration from examples.md](THE - interaction-oriented theory of creative inspiration from examples.md)
-- **SourceFor::** [EVD - Two artists used individual artworks to shape not just their ideas, but used a process of ana...ion. This process unfolded over the course of years. - @okadaAnalogicalModificationCreation2009.md](EVD - Two artists used individual artworks to shape not just their ideas, but used a process of ana...ion. This process unfolded over the course of years. - @okadaAnalogicalModificationCreation2009.md)
-
+- **Informs::** [[CLM - Design proceeds by co-evolution of problem and solution space]]
+- **Informs::** [[CLM - Analogies can power creative breakthroughs by stimulating effective problem (re)formulation]]
+- **Informs::** [[QUE - How might domain distance modulate the effects of analogies on creative output]]
+- **Informs::** [[QUE - What are the most efficient routes to useful cross-boundary knowledge]]
+- **Informs::** [[QUE - How do people effectively (re)formulate creative problems]]
+- **Informs::** [[THE - interaction-oriented theory of creative inspiration from examples]]
+- **SourceFor::** [[EVD - Two artists used individual artworks to shape not just their ideas, but used a process of ana...ion. This process unfolded over the course of years. - @okadaAnalogicalModificationCreation2009]]

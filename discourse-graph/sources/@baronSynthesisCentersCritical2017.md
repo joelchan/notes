@@ -31,5 +31,4 @@ date: Tue Jan 21 2020 05:57:40 GMT-0500 (Eastern Standard Time)
 
 ###### Discourse Context
 
-- **Informs::** [CLM - Interdisciplinary teamwork is hard.md](CLM - Interdisciplinary teamwork is hard.md)
-
+- **Informs::** [[CLM - Interdisciplinary teamwork is hard]]

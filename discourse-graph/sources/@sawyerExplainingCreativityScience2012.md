@@ -29,5 +29,4 @@ date: Mon Jan 11 2021 20:48:57 GMT-0500 (Eastern Standard Time)
 
 ###### Discourse Context
 
-- **Informs::** [QUE - How do people effectively (re)formulate creative problems.md](QUE - How do people effectively (re)formulate creative problems.md)
-
+- **Informs::** [[QUE - How do people effectively (re)formulate creative problems]]

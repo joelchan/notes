@@ -55,6 +55,5 @@ date: Wed Apr 08 2020 22:28:40 GMT-0400 (Eastern Daylight Time)
 
 ###### Discourse Context
 
-- **Informs::** [CLM - Scientists read strategically, not linearly.md](CLM - Scientists read strategically, not linearly.md)
-- **Informs::** [CLM - The central bottleneck to synthesis infrastructures is authoring.md](CLM - The central bottleneck to synthesis infrastructures is authoring.md)
-
+- **Informs::** [[CLM - Scientists read strategically, not linearly]]
+- **Informs::** [[CLM - The central bottleneck to synthesis infrastructures is authoring]]

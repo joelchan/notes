@@ -32,6 +32,5 @@ date: Sat Jan 15 2022 15:32:34 GMT-0500 (Eastern Standard Time)
 
 ###### Discourse Context
 
-- **Informs::** [THE - interaction-oriented theory of creative inspiration from examples.md](THE - interaction-oriented theory of creative inspiration from examples.md)
-- **FromSource::** [@wardRoleSpecificityAbstraction2004.md](@wardRoleSpecificityAbstraction2004.md)
-
+- **Informs::** [[THE - interaction-oriented theory of creative inspiration from examples]]
+- **FromSource::** [[@wardRoleSpecificityAbstraction2004]]

@@ -14,6 +14,6 @@ date: Mon May 23 2022 23:19:27 GMT-0400 (Eastern Daylight Time)
 
 ###### Discourse Context
 
-- **Supports::** [CLM - People are more likely to benefit from analogies if they encounterprocess them with an active goal or license to use them for inspiration.md](CLM - People are more likely to benefit from analogies if they encounterprocess them with an active goal or license to use them for inspiration.md)
-- **Consistent With::** [EVD - No analogical transfer amongst undergraduates between insight problems without hints about analogical mapping - @reedRoleAnalogyTransfer1974.md](EVD - No analogical transfer amongst undergraduates between insight problems without hints about analogical mapping - @reedRoleAnalogyTransfer1974.md)
-- **FromSource::** [@reedRoleAnalogyTransfer1974.md](@reedRoleAnalogyTransfer1974.md)
+- **Supports::** [[CLM - People are more likely to benefit from analogies if they encounterprocess them with an active goal or license to use them for inspiration]]
+- **Consistent With::** [[EVD - No analogical transfer amongst undergraduates between insight problems without hints about analogical mapping - @reedRoleAnalogyTransfer1974]]
+- **FromSource::** [[@reedRoleAnalogyTransfer1974]]

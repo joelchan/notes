@@ -221,14 +221,13 @@ date: Wed Feb 16 2022 20:12:10 GMT-0500 (Eastern Standard Time)
 
 ###### Discourse Context
 
-- **Informed By::** [@kirshMultitaskingCostStructure2005.md](@kirshMultitaskingCostStructure2005.md)
-- **Informed By::** [@steffeCognitiveFlexibilityConstructivism2012.md](@steffeCognitiveFlexibilityConstructivism2012.md)
-- **Informed By::** [@coulsonCognitiveFlexibilityMedicine.md](@coulsonCognitiveFlexibilityMedicine.md)
-- **Informed By::** [@mishraUsingHypermediaLearning2006.md](@mishraUsingHypermediaLearning2006.md)
-- **Informed By::** [@jonassenInstructionalDesignModels1997.md](@jonassenInstructionalDesignModels1997.md)
-- **Informed By::** [@chenInteractingHypertextMetaAnalysis1996.md](@chenInteractingHypertextMetaAnalysis1996.md)
-- **Informed By::** [@jacobsonDesignHypermediaTools2000.md](@jacobsonDesignHypermediaTools2000.md)
-- **Informed By::** [@jacobsonHypertextLearningEnvironments1995.md](@jacobsonHypertextLearningEnvironments1995.md)
-- **Informed By::** [@spiroModesOpennessFlexibility2007.md](@spiroModesOpennessFlexibility2007.md)
-- **Informed By::** [@spiroCognitiveFlexibilityTheory1988.md](@spiroCognitiveFlexibilityTheory1988.md)
-
+- **Informed By::** [[@kirshMultitaskingCostStructure2005]]
+- **Informed By::** [[@steffeCognitiveFlexibilityConstructivism2012]]
+- **Informed By::** [[@coulsonCognitiveFlexibilityMedicine]]
+- **Informed By::** [[@mishraUsingHypermediaLearning2006]]
+- **Informed By::** [[@jonassenInstructionalDesignModels1997]]
+- **Informed By::** [[@chenInteractingHypertextMetaAnalysis1996]]
+- **Informed By::** [[@jacobsonDesignHypermediaTools2000]]
+- **Informed By::** [[@jacobsonHypertextLearningEnvironments1995]]
+- **Informed By::** [[@spiroModesOpennessFlexibility2007]]
+- **Informed By::** [[@spiroCognitiveFlexibilityTheory1988]]

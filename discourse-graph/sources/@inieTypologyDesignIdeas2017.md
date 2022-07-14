@@ -27,4 +27,4 @@ date: Wed Dec 29 2021 23:09:17 GMT-0500 (Eastern Standard Time)
 
 ###### Discourse Context
 
-- **Informs::** [CLM - The notion of an 'idea' is very complicated.md](CLM - The notion of an 'idea' is very complicated.md)
+- **Informs::** [[CLM - The notion of an 'idea' is very complicated]]

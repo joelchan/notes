@@ -23,5 +23,5 @@ date: Wed Dec 15 2021 09:59:59 GMT-0500 (Eastern Standard Time)
 
 ###### Discourse Context
 
-- **SourceFor::** [EVD - Students demonstrated an ability to complete the tasks given to them on tests, but failed to ...nceptual understanding about the topics being addressed. - @linEffectivenessTeachingScience1996.md](EVD - Students demonstrated an ability to complete the tasks given to them on tests, but failed to ...nceptual understanding about the topics being addressed. - @linEffectivenessTeachingScience1996.md)
-- **SourceFor::** [EVD - Students provided pictorial analogies during instruction performed better on examinations tha... lower achieving students and higher achieving students. - @linEffectivenessTeachingScience1996.md](EVD - Students provided pictorial analogies during instruction performed better on examinations tha... lower achieving students and higher achieving students. - @linEffectivenessTeachingScience1996.md)
+- **SourceFor::** [[EVD - Students demonstrated an ability to complete the tasks given to them on tests, but failed to ...nceptual understanding about the topics being addressed. - @linEffectivenessTeachingScience1996]]
+- **SourceFor::** [[EVD - Students provided pictorial analogies during instruction performed better on examinations tha... lower achieving students and higher achieving students. - @linEffectivenessTeachingScience1996]]

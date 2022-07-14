@@ -21,6 +21,5 @@ date: Mon Jun 29 2020 12:41:26 GMT-0400 (Eastern Daylight Time)
 
 ###### Discourse Context
 
-- **Informs::** [CLM - Analogies are fundamentally about relational similarity.md](CLM - Analogies are fundamentally about relational similarity.md)
-- **Informs::** [QUE - What is analogy.md](QUE - What is analogy.md)
-
+- **Informs::** [[CLM - Analogies are fundamentally about relational similarity]]
+- **Informs::** [[QUE - What is analogy]]

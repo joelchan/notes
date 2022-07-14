@@ -31,6 +31,5 @@ date: Sun Jul 12 2020 22:12:54 GMT-0400 (Eastern Daylight Time)
 
 ###### Discourse Context
 
-- **Informs::** [CLM - Knowledge is fundamentally contextual.md](CLM - Knowledge is fundamentally contextual.md)
-- **Informs::** [QUE - How can we best bridge private vs. public knowledge.md](QUE - How can we best bridge private vs. public knowledge.md)
-
+- **Informs::** [[CLM - Knowledge is fundamentally contextual]]
+- **Informs::** [[QUE - How can we best bridge private vs. public knowledge]]

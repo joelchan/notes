@@ -25,5 +25,4 @@ date: Sun May 03 2020 22:35:01 GMT-0400 (Eastern Daylight Time)
 
 ###### Discourse Context
 
-- **Informs::** [CLM - Effective individual synthesis systems (seem to mostly) exist (for a select few).md](CLM - Effective individual synthesis systems (seem to mostly) exist (for a select few).md)
-
+- **Informs::** [[CLM - Effective individual synthesis systems (seem to mostly) exist (for a select few)]]

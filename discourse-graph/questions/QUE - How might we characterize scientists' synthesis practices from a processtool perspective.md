@@ -53,13 +53,12 @@ date: Wed Jan 27 2021 21:21:35 GMT-0500 (Eastern Standard Time)
 
 ###### Discourse Context
 
-- **Informed By::** [CLM - Effective individual synthesis systems (seem to mostly) exist (for a select few).md](CLM - Effective individual synthesis systems (seem to mostly) exist (for a select few).md)
-- **Informed By::** [@hoangOpportunitiesComputerSupport2018.md](@hoangOpportunitiesComputerSupport2018.md)
-- **Informed By::** [@qianOpeningBlackBox2020.md](@qianOpeningBlackBox2020.md)
-- **Informed By::** [@willisDocumentsDistributedScientific2014.md](@willisDocumentsDistributedScientific2014.md)
-- **Informed By::** [@chanWhereRubberMeets2020.md](@chanWhereRubberMeets2020.md)
-- **Informed By::** [@blakeCollaborativeInformationSynthesis2006a.md](@blakeCollaborativeInformationSynthesis2006a.md)
-- **Informed By::** [@qianITunesPapersRedefining2019a.md](@qianITunesPapersRedefining2019a.md)
-- **Informed By::** [@wareSTMReportOverview2015.md](@wareSTMReportOverview2015.md)
-- **Informed By::** [@bosmanInnovationsScholarlyCommunication2016.md](@bosmanInnovationsScholarlyCommunication2016.md)
-
+- **Informed By::** [[CLM - Effective individual synthesis systems (seem to mostly) exist (for a select few)]]
+- **Informed By::** [[@hoangOpportunitiesComputerSupport2018]]
+- **Informed By::** [[@qianOpeningBlackBox2020]]
+- **Informed By::** [[@willisDocumentsDistributedScientific2014]]
+- **Informed By::** [[@chanWhereRubberMeets2020]]
+- **Informed By::** [[@blakeCollaborativeInformationSynthesis2006a]]
+- **Informed By::** [[@qianITunesPapersRedefining2019a]]
+- **Informed By::** [[@wareSTMReportOverview2015]]
+- **Informed By::** [[@bosmanInnovationsScholarlyCommunication2016]]

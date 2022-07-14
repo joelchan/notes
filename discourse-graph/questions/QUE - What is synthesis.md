@@ -183,14 +183,13 @@ date: Tue May 19 2020 16:39:00 GMT-0400 (Eastern Daylight Time)
 
 ###### Discourse Context
 
-- **Informed By::** [CLM - Synthesis is sensemaking on hard mode.md](CLM - Synthesis is sensemaking on hard mode.md)
-- **Informed By::** [CLM - Synthesis is creating a new whole out of component parts.md](CLM - Synthesis is creating a new whole out of component parts.md)
-- **Informed By::** [CLM - Requirements for sensemaking come from the particulars of the work task.md](CLM - Requirements for sensemaking come from the particulars of the work task.md)
-- **Informed By::** [CLM - Effective synthesis is rare.md](CLM - Effective synthesis is rare.md)
-- **Informed By::** [CLM - systematic reviews are typically narrowly focused, and provide less insight.md](CLM - systematic reviews are typically narrowly focused, and provide less insight.md)
-- **Informed By::** [@strikeTypesSynthesisTheir1983.md](@strikeTypesSynthesisTheir1983.md)
-- **Informed By::** [@booteScholarsResearchersCentrality2005.md](@booteScholarsResearchersCentrality2005.md)
-- **Informed By::** [@dubberlyModelingAnalysissynthesisBridge2008.md](@dubberlyModelingAnalysissynthesisBridge2008.md)
-- **Informed By::** [@dorstCoreDesignThinking2011.md](@dorstCoreDesignThinking2011.md)
-- **Informed By::** [@grantTypologyReviewsAnalysis2009.md](@grantTypologyReviewsAnalysis2009.md)
-
+- **Informed By::** [[CLM - Synthesis is sensemaking on hard mode]]
+- **Informed By::** [[CLM - Synthesis is creating a new whole out of component parts]]
+- **Informed By::** [[CLM - Requirements for sensemaking come from the particulars of the work task]]
+- **Informed By::** [[CLM - Effective synthesis is rare]]
+- **Informed By::** [[CLM - systematic reviews are typically narrowly focused, and provide less insight]]
+- **Informed By::** [[@strikeTypesSynthesisTheir1983]]
+- **Informed By::** [[@booteScholarsResearchersCentrality2005]]
+- **Informed By::** [[@dubberlyModelingAnalysissynthesisBridge2008]]
+- **Informed By::** [[@dorstCoreDesignThinking2011]]
+- **Informed By::** [[@grantTypologyReviewsAnalysis2009]]

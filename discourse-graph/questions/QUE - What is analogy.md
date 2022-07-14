@@ -29,8 +29,8 @@ date: Tue Mar 22 2022 09:52:00 GMT-0400 (Eastern Daylight Time)
 
 ###### Discourse Context
 
-- **Informed By::** [CLM - Analogies are fundamentally about relational similarity.md](CLM - Analogies are fundamentally about relational similarity.md)
-- **Informed By::** [CLM - Division of structural vs. surface features in analogical mapping varies is not constant; it varies by task..md](CLM - Division of structural vs. surface features in analogical mapping varies is not constant; it varies by task..md)
-- **Informed By::** [@gentnerStructureMappingTheoretical1983.md](@gentnerStructureMappingTheoretical1983.md)
-- **Informed By::** [@gentnerStructureMappingAnalogy1997.md](@gentnerStructureMappingAnalogy1997.md)
-- **Informed By::** [@holyoakAnalogicalMappingConstraint1989.md](@holyoakAnalogicalMappingConstraint1989.md)
+- **Informed By::** [[CLM - Analogies are fundamentally about relational similarity]]
+- **Informed By::** [[CLM - Division of structural vs. surface features in analogical mapping varies is not constant; it varies by task.]]
+- **Informed By::** [[@gentnerStructureMappingTheoretical1983]]
+- **Informed By::** [[@gentnerStructureMappingAnalogy1997]]
+- **Informed By::** [[@holyoakAnalogicalMappingConstraint1989]]

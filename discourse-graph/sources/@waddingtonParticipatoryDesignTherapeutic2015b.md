@@ -29,6 +29,5 @@ date: Fri May 14 2021 11:27:44 GMT-0400 (Eastern Daylight Time)
 
 ###### Discourse Context
 
-- **Informs::** [QUE - What tension points exist between the goals of diversity and depth of user participation in participatory design.md](QUE - What tension points exist between the goals of diversity and depth of user participation in participatory design.md)
-- **SourceFor::** [EVD - experts who work with young adults with neurological vision impairments (NVI) do not have com...udge the difficulty of the vision therapy game - @waddingtonParticipatoryDesignTherapeutic2015b.md](EVD - experts who work with young adults with neurological vision impairments (NVI) do not have com...udge the difficulty of the vision therapy game - @waddingtonParticipatoryDesignTherapeutic2015b.md)
-
+- **Informs::** [[QUE - What tension points exist between the goals of diversity and depth of user participation in participatory design]]
+- **SourceFor::** [[EVD - experts who work with young adults with neurological vision impairments (NVI) do not have com...udge the difficulty of the vision therapy game - @waddingtonParticipatoryDesignTherapeutic2015b]]

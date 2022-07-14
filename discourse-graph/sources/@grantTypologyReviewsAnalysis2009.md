@@ -38,4 +38,4 @@ date: Sat Nov 07 2020 00:06:36 GMT-0500 (Eastern Standard Time)
 
 ###### Discourse Context
 
-- **Informs::** [QUE - What is synthesis.md](QUE - What is synthesis.md)
+- **Informs::** [[QUE - What is synthesis]]

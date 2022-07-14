@@ -29,8 +29,7 @@ https://twitter.com/Girish_Kumar72/status/1436532451031937028)
 
 ###### Discourse Context
 
-- **Informs::** [QUE - How can we measure everyday progress in open-ended creative work.md](QUE - How can we measure everyday progress in open-ended creative work.md)
-- **Informed By::** [@gruberDarwinManPsychological1974.md](@gruberDarwinManPsychological1974.md)
-- **Informed By::** [@cattaniDeconstructingOutsiderPuzzle2017.md](@cattaniDeconstructingOutsiderPuzzle2017.md)
-- **Informed By::** [@kneelandExploringUnchartedTerritory2020.md](@kneelandExploringUnchartedTerritory2020.md)
-
+- **Informs::** [[QUE - How can we measure everyday progress in open-ended creative work]]
+- **Informed By::** [[@gruberDarwinManPsychological1974]]
+- **Informed By::** [[@cattaniDeconstructingOutsiderPuzzle2017]]
+- **Informed By::** [[@kneelandExploringUnchartedTerritory2020]]

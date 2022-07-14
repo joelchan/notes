@@ -10,5 +10,4 @@ date: Tue Dec 03 2019 12:44:36 GMT-0500 (Eastern Standard Time)
 
 ###### Discourse Context
 
-- **Uses::** [PTN - flexible compression.md](PTN - flexible compression.md)
-
+- **Uses::** [[PTN - flexible compression]]

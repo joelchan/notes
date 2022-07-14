@@ -10,4 +10,4 @@ date: Thu Nov 18 2021 09:47:28 GMT-0500 (Eastern Standard Time)
 
 ###### Discourse Context
 
-- **FromSource::** [@cassTransformYourIndustry2019.md](@cassTransformYourIndustry2019.md)
+- **FromSource::** [[@cassTransformYourIndustry2019]]

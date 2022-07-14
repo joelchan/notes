@@ -23,4 +23,4 @@ date: Sat Mar 21 2020 12:24:09 GMT-0400 (Eastern Daylight Time)
 
 ###### Discourse Context
 
-- **Informs::** [CLM - Analogical retrieval in humans is dominated by surface similarity.md](CLM - Analogical retrieval in humans is dominated by surface similarity.md)
+- **Informs::** [[CLM - Analogical retrieval in humans is dominated by surface similarity]]

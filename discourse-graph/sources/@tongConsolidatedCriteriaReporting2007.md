@@ -37,4 +37,4 @@ date: Tue Jul 20 2021 14:51:56 GMT-0400 (Eastern Daylight Time)
 
 ###### Discourse Context
 
-- **Informs::** [QUE - What is context for the purposes of scholarly synthesis.md](QUE - What is context for the purposes of scholarly synthesis.md)
+- **Informs::** [[QUE - What is context for the purposes of scholarly synthesis]]

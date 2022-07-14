@@ -10,5 +10,4 @@ date: Tue May 03 2022 16:50:13 GMT-0400 (Eastern Daylight Time)
 
 ###### Discourse Context
 
-- **FromSource::** [@hargadonTechnologyBrokeringInnovation1997.md](@hargadonTechnologyBrokeringInnovation1997.md)
-
+- **FromSource::** [[@hargadonTechnologyBrokeringInnovation1997]]

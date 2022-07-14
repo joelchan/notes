@@ -51,11 +51,11 @@ date: Thu Oct 15 2020 20:22:17 GMT-0400 (Eastern Daylight Time)
 
 ###### Discourse Context
 
-- **Informed By::** [@gilonAnalogyMiningSpecific2018.md](@gilonAnalogyMiningSpecific2018.md)
-- **Informed By::** [@gruberDarwinManPsychological1974.md](@gruberDarwinManPsychological1974.md)
-- **Informed By::** [@helmsCompoundAnalogicalDesign2008.md](@helmsCompoundAnalogicalDesign2008.md)
-- **Informed By::** [@gentnerAnalogyCreativityWorks1997.md](@gentnerAnalogyCreativityWorks1997.md)
-- **Informed By::** [@holyoakMentalLeapsAnalogy1996.md](@holyoakMentalLeapsAnalogy1996.md)
-- **Informed By::** [@bhattaInnovationAnalogicalDesign1994.md](@bhattaInnovationAnalogicalDesign1994.md)
-- **Informed By::** [@dorstFrameInnovationCreate2015.md](@dorstFrameInnovationCreate2015.md)
-- **Informed By::** [@yuDistributedAnalogicalIdea2016.md](@yuDistributedAnalogicalIdea2016.md)
+- **Informed By::** [[@gilonAnalogyMiningSpecific2018]]
+- **Informed By::** [[@gruberDarwinManPsychological1974]]
+- **Informed By::** [[@helmsCompoundAnalogicalDesign2008]]
+- **Informed By::** [[@gentnerAnalogyCreativityWorks1997]]
+- **Informed By::** [[@holyoakMentalLeapsAnalogy1996]]
+- **Informed By::** [[@bhattaInnovationAnalogicalDesign1994]]
+- **Informed By::** [[@dorstFrameInnovationCreate2015]]
+- **Informed By::** [[@yuDistributedAnalogicalIdea2016]]

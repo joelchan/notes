@@ -16,6 +16,5 @@ date: Sun Oct 24 2021 16:19:40 GMT-0400 (Eastern Daylight Time)
 
 ###### Discourse Context
 
-- **Informs::** [QUE - Are bans an effective strategy for dealing with bad behaviors in online social media settings.md](QUE - Are bans an effective strategy for dealing with bad behaviors in online social media settings.md)
-- **SourceFor::** [EVD - viewers in Twitch chat engaged in less bad behaviors after a user was banned by a moderator for that bad behavior - @seeringShapingProAntiSocial2017.md](EVD - viewers in Twitch chat engaged in less bad behaviors after a user was banned by a moderator for that bad behavior - @seeringShapingProAntiSocial2017.md)
-
+- **Informs::** [[QUE - Are bans an effective strategy for dealing with bad behaviors in online social media settings]]
+- **SourceFor::** [[EVD - viewers in Twitch chat engaged in less bad behaviors after a user was banned by a moderator for that bad behavior - @seeringShapingProAntiSocial2017]]

@@ -31,6 +31,5 @@ date: Mon Aug 09 2021 12:16:30 GMT-0400 (Eastern Daylight Time)
 
 ###### Discourse Context
 
-- **SourceFor::** [EVD - evaluators gave lower scores to biomed grant proposals that were very novel; but higher scores to proposals that were somewhat novel - @boudreauLookingLookingKnowledge2016.md](EVD - evaluators gave lower scores to biomed grant proposals that were very novel; but higher scores to proposals that were somewhat novel - @boudreauLookingLookingKnowledge2016.md)
-- **SourceFor::** [EVD - evaluators gave higher scores to biomed grant proposals that were farther from their domain of expertise - @boudreauLookingLookingKnowledge2016.md](EVD - evaluators gave higher scores to biomed grant proposals that were farther from their domain of expertise - @boudreauLookingLookingKnowledge2016.md)
-
+- **SourceFor::** [[EVD - evaluators gave lower scores to biomed grant proposals that were very novel; but higher scores to proposals that were somewhat novel - @boudreauLookingLookingKnowledge2016]]
+- **SourceFor::** [[EVD - evaluators gave higher scores to biomed grant proposals that were farther from their domain of expertise - @boudreauLookingLookingKnowledge2016]]

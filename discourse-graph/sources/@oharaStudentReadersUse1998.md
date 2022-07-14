@@ -47,7 +47,6 @@ date: Tue Apr 28 2020 13:22:36 GMT-0400 (Eastern Daylight Time)
 
 ###### Discourse Context
 
-- **Informs::** [CLM - Scholars constantly need to reread during a literature review.md](CLM - Scholars constantly need to reread during a literature review.md)
-- **Informs::** [QUE - How can we best bridge private vs. public knowledge.md](QUE - How can we best bridge private vs. public knowledge.md)
-- **Informs::** [QUE - What (existing) systems facilitate individual synthesis.md](QUE - What (existing) systems facilitate individual synthesis.md)
-
+- **Informs::** [[CLM - Scholars constantly need to reread during a literature review]]
+- **Informs::** [[QUE - How can we best bridge private vs. public knowledge]]
+- **Informs::** [[QUE - What (existing) systems facilitate individual synthesis]]

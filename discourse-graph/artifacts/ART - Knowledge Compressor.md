@@ -13,5 +13,4 @@ date: Tue Apr 28 2020 11:51:16 GMT-0400 (Eastern Daylight Time)
 
 ###### Discourse Context
 
-- **Uses::** [PTN - flexible compression.md](PTN - flexible compression.md)
-
+- **Uses::** [[PTN - flexible compression]]

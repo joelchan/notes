@@ -71,5 +71,4 @@ date: Thu Mar 05 2020 23:43:15 GMT-0500 (Eastern Standard Time)
 
 ###### Discourse Context
 
-- **Informs::** [CLM - Knowledge-that and knowledge-how are best storedcommunicated in distinct media.md](CLM - Knowledge-that and knowledge-how are best storedcommunicated in distinct media.md)
-
+- **Informs::** [[CLM - Knowledge-that and knowledge-how are best storedcommunicated in distinct media]]

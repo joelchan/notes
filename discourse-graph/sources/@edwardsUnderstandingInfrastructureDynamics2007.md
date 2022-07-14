@@ -65,6 +65,5 @@ date: Mon Jun 29 2020 10:06:59 GMT-0400 (Eastern Daylight Time)
 
 ###### Discourse Context
 
-- **Informs::** [CLM - Infrastructure is sociotechnical, not just technical.md](CLM - Infrastructure is sociotechnical, not just technical.md)
-- **Informs::** [PTN - Prefer to grow rather than build  design new infrastructures a priori.md](PTN - Prefer to grow rather than build  design new infrastructures a priori.md)
-
+- **Informs::** [[CLM - Infrastructure is sociotechnical, not just technical]]
+- **Informs::** [[PTN - Prefer to grow rather than build  design new infrastructures a priori]]

@@ -55,7 +55,6 @@ date: Wed Jan 29 2020 09:55:32 GMT-0500 (Eastern Standard Time)
 
 ###### Discourse Context
 
-- **Informs::** [CLM - Effective synthesis is rare.md](CLM - Effective synthesis is rare.md)
-- **Informs::** [QUE - What is synthesis.md](QUE - What is synthesis.md)
-- **Informs::** [QUE - How might we conceptualize and measure synthesis quality.md](QUE - How might we conceptualize and measure synthesis quality.md)
-
+- **Informs::** [[CLM - Effective synthesis is rare]]
+- **Informs::** [[QUE - What is synthesis]]
+- **Informs::** [[QUE - How might we conceptualize and measure synthesis quality]]

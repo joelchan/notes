@@ -19,5 +19,4 @@ date: Wed Oct 07 2020 13:19:00 GMT-0400 (Eastern Daylight Time)
 
 ###### Discourse Context
 
-- **Informed By::** [@chanSOLVENTMixedInitiative2018.md](@chanSOLVENTMixedInitiative2018.md)
-
+- **Informed By::** [[@chanSOLVENTMixedInitiative2018]]

@@ -48,6 +48,5 @@ date: Sat Jan 22 2022 22:45:16 GMT-0500 (Eastern Standard Time)
 
 ###### Discourse Context
 
-- **Informs::** [QUE - How can we measure efficacy of creativity support systems.md](QUE - How can we measure efficacy of creativity support systems.md)
-- **FromSource::** [@kirshMultitaskingCostStructure2005.md](@kirshMultitaskingCostStructure2005.md)
-
+- **Informs::** [[QUE - How can we measure efficacy of creativity support systems]]
+- **FromSource::** [[@kirshMultitaskingCostStructure2005]]

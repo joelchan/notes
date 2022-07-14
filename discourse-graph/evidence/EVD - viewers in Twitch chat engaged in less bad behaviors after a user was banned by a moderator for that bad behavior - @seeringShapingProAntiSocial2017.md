@@ -28,6 +28,5 @@ date: Sun Oct 24 2021 16:28:59 GMT-0400 (Eastern Daylight Time)
 
 ###### Discourse Context
 
-- **Informs::** [QUE - Are bans an effective strategy for dealing with bad behaviors in online social media settings.md](QUE - Are bans an effective strategy for dealing with bad behaviors in online social media settings.md)
-- **FromSource::** [@seeringShapingProAntiSocial2017.md](@seeringShapingProAntiSocial2017.md)
-
+- **Informs::** [[QUE - Are bans an effective strategy for dealing with bad behaviors in online social media settings]]
+- **FromSource::** [[@seeringShapingProAntiSocial2017]]

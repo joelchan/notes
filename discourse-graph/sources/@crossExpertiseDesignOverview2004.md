@@ -23,6 +23,5 @@ date: Thu Jun 18 2020 16:48:11 GMT-0400 (Eastern Daylight Time)
 
 ###### Discourse Context
 
-- **Informs::** [CLM - Design proceeds by co-evolution of problem and solution space.md](CLM - Design proceeds by co-evolution of problem and solution space.md)
-- **Informs::** [CLM - Expert designers are solution-oriented.md](CLM - Expert designers are solution-oriented.md)
-
+- **Informs::** [[CLM - Design proceeds by co-evolution of problem and solution space]]
+- **Informs::** [[CLM - Expert designers are solution-oriented]]

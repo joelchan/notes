@@ -27,10 +27,9 @@ date: Thu Nov 11 2021 09:54:26 GMT-0500 (Eastern Standard Time)
 
 ###### Discourse Context
 
-- **Informed By::** [EVD - Only small business owners with high divergent thinking ability generated more ideas with diverse (vs. constrained) stimuli - @gielnikCreativityOpportunityIdentification2011.md](EVD - Only small business owners with high divergent thinking ability generated more ideas with diverse (vs. constrained) stimuli - @gielnikCreativityOpportunityIdentification2011.md)
-- **Informed By::** [EVD - Only small business owners with high divergent thinking ability generated more original ideas with diverse (vs. constrained) stimuli - @gielnikCreativityOpportunityIdentification2011.md](EVD - Only small business owners with high divergent thinking ability generated more original ideas with diverse (vs. constrained) stimuli - @gielnikCreativityOpportunityIdentification2011.md)
-- **Informed By::** [EVD - case-based reasoning system loaded with diverse cases increased overall usefulness and creati...as, especially for people with lower creative ability - @althuizenSupportingCreativeProblem2014.md](EVD - case-based reasoning system loaded with diverse cases increased overall usefulness and creati...as, especially for people with lower creative ability - @althuizenSupportingCreativeProblem2014.md)
-- **Informed By::** [EVD - case-based reasoning system loaded with diverse cases increased overall novelty of ad campaign ideas, but only for people with lower creative ability - @althuizenSupportingCreativeProblem2014.md](EVD - case-based reasoning system loaded with diverse cases increased overall novelty of ad campaign ideas, but only for people with lower creative ability - @althuizenSupportingCreativeProblem2014.md)
-- **Informed By::** [@althuizenSupportingCreativeProblem2014.md](@althuizenSupportingCreativeProblem2014.md)
-- **Informed By::** [@gielnikCreativityOpportunityIdentification2011.md](@gielnikCreativityOpportunityIdentification2011.md)
-
+- **Informed By::** [[EVD - Only small business owners with high divergent thinking ability generated more ideas with diverse (vs. constrained) stimuli - @gielnikCreativityOpportunityIdentification2011]]
+- **Informed By::** [[EVD - Only small business owners with high divergent thinking ability generated more original ideas with diverse (vs. constrained) stimuli - @gielnikCreativityOpportunityIdentification2011]]
+- **Informed By::** [[EVD - case-based reasoning system loaded with diverse cases increased overall usefulness and creati...as, especially for people with lower creative ability - @althuizenSupportingCreativeProblem2014]]
+- **Informed By::** [[EVD - case-based reasoning system loaded with diverse cases increased overall novelty of ad campaign ideas, but only for people with lower creative ability - @althuizenSupportingCreativeProblem2014]]
+- **Informed By::** [[@althuizenSupportingCreativeProblem2014]]
+- **Informed By::** [[@gielnikCreativityOpportunityIdentification2011]]

@@ -19,7 +19,6 @@ date: Sat Apr 18 2020 00:08:37 GMT-0400 (Eastern Daylight Time)
 
 ###### Discourse Context
 
-- **Informs::** [QUE - How can we best bridge private vs. public knowledge.md](QUE - How can we best bridge private vs. public knowledge.md)
-- **Supported By::** [CLM - Specifying context for future reuse requires predicting trajectories of future reuse.md](CLM - Specifying context for future reuse requires predicting trajectories of future reuse.md)
-- **Informed By::** [@andersonDataBaseMent2008.md](@andersonDataBaseMent2008.md)
-
+- **Informs::** [[QUE - How can we best bridge private vs. public knowledge]]
+- **Supported By::** [[CLM - Specifying context for future reuse requires predicting trajectories of future reuse]]
+- **Informed By::** [[@andersonDataBaseMent2008]]

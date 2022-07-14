@@ -29,5 +29,4 @@ date: Sun May 03 2020 22:36:06 GMT-0400 (Eastern Daylight Time)
 
 ###### Discourse Context
 
-- **Informs::** [CLM - Scientific peer review is deeply flawed.md](CLM - Scientific peer review is deeply flawed.md)
-
+- **Informs::** [[CLM - Scientific peer review is deeply flawed]]

@@ -31,6 +31,5 @@ date: Mon Jan 11 2021 21:47:55 GMT-0500 (Eastern Standard Time)
 
 ###### Discourse Context
 
-- **Informs::** [THE - interaction-oriented theory of creative inspiration from examples.md](THE - interaction-oriented theory of creative inspiration from examples.md)
-- **SourceFor::** [EVD - Experienced facilitator participants created inspirations for crowd brainstormers with strate...ly on simply passing on examples without further processing - @chanImprovingCrowdInnovation2016.md](EVD - Experienced facilitator participants created inspirations for crowd brainstormers with strate...ly on simply passing on examples without further processing - @chanImprovingCrowdInnovation2016.md)
-
+- **Informs::** [[THE - interaction-oriented theory of creative inspiration from examples]]
+- **SourceFor::** [[EVD - Experienced facilitator participants created inspirations for crowd brainstormers with strate...ly on simply passing on examples without further processing - @chanImprovingCrowdInnovation2016]]

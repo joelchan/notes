@@ -14,5 +14,4 @@ date: Mon Aug 09 2021 12:06:26 GMT-0400 (Eastern Daylight Time)
 
 ###### Discourse Context
 
-- **FromSource::** [@leaheyProminentLessProductive2017.md](@leaheyProminentLessProductive2017.md)
-
+- **FromSource::** [[@leaheyProminentLessProductive2017]]

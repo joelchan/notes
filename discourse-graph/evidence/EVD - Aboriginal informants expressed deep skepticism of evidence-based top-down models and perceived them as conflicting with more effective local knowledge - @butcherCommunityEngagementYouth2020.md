@@ -30,6 +30,5 @@ date: Tue Jul 20 2021 15:02:18 GMT-0400 (Eastern Daylight Time)
 
 ###### Discourse Context
 
-- **Informs::** [QUE - What tension points exist between the goals of diversity and depth of user participation in participatory design.md](QUE - What tension points exist between the goals of diversity and depth of user participation in participatory design.md)
-- **FromSource::** [@butcherCommunityEngagementYouth2020.md](@butcherCommunityEngagementYouth2020.md)
-
+- **Informs::** [[QUE - What tension points exist between the goals of diversity and depth of user participation in participatory design]]
+- **FromSource::** [[@butcherCommunityEngagementYouth2020]]

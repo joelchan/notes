@@ -29,6 +29,5 @@ date: Thu Jun 10 2021 13:52:28 GMT-0400 (Eastern Daylight Time)
 
 ###### Discourse Context
 
-- **Informs::** [QUE - Under what conditions is it possible to transfer expertise from one person to another.md](QUE - Under what conditions is it possible to transfer expertise from one person to another.md)
-- **SourceFor::** [EVD - Local developers evolved into gardener roles to meet perceived demand for disseminating best practices for a software amongst users in an organization - @ganttGardenersGurusPatterns1992.md](EVD - Local developers evolved into gardener roles to meet perceived demand for disseminating best practices for a software amongst users in an organization - @ganttGardenersGurusPatterns1992.md)
-
+- **Informs::** [[QUE - Under what conditions is it possible to transfer expertise from one person to another]]
+- **SourceFor::** [[EVD - Local developers evolved into gardener roles to meet perceived demand for disseminating best practices for a software amongst users in an organization - @ganttGardenersGurusPatterns1992]]

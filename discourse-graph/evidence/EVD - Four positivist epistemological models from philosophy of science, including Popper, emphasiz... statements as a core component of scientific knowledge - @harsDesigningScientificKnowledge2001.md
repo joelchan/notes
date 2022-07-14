@@ -46,6 +46,6 @@ date: Tue Sep 07 2021 16:45:51 GMT-0400 (Eastern Daylight Time)
 
 ###### Discourse Context
 
-- **Informs::** [QUE - What (existing) systems facilitate individual synthesis.md](QUE - What (existing) systems facilitate individual synthesis.md)
-- **Supports::** [CLM - Scholarly argumentation operates on atomic statements and concepts as fundamental units.md](CLM - Scholarly argumentation operates on atomic statements and concepts as fundamental units.md)
-- **FromSource::** [@harsDesigningScientificKnowledge2001.md](@harsDesigningScientificKnowledge2001.md)
+- **Informs::** [[QUE - What (existing) systems facilitate individual synthesis]]
+- **Supports::** [[CLM - Scholarly argumentation operates on atomic statements and concepts as fundamental units]]
+- **FromSource::** [[@harsDesigningScientificKnowledge2001]]

@@ -159,8 +159,7 @@ date: Sat Dec 26 2020 21:47:48 GMT-0500 (Eastern Standard Time)
 
 ###### Discourse Context
 
-- **Informs::** [CLM - Recent or concurrent exposure to ideas can substantially influence the direction of ideation.md](CLM - Recent or concurrent exposure to ideas can substantially influence the direction of ideation.md)
-- **Informs::** [QUE - What is the relationship between prior knowledge and new ideas.md](QUE - What is the relationship between prior knowledge and new ideas.md)
-- **Informs::** [THE - interaction-oriented theory of creative inspiration from examples.md](THE - interaction-oriented theory of creative inspiration from examples.md)
-- **SourceFor::** [EVD - design students transferred flawed features from an example even though the flaws were described as negative - @janssonDesignFixation1991.md](EVD - design students transferred flawed features from an example even though the flaws were described as negative - @janssonDesignFixation1991.md)
-
+- **Informs::** [[CLM - Recent or concurrent exposure to ideas can substantially influence the direction of ideation]]
+- **Informs::** [[QUE - What is the relationship between prior knowledge and new ideas]]
+- **Informs::** [[THE - interaction-oriented theory of creative inspiration from examples]]
+- **SourceFor::** [[EVD - design students transferred flawed features from an example even though the flaws were described as negative - @janssonDesignFixation1991]]

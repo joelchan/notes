@@ -33,6 +33,5 @@ date: Fri Jul 30 2021 00:32:47 GMT-0400 (Eastern Daylight Time)
 
 ###### Discourse Context
 
-- **Informs::** [QUE - What factors control whether people appropriately benefit from analogies (especially far-field ones) during creative problem solving.md](QUE - What factors control whether people appropriately benefit from analogies (especially far-field ones) during creative problem solving.md)
-- **SourceFor::** [EVD - teachers in countries with high math and science achievement scores also displayed more cogni... in a country with lower math and science achievement - @richlandCognitiveSupportsAnalogies2007.md](EVD - teachers in countries with high math and science achievement scores also displayed more cogni... in a country with lower math and science achievement - @richlandCognitiveSupportsAnalogies2007.md)
-
+- **Informs::** [[QUE - What factors control whether people appropriately benefit from analogies (especially far-field ones) during creative problem solving]]
+- **SourceFor::** [[EVD - teachers in countries with high math and science achievement scores also displayed more cogni... in a country with lower math and science achievement - @richlandCognitiveSupportsAnalogies2007]]

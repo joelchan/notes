@@ -27,7 +27,6 @@ date: Mon Mar 23 2020 21:22:13 GMT-0400 (Eastern Daylight Time)
 
 ###### Discourse Context
 
-- **Informed By::** [@morganPrestigeDrivesEpistemic2018.md](@morganPrestigeDrivesEpistemic2018.md)
-- **Informed By::** [@juhaszBrokeringCorePeriphery2020.md](@juhaszBrokeringCorePeriphery2020.md)
-- **Informed By::** [@clausetSystematicInequalityHierarchy2015.md](@clausetSystematicInequalityHierarchy2015.md)
-
+- **Informed By::** [[@morganPrestigeDrivesEpistemic2018]]
+- **Informed By::** [[@juhaszBrokeringCorePeriphery2020]]
+- **Informed By::** [[@clausetSystematicInequalityHierarchy2015]]

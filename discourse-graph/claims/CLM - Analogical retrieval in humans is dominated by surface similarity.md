@@ -23,9 +23,8 @@ date: Fri Oct 02 2020 10:37:35 GMT-0400 (Eastern Daylight Time)
 
 ###### Discourse Context
 
-- **Informs::** [QUE - How can we augment scientific creativity with computational analogy.md](QUE - How can we augment scientific creativity with computational analogy.md)
-- **Informed By::** [@forbusMACFACModel1994.md](@forbusMACFACModel1994.md)
-- **Informed By::** [@gentnerAnalogicalRemindingGood1985.md](@gentnerAnalogicalRemindingGood1985.md)
-- **Informed By::** [@gentnerRolesSimilarityTransfer1993.md](@gentnerRolesSimilarityTransfer1993.md)
-- **Informed By::** [@holyoakSurfaceStructuralSimilarity1987.md](@holyoakSurfaceStructuralSimilarity1987.md)
-
+- **Informs::** [[QUE - How can we augment scientific creativity with computational analogy]]
+- **Informed By::** [[@forbusMACFACModel1994]]
+- **Informed By::** [[@gentnerAnalogicalRemindingGood1985]]
+- **Informed By::** [[@gentnerRolesSimilarityTransfer1993]]
+- **Informed By::** [[@holyoakSurfaceStructuralSimilarity1987]]

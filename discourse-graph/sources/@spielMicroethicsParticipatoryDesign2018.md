@@ -16,6 +16,5 @@ date: Tue Jul 12 2022 22:16:38 GMT-0400 (Eastern Daylight Time)
 
 ###### Discourse Context
 
-- **SourceFor::** [EVD - while co-designing with an autistic child, designers had to work with and trust a teacher to ...re the child expressed initial refusal or resistance - @spielMicroethicsParticipatoryDesign2018.md](EVD - while co-designing with an autistic child, designers had to work with and trust a teacher to ...re the child expressed initial refusal or resistance - @spielMicroethicsParticipatoryDesign2018.md)
-- **SourceFor::** [EVD - while co-designing with an autistic child, designers had to work with the parents, who insist...ty to draw out self-guided expression from the child - @spielMicroethicsParticipatoryDesign2018.md](EVD - while co-designing with an autistic child, designers had to work with the parents, who insist...ty to draw out self-guided expression from the child - @spielMicroethicsParticipatoryDesign2018.md)
-
+- **SourceFor::** [[EVD - while co-designing with an autistic child, designers had to work with and trust a teacher to ...re the child expressed initial refusal or resistance - @spielMicroethicsParticipatoryDesign2018]]
+- **SourceFor::** [[EVD - while co-designing with an autistic child, designers had to work with the parents, who insist...ty to draw out self-guided expression from the child - @spielMicroethicsParticipatoryDesign2018]]

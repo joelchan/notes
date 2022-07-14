@@ -65,24 +65,23 @@ date: Tue Nov 09 2021 09:34:45 GMT-0500 (Eastern Standard Time)
 
 ###### Discourse Context
 
-- **Informed By::** [EVD - Representing a mutilated checkerboard in a way that made perceptual features of squares more salient facilitated problem reformulation and insight - @kaplanSearchInsight1990.md](EVD - Representing a mutilated checkerboard in a way that made perceptual features of squares more salient facilitated problem reformulation and insight - @kaplanSearchInsight1990.md)
-- **Informed By::** [CLM - Effective problem formulation is-necessary-for creative knowledge work.md](CLM - Effective problem formulation is-necessary-for creative knowledge work.md)
-- **Informed By::** [CLM - Design proceeds by co-evolution of problem and solution space.md](CLM - Design proceeds by co-evolution of problem and solution space.md)
-- **Informed By::** [CLM - Analogies can power creative breakthroughs by stimulating effective problem (re)formulation.md](CLM - Analogies can power creative breakthroughs by stimulating effective problem (re)formulation.md)
-- **Informed By::** [CLM - examples can improve creative outcomes by enabling more robust (re)modeling of the problem space.md](CLM - examples can improve creative outcomes by enabling more robust (re)modeling of the problem space.md)
-- **Informed By::** [@dorstCoreDesignThinking2011.md](@dorstCoreDesignThinking2011.md)
-- **Informed By::** [@jeppesenMarginalityProblemsolvingEffectiveness2010.md](@jeppesenMarginalityProblemsolvingEffectiveness2010.md)
-- **Informed By::** [@kaplanSearchInsight1990.md](@kaplanSearchInsight1990.md)
-- **Informed By::** [@moehrleWhatTRIZConceptual2005.md](@moehrleWhatTRIZConceptual2005.md)
-- **Informed By::** [@volkemaProblemFormulationPlanning1983a.md](@volkemaProblemFormulationPlanning1983a.md)
-- **Informed By::** [@madduxWhenRomeLearn2010.md](@madduxWhenRomeLearn2010.md)
-- **Informed By::** [@bhattaInnovationAnalogicalDesign1994.md](@bhattaInnovationAnalogicalDesign1994.md)
-- **Informed By::** [@helmsCompoundAnalogicalDesign2008.md](@helmsCompoundAnalogicalDesign2008.md)
-- **Informed By::** [@kouprieFrameworkEmpathyDesign2009.md](@kouprieFrameworkEmpathyDesign2009.md)
-- **Informed By::** [@doggettRootCauseAnalysis2005.md](@doggettRootCauseAnalysis2005.md)
-- **Informed By::** [@cassTransformYourIndustry2019.md](@cassTransformYourIndustry2019.md)
-- **Informed By::** [@dubberlyModelingAnalysissynthesisBridge2008.md](@dubberlyModelingAnalysissynthesisBridge2008.md)
-- **Informed By::** [@mccaffreyInnovationReliesObscure2012.md](@mccaffreyInnovationReliesObscure2012.md)
-- **Informed By::** [@sawyerExplainingCreativityScience2012.md](@sawyerExplainingCreativityScience2012.md)
-- **Informed By::** [@okadaAnalogicalModificationCreation2009.md](@okadaAnalogicalModificationCreation2009.md)
-
+- **Informed By::** [[EVD - Representing a mutilated checkerboard in a way that made perceptual features of squares more salient facilitated problem reformulation and insight - @kaplanSearchInsight1990]]
+- **Informed By::** [[CLM - Effective problem formulation is-necessary-for creative knowledge work]]
+- **Informed By::** [[CLM - Design proceeds by co-evolution of problem and solution space]]
+- **Informed By::** [[CLM - Analogies can power creative breakthroughs by stimulating effective problem (re)formulation]]
+- **Informed By::** [[CLM - examples can improve creative outcomes by enabling more robust (re)modeling of the problem space]]
+- **Informed By::** [[@dorstCoreDesignThinking2011]]
+- **Informed By::** [[@jeppesenMarginalityProblemsolvingEffectiveness2010]]
+- **Informed By::** [[@kaplanSearchInsight1990]]
+- **Informed By::** [[@moehrleWhatTRIZConceptual2005]]
+- **Informed By::** [[@volkemaProblemFormulationPlanning1983a]]
+- **Informed By::** [[@madduxWhenRomeLearn2010]]
+- **Informed By::** [[@bhattaInnovationAnalogicalDesign1994]]
+- **Informed By::** [[@helmsCompoundAnalogicalDesign2008]]
+- **Informed By::** [[@kouprieFrameworkEmpathyDesign2009]]
+- **Informed By::** [[@doggettRootCauseAnalysis2005]]
+- **Informed By::** [[@cassTransformYourIndustry2019]]
+- **Informed By::** [[@dubberlyModelingAnalysissynthesisBridge2008]]
+- **Informed By::** [[@mccaffreyInnovationReliesObscure2012]]
+- **Informed By::** [[@sawyerExplainingCreativityScience2012]]
+- **Informed By::** [[@okadaAnalogicalModificationCreation2009]]

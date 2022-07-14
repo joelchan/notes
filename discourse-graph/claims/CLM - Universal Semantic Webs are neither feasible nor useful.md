@@ -36,9 +36,8 @@ date: Tue Jul 28 2020 11:52:07 GMT-0400 (Eastern Daylight Time)
 
 ###### Discourse Context
 
-- **Informed By::** [@halfordDigitalFuturesSociological2013.md](@halfordDigitalFuturesSociological2013.md)
-- **Informed By::** [@bowkerSortingThingsOut2000.md](@bowkerSortingThingsOut2000.md)
-- **Informed By::** [@poirierTurnScruffyEthnographic2017.md](@poirierTurnScruffyEthnographic2017.md)
-- **Informed By::** [@gustafsonWhatDistributedKnowledge2020.md](@gustafsonWhatDistributedKnowledge2020.md)
-- **Informed By::** [@cambrosioOvercomingBottleneckKnowledge2020.md](@cambrosioOvercomingBottleneckKnowledge2020.md)
-
+- **Informed By::** [[@halfordDigitalFuturesSociological2013]]
+- **Informed By::** [[@bowkerSortingThingsOut2000]]
+- **Informed By::** [[@poirierTurnScruffyEthnographic2017]]
+- **Informed By::** [[@gustafsonWhatDistributedKnowledge2020]]
+- **Informed By::** [[@cambrosioOvercomingBottleneckKnowledge2020]]

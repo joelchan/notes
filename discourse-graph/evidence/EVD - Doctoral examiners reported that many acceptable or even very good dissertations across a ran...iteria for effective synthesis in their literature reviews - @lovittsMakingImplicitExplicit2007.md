@@ -18,5 +18,4 @@ date: Sun Mar 13 2022 22:16:42 GMT-0400 (Eastern Daylight Time)
 
 ###### Discourse Context
 
-- **FromSource::** [@lovittsMakingImplicitExplicit2007.md](@lovittsMakingImplicitExplicit2007.md)
-
+- **FromSource::** [[@lovittsMakingImplicitExplicit2007]]

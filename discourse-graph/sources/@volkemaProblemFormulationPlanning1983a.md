@@ -9,5 +9,4 @@ date: Mon Oct 26 2020 22:59:49 GMT-0400 (Eastern Daylight Time)
 
 ###### Discourse Context
 
-- **Informs::** [QUE - How do people effectively (re)formulate creative problems.md](QUE - How do people effectively (re)formulate creative problems.md)
-
+- **Informs::** [[QUE - How do people effectively (re)formulate creative problems]]

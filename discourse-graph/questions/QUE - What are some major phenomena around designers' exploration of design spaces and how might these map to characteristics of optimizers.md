@@ -187,32 +187,31 @@ date: Wed Aug 19 2020 10:34:39 GMT-0400 (Eastern Daylight Time)
 
 ###### Discourse Context
 
-- **Informed By::** [EVD - Undergrads' drawings of imaginary animals frequently included typical features from earth animals, with occasional deviations - @wardStructuredImaginationRole1994.md](EVD - Undergrads' drawings of imaginary animals frequently included typical features from earth animals, with occasional deviations - @wardStructuredImaginationRole1994.md)
-- **Informed By::** [CLM - Compression is necessary for synthesis.md](CLM - Compression is necessary for synthesis.md)
-- **Informed By::** [CLM - Design proceeds by co-evolution of problem and solution space.md](CLM - Design proceeds by co-evolution of problem and solution space.md)
-- **Informed By::** [CLM - Expert designers are solution-oriented.md](CLM - Expert designers are solution-oriented.md)
-- **Informed By::** [@ballCognitiveProcessesEngineering1994.md](@ballCognitiveProcessesEngineering1994.md)
-- **Informed By::** [@carsonDecreasedLatentInhibition2003.md](@carsonDecreasedLatentInhibition2003.md)
-- **Informed By::** [@simontonCreativeProcessPicasso2007.md](@simontonCreativeProcessPicasso2007.md)
-- **Informed By::** [@ballProblemsolvingStrategiesExpertise1997.md](@ballProblemsolvingStrategiesExpertise1997.md)
-- **Informed By::** [@campbellBlindVariationSelective1960.md](@campbellBlindVariationSelective1960.md)
-- **Informed By::** [@cowanMagicalNumberShortterm2000.md](@cowanMagicalNumberShortterm2000.md)
-- **Informed By::** [@rittelDilemmasGeneralTheory1973.md](@rittelDilemmasGeneralTheory1973.md)
-- **Informed By::** [@schonReflectivePractitionerHow1983.md](@schonReflectivePractitionerHow1983.md)
-- **Informed By::** [@gruberDarwinManPsychological1974.md](@gruberDarwinManPsychological1974.md)
-- **Informed By::** [@howardDescribingCreativeDesign2008.md](@howardDescribingCreativeDesign2008.md)
-- **Informed By::** [@simonStructureIllStructured1973.md](@simonStructureIllStructured1973.md)
-- **Informed By::** [@suttonBrainstormingGroupsContext1996.md](@suttonBrainstormingGroupsContext1996.md)
-- **Informed By::** [@fingerReviewResearchMechanical1989.md](@fingerReviewResearchMechanical1989.md)
-- **Informed By::** [@daviesCharacterizingProgramDesign1991.md](@daviesCharacterizingProgramDesign1991.md)
-- **Informed By::** [@wardStructuredImaginationRole1994.md](@wardStructuredImaginationRole1994.md)
-- **Informed By::** [@finkeCreativeCognitionTheory1996.md](@finkeCreativeCognitionTheory1996.md)
-- **Informed By::** [@nijstadHowGroupAffects2006.md](@nijstadHowGroupAffects2006.md)
-- **Informed By::** [@jaroszUncorkingMuseAlcohol2012.md](@jaroszUncorkingMuseAlcohol2012.md)
-- **Informed By::** [@sosaAccretionTheoryIdeation2019.md](@sosaAccretionTheoryIdeation2019.md)
-- **Informed By::** [@reedStructureIllStructuredWellStructured2015.md](@reedStructureIllStructuredWellStructured2015.md)
-- **Informed By::** [@simontonCreativityDiscoveryBlind2011a.md](@simontonCreativityDiscoveryBlind2011a.md)
-- **Informed By::** [@yilmazCreativityDesignHeuristics2011.md](@yilmazCreativityDesignHeuristics2011.md)
-- **Informed By::** [@maherCoevolutionComputationalCognitive2003.md](@maherCoevolutionComputationalCognitive2003.md)
-- **Informed By::** [@martindaleCreativityConnectionism1997.md](@martindaleCreativityConnectionism1997.md)
-
+- **Informed By::** [[EVD - Undergrads' drawings of imaginary animals frequently included typical features from earth animals, with occasional deviations - @wardStructuredImaginationRole1994]]
+- **Informed By::** [[CLM - Compression is necessary for synthesis]]
+- **Informed By::** [[CLM - Design proceeds by co-evolution of problem and solution space]]
+- **Informed By::** [[CLM - Expert designers are solution-oriented]]
+- **Informed By::** [[@ballCognitiveProcessesEngineering1994]]
+- **Informed By::** [[@carsonDecreasedLatentInhibition2003]]
+- **Informed By::** [[@simontonCreativeProcessPicasso2007]]
+- **Informed By::** [[@ballProblemsolvingStrategiesExpertise1997]]
+- **Informed By::** [[@campbellBlindVariationSelective1960]]
+- **Informed By::** [[@cowanMagicalNumberShortterm2000]]
+- **Informed By::** [[@rittelDilemmasGeneralTheory1973]]
+- **Informed By::** [[@schonReflectivePractitionerHow1983]]
+- **Informed By::** [[@gruberDarwinManPsychological1974]]
+- **Informed By::** [[@howardDescribingCreativeDesign2008]]
+- **Informed By::** [[@simonStructureIllStructured1973]]
+- **Informed By::** [[@suttonBrainstormingGroupsContext1996]]
+- **Informed By::** [[@fingerReviewResearchMechanical1989]]
+- **Informed By::** [[@daviesCharacterizingProgramDesign1991]]
+- **Informed By::** [[@wardStructuredImaginationRole1994]]
+- **Informed By::** [[@finkeCreativeCognitionTheory1996]]
+- **Informed By::** [[@nijstadHowGroupAffects2006]]
+- **Informed By::** [[@jaroszUncorkingMuseAlcohol2012]]
+- **Informed By::** [[@sosaAccretionTheoryIdeation2019]]
+- **Informed By::** [[@reedStructureIllStructuredWellStructured2015]]
+- **Informed By::** [[@simontonCreativityDiscoveryBlind2011a]]
+- **Informed By::** [[@yilmazCreativityDesignHeuristics2011]]
+- **Informed By::** [[@maherCoevolutionComputationalCognitive2003]]
+- **Informed By::** [[@martindaleCreativityConnectionism1997]]

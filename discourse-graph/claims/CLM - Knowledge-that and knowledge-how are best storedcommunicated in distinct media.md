@@ -29,5 +29,5 @@ date: Thu Mar 05 2020 23:11:05 GMT-0500 (Eastern Standard Time)
 
 ###### Discourse Context
 
-- **Informed By::** [@ackermanSharingKnowledgeExpertise2013.md](@ackermanSharingKnowledgeExpertise2013.md)
-- **Informed By::** [@wengerCommunitiesPracticeLearning1998.md](@wengerCommunitiesPracticeLearning1998.md)
+- **Informed By::** [[@ackermanSharingKnowledgeExpertise2013]]
+- **Informed By::** [[@wengerCommunitiesPracticeLearning1998]]

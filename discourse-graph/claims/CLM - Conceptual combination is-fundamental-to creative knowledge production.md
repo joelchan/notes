@@ -25,5 +25,4 @@ date: Thu Feb 27 2020 14:53:28 GMT-0500 (Eastern Standard Time)
 
 ###### Discourse Context
 
-- **Informed By::** [@aertsConceptsTheirDynamics2013a.md](@aertsConceptsTheirDynamics2013a.md)
-
+- **Informed By::** [[@aertsConceptsTheirDynamics2013a]]

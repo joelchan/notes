@@ -70,4 +70,4 @@ date: Thu Jan 13 2022 10:06:23 GMT-0500 (Eastern Standard Time)
 
 ###### Discourse Context
 
-- **FromSource::** [@braaschRolePriorKnowledge2010.md](@braaschRolePriorKnowledge2010.md)
+- **FromSource::** [[@braaschRolePriorKnowledge2010]]
