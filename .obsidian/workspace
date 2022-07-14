@@ -7,8 +7,12 @@
         "id": "452403bb402bdb59",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "README.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -73,6 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,6 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -110,7 +116,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "README.md"
+              }
             }
           },
           {
@@ -119,6 +127,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "README.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -157,6 +166,7 @@
   },
   "active": "452403bb402bdb59",
   "lastOpenFiles": [
+    "README.md",
     "discourse-graph/questions/QUE - How might domain distance modulate the effects of analogies on creative output.md",
     "discourse-graph/claims/CLM - Prevailing incentives in academia are bad for science.md",
     "discourse-graph/claims/CLM - Prestige substantially controls how scientific ideas spread.md",
@@ -165,7 +175,6 @@
     "discourse-graph/theories/THE - interaction-oriented theory of creative inspiration from examples.md",
     "CLM.md",
     "discourse-graph/sources/@victorHumaneRepresentationThought2014.md",
-    "discourse-graph/sources/@luciani2018machine.md",
-    "discourse-graph/questions/QUE - How can we best bridge private vs. public knowledge.md"
+    "discourse-graph/sources/@luciani2018machine.md"
   ]
 }
