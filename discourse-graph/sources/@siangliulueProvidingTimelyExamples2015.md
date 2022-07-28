@@ -2,7 +2,7 @@
 title: @siangliulueProvidingTimelyExamples2015
 url: https://roamresearch.com/#/app/megacoglab/page/yjOLj8MGe
 author: Joel Chan
-date: Tue May 19 2020 22:42:33 GMT-0400 (Eastern Daylight Time)
+date: Wed May 20 2020 10:42:33 GMT+0800 (Malaysia Time)
 ---
 
 - #references
@@ -13,7 +13,7 @@ date: Tue May 19 2020 22:42:33 GMT-0400 (Eastern Daylight Time)
 
         - Tags: #ref/Paper
 
-        - Authored by::  [[Pao Siangliulue]] ,  [[Joel Chan]] ,  [[Krzysztof Gajos]] ,  [[Steven P. Dow]]
+        - Authored by::  [[Pao Siangliulue]]
 
         - Year: [[2015]]
 

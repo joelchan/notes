@@ -2,12 +2,12 @@
 title: [[EVD]] - Generating (but not evaluating) solutions to far analogy problems positively predicted performance on a subsequent analogy task (compared to generating or evaluating near analogy problems) - [[@vendettiFarOutThinkingGenerating2014]]
 url: https://roamresearch.com/#/app/megacoglab/page/MLSP020ju
 author: Joel Chan
-date: Thu Dec 16 2021 14:41:07 GMT-0500 (Eastern Standard Time)
+date: Fri Dec 17 2021 03:41:07 GMT+0800 (Malaysia Time)
 ---
 
 - # Summary
 
-    - more likely to process picture-mapping task relationally (choose relational objects) if they generated solutions for [[four-term analogy problems]] with far vs. near analogies, as in [experiment 1b](((ZgSMzerX4))), vs. evaluating whether four-term analogies are valid, as in [experiment 1a](((8ePI-0My9)))
+    - more likely to process picture-mapping task relationally (choose relational objects) if they generated solutions for [[four-term analogy problems]]
 
         - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fmegacoglab%2FsEysldUVTN.png?alt=media&token=41588fe4-6b59-46e3-98a8-430396996221)
 
@@ -36,7 +36,7 @@ date: Thu Dec 16 2021 14:41:07 GMT-0500 (Eastern Standard Time)
 
             - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fmegacoglab%2Fruj2YG3D0I.png?alt=media&token=c06c3e6d-ca90-4a48-b3d3-1c8a67d9a9bf) (p. 930)
 
-        - procedure: do abridged [[RAVENS progressive matrices]] to measure fluid intelligence, then do ((jxWcWder-)), then  [picture mapping task](((6kd5j85za)))
+        - procedure: do abridged [[RAVENS progressive matrices]]
 
             - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fmegacoglab%2FHUYL2NwmuJ.png?alt=media&token=bd01d7e4-aa63-4784-90cb-7d188741e38d) (p. 931)
 

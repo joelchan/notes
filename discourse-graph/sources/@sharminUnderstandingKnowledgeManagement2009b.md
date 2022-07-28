@@ -2,11 +2,11 @@
 title: @sharminUnderstandingKnowledgeManagement2009b
 url: https://roamresearch.com/#/app/megacoglab/page/Gq3UXGbB6
 author: Joel Chan
-date: Tue Dec 28 2021 21:17:04 GMT-0500 (Eastern Standard Time)
+date: Wed Dec 29 2021 10:17:04 GMT+0800 (Malaysia Time)
 ---
 
 - Title:: Understanding knowledge management practices for early design activity and its implications for reuse
-- Author(s):: [[Moushumi Sharmin]], [[Brian P. Bailey]], [[Cole Coats]], [[Kevin Hamilton]]
+- Author(s):: [[Moushumi Sharmin]]
 - Abstract:: Prior knowledge is a critical resource for design, especially when designers are striving to generate new ideas for complex problems. Systems that improve access to relevant prior knowledge and promote reuse can improve design efficiency and outcomes. Unfortunately, such systems have not been widely adopted indicating that user needs in this area have not been adequately understood. In this paper, we report the results of a contextual inquiry into the practices of and attitudes toward knowledge management and reuse during early design. The study consisted of interviews and surveys with professional designers in the creative domains. A novel aspect of our work is the focus on early design, which differs from but complements prior works’ focus on knowledge reuse during later design and implementation phases. Our study yielded new findings and implications that, if applied, will help bring the benefits of knowledge management systems and reuse into early design activity.
 - Type:: [[Conference paper]]
 - Publication::

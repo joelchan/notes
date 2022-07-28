@@ -2,7 +2,7 @@
 title: [[EVD]] - LDA-powered measure of ambiguity significantly predicted crowd workers' judgment of sentence ambiguity - [[@mcmahanAmbiguityEngagement2018]]
 url: https://roamresearch.com/#/app/megacoglab/page/9d6-tqNGs
 author: Joel Chan
-date: Mon Jul 12 2021 15:25:08 GMT-0400 (Eastern Daylight Time)
+date: Tue Jul 13 2021 03:25:08 GMT+0800 (Malaysia Time)
 ---
 
 - Summary::
@@ -22,4 +22,5 @@ date: Mon Jul 12 2021 15:25:08 GMT-0400 (Eastern Daylight Time)
 
 ###### Discourse Context
 
+- **Supports::** [[CLM - ambiguity can be measured using word-level synonym entropy - @mcmahanAmbiguityEngagement2018]]
 - **FromSource::** [[@mcmahanAmbiguityEngagement2018]]

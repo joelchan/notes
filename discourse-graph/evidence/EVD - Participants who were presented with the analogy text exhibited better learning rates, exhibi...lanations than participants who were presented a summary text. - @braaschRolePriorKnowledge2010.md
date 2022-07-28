@@ -2,7 +2,7 @@
 title: [[EVD]] - Participants who were presented with the analogy text exhibited better learning rates, exhibited fewer misconceptions and had more valid self inference explanations than participants who were presented a summary text. - [[@braaschRolePriorKnowledge2010]]
 url: https://roamresearch.com/#/app/megacoglab/page/EtaSb1XyY
 author: AJ Rudd
-date: Thu Jan 13 2022 10:44:44 GMT-0500 (Eastern Standard Time)
+date: Thu Jan 13 2022 23:44:44 GMT+0800 (Malaysia Time)
 ---
 
 - # Summary

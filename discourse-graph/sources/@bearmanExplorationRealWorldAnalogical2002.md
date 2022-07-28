@@ -2,16 +2,16 @@
 title: @bearmanExplorationRealWorldAnalogical2002
 url: https://roamresearch.com/#/app/megacoglab/page/LjR6hQKdb
 author: Joel Chan
-date: Fri Jul 02 2021 22:21:24 GMT-0400 (Eastern Daylight Time)
+date: Sat Jul 03 2021 10:21:24 GMT+0800 (Malaysia Time)
 ---
 
-- #[[references]]
+- [[references]]
 
     - Title: An Exploration of Real-World Analogical Problem Solving in Novices
 
     - Meta:
 
-        - Authored by:: [[C. R. Bearman]] [[L. J. Ball]] [[T. C. Ormerod]]
+        - Authored by:: [[C. R. Bearman]]
 
         - Year: [[2002]]
 

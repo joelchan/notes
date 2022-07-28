@@ -2,7 +2,7 @@
 title: [[EVD]] - when placed in the same semantic space, computationally selected near and far analogical stimuli were farther away from human-selected near and far analogical stimuli for the same problem - [[@fuMeaningFarImpact2013]]
 url: https://roamresearch.com/#/app/megacoglab/page/-wTYRJFK3
 author: Joel Chan
-date: Fri Mar 25 2022 09:52:44 GMT-0400 (Eastern Daylight Time)
+date: Fri Mar 25 2022 21:52:44 GMT+0800 (Malaysia Time)
 ---
 
 - # Summary

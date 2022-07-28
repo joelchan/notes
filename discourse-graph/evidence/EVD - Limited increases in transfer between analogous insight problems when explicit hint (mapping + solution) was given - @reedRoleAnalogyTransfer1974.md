@@ -2,7 +2,7 @@
 title: [[EVD]] - Limited increases in transfer between analogous insight problems when explicit hint (mapping + solution) was given - [[@reedRoleAnalogyTransfer1974]]
 url: https://roamresearch.com/#/app/megacoglab/page/2mTPyT8sj
 author: Joel Chan
-date: Mon May 23 2022 23:19:27 GMT-0400 (Eastern Daylight Time)
+date: Tue May 24 2022 11:19:27 GMT+0800 (Malaysia Time)
 ---
 
 - # Summary

@@ -2,16 +2,16 @@
 title: @langerWhenPracticeMakes1979
 url: https://roamresearch.com/#/app/megacoglab/page/txiqBqUAO
 author: Joel Chan
-date: Wed Feb 17 2021 13:19:18 GMT-0500 (Eastern Standard Time)
+date: Thu Feb 18 2021 02:19:18 GMT+0800 (Malaysia Time)
 ---
 
-- #[[references]]
+- [[references]]
 
     - Title: When practice makes imperfect: Debilitating effects of overlearning.
 
     - Meta:
 
-        - Authored by:: [[Ellen J Langer]] [[Lois G Imber]]
+        - Authored by:: [[Ellen J Langer]]
 
         - Year: [[1979]]
 

@@ -2,16 +2,16 @@
 title: @catramboneRolePerceptuallyRepresented2006
 url: https://roamresearch.com/#/app/megacoglab/page/o0VMzmu0v
 author: Joel Chan
-date: Fri Mar 26 2021 12:08:15 GMT-0400 (Eastern Daylight Time)
+date: Sat Mar 27 2021 00:08:15 GMT+0800 (Malaysia Time)
 ---
 
-- #[[references]]
+- [[references]]
 
     - Title: The role of perceptually represented structure in analogical problem solving.
 
     - Meta:
 
-        - Authored by:: [[R. Catrambone]] [[D. L. Craig]] [[N. J. Nersessian]]
+        - Authored by:: [[R. Catrambone]]
 
         - Year: [[2006]]
 

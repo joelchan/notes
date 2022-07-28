@@ -2,16 +2,16 @@
 title: @karhuHowAmbidextrousTeams2016
 url: https://roamresearch.com/#/app/megacoglab/page/Mi5_gDSHX
 author: Joel Chan
-date: Fri Jul 02 2021 22:21:24 GMT-0400 (Eastern Daylight Time)
+date: Sat Jul 03 2021 10:21:24 GMT+0800 (Malaysia Time)
 ---
 
-- #[[references]]
+- [[references]]
 
     - Title: How Do Ambidextrous Teams Create New Products? Cognitive Ambidexterity, Analogies, and New Product Creation
 
     - Meta:
 
-        - Authored by:: [[Päivi Karhu]] [[Paavo Ritala]] [[Loredana Viola]]
+        - Authored by:: [[Päivi Karhu]]
 
         - Year: [[2016]]
 

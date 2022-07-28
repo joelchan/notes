@@ -2,16 +2,16 @@
 title: @ngoIdentifyingTrendsAnalogy2014
 url: https://roamresearch.com/#/app/megacoglab/page/dhlNFC-hk
 author: Joel Chan
-date: Fri Jul 02 2021 22:21:24 GMT-0400 (Eastern Daylight Time)
+date: Sat Jul 03 2021 10:21:24 GMT+0800 (Malaysia Time)
 ---
 
-- #[[references]]
+- [[references]]
 
     - Title: Identifying Trends in Analogy Usage for Innovation: A Cross-Sectional Product Study
 
     - Meta:
 
-        - Authored by:: [[Peter Ngo]] [[Cameron Turner]] [[Julie Linsey]]
+        - Authored by:: [[Peter Ngo]]
 
         - Year: [[2014]]
 

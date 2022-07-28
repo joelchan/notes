@@ -2,16 +2,16 @@
 title: @goyalEffectsImplicitSharing2014
 url: https://roamresearch.com/#/app/megacoglab/page/-llOKzmSQ
 author: Joel Chan
-date: Sun Feb 07 2021 14:16:11 GMT-0500 (Eastern Standard Time)
+date: Mon Feb 08 2021 03:16:11 GMT+0800 (Malaysia Time)
 ---
 
-- #[[references]]
+- [[references]]
 
     - Title: Effects of implicit sharing in collaborative analysis
 
     - Meta:
 
-        - Authored by:: [[Nitesh Goyal]] [[Gilly Leshed]] [[Dan Cosley]] [[Susan R. Fussell]]
+        - Authored by:: [[Nitesh Goyal]]
 
         - Year: [[2014]]
 

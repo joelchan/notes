@@ -2,16 +2,16 @@
 title: @sharmaArtifactUsefulnessUsage2009
 url: https://roamresearch.com/#/app/megacoglab/page/aRoLSdp5f
 author: Joel Chan
-date: Fri Apr 24 2020 13:46:42 GMT-0400 (Eastern Daylight Time)
+date: Sat Apr 25 2020 01:46:42 GMT+0800 (Malaysia Time)
 ---
 
-- #[[references]]
+- [[references]]
 
     - Title: Artifact usefulness and usage in sensemaking handoffs
 
     - Meta:
 
-        - Authored by:: [[Nikhil Sharma]] [[George Furnas]]
+        - Authored by:: [[Nikhil Sharma]]
 
         - Year: [[2009]]
 

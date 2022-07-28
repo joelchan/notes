@@ -2,7 +2,7 @@
 title: @britzAIResearchReplicability2020
 url: https://roamresearch.com/#/app/megacoglab/page/_03TFBd3K
 author: Joel Chan
-date: Thu Jul 09 2020 15:36:43 GMT-0400 (Eastern Daylight Time)
+date: Fri Jul 10 2020 03:36:43 GMT+0800 (Malaysia Time)
 ---
 
 - #references
@@ -35,11 +35,11 @@ date: Thu Jul 09 2020 15:36:43 GMT-0400 (Eastern Daylight Time)
 
             - One would think that implementing the same model in two different frameworks would lead to identical results. But that's not the case. Subtle differences in ^^framework implementations, insufficient documentation, hidden hyperparameters, and bugs^^ can cascade and lead to different outcomes. If you go through the Github issues and forums of popular Deep Learning frameworks, you can find many examples of researchers obtaining unexpected results (like [here](https://l7.curtisnorthcutt.com/towards-reproducibility-benchmarking-keras-pytorch) or [here](https://github.com/keras-team/keras/pull/9965) or [here](https://github.com/keras-team/keras/issues/4444) or [here](https://github.com/keras-team/keras/issues/8672) or [here](https://github.com/kuangliu/pytorch-cifar/issues/45) or [here](https://github.com/Microsoft/MMdnn/issues/595)). From what I have seen, high-level frameworks like Keras that hide low-level implementation details and come with implicit hyperparameter choices already made for you, are the most common source of confusion.
 
-                - this is also an #example-of [[context]] and possibly [[perceptual knowledge]] / [[material knowledge]]
+                - this is also an #example-of [[context]]
 
-    - #[[📝 lit-notes]]
+    - [[📝 lit-notes]]
 
-        - [[SOTA]] from old models are actually not really improved upon that much
+        - [[SOTA]]
 
             - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fmegacoglab%2F5WNArpepc8.png?alt=media&token=1282f9ca-3ba2-4dac-ae47-4252a9a19f49)
 

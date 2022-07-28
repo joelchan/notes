@@ -2,11 +2,11 @@
 title: @spielMicroethicsParticipatoryDesign2018
 url: https://roamresearch.com/#/app/megacoglab/page/kXNvx69qu
 author: Joel Chan
-date: Tue Jul 12 2022 22:16:38 GMT-0400 (Eastern Daylight Time)
+date: Wed Jul 13 2022 10:16:38 GMT+0800 (Malaysia Time)
 ---
 
 - Title:: Micro-ethics for participatory design with marginalised children
-- Author(s):: [[Katta Spiel]], [[Emeline Brulé]], [[Christopher Frauenberger]], [[Gilles Bailly]], [[Geraldine Fitzpatrick]]
+- Author(s):: [[Katta Spiel]]
 - Type:: [[Conference paper]]
 - Publication::
 - URL : https://dl.acm.org/doi/10.1145/3210586.3210603

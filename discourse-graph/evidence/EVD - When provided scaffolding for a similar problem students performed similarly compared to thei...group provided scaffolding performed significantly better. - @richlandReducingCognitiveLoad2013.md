@@ -2,7 +2,7 @@
 title: [[EVD]] - When provided scaffolding for a similar problem students performed similarly compared to their peers given little scaffolding, however, when asked to solve problems with low similarity the group provided scaffolding performed significantly better. - [[@richlandReducingCognitiveLoad2013]]
 url: https://roamresearch.com/#/app/megacoglab/page/FCz9hmMW4
 author: AJ Rudd
-date: Sun Dec 19 2021 10:20:39 GMT-0500 (Eastern Standard Time)
+date: Sun Dec 19 2021 23:20:39 GMT+0800 (Malaysia Time)
 ---
 
 - # Summary

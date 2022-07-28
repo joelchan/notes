@@ -2,38 +2,38 @@
 title: [[CLM]] - Effective synthesis is rare
 url: https://roamresearch.com/#/app/megacoglab/page/A4eO7QPKR
 author: Joel Chan
-date: Wed May 06 2020 09:44:57 GMT-0400 (Eastern Daylight Time)
+date: Wed May 06 2020 21:44:57 GMT+0800 (Malaysia Time)
 ---
 
-- #[[🌲 zettels]]
+- [[🌲 zettels]]
 
-    - Tags: #synthesis #[[D/Synthesis Infrastructure]]
+    - Tags: #synthesis [[DSynthesis Infrastructure]]
 
     - Description
 
-        - Amongst doctoral students: [[[[CLM]] - Doctoral students struggle to effectively synthesize literature]]
+        - Amongst doctoral students: [[CLM - Doctoral students struggle to effectively synthesize literature]]
 
         - Amongst review papers
 
-            - There is definitely a sense in the scholarly air that review papers (though immensely valuable to a field) are very hard to write, and somewhat of a "fool's errand" for [[ECRs]]. But I'm wondering now about the numbers and precision behind this sense. __Are__ review papers really all that rare?
+            - There is definitely a sense in the scholarly air that review papers (though immensely valuable to a field) are very hard to write, and somewhat of a "fool's errand" for [[ECRs]]
 
-            - Chewing again on this thread: ((aIg1IBAPE)) on [[[[CLM]] - Effective synthesis is rare]] / [[[[CLM]] - Effective synthesis is hard]]
+            - Chewing again on this thread: ((aIg1IBAPE)) on [[CLM - Effective synthesis is rare]]
 
         - In regular manuscripts
 
-            - ((-25jBwY60)) (from [[@greifenederApplesVsOranges2017]])
+            - ((-25jBwY60)) (from [[@greifenederApplesVsOranges2017]]
 
-        - Possibly because #[[[[CLM]] - Effective synthesis is hard]]
+        - Possibly because [[CLM - Effective synthesis is hard]]
 
-        - Also #[[Z: Publishing review papers is hard]]
+        - Also [[Z Publishing review papers is hard]]
 
     - R-Sources
 
-        - #[[@flemingCochraneNonCochraneSystematic2013]]
+        - [[@flemingCochraneNonCochraneSystematic2013]]
 
-            - #Claim Only about 20% of published [[systematic review]]s in orthondotics are "good" by [[AMSTAR standards of review quality]]; 20% are considered "poor"! (Table 2, p.246) #synthesis
+            - #Claim Only about 20% of published [[systematic review]]
 
-        - #[[@booteScholarsResearchersCentrality2005]]
+        - [[@booteScholarsResearchersCentrality2005]]
 
             - the level of synthesis in regular manuscripts frequently subpar (p.4)
 
@@ -41,7 +41,7 @@ date: Wed May 06 2020 09:44:57 GMT-0400 (Eastern Daylight Time)
 
         - #@alton-leeTroubleshooterChecklistProspective1998
 
-            - [[[[EVD]] - approximately one-third of criticisms in reviews of submitted manuscripts for a teacher education journal were directly related to inadequacies in synthesis - [[@alton-leeTroubleshooterChecklistProspective1998]]]]
+            - [[EVD - approximately one-third of criticisms in reviews of submitted manuscripts for a teacher educa...irectly related to inadequacies in synthesis - @alton-leeTroubleshooterChecklistProspective1998]]
 
 ###### Discourse Context
 

@@ -2,7 +2,7 @@
 title: @chenEvaluatingVectorspaceModels2017
 url: https://roamresearch.com/#/app/megacoglab/page/dhh9Tx7o6
 author: Joel Chan
-date: Fri May 22 2020 11:30:13 GMT-0400 (Eastern Daylight Time)
+date: Fri May 22 2020 23:30:13 GMT+0800 (Malaysia Time)
 ---
 
 - #references
@@ -11,9 +11,9 @@ date: Fri May 22 2020 11:30:13 GMT-0400 (Eastern Daylight Time)
 
     - Meta:
 
-        - Tags: #ref/Paper #[[D/Computational Analogy]]
+        - Tags: #ref/Paper [[DComputational Analogy]]
 
-        - Authored by::  [[Dawn Chen]] ,  Joshua C. Peterson ,  [[Thomas Griffiths]]
+        - Authored by::  [[Dawn Chen]]
 
         - Year: [[2017]]
 
@@ -29,9 +29,9 @@ date: Fri May 22 2020 11:30:13 GMT-0400 (Eastern Daylight Time)
 
     - #lit-context
 
-        - Already has ~30 citations on GS, but is still [[preprint]], afaik
+        - Already has ~30 citations on GS, but is still [[preprint]]
 
-    - #[[📝 lit-notes]]
+    - [[📝 lit-notes]]
 
         - word2vec and glove did really well with four-term analogy word problems that were based on case relations, but really struggled with problems based on similarity, contrast, non-attribute relations, and causal relationships
 

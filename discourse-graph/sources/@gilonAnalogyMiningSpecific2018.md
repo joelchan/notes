@@ -2,7 +2,7 @@
 title: @gilonAnalogyMiningSpecific2018
 url: https://roamresearch.com/#/app/megacoglab/page/Hsy8BBbXD
 author: Joel Chan
-date: Sun Mar 22 2020 15:22:22 GMT-0400 (Eastern Daylight Time)
+date: Mon Mar 23 2020 03:22:22 GMT+0800 (Malaysia Time)
 ---
 
 - #references
@@ -11,9 +11,9 @@ date: Sun Mar 22 2020 15:22:22 GMT-0400 (Eastern Daylight Time)
 
     - Meta:
 
-        - Tags: #ref/Paper #MyPaper #[[D/Computational Analogy]]
+        - Tags: #ref/Paper #MyPaper [[DComputational Analogy]]
 
-        - Authored by::  Karni Gilon ,  [[Joel Chan]] ,  Felicia Y Ng ,  Hila Lifshitz Assaf ,  [[Aniket Kittur]] ,  Dafna Shahaf
+        - Authored by::  Karni Gilon ,  [[Joel Chan]]
 
         - Year: [[2018]]
 
@@ -31,7 +31,7 @@ date: Sun Mar 22 2020 15:22:22 GMT-0400 (Eastern Daylight Time)
 
             - Finding analogical inspirations in distant domains is a powerful way of solving problems. However, as the number of inspirations that could be matched and the dimensions on which that matching could occur grow, it becomes challenging for designers to find inspirations relevant to their needs. Furthermore, designers are often interested in exploring specific aspects of a product-- for example, one designer might be interested in improving the brewing capability of an outdoor coffee maker, while another might wish to optimize for portability.  In this paper we introduce a novel system for targeting analogical search for specific needs. Specifically, we contribute an analogical search engine for expressing and abstracting specific design needs that returns more distant yet relevant inspirations than alternate approaches.
 
-    - #[[📝 lit-notes]]
+    - [[📝 lit-notes]]
 
         - motivated by the need for targeted abstraction:
 

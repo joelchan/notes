@@ -2,7 +2,7 @@
 title: [[EVD]] - Only small business owners with high divergent thinking ability generated more original ideas with diverse (vs. constrained) stimuli - [[@gielnikCreativityOpportunityIdentification2011]]
 url: https://roamresearch.com/#/app/megacoglab/page/3BGDkcK-w
 author: Joel Chan
-date: Tue Oct 05 2021 15:09:18 GMT-0400 (Eastern Daylight Time)
+date: Wed Oct 06 2021 03:09:18 GMT+0800 (Malaysia Time)
 ---
 
 - # Summary

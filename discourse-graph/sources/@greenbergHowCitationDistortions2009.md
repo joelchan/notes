@@ -2,7 +2,7 @@
 title: @greenbergHowCitationDistortions2009
 url: https://roamresearch.com/#/app/megacoglab/page/rIuYz4zpz
 author: Joel Chan
-date: Sun Jun 14 2020 17:00:41 GMT-0400 (Eastern Daylight Time)
+date: Mon Jun 15 2020 05:00:41 GMT+0800 (Malaysia Time)
 ---
 
 - Title:: How citation distortions create unfounded authority: analysis of a citation network
@@ -43,13 +43,13 @@ Conclusion Citation is both an impartial scholarly method and a powerful form of
 
         - cited by [[@clarkMicropublicationsSemanticModel2014]]
 
-    - #[[📝 lit-notes]]
+    - [[📝 lit-notes]]
 
         - Citations of a particular finding about an Alzheimer's relevant protein in the brain tended to be biased against refutation, and biased towards amplifications, leading to substantial distortions in judgments of the reliability of the finding
 
             - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fmegacoglab%2FiqEFSsVMEx.png?alt=media&token=fabc1d49-1c4b-4fcc-80a1-b82ebf7950f1)
 
-            - another #example-of [[affirmative citation bias]] and [[[[CLM]] - Citation practices in science are far from optimal]]
+            - another #example-of [[affirmative citation bias]]
 
 ###### Discourse Context
 

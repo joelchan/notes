@@ -2,16 +2,16 @@
 title: @giglittoEyeStudentIntangible2018a
 url: https://roamresearch.com/#/app/megacoglab/page/0X15QFpPn
 author: Joel Chan
-date: Fri May 14 2021 11:27:45 GMT-0400 (Eastern Daylight Time)
+date: Fri May 14 2021 23:27:45 GMT+0800 (Malaysia Time)
 ---
 
-- #[[references]]
+- [[references]]
 
     - Title: In the eye of the student: An intangible cultural heritage experience, with a human-computer interaction twist
 
     - Meta:
 
-        - Authored by:: [[Danilo Giglitto]] [[Shaimaa Lazem]] [[Anne Preston]]
+        - Authored by:: [[Danilo Giglitto]]
 
         - Year: [[2018]]
 

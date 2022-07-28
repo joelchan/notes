@@ -2,7 +2,7 @@
 title: @daviesCharacterizingProgramDesign1991
 url: https://roamresearch.com/#/app/megacoglab/page/B8ezK-UBt
 author: Joel Chan
-date: Wed Aug 19 2020 10:43:42 GMT-0400 (Eastern Daylight Time)
+date: Wed Aug 19 2020 22:43:42 GMT+0800 (Malaysia Time)
 ---
 
 - #lit-context

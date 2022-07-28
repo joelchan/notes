@@ -2,7 +2,7 @@
 title: [[EVD]] - approximately 2x lower prevalence of secondary cases for children vs. adults in households in Wuhan - [[@wangHouseholdTransmissionSARSCoV22020]]
 url: https://roamresearch.com/#/app/megacoglab/page/L5D-9bBxY
 author: Joel Chan
-date: Wed Dec 08 2021 16:43:42 GMT-0500 (Eastern Standard Time)
+date: Thu Dec 09 2021 05:43:42 GMT+0800 (Malaysia Time)
 ---
 
 

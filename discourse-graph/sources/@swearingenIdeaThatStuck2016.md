@@ -2,10 +2,10 @@
 title: @swearingenIdeaThatStuck2016
 url: https://roamresearch.com/#/app/megacoglab/page/gqGY9kSCj
 author: Joel Chan
-date: Fri Oct 30 2020 11:49:09 GMT-0400 (Eastern Daylight Time)
+date: Fri Oct 30 2020 23:49:09 GMT+0800 (Malaysia Time)
 ---
 
-- #[[references]]
+- [[references]]
 
     - Title: An Idea That Stuck: How George de Mestral Invented Velcro
 

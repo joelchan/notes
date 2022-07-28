@@ -2,7 +2,7 @@
 title: [[EVD]] - Designers experienced issues with (and had to compromise) design activities, such as analogies and giving concrete examplers, with 3rd-graders due to cognitive and difficulties with focus and abstract ideas - [[@largeBondedDesignNovel2006]]
 url: https://roamresearch.com/#/app/megacoglab/page/SgU2jTVe4
 author: Joel Chan
-date: Fri Jul 09 2021 21:03:57 GMT-0400 (Eastern Daylight Time)
+date: Sat Jul 10 2021 09:03:57 GMT+0800 (Malaysia Time)
 ---
 
 - Summary::
@@ -11,7 +11,7 @@ date: Fri Jul 09 2021 21:03:57 GMT-0400 (Eastern Daylight Time)
 
         - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fmegacoglab%2FJbc1-qKUUo.png?alt=media&token=28be6a5c-cc3c-4c93-85ad-06a223a023b1) (p. 75)
 
-    - They felt like they had to give concrete exemplars (despite risk of [[🧱 fixation]]) to Grade 3 children, based on a pilot session. Didn't go into detail why though.
+    - They felt like they had to give concrete exemplars (despite risk of [[🧱 fixation]]
 
         - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fmegacoglab%2FvZCt1O1Ste.png?alt=media&token=4b807465-d68e-4fa8-b882-ac20641876d4) (p. 74)
 

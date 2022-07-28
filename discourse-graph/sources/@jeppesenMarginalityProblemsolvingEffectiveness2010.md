@@ -2,16 +2,16 @@
 title: @jeppesenMarginalityProblemsolvingEffectiveness2010
 url: https://roamresearch.com/#/app/megacoglab/page/FjC9A8key
 author: Joel Chan
-date: Wed Nov 25 2020 16:16:16 GMT-0500 (Eastern Standard Time)
+date: Thu Nov 26 2020 05:16:16 GMT+0800 (Malaysia Time)
 ---
 
-- #[[references]]
+- [[references]]
 
     - Title: Marginality and problem-solving effectiveness in broadcast search
 
     - Meta:
 
-        - Authored by:: [[Lars Bo Jeppesen]] [[Karim R. Lakhani]]
+        - Authored by:: [[Lars Bo Jeppesen]]
 
         - Year: [[2010]]
 
@@ -29,7 +29,7 @@ date: Wed Nov 25 2020 16:16:16 GMT-0500 (Eastern Standard Time)
 
     - #lit-context
 
-    - #[[📝 lit-notes]]
+    - [[📝 lit-notes]]
 
 ###### Discourse Context
 

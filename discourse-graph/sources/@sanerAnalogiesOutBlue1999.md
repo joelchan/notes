@@ -2,16 +2,16 @@
 title: @sanerAnalogiesOutBlue1999
 url: https://roamresearch.com/#/app/megacoglab/page/qT-WssJ_n
 author: Joel Chan
-date: Fri Jul 02 2021 22:21:24 GMT-0400 (Eastern Daylight Time)
+date: Sat Jul 03 2021 10:21:24 GMT+0800 (Malaysia Time)
 ---
 
-- #[[references]]
+- [[references]]
 
     - Title: Analogies Out of the Blue: When History Seems to Retell Itself
 
     - Meta:
 
-        - Authored by:: [[L. D. Saner]] [[C. D. Schunn]]
+        - Authored by:: [[L. D. Saner]]
 
         - Year: [[1999]]
 

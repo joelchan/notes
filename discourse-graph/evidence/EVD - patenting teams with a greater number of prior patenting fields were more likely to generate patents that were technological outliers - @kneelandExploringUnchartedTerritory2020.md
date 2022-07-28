@@ -2,7 +2,7 @@
 title: [[EVD]] - patenting teams with a greater number of prior patenting fields were more likely to generate patents that were technological outliers - [[@kneelandExploringUnchartedTerritory2020]]
 url: https://roamresearch.com/#/app/megacoglab/page/r9OyxsAJe
 author: Joel Chan
-date: Tue Jul 27 2021 23:37:41 GMT-0400 (Eastern Daylight Time)
+date: Wed Jul 28 2021 11:37:41 GMT+0800 (Malaysia Time)
 ---
 
 - Summary::

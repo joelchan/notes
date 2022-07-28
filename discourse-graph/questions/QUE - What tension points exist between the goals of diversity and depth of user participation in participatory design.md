@@ -2,12 +2,12 @@
 title: [[QUE]] - What tension points exist between the goals of diversity and depth of user participation in participatory design?
 url: https://roamresearch.com/#/app/megacoglab/page/dR46Ouo5n
 author: Joel Chan
-date: Tue Dec 08 2020 11:35:17 GMT-0500 (Eastern Standard Time)
+date: Wed Dec 09 2020 00:35:17 GMT+0800 (Malaysia Time)
 ---
 
 - # Synthesis
 
-    - [[Playground: PD diversity tension points]]
+    - [[Playground PD diversity tension points]]
 
     - Goal: we are looking for:
 
@@ -19,9 +19,9 @@ date: Tue Dec 08 2020 11:35:17 GMT-0500 (Eastern Standard Time)
 
         - explicit observations of solutions/workarounds/compromises (X was a problem when i tried to expand PD, so I did Y)
 
-            - some examples in [[@walshEquityEqualityAmerican2018]] and [[@pradhanUnderstandingOlderAdults2020]]
+            - some examples in [[@walshEquityEqualityAmerican2018]]
 
-        - To inform [[bet/literature synthesis can give new insights into participation-inclusion tradeoffs for PD]]
+        - To inform [[betliterature synthesis can give new insights into participation-inclusion tradeoffs for PD]]
 
             - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fmegacoglab%2FraWmGjxe3d.png?alt=media&token=8b6f7302-5a46-4058-9559-bf85ae428874)
 
@@ -31,109 +31,109 @@ date: Tue Dec 08 2020 11:35:17 GMT-0500 (Eastern Standard Time)
 
             - And here's some supporting evdience
 
-                - [[[[EVD]] - Option to move around the physical space allowed for my flexibility and freedom for children [[@frauenbergerDesigningSmartObjects2016a]]]]
+                - [[EVD - Option to move around the physical space allowed for my flexibility and freedom for children @frauenbergerDesigningSmartObjects2016a]]
 
         - And something else
 
         - Edit it
 
-        - **Layers of interpretation** [[[[CLM]] - There is a tension between analyzing participants' direct inputs, and respecting their actual insights (vs. designers' interpretation) that is intensified when working with design partners who struggle to contribute more directly to design artifacts]]
+        - **Layers of interpretation** [[CLM - There is a tension between analyzing participants' direct inputs, and respecting their actual... when working with design partners who struggle to contribute more directly to design artifacts]]
 
             - There is a tension between analyzing participants' direct inputs, and respecting their actual insights (vs. designers' interpretation) that is intensified when working with design partners who struggle to contribute more directly to design artifacts; this has been observed across such diverse settings as sex trafficiking survivor organizations (gautam, 2018)... (Gautam, 2018; Frauenberger, 2012; lindsay 2012)
 
             - [[SupportedBy]]
 
-                - [[[[EVD]] - Sex-trafficking survivor organization staff members would sometimes speak of and for the survivors when talking about their needs - [[@gautamParticipatoryTensionsWorking2018]]]]
+                - [[EVD - Sex-trafficking survivor organization staff members would sometimes speak of and for the survivors when talking about their needs - @gautamParticipatoryTensionsWorking2018]]
 
-                - [[[[EVD]] - in design sessions with children, there were tensions between interpretation of the participant voice v. the stakeholder [[@frauenbergerInterpretingInputChildren2012a]]]]
+                - [[EVD - in design sessions with children, there were tensions between interpretation of the participant voice v. the stakeholder @frauenbergerInterpretingInputChildren2012a]]
 
-                - [[[[EVD]] - Designers inadvertently made assumptions while analyzing transcripts from design sessions which discounted important desires from participants with dementia - [[@lindsayEmpathyParticipatoryDesign2012b]]]]
+                - [[EVD - Designers inadvertently made assumptions while analyzing transcripts from design sessions whi...ted important desires from participants with dementia - @lindsayEmpathyParticipatoryDesign2012b]]
 
                 - [[@massimiParticipatoryDesignProcess2006]]
 
-        - **Materials and trappings of design** [[[[CLM]] - The materials and trappings of design might be an inadvertent barrier to inclusion, though they are useful (or at least perceived as such) for depth of participation in the design process]]
+        - **Materials and trappings of design** [[CLM - The materials and trappings of design might be an inadvertent barrier to inclusion, though they are useful (or at least perceived as such) for depth of participation in the design process]]
 
             - [[SupportedBy]]
 
-                - **Materials**: [[[[EVD]] - Low-income, African-American older adults perceived ideation materials used for brainstorming as infantilizing and belittling - [[@harringtonDeconstructingCommunityBasedCollaborative2019]]]]: (e.g., markers, colored pencils, sketch paper)
+                - **Materials**: [[EVD - Low-income, African-American older adults perceived ideation materials used for brainstorming as infantilizing and belittling - @harringtonDeconstructingCommunityBasedCollaborative2019]]
 
-                - **Assumption/approach of play and "blue sky" ideation**: [[[[EVD]] - Low-income, African-American older adults preferred "realistic" local-governance-based solutions over "blue sky" ideas - [[@harringtonDeconstructingCommunityBasedCollaborative2019]]]]
+                - **Assumption/approach of play and "blue sky" ideation**: [[EVD - Low-income, African-American older adults preferred realistic local-governance-based solutions over blue sky ideas - @harringtonDeconstructingCommunityBasedCollaborative2019]]
 
-        - **Here vs. there: dilemma, unintended consequences of in situ codesign** [[[[CLM]] - Conducting co-design in situ can broaden who is able to participate, but can also introduce other barriers to depth of participation]]: There is an interesting higher-order tension/dilemma emerging around __where__ PD happens relative to the user population: on the one hand, doing PD in the lab over long periods of time, like in [[Cooperative Inquiry]], maximizes participation depth, but [can put substantial filters on who can participate](also some outside / **logistics** factors putting up barriers to participation), reducing diversity. Going out to where users are is one solution, but that in turn puts an upper limit on participation depth.
+        - **Here vs. there: dilemma, unintended consequences of in situ codesign** [[CLM - Conducting co-design in situ can broaden who is able to participate, but can also introduce other barriers to depth of participation]]
 
             - [[SupportedBy]]
 
                 - One reason this is the case is that you end up having to reduce the time spent there, and often end up doing more ad-hoc pairings.
 
-                - But a more subtle, perhaps less obvious issue comes from the **increased presence of extra stakeholders**, who may need to be involved in special ways because of the user population, whether it is for reasons of access, legality, or necessity. [[[[CLM]] - Marginalized user populations may require involvement of extra stakeholders who may complicate hearing the users' voices]]
+                - But a more subtle, perhaps less obvious issue comes from the **increased presence of extra stakeholders**, who may need to be involved in special ways because of the user population, whether it is for reasons of access, legality, or necessity. [[CLM - Marginalized user populations may require involvement of extra stakeholders who may complicate hearing the users' voices]]
 
                     - [[SupportedBy]]
 
-                        - Examples include sex-trafficking survivor organizations [[@gautamParticipatoryTensionsWorking2018]([[[[EVD]] - Sex-trafficking survivor organization staff members would sometimes speak of and for the survivors when talking about their needs - [[@gautamParticipatoryTensionsWorking2018]]]])], politically appointed local government officials in rural areas [[@ssozi-mugaruraSupportingCommunityNeeds2016]([[[[EVD]] - Intermediaries such as local government officials were necessary for accessing and co-designing with marginalized populations, but the intermediaries sometimes spoke for the people in ways that opposed what they really wanted - [[@ssozi-mugaruraSupportingCommunityNeeds2016]]]]), teachers or helpers of neurodiverse children [[@frauenbergerDesigningSmartObjects2016a]([[[[EVD]] - Teachers and helpers needed to be present in the beginning of PD session to help and make sure children were comfortable but were not needed in future sessions [[@frauenbergerDesigningSmartObjects2016a]]]])], advocates of prisoners [[@tengParticipatoryDesignVirtual2019b]([[[[EVD]] - Working with an advocate within the prison system allowed researchers to navigate bureaucratic hierarchy with relative ease - @tengParticipatoryDesignVirtual2019b]])], apartment complex authorities on site [[@harringtonDeconstructingCommunityBasedCollaborative2019]([[[[EVD]] - Black and LatinX codesign participants were reluctant to fully disclose past experiences bc they perceived researchers as connected to outsider authorities who could harm them - [[@harringtonDeconstructingCommunityBasedCollaborative2019]]]])], or community coordinators for conducting PD with older adults in the community [[@fitzpatrickQuadrupleHelixModel2018]([[[[EVD]] - in one European municipality involved in a citizen participatory design project, progress was slowed because the design team neglected to budget for a dedicated community coordinator - [[@fitzpatrickQuadrupleHelixModel2018]]]])]
+                        - Examples include sex-trafficking survivor organizations [[@gautamParticipatoryTensionsWorking2018]([[EVD - Sex-trafficking survivor organization staff members would sometimes speak of and for the survivors when talking about their needs - @gautamParticipatoryTensionsWorking2018]]
 
-                        - Their presence changes power dynamics and can lead to [participants' voices being lost in translation]([[[[CLM]] - There is a tension between analyzing participants' direct inputs, and respecting their actual insights (vs. designers' interpretation) that is intensified when working with design partners who struggle to contribute more directly to design artifacts]]) [[@gautamParticipatoryTensionsWorking2018]([[[[EVD]] - Sex-trafficking survivor organization staff members would sometimes speak of and for the survivors when talking about their needs - [[@gautamParticipatoryTensionsWorking2018]]]]), [@frauenbergerInterpretingInputChildren2012b]([[[[EVD]] - in design sessions with children, there were tensions between interpretation of the participant voice v. the stakeholder [[@frauenbergerInterpretingInputChildren2012b]]]])] or negotation.
+                        - Their presence changes power dynamics and can lead to [participants' voices being lost in translation]([[CLM - There is a tension between analyzing participants' direct inputs, and respecting their actual... when working with design partners who struggle to contribute more directly to design artifacts]]
 
         - also some outside / **logistics** factors putting up barriers to participation
 
-            - [[[[EVD]] - PD sessions had to be significantly scoped down in both length and focus to accommodate travel and time constraints for children from underserved communities - [[@walshEquityEqualityAmerican2018]]]]
+            - [[EVD - PD sessions had to be significantly scoped down in both length and focus to accommodate trave...d time constraints for children from underserved communities - @walshEquityEqualityAmerican2018]]
 
-            - [[[[EVD]] - Children from underserved communities were often unable to attend in-lab PD sessions due to travel and time constraints - [[@walshEquityEqualityAmerican2018]]]]
+            - [[EVD - Children from underserved communities were often unable to attend in-lab PD sessions due to travel and time constraints - @walshEquityEqualityAmerican2018]]
 
         - Some **(physical / intrinsic) limitations of the participants** can also necessitate changes to the design process that can compromise its quality
 
-            - [[[[EVD]] - physical prototypes were necessary to prompt aid discussion with codesigners with dementia, but also led to fixation on unfinished aspects of the design - [[@lindsayEmpathyParticipatoryDesign2012b]]]]
+            - [[EVD - physical prototypes were necessary to prompt aid discussion with codesigners with dementia, b...o led to fixation on unfinished aspects of the design - @lindsayEmpathyParticipatoryDesign2012b]]
 
-            - [[[[EVD]] - Due to liabilities of potentially inducing physical illness Usability testing was not possible -[[@tengParticipatoryDesignVirtual2019b]]]]
+            - [[EVD - Due to liabilities of potentially inducing physical illness Usability testing was not possible -@tengParticipatoryDesignVirtual2019b]]
 
-            - [[[[EVD]] - Design team modified photo elicitation method so sex trafficking survivor participants' faces were not shown, for safety concerns - [[@gautamParticipatoryTensionsWorking2018]]]]
+            - [[EVD - Design team modified photo elicitation method so sex trafficking survivor participants' faces were not shown, for safety concerns - @gautamParticipatoryTensionsWorking2018]]
 
         - There may be **legal/procedural hurdles** to navigate due to the special population
 
-            - [[[[EVD]] - Due to liabilities of potentially inducing physical illness Usability testing was not possible -[[@tengParticipatoryDesignVirtual2019b]]]]
+            - [[EVD - Due to liabilities of potentially inducing physical illness Usability testing was not possible -@tengParticipatoryDesignVirtual2019b]]
 
             - [[E - Due to restrictions Prison environments weren't conducive for developing relationships with participants. -@tengParticipatoryDesignVirtual2019b]]
 
-                - One solution is [[[[EVD]] - Working with an advocate within the prison system allowed researchers to navigate bureaucratic hierarchy with relative ease - @tengParticipatoryDesignVirtual2019b]]
+                - One solution is [[EVD - Working with an advocate within the prison system allowed researchers to navigate bureaucratic hierarchy with relative ease - @tengParticipatoryDesignVirtual2019b]]
 
         - There may be higher barriers to **self-disclosure** that need to be dealt with?
 
-            - [[[[EVD]] - Older adults needed to use special take-home activities to escape self-stereotyping - @pradhanUnderstandingOlderAdults2020]]
+            - [[EVD - Older adults needed to use special take-home activities to escape self-stereotyping - @pradhanUnderstandingOlderAdults2020]]
 
-            - [[[[EVD]] - Black and LatinX codesign participants were reluctant to fully disclose past experiences bc they perceived researchers as connected to outsider authorities who could harm them - [[@harringtonDeconstructingCommunityBasedCollaborative2019]]]]
+            - [[EVD - Black and LatinX codesign participants were reluctant to fully disclose past experiences bc t...ider authorities who could harm them - @harringtonDeconstructingCommunityBasedCollaborative2019]]
 
-            - [[[[EVD]] - Low-income, African-American older adults were reluctant to share sensitive health information bc of past mistreatment in research studies by the university hospital - [[@harringtonDeconstructingCommunityBasedCollaborative2019]]]]
+            - [[EVD - Low-income, African-American older adults were reluctant to share sensitive health informatio...h studies by the university hospital - @harringtonDeconstructingCommunityBasedCollaborative2019]]
 
-            - [[E - young people with neurological vision impairments (NVI) were reluctant to share their difficulties with the vision therapy game for which they had figured out workarounds - @waddingtonParticipatoryDesignTherapeutic2015b]]
+            - [[E - young people with neurological vision impairments (NVI) were reluctant to share their difficult...ame for which they had figured out workarounds - @waddingtonParticipatoryDesignTherapeutic2015b]]
 
             - Some self-disclosure might be very upsetting
 
                 - [[E - researchers were concerned about exposing vulnerability of Young adults with neurological vision impairments (NVI) during the design sessions - @waddingtonParticipatoryDesignTherapeutic2015b]]
 
-                - [[[[EVD]] - Sex trafficking survivors shared concerns about painful experiences from writing their stories in design exercises. A future-focused photo elicitation method seemed to be a viable alternative - @gautamParticipatoryTensionsWorking2018]]
+                - [[EVD - Sex trafficking survivors shared concerns about painful experiences from writing their storie... elicitation method seemed to be a viable alternative - @gautamParticipatoryTensionsWorking2018]]
 
         - There's also something about the **identity** of the design team that can put up barriers
 
             - Some of this is from history
 
-                - [[[[EVD]] - Low-income, African-American older adults were reluctant to share sensitive health information bc of past mistreatment in research studies by the university hospital - [[@harringtonDeconstructingCommunityBasedCollaborative2019]]]]
+                - [[EVD - Low-income, African-American older adults were reluctant to share sensitive health informatio...h studies by the university hospital - @harringtonDeconstructingCommunityBasedCollaborative2019]]
 
-                - [[[[EVD]] - Black and LatinX codesign participants were skeptical of technological solutions due to past negative experiences with inequitable policies/laws - [[@harringtonDeconstructingCommunityBasedCollaborative2019]]]]
+                - [[EVD - Black and LatinX codesign participants were skeptical of technological solutions due to past ...iences with inequitable policieslaws - @harringtonDeconstructingCommunityBasedCollaborative2019]]
 
-                - [[[[EVD]] - Black and LatinX codesign participants distrusted researchers from the local university due to perceived abandonment after past research studies - [[@harringtonDeconstructingCommunityBasedCollaborative2019]]]]
+                - [[EVD - Black and LatinX codesign participants distrusted researchers from the local university due t...ndonment after past research studies - @harringtonDeconstructingCommunityBasedCollaborative2019]]
 
             - Some of this is from current **associations with other power structures**
 
-                - [[[[EVD]] - Black and LatinX codesign participants were reluctant to fully disclose past experiences bc they perceived researchers as connected to outsider authorities who could harm them - [[@harringtonDeconstructingCommunityBasedCollaborative2019]]]]
+                - [[EVD - Black and LatinX codesign participants were reluctant to fully disclose past experiences bc t...ider authorities who could harm them - @harringtonDeconstructingCommunityBasedCollaborative2019]]
 
             - Which may necessitate moves to create some **separation between the design team and the participants**
 
-                - [[[[EVD]] - Using language to evoke separation between participants with dementia and the design team was sometimes necessary to allow for honest feedback - @lindsayEmpathyParticipatoryDesign2012b]]
+                - [[EVD - Using language to evoke separation between participants with dementia and the design team was sometimes necessary to allow for honest feedback - @lindsayEmpathyParticipatoryDesign2012b]]
 
         - Other (not sure how to integrate yet)
 
-            - [[[[EVD]] - Designers inadvertently made assumptions while analyzing transcripts from design sessions which discounted important desires from participants with dementia - [[@lindsayEmpathyParticipatoryDesign2012b]]]]
+            - [[EVD - Designers inadvertently made assumptions while analyzing transcripts from design sessions whi...ted important desires from participants with dementia - @lindsayEmpathyParticipatoryDesign2012b]]
 
-            - [[[[EVD]] - experts who work with young adults with neurological vision impairments (NVI) do not have complete subjective experience of vision impairment and misjudge the difficulty of the vision therapy game - [[@waddingtonParticipatoryDesignTherapeutic2015b]]]]
+            - [[EVD - experts who work with young adults with neurological vision impairments (NVI) do not have com...udge the difficulty of the vision therapy game - @waddingtonParticipatoryDesignTherapeutic2015b]]
 - ---
 - # Sources
 
@@ -143,7 +143,7 @@ date: Tue Dec 08 2020 11:35:17 GMT-0500 (Eastern Standard Time)
 
         - To process (from CHI search)
 
-            1. {{[[DONE]]}} [[@holoneThreeTensionsParticipatory2013b]]
+            1. {{[[DONE]]
 
                 1. Literature review?
 
@@ -167,7 +167,7 @@ date: Tue Dec 08 2020 11:35:17 GMT-0500 (Eastern Standard Time)
 
             1. [[@bentonDiversityDesignFramework2014b]]
 
-            1. {{[[DONE]]}} [[@frauenbergerInterpretingInputChildren2012a]]
+            1. {{[[DONE]]
 
             1. [[@vinesQuestionableConceptsCritique2012a]]
 
@@ -211,7 +211,7 @@ date: Tue Dec 08 2020 11:35:17 GMT-0500 (Eastern Standard Time)
 
             1. [[@gomezBridgingDesignPrototype2007a]]
 
-                1. #[[references]]
+                1. [[references]]
 
                     1. Title: A bridging design prototype for investigating concept mapping in the preschool community
 
@@ -235,13 +235,13 @@ date: Tue Dec 08 2020 11:35:17 GMT-0500 (Eastern Standard Time)
 
             1. [[@hongVisualODLsCodesigning2018a]]
 
-                1. #[[references]]
+                1. [[references]]
 
                     1. Title: Visual ODLs: Co-designing patient-generated observations of daily living to support data-driven conversations in pediatric care
 
                     1. Meta:
 
-                        1. Authored by:: [[Matthew K. Hong]] [[Udaya Lakshmi]] [[Thomas A. Olson]] [[Lauren Wilcox]]
+                        1. Authored by:: [[Matthew K. Hong]]
 
                         1. Year: [[2018]]
 
@@ -259,13 +259,13 @@ date: Tue Dec 08 2020 11:35:17 GMT-0500 (Eastern Standard Time)
 
             1. [[@cibrianSupportingSelfregulationChildren2020a]]
 
-                1. #[[references]]
+                1. [[references]]
 
                     1. Title: Supporting self-regulation of children with ADHD using wearables: Tensions and design challenges
 
                     1. Meta:
 
-                        1. Authored by:: [[Franceli L. Cibrian]] [[Kimberley D. Lakes]] [[Arya Tavakoulnia]] [[Kayla Guzman]] [[Sabrina Schuck]] [[Gillian R. Hayes]]
+                        1. Authored by:: [[Franceli L. Cibrian]]
 
                         1. Year: [[2020]]
 
@@ -283,13 +283,13 @@ date: Tue Dec 08 2020 11:35:17 GMT-0500 (Eastern Standard Time)
 
             1. [[@spielParticipatoryEvaluationAutistic2017a]]
 
-                1. #[[references]]
+                1. [[references]]
 
                     1. Title: Participatory evaluation with autistic children
 
                     1. Meta:
 
-                        1. Authored by:: [[Katta Spiel]] [[Laura Malinverni]] [[Judith Good]] [[Christopher Frauenberger]]
+                        1. Authored by:: [[Katta Spiel]]
 
                         1. Year: [[2017]]
 
@@ -307,13 +307,13 @@ date: Tue Dec 08 2020 11:35:17 GMT-0500 (Eastern Standard Time)
 
             1. [[@wuUnderstandingOlderUsers2018a]]
 
-                1. #[[references]]
+                1. [[references]]
 
                     1. Title: Understanding older users' acceptance of wearable interfaces for sensor-based fall risk assessment
 
                     1. Meta:
 
-                        1. Authored by:: [[Alan Yusheng Wu]] [[Cosmin Munteanu]]
+                        1. Authored by:: [[Alan Yusheng Wu]]
 
                         1. Year: [[2018]]
 
@@ -331,13 +331,13 @@ date: Tue Dec 08 2020 11:35:17 GMT-0500 (Eastern Standard Time)
 
             1. [[@haraDesignAssistiveLocationbased2016a]]
 
-                1. #[[references]]
+                1. [[references]]
 
                     1. Title: The design of assistive location-based technologies for people with ambulatory disabilities: A formative study
 
                     1. Meta:
 
-                        1. Authored by:: [[Kotaro Hara]] [[Christine Chan]] [[Jon E. Froehlich]]
+                        1. Authored by:: [[Kotaro Hara]]
 
                         1. Year: [[2016]]
 
@@ -355,13 +355,13 @@ date: Tue Dec 08 2020 11:35:17 GMT-0500 (Eastern Standard Time)
 
             1. [[@chakrabortyFLightLowcostReading2017a]]
 
-                1. #[[references]]
+                1. [[references]]
 
                     1. Title: FLight: A low-cost reading and writing system for economically less-privileged visually-impaired people exploiting ink-based braille system
 
                     1. Meta:
 
-                        1. Authored by:: [[Tusher Chakraborty]] [[Taslim Arefin Khan]] [[A. B. M. Alim Al Islam]]
+                        1. Authored by:: [[Tusher Chakraborty]]
 
                         1. Year: [[2017]]
 
@@ -379,13 +379,13 @@ date: Tue Dec 08 2020 11:35:17 GMT-0500 (Eastern Standard Time)
 
             1. [[@barryMHealthMaternalMental2017a]]
 
-                1. #[[references]]
+                1. [[references]]
 
                     1. Title: MHealth for maternal mental health: Everyday wisdom in ethical design
 
                     1. Meta:
 
-                        1. Authored by:: [[Marguerite Barry]] [[Kevin Doherty]] [[Jose Marcano Belisario]] [[Josip Car]] [[Cecily Morrison]] [[Gavin Doherty]]
+                        1. Authored by:: [[Marguerite Barry]]
 
                         1. Year: [[2017]]
 
@@ -403,13 +403,13 @@ date: Tue Dec 08 2020 11:35:17 GMT-0500 (Eastern Standard Time)
 
             1. [[@tanakaHapticWaveCrossmodal2016a]]
 
-                1. #[[references]]
+                1. [[references]]
 
                     1. Title: Haptic wave: A cross-modal interface for visually impaired audio producers
 
                     1. Meta:
 
-                        1. Authored by:: [[Atau Tanaka]] [[Adam Parkinson]]
+                        1. Authored by:: [[Atau Tanaka]]
 
                         1. Year: [[2016]]
 
@@ -427,13 +427,13 @@ date: Tue Dec 08 2020 11:35:17 GMT-0500 (Eastern Standard Time)
 
             1. [[@zhengAssistingStudentsIntellectual2018a]]
 
-                1. #[[references]]
+                1. [[references]]
 
                     1. Title: Assisting students with intellectual and developmental disabilities in inclusive education with smartwatches
 
                     1. Meta:
 
-                        1. Authored by:: [[Hui Zheng]] [[Vivian Genaro Motti]]
+                        1. Authored by:: [[Hui Zheng]]
 
                         1. Year: [[2018]]
 
@@ -451,13 +451,13 @@ date: Tue Dec 08 2020 11:35:17 GMT-0500 (Eastern Standard Time)
 
             1. [[@metatlaBurstingAssistanceBubble2018a]]
 
-                1. #[[references]]
+                1. [[references]]
 
                     1. Title: “Bursting the assistance bubble”: Designing inclusive technology with children with mixed visual abilities
 
                     1. Meta:
 
-                        1. Authored by:: [[Oussama Metatla]] [[Clare Cullen]]
+                        1. Authored by:: [[Oussama Metatla]]
 
                         1. Year: [[2018]]
 
@@ -475,7 +475,7 @@ date: Tue Dec 08 2020 11:35:17 GMT-0500 (Eastern Standard Time)
 
             1. [[@sitbonEngagingITStudents2018a]]
 
-                1. #[[references]]
+                1. [[references]]
 
                     1. Title: Engaging IT students in co-design with people with intellectual disability
 
@@ -499,13 +499,13 @@ date: Tue Dec 08 2020 11:35:17 GMT-0500 (Eastern Standard Time)
 
             1. [[@chapkoWeHaveBeen2020a]]
 
-                1. #[[references]]
+                1. [[references]]
 
                     1. Title: "We Have Been Magnified for Years - Now You Are under the Microscope!": Co-researchers with learning disabilities created an online survey to challenge public understanding of learning disabilities
 
                     1. Meta:
 
-                        1. Authored by:: [[Dorota Chapko]] [[Pino Frumiento]] [[Nalini Edwards]] [[Lizzie Emeh]] [[Donald Kennedy]] [[David McNicholas]] [[Michaela Overton]] [[Mark Snead]] [[Robyn Steward]] [[Jenny M. Sutton]] [[Evie Jeffreys]] [[Catherine Long]] [[Jess Croll-Knight]] [[Ben Connors]] [[Sam Castell-Ward]] [[David Coke]] [[Bethany McPeake]] [[William Renel]] [[Chris McGinley]] [[Anna Remington]] [[Dora Whittuck]] [[John Kieffer]] [[Sarah Ewans]] [[Mark Williams]] [[Mick Grierson]]
+                        1. Authored by:: [[Dorota Chapko]]
 
                         1. Year: [[2020]]
 
@@ -523,13 +523,13 @@ date: Tue Dec 08 2020 11:35:17 GMT-0500 (Eastern Standard Time)
 
             1. [[@gatehouseTroublingVulnerabilityDesigning2018a]]
 
-                1. #[[references]]
+                1. [[references]]
 
                     1. Title: Troubling vulnerability: Designing with LGBT young people's ambivalence towards hate crime reporting
 
                     1. Meta:
 
-                        1. Authored by:: [[Cally Gatehouse]] [[Matthew Wood]] [[Jo Briggs]] [[James Pickles]] [[Shaun Lawson]]
+                        1. Authored by:: [[Cally Gatehouse]]
 
                         1. Year: [[2018]]
 
@@ -549,13 +549,13 @@ date: Tue Dec 08 2020 11:35:17 GMT-0500 (Eastern Standard Time)
 
             1. [[@hudsonCodesigningDigitalTools2020a]]
 
-                1. #[[references]]
+                1. [[references]]
 
                     1. Title: Co-designing digital tools to enhance speech and language therapy training in ghana
 
                     1. Meta:
 
-                        1. Authored by:: [[Lorraine Hudson]] [[Clement Amponsah]] [[Josephine Ohenewa Bampoe]] [[Julie Marshall]] [[Nana Akua Victoria Owusu]] [[Khalid Hussein]] [[Jess Linington]] [[Zoe Banks Gross]] [[Jane Stokes]] [[Róisín McNaney]]
+                        1. Authored by:: [[Lorraine Hudson]]
 
                         1. Year: [[2020]]
 
@@ -573,13 +573,13 @@ date: Tue Dec 08 2020 11:35:17 GMT-0500 (Eastern Standard Time)
 
             1. [[@flobakTechnologybasedInterventionsImproving2018a]]
 
-                1. #[[references]]
+                1. [[references]]
 
                     1. Title: Towards technology-based interventions for improving emotional and cognitive control
 
                     1. Meta:
 
-                        1. Authored by:: [[Eivind Flobak]] [[Daniel A. Jensen]] [[Astri J. Lundervold]] [[Tine Nordgreen]] [[Li-Hsuan Chen]] [[Frode Guribye]]
+                        1. Authored by:: [[Eivind Flobak]]
 
                         1. Year: [[2018]]
 
@@ -597,13 +597,13 @@ date: Tue Dec 08 2020 11:35:17 GMT-0500 (Eastern Standard Time)
 
             1. [[@crowellGenPlayGenerativePlayscape2018a]]
 
-                1. #[[references]]
+                1. [[references]]
 
                     1. Title: GenPlay: Generative playscape
 
                     1. Meta:
 
-                        1. Authored by:: [[Ciera Crowell]] [[Batuhan Sayis]] [[Andrea Bravo]] [[Andrea Paramithiotti]]
+                        1. Authored by:: [[Ciera Crowell]]
 
                         1. Year: [[2018]]
 
@@ -621,13 +621,13 @@ date: Tue Dec 08 2020 11:35:17 GMT-0500 (Eastern Standard Time)
 
             1. [[@woodruffQualitativeExplorationPerceptions2018a]]
 
-                1. #[[references]]
+                1. [[references]]
 
                     1. Title: A qualitative exploration of perceptions of algorithmic fairness
 
                     1. Meta:
 
-                        1. Authored by:: [[Allison Woodruff]] [[Sarah E. Fox]] [[Steven Rousso-Schindler]] [[Jeffrey Warshaw]]
+                        1. Authored by:: [[Allison Woodruff]]
 
                         1. Year: [[2018]]
 
@@ -645,13 +645,13 @@ date: Tue Dec 08 2020 11:35:17 GMT-0500 (Eastern Standard Time)
 
             1. [[@spielWhenEmpathyNot2017a]]
 
-                1. #[[references]]
+                1. [[references]]
 
                     1. Title: When empathy is not enough: Assessing the experiences of autistic children with technologies
 
                     1. Meta:
 
-                        1. Authored by:: [[Katta Spiel]] [[Christopher Frauenberger]] [[Eva Hornecker]] [[Geraldine Fitzpatrick]]
+                        1. Authored by:: [[Katta Spiel]]
 
                         1. Year: [[2017]]
 
@@ -669,13 +669,13 @@ date: Tue Dec 08 2020 11:35:17 GMT-0500 (Eastern Standard Time)
 
             1. [[@maziluGaitAssistDailylifeSupport2014a]]
 
-                1. #[[references]]
+                1. [[references]]
 
                     1. Title: GaitAssist: A daily-life support and training system for parkinson's disease patients with freezing of gait
 
                     1. Meta:
 
-                        1. Authored by:: [[Sinziana Mazilu]] [[Ulf Blanke]] [[Michael Hardegger]] [[Gerhard Tröster]] [[Eran Gazit]] [[Jeffrey M. Hausdorff]]
+                        1. Authored by:: [[Sinziana Mazilu]]
 
                         1. Year: [[2014]]
 
@@ -693,13 +693,13 @@ date: Tue Dec 08 2020 11:35:17 GMT-0500 (Eastern Standard Time)
 
             1. [[@scaifeDesigningDesigningInformant1997b]]
 
-                1. #[[references]]
+                1. [[references]]
 
                     1. Title: Designing for or designing with? Informant design for interactive learning environments
 
                     1. Meta:
 
-                        1. Authored by:: [[Michael Scaife]] [[Yvonne Rogers]] [[Frances Aldrich]] [[Matt Davies]]
+                        1. Authored by:: [[Michael Scaife]]
 
                         1. Year: [[1997]]
 
@@ -717,13 +717,13 @@ date: Tue Dec 08 2020 11:35:17 GMT-0500 (Eastern Standard Time)
 
             1. [[@munteanuTaleTwoStudies2012a]]
 
-                1. #[[references]]
+                1. [[references]]
 
                     1. Title: Tale of two studies: Challenges in field research with low-literacy adult learners in a developed country
 
                     1. Meta:
 
-                        1. Authored by:: [[Cosmin Munteanu]] [[Heather Molyneaux]] [[Julie Maitland]] [[Daniel McDonald]] [[Rock Leung]] [[Joanna Lumsden]] [[Hélène Fournier]]
+                        1. Authored by:: [[Cosmin Munteanu]]
 
                         1. Year: [[2012]]
 
@@ -741,13 +741,13 @@ date: Tue Dec 08 2020 11:35:17 GMT-0500 (Eastern Standard Time)
 
             1. [[@unbehaunExploringPotentialExergames2018a]]
 
-                1. #[[references]]
+                1. [[references]]
 
                     1. Title: Exploring the potential of exergames to affect the social and daily life of people with dementia and their caregivers
 
                     1. Meta:
 
-                        1. Authored by:: [[David Unbehaun]] [[Daryoush Daniel Vaziri]] [[Konstantin Aal]] [[Rainer Wieching]] [[Peter Tolmie]] [[Volker Wulf]]
+                        1. Authored by:: [[David Unbehaun]]
 
                         1. Year: [[2018]]
 
@@ -765,13 +765,13 @@ date: Tue Dec 08 2020 11:35:17 GMT-0500 (Eastern Standard Time)
 
             1. [[@pengSpeechBubblesEnhancingCaptioning2018a]]
 
-                1. #[[references]]
+                1. [[references]]
 
                     1. Title: SpeechBubbles: Enhancing captioning experiences for deaf and hard-of-hearing people in group conversations
 
                     1. Meta:
 
-                        1. Authored by:: [[Yi-Hao Peng]] [[Ming-Wei Hsi]] [[Paul Taele]] [[Ting-Yu Lin]] [[Po-En Lai]] [[Leon Hsu]] [[Tzu-chuan Chen]] [[Te-Yen Wu]] [[Yu-An Chen]] [[Hsien-Hui Tang]] [[Mike Y. Chen]]
+                        1. Authored by:: [[Yi-Hao Peng]]
 
                         1. Year: [[2018]]
 
@@ -789,13 +789,13 @@ date: Tue Dec 08 2020 11:35:17 GMT-0500 (Eastern Standard Time)
 
             1. [[@taylorStrategiesEngagingCommunities2018a]]
 
-                1. #[[references]]
+                1. [[references]]
 
                     1. Title: Strategies for engaging communities in creating physical civic technologies
 
                     1. Meta:
 
-                        1. Authored by:: [[Nick Taylor]] [[Loraine Clarke]] [[Martin Skelly]] [[Sara Nevay]]
+                        1. Authored by:: [[Nick Taylor]]
 
                         1. Year: [[2018]]
 
@@ -815,13 +815,13 @@ date: Tue Dec 08 2020 11:35:17 GMT-0500 (Eastern Standard Time)
 
             1. [[@hourcadeEarlyOlpcExperiences2008a]]
 
-                1. #[[references]]
+                1. [[references]]
 
                     1. Title: Early olpc experiences in a rural uruguayan school
 
                     1. Meta:
 
-                        1. Authored by:: [[Juan Pablo Hourcade]] [[Daiana Beitler]] [[Fernando Cormenzana]] [[Pablo Flores]]
+                        1. Authored by:: [[Juan Pablo Hourcade]]
 
                         1. Year: [[2008]]
 
@@ -839,13 +839,13 @@ date: Tue Dec 08 2020 11:35:17 GMT-0500 (Eastern Standard Time)
 
             1. [[@simmAnxietyAutismPersonalized2016a]]
 
-                1. #[[references]]
+                1. [[references]]
 
                     1. Title: Anxiety and autism: Towards personalized digital health
 
                     1. Meta:
 
-                        1. Authored by:: [[Will Simm]] [[Maria Angela Ferrario]] [[Adrian Gradinar]] [[Marcia Tavares Smith]] [[Stephen Forshaw]] [[Ian Smith]] [[Jon Whittle]]
+                        1. Authored by:: [[Will Simm]]
 
                         1. Year: [[2016]]
 
@@ -863,13 +863,13 @@ date: Tue Dec 08 2020 11:35:17 GMT-0500 (Eastern Standard Time)
 
             1. [[@wilsonSelfexpressionDesignCodesigning2020a]]
 
-                1. #[[references]]
+                1. [[references]]
 
                     1. Title: Self-expression by design: Co-designing the ExpressiBall with minimally-verbal children on the autism spectrum
 
                     1. Meta:
 
-                        1. Authored by:: [[Cara Wilson]] [[Laurianne Sitbon]] [[Bernd Ploderer]] [[Jeremy Opie]] [[Margot Brereton]]
+                        1. Authored by:: [[Cara Wilson]]
 
                         1. Year: [[2020]]
 
@@ -887,13 +887,13 @@ date: Tue Dec 08 2020 11:35:17 GMT-0500 (Eastern Standard Time)
 
             1. [[@ambeAdventuresOlderAuthors2019a]]
 
-                1. #[[references]]
+                1. [[references]]
 
                     1. Title: The adventures of older authors: Exploring futures through co-design fictions
 
                     1. Meta:
 
-                        1. Authored by:: [[Aloha Hufana Ambe]] [[Margot Brereton]] [[Alessandro Soro]] [[Laurie Buys]] [[Paul Roe]]
+                        1. Authored by:: [[Aloha Hufana Ambe]]
 
                         1. Year: [[2019]]
 
@@ -911,13 +911,13 @@ date: Tue Dec 08 2020 11:35:17 GMT-0500 (Eastern Standard Time)
 
             1. [[@gilesWeavingLighthousesStitching2018a]]
 
-                1. #[[references]]
+                1. [[references]]
 
                     1. Title: Weaving lighthouses and stitching stories: Blind and visually impaired people designing e-textiles
 
                     1. Meta:
 
-                        1. Authored by:: [[Emilie Giles]] [[Janet van der Linden]] [[Marian Petre]]
+                        1. Authored by:: [[Emilie Giles]]
 
                         1. Year: [[2018]]
 
@@ -935,13 +935,13 @@ date: Tue Dec 08 2020 11:35:17 GMT-0500 (Eastern Standard Time)
 
             1. [[@hodgeExploringDesignTailored2018a]]
 
-                1. #[[references]]
+                1. [[references]]
 
                     1. Title: Exploring the design of tailored virtual reality experiences for people with dementia
 
                     1. Meta:
 
-                        1. Authored by:: [[James Hodge]] [[Madeline Balaam]] [[Sandra Hastings]] [[Kellie Morrissey]]
+                        1. Authored by:: [[James Hodge]]
 
                         1. Year: [[2018]]
 
@@ -959,13 +959,13 @@ date: Tue Dec 08 2020 11:35:17 GMT-0500 (Eastern Standard Time)
 
             1. [[@bardramDesigningMobileHealth2013a]]
 
-                1. #[[references]]
+                1. [[references]]
 
                     1. Title: Designing mobile health technology for bipolar disorder: A field trial of the monarca system
 
                     1. Meta:
 
-                        1. Authored by:: [[Jakob E. Bardram]] [[Mads Frost]] [[Károly Szántó]] [[Maria Faurholt-Jepsen]] [[Maj Vinberg]] [[Lars Vedel Kessing]]
+                        1. Authored by:: [[Jakob E. Bardram]]
 
                         1. Year: [[2013]]
 
@@ -983,13 +983,13 @@ date: Tue Dec 08 2020 11:35:17 GMT-0500 (Eastern Standard Time)
 
             1. [[@hongUsingDiariesProbe2020a]]
 
-                1. #[[references]]
+                1. [[references]]
 
                     1. Title: Using diaries to probe the illness experiences of adolescent patients and parental caregivers
 
                     1. Meta:
 
-                        1. Authored by:: [[Matthew K. Hong]] [[Udaya Lakshmi]] [[Kimberly Do]] [[Sampath Prahalad]] [[Thomas Olson]] [[Rosa I. Arriaga]] [[Lauren Wilcox]]
+                        1. Authored by:: [[Matthew K. Hong]]
 
                         1. Year: [[2020]]
 
@@ -1007,13 +1007,13 @@ date: Tue Dec 08 2020 11:35:17 GMT-0500 (Eastern Standard Time)
 
             1. [[@taylorLeavingWildLessons2013a]]
 
-                1. #[[references]]
+                1. [[references]]
 
                     1. Title: Leaving the wild: Lessons from community technology handovers
 
                     1. Meta:
 
-                        1. Authored by:: [[Nick Taylor]] [[Keith Cheverst]] [[Peter Wright]] [[Patrick Olivier]]
+                        1. Authored by:: [[Nick Taylor]]
 
                         1. Year: [[2013]]
 
@@ -1031,13 +1031,13 @@ date: Tue Dec 08 2020 11:35:17 GMT-0500 (Eastern Standard Time)
 
             1. [[@supertipantojaPlaybasedDesignGiving2020a]]
 
-                1. #[[references]]
+                1. [[references]]
 
                     1. Title: Play-based design: Giving 3- to 4-Year-Old children a voice in the design process
 
                     1. Meta:
 
-                        1. Authored by:: [[Luiza Superti Pantoja]] [[Kyle Diederich]] [[Liam Crawford]] [[Megan Corbett]] [[Samantha Klemm]] [[Kerry Peterman]] [[Flannery Currin]] [[Juan Pablo Hourcade]]
+                        1. Authored by:: [[Luiza Superti Pantoja]]
 
                         1. Year: [[2020]]
 
@@ -1055,13 +1055,13 @@ date: Tue Dec 08 2020 11:35:17 GMT-0500 (Eastern Standard Time)
 
             1. [[@banerjeeEmpoweringFamiliesFacing2018a]]
 
-                1. #[[references]]
+                1. [[references]]
 
                     1. Title: Empowering families facing english literacy challenges to jointly engage in computer programming
 
                     1. Meta:
 
-                        1. Authored by:: [[Rahul Banerjee]] [[Leanne Liu]] [[Kiley Sobel]] [[Caroline Pitt]] [[Kung Jin Lee]] [[Meng Wang]] [[Sijin Chen]] [[Lydia Davison]] [[Jason C. Yip]] [[Andrew J. Ko]] [[Zoran Popovic]]
+                        1. Authored by:: [[Rahul Banerjee]]
 
                         1. Year: [[2018]]
 
@@ -1079,13 +1079,13 @@ date: Tue Dec 08 2020 11:35:17 GMT-0500 (Eastern Standard Time)
 
             1. [[@zolyomiValuesIdentitySocial2018a]]
 
-                1. #[[references]]
+                1. [[references]]
 
                     1. Title: Values, identity, and social translucence: Neurodiverse student teams in higher education
 
                     1. Meta:
 
-                        1. Authored by:: [[Annuska Zolyomi]] [[Anne Spencer Ross]] [[Arpita Bhattacharya]] [[Lauren Milne]] [[Sean A. Munson]]
+                        1. Authored by:: [[Annuska Zolyomi]]
 
                         1. Year: [[2018]]
 
@@ -1103,13 +1103,13 @@ date: Tue Dec 08 2020 11:35:17 GMT-0500 (Eastern Standard Time)
 
             1. [[@dachteraResearchResearchDesign2014b]]
 
-                1. #[[references]]
+                1. [[references]]
 
                     1. Title: Research on research: Design research at the margins: Academia, industry and end-users
 
                     1. Meta:
 
-                        1. Authored by:: [[Juri Dachtera]] [[Dave Randall]] [[Volker Wulf]]
+                        1. Authored by:: [[Juri Dachtera]]
 
                         1. Year: [[2014]]
 
@@ -1127,13 +1127,13 @@ date: Tue Dec 08 2020 11:35:17 GMT-0500 (Eastern Standard Time)
 
             1. [[@belliniMechanismsMoralResponsibility2020b]]
 
-                1. #[[references]]
+                1. [[references]]
 
                     1. Title: Mechanisms of moral responsibility: Rethinking technologies for domestic violence prevention work
 
                     1. Meta:
 
-                        1. Authored by:: [[Rosanna Bellini]] [[Simon Forrest]] [[Nicole Westmarland]] [[Jan David Smeddinck]]
+                        1. Authored by:: [[Rosanna Bellini]]
 
                         1. Year: [[2020]]
 
@@ -1151,13 +1151,13 @@ date: Tue Dec 08 2020 11:35:17 GMT-0500 (Eastern Standard Time)
 
             1. [[@mcnaneyEnablingParticipationPeople2018b]]
 
-                1. #[[references]]
+                1. [[references]]
 
                     1. Title: Enabling the participation of people with parkinson's and their caregivers in co-inquiry around collectivist health technologies
 
                     1. Meta:
 
-                        1. Authored by:: [[Roisin McNaney]] [[John Vines]] [[Andy Dow]] [[Harry Robinson]] [[Heather Robinson]] [[Kate McDonald]] [[Leslie Brown]] [[Peter Santer]] [[Don Murray]] [[Janice Murray]] [[David Green]] [[Peter Wright]]
+                        1. Authored by:: [[Roisin McNaney]]
 
                         1. Year: [[2018]]
 
@@ -1175,13 +1175,13 @@ date: Tue Dec 08 2020 11:35:17 GMT-0500 (Eastern Standard Time)
 
             1. [[@johnsonCommunityConversationalSupporting2017b]]
 
-                1. #[[references]]
+                1. [[references]]
 
                     1. Title: Community conversational: Supporting and capturing deliberative talk in local consultation processes
 
                     1. Meta:
 
-                        1. Authored by:: [[Ian G. Johnson]] [[Alistair MacDonald]] [[Jo Briggs]] [[Jennifer Manuel]] [[Karen Salt]] [[Emma Flynn]] [[John Vines]]
+                        1. Authored by:: [[Ian G. Johnson]]
 
                         1. Year: [[2017]]
 
@@ -1199,13 +1199,13 @@ date: Tue Dec 08 2020 11:35:17 GMT-0500 (Eastern Standard Time)
 
             1. [[@mcnallyCodesigningMobileOnline2018b]]
 
-                1. #[[references]]
+                1. [[references]]
 
                     1. Title: Co-designing mobile online safety applications with children
 
                     1. Meta:
 
-                        1. Authored by:: [[Brenna McNally]] [[Priya Kumar]] [[Chelsea Hordatt]] [[Matthew Louis Mauriello]] [[Shalmali Naik]] [[Leyla Norooz]] [[Alazandra Shorter]] [[Evan Golub]] [[Allison Druin]]
+                        1. Authored by:: [[Brenna McNally]]
 
                         1. Year: [[2018]]
 
@@ -1223,13 +1223,13 @@ date: Tue Dec 08 2020 11:35:17 GMT-0500 (Eastern Standard Time)
 
             1. [[@vishwanathEngagingLivedVirtual2019b]]
 
-                1. #[[references]]
+                1. [[references]]
 
                     1. Title: Engaging lived and virtual realities
 
                     1. Meta:
 
-                        1. Authored by:: [[Aditya Vishwanath]] [[Naveena Karusala]] [[Marisol Wong-Villacres]] [[Neha Kumar]]
+                        1. Authored by:: [[Aditya Vishwanath]]
 
                         1. Year: [[2019]]
 
@@ -1247,13 +1247,13 @@ date: Tue Dec 08 2020 11:35:17 GMT-0500 (Eastern Standard Time)
 
             1. [[@demaDesigningNetworkRelations2020b]]
 
-                1. #[[references]]
+                1. [[references]]
 
                     1. Title: Designing in the network of relations for species conservation: The playful tingtibi community birdhouse
 
                     1. Meta:
 
-                        1. Authored by:: [[Tshering Dema]] [[Margot Brereton]] [[Michael Esteban]] [[Alessandro Soro]] [[Sherub Sherub]] [[Paul Roe]]
+                        1. Authored by:: [[Tshering Dema]]
 
                         1. Year: [[2020]]
 
@@ -1271,13 +1271,13 @@ date: Tue Dec 08 2020 11:35:17 GMT-0500 (Eastern Standard Time)
 
             1. [[@boydVrSocialImmersiveTherapeutic2018b]]
 
-                1. #[[references]]
+                1. [[references]]
 
                     1. Title: VrSocial: Toward immersive therapeutic VR systems for children with autism
 
                     1. Meta:
 
-                        1. Authored by:: [[LouAnne E. Boyd]] [[Saumya Gupta]] [[Sagar B. Vikmani]] [[Carlos M. Gutierrez]] [[Junxiang Yang]] [[Erik Linstead]] [[Gillian R. Hayes]]
+                        1. Authored by:: [[LouAnne E. Boyd]]
 
                         1. Year: [[2018]]
 
@@ -1295,13 +1295,13 @@ date: Tue Dec 08 2020 11:35:17 GMT-0500 (Eastern Standard Time)
 
             1. [[@bellCollaborativeFuturesCodesigning2019b]]
 
-                1. #[[references]]
+                1. [[references]]
 
                     1. Title: Collaborative futures: Co-designing research methods for younger people living with dementia
 
                     1. Meta:
 
-                        1. Authored by:: [[Jeanette Bell]] [[Tuck Wah Leong]]
+                        1. Authored by:: [[Jeanette Bell]]
 
                         1. Year: [[2019]]
 
@@ -1323,11 +1323,11 @@ date: Tue Dec 08 2020 11:35:17 GMT-0500 (Eastern Standard Time)
 
                 - from [[@lindsayEngagingOlderPeople2012b]]
 
-            - {{[[DONE]]}} [[@yipBrowniesBagsofstuffDomain2013]]
+            - {{[[DONE]]
 
-            - {{[[DONE]]}} [[@ereteEmpoweredParticipationHow2017]]
+            - {{[[DONE]]
 
-            - {{[[DONE]]}} [[@ssozi-mugaruraSupportingCommunityNeeds2016]]
+            - {{[[DONE]]
 
         - ## #NotRelevant
 
@@ -1339,69 +1339,69 @@ date: Tue Dec 08 2020 11:35:17 GMT-0500 (Eastern Standard Time)
 
                 - workshop paper nothing of interest
 
-    - ## #[[Claims and Evidence]]
+    - ## [[Claims and Evidence]]
 
-        - [[@butcherCommunityEngagementYouth2020]] for [[[[QUE]] - What tension points exist between the goals of diversity and depth of user participation in participatory design?]] | distrust due to history of misaligned time frames with extra stakeholders, as well as clashes between local/indigenous ways of knowing and more "evidence-based" methods for thinking about and designing programs
+        - [[@butcherCommunityEngagementYouth2020]]
 
-            - [[[[EVD]] - Aboriginal informants expressed significant distrust of government and human service providers due to a negative history of misaligned time frames and incentives - [[@butcherCommunityEngagementYouth2020]]]]
+            - [[EVD - Aboriginal informants expressed significant distrust of government and human service provider...egative history of misaligned time frames and incentives - @butcherCommunityEngagementYouth2020]]
 
-            - [[[[EVD]] - Aboriginal informants expressed deep skepticism of "evidence-based" top-down models and perceived them as conflicting with more effective local knowledge - [[@butcherCommunityEngagementYouth2020]]]]
+            - [[EVD - Aboriginal informants expressed deep skepticism of evidence-based top-down models and perceived them as conflicting with more effective local knowledge - @butcherCommunityEngagementYouth2020]]
 
-        - [[@holoneThreeTensionsParticipatory2013b]] for [[[[QUE]] - What tension points exist between the goals of diversity and depth of user participation in participatory design?]] | autonomy (not used to being active participants) + extra stakeholders and layers of interpretation when working with children with severe disabilities
+        - [[@holoneThreeTensionsParticipatory2013b]]
 
-            - [[[[EVD]] - helpers - who had to be present - sometimes made assumptions and spoke for children with disabilities during design activities - [[@holoneThreeTensionsParticipatory2013b]]]]
+            - [[EVD - helpers - who had to be present - sometimes made assumptions and spoke for children with disabilities during design activities - @holoneThreeTensionsParticipatory2013b]]
 
-            - [[[[EVD]] - children with severe disabilities were not used to being active participants in design, because usually they are passive recipients and others spoke/did things for them - [[@holoneThreeTensionsParticipatory2013b]]]]
+            - [[EVD - children with severe disabilities were not used to being active participants in design, becau...passive recipients and others spokedid things for them - @holoneThreeTensionsParticipatory2013b]]
 
-        - [[@largeBondedDesignNovel2006]] for [[[[QUE]] - What tension points exist between the goals of diversity and depth of user participation in participatory design?]] | concerns about place and power dynamics, logistics issues, and ability differences between younger and older kids
+        - [[@largeBondedDesignNovel2006]]
 
-            - [[[[EVD]] - Designers experienced issues with (and had to compromise) design activities, such as analogies and giving concrete examplers, with 3rd-graders due to cognitive and difficulties with focus and abstract ideas - [[@largeBondedDesignNovel2006]]]]
+            - [[EVD - Designers experienced issues with (and had to compromise) design activities, such as analogie...s due to cognitive and difficulties with focus and abstract ideas - @largeBondedDesignNovel2006]]
 
-        - [[@yipBrowniesBagsofstuffDomain2013]] for [[[[QUE]] - What tension points exist between the goals of diversity and depth of user participation in participatory design?]] | subject expert children with no design experience struggle with design, possible problem w/ layers of interpretation
+        - [[@yipBrowniesBagsofstuffDomain2013]]
 
-            - [[[[EVD]] - Children without design experience generated feedback that was less granular, elaborated, and generative than children with design experience - [[@yipBrowniesBagsofstuffDomain2013]]]]
+            - [[EVD - Children without design experience generated feedback that was less granular, elaborated, and generative than children with design experience - @yipBrowniesBagsofstuffDomain2013]]
 
-        - [[@ssozi-mugaruraSupportingCommunityNeeds2016]] for [[[[QUE]] - What tension points exist between the goals of diversity and depth of user participation in participatory design?]] | theme of extra stakeholders again (w/ rural communities in Uganda for water infrastructure problems): necessary for access, complicates design
+        - [[@ssozi-mugaruraSupportingCommunityNeeds2016]]
 
-            - [[[[EVD]] - In-situ prototypes were needed to enable genuine design input from local marginalized users, which required creative adaptations to the prototypes - [[@ssozi-mugaruraSupportingCommunityNeeds2016]]]]
+            - [[EVD - In-situ prototypes were needed to enable genuine design input from local marginalized users, ...h required creative adaptations to the prototypes - @ssozi-mugaruraSupportingCommunityNeeds2016]]
 
-            - [[[[EVD]] - Intermediaries such as local government officials were necessary for accessing and co-designing with marginalized populations, but the intermediaries sometimes spoke for the people in ways that opposed what they really wanted - [[@ssozi-mugaruraSupportingCommunityNeeds2016]]]]
+            - [[EVD - Intermediaries such as local government officials were necessary for accessing and co-designi...ople in ways that opposed what they really wanted - @ssozi-mugaruraSupportingCommunityNeeds2016]]
 
-        - [[@ereteEmpoweredParticipationHow2017]] for [[[[QUE]] - What tension points exist between the goals of diversity and depth of user participation in participatory design?]] | theme of bottleneck with low-income communities engaging with gov for policy through ICTs, online participation lowers barriers
+        - [[@ereteEmpoweredParticipationHow2017]]
 
-            - [[[[EVD]] - success of one mixed-race community at influencing policy through ICTs depended on a single appointed community leader to funnel concerns, and there were concerns over this being a bottleneck - [[@ereteEmpoweredParticipationHow2017]]]]
+            - [[EVD - success of one mixed-race community at influencing policy through ICTs depended on a single a...rns, and there were concerns over this being a bottleneck - @ereteEmpoweredParticipationHow2017]]
 
-            - [[[[EVD]] - online participation options for civic input diversified and strengthened participation in Chicago neighborhoods - [[@ereteEmpoweredParticipationHow2017]]]]
+            - [[EVD - online participation options for civic input diversified and strengthened participation in Chicago neighborhoods - @ereteEmpoweredParticipationHow2017]]
 
-            - [[[[EVD]] - three communities across a range of race and income effectively used ICTs to engage with policy and governance, but government officials were most responsive to and proactive with the majority white / middle-high income community - [[@ereteEmpoweredParticipationHow2017]]]]
+            - [[EVD - three communities across a range of race and income effectively used ICTs to engage with poli...ive with the majority white  middle-high income community - @ereteEmpoweredParticipationHow2017]]
 
-        - [[@walshEquityEqualityAmerican2018]] for [[[[QUE]] - What tension points exist between the goals of diversity and depth of user participation in participatory design?]]: travel and time constraints for children from low-SES neighborhoods, had to compromise on length/focus (scope down)}
+        - [[@walshEquityEqualityAmerican2018]]
 
-        - [[@guhaCooperativeInquiryRevisited2013]] for [[[[QUE]] - What tension points exist between the goals of diversity and depth of user participation in participatory design?]] | a number of claims around learning curve and power dynamics (for both designers and participants with children), but no/limited concrete evidence
+        - [[@guhaCooperativeInquiryRevisited2013]]
 
-        - [[@gautamParticipatoryTensionsWorking2018]] for [[[[QUE]] - What tension points exist between the goals of diversity and depth of user participation in participatory design?]] | issues around disclosure harms and power dynamics when doing PD with sex trafficking survivors
+        - [[@gautamParticipatoryTensionsWorking2018]]
 
-        - [[@frauenbergerInterpretingInputChildren2012a]] for [[[[QUE]] - What tension points exist between the goals of diversity and depth of user participation in participatory design?]] | tension between interpreting the participant voice vs. the stakeholder
+        - [[@frauenbergerInterpretingInputChildren2012a]]
 
-        - [[@frauenbergerDesigningSmartObjects2016a]] for [[[[QUE]] - What tension points exist between the goals of diversity and depth of user participation in participatory design?]] | some tensions between structure and freedom when doing PD with neurodiverse children, as well as the need to navigate other stakeholders (teachers and helpers)
+        - [[@frauenbergerDesigningSmartObjects2016a]]
 
-        - [[@frauenbergerNurturingConstructiveDisagreement2019b]] for [[[[QUE]] - What tension points exist between the goals of diversity and depth of user participation in participatory design?]] | intense conflicts when working with neurodiverse children, and strategies of agonistic PD that seemed to be able to handle it well
+        - [[@frauenbergerNurturingConstructiveDisagreement2019b]]
 
-        - [[@lindsayEngagingOlderPeople2012b]] for [[[[QUE]] - What tension points exist between the goals of diversity and depth of user participation in participatory design?]] | themes around older adults struggling to envision (abstract) future technologies (video prompts might help), and some additional evidence around disclosure challenges with sensitive topics, and additional themes around tension between exploration and structure, and user vs. designer voice through analysis
+        - [[@lindsayEngagingOlderPeople2012b]]
 
-        - [[@waddingtonParticipatoryDesignTherapeutic2015b]] for [[[[QUE]] - What tension points exist between the goals of diversity and depth of user participation in participatory design?]] | challenges around disclosure for PD with youths with neurological vision impairments
+        - [[@waddingtonParticipatoryDesignTherapeutic2015b]]
 
-        - [[@harringtonDeconstructingCommunityBasedCollaborative2019]] for [[[[QUE]] - What tension points exist between the goals of diversity and depth of user participation in participatory design?]] | challenges related to negative associations with traditional trappings of design thinking, and history of mistreatment by affiliated org of design team
+        - [[@harringtonDeconstructingCommunityBasedCollaborative2019]]
 
-        - [[@lindsayEmpathyParticipatoryDesign2012b]] for [[[[QUE]] - What tension points exist between the goals of diversity and depth of user participation in participatory design?]] | challenges around double-edged sword of physical prototypes, + assumptions in analysis and needing language to separate for feedback, for PD with people with dementia
+        - [[@lindsayEmpathyParticipatoryDesign2012b]]
 
-        - [[@pradhanUnderstandingOlderAdults2020]] for [[[[QUE]] - What tension points exist between the goals of diversity and depth of user participation in participatory design?]] | challenges around self-stereotyping (+ some ideas for how to overcome) for PD with older adults
+        - [[@pradhanUnderstandingOlderAdults2020]]
 
-        - [[@tengParticipatoryDesignVirtual2019b]] for [[[[QUE]] - What tension points exist between the goals of diversity and depth of user participation in participatory design?]] | challenges around liability/ethics doing PD with people in prison system
+        - [[@tengParticipatoryDesignVirtual2019b]]
 - ---
 - # Meta
 
-    - Tags: #[[D/Democratizing Design]]
+    - Tags: [[DDemocratizing Design]]
 
 ###### Discourse Context
 

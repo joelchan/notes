@@ -2,30 +2,30 @@
 title: [[CLM]] - Scientific fields stall without adequate theoretical synthesis
 url: https://roamresearch.com/#/app/megacoglab/page/F8n1BlGfy
 author: Joel Chan
-date: Thu May 28 2020 21:43:26 GMT-0400 (Eastern Daylight Time)
+date: Fri May 29 2020 09:43:26 GMT+0800 (Malaysia Time)
 ---
 
-- #[[🌲 zettels]]
+- [[🌲 zettels]]
 
-    - Tags: #[[Z]]
+    - Tags: [[Z]]
 
     - Description
 
-        - This is in part because [[[[CLM]] - Synthesis is-necessary-for effective problem formulation]]
+        - This is in part because [[CLM - Synthesis is-necessary-for effective problem formulation]]
 
-        - A #> I really like on this is from [[Allen Newell]] [[@newellYouCanPlay1973]]: #> "You can't play 20 questions with nature and win".
+        - A quoteI really like on this is from [[Allen Newell]]
 
-            - #> from [[Jean Piaget]] in preface to [[@gruberDarwinManPsychological1974]] #> : “a new scientific theory differs from a simple “reading” or description of the observed or observable facts” (p. vii)
+            - quote from [[Jean Piaget]]
 
-                - follow up #> “the construction of a new theory is far from being reducible to the accumulation of data, but necessitates an extremely complex ^^structuring^^ of interpretive ideas which are ^^linked^^ to ^^the facts^^ and which enrich them by framing them in a ^^context^^”
+                - follow up > “the construction of a new theory is far from being reducible to the accumulation of data, but necessitates an extremely complex ^^structuring^^ of interpretive ideas which are ^^linked^^ to ^^the facts^^ and which enrich them by framing them in a ^^context^^”
 
-        - The more things change, the more they stay the same: [[Zachary Lipton]] laments the lack of theory, and so do others (e.g., [[@jollyFlatlandFallacyMoving2019]], [[@vanrooijTheoryTestHow2020]] [[@alvessonGeneratingResearchQuestions2011]])
+        - The more things change, the more they stay the same: [[Zachary Lipton]]
 
-        - Could explain why [[[[CLM]] - Science is getting less bang for its buck]]
+        - Could explain why [[CLM - Science is getting less bang for its buck]]
 
     - Related to:
 
-        - #[[Z: Theories are core examples of synthesis]]
+        - [[Z Theories are core examples of synthesis]]
 
 ###### Discourse Context
 

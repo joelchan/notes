@@ -2,7 +2,7 @@
 title: @dowCheatersNeverProsper2015
 url: https://roamresearch.com/#/app/megacoglab/page/RbVSeH0Ow
 author: Joel Chan
-date: Wed Jan 12 2022 12:57:09 GMT-0500 (Eastern Standard Time)
+date: Thu Jan 13 2022 01:57:09 GMT+0800 (Malaysia Time)
 ---
 
 - Title:: Do Cheaters Never Prosper? The Impact of Examples, Expertise, and Cognitive Load on Cryptomnesia and Inadvertent Self-Plagiarism of Creative Tasks

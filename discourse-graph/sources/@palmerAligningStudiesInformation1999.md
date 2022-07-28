@@ -2,24 +2,24 @@
 title: @palmerAligningStudiesInformation1999
 url: https://roamresearch.com/#/app/megacoglab/page/hEYXcqY_z
 author: Joel Chan
-date: Sat Apr 18 2020 00:04:58 GMT-0400 (Eastern Daylight Time)
+date: Sat Apr 18 2020 12:04:58 GMT+0800 (Malaysia Time)
 ---
 
 - [[@palmerAligningStudiesInformation1999]]
 
-    - #[[references]]
+    - [[references]]
 
         - Title: Aligning studies of information seeking and use with domain analysis
 
         - Meta:
 
-            - Tags:: #[[references]] #[[D/Synthesis Infrastructure]] #interdisciplinarity
+            - Tags:: [[references]]
 
             - Authored by:: [[Carole L. Palmer]]
 
             - Year: [[1999]]
 
-            - Publication: Journal of the American Society for Information Science ([[JASIST]])
+            - Publication: Journal of the American Society for Information Science ([[JASIST]]
 
             - Zotero link: [Zotero Link](zotero://select/items/1_UNPX95QG)
 
@@ -29,7 +29,7 @@ date: Sat Apr 18 2020 00:04:58 GMT-0400 (Eastern Daylight Time)
 
             - Abstract
 
-                - Two different conceptions of [domain analysis]([[Domain-Analysis]]) exist in LIS; one emphasizes theories of knowledge, and the other is grounded in the study of literatures. While studies of information seeking and use have been more widely associated with information retrieval, they can make an important contribution to domain analysis, and perhaps help integrate the two approaches. Because of the mutable and overlapping nature of discourse communities and the knowledge they produce, the most operative user studies will demarcate user groups based on the conceptual requirements of the information problem under investigation, rather than by domain. As our understanding of information use develops, models can then be constructed that represent the dimensions of use for specific domains and that take into account relationships between domains.
+                - Two different conceptions of [domain analysis]([[Domain-Analysis]]
 
 ###### Discourse Context
 

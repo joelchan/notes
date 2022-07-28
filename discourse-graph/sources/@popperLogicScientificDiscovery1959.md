@@ -2,17 +2,17 @@
 title: @popperLogicScientificDiscovery1959
 url: https://roamresearch.com/#/app/megacoglab/page/4cFqq-o9Y
 author: Joel Chan
-date: Sat Feb 15 2020 23:20:32 GMT-0500 (Eastern Standard Time)
+date: Sun Feb 16 2020 12:20:32 GMT+0800 (Malaysia Time)
 ---
 
 - Metadata:
 
     - Authored by:: [[Karl Popper]]
 
-    - Tags:: #R-Book #[[D/Synthesis Infrastructure]]
+    - Tags:: #R-Book [[DSynthesis Infrastructure]]
 - Notes/claims
 
-    - Lays out [[theory of demarcation]] as a solution to the [[demarcation problem]]
+    - Lays out [[theory of demarcation]]
 
 ###### Discourse Context
 

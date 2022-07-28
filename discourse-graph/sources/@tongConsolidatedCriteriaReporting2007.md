@@ -2,16 +2,16 @@
 title: @tongConsolidatedCriteriaReporting2007
 url: https://roamresearch.com/#/app/megacoglab/page/CJsWzhN8p
 author: Joel Chan
-date: Tue Jul 20 2021 14:51:56 GMT-0400 (Eastern Daylight Time)
+date: Wed Jul 21 2021 02:51:56 GMT+0800 (Malaysia Time)
 ---
 
-- #[[references]]
+- [[references]]
 
     - Title: Consolidated criteria for reporting qualitative research (COREQ): a 32-item checklist for interviews and focus groups
 
     - Meta:
 
-        - Authored by:: [[Allison Tong]] [[Peter Sainsbury]] [[Jonathan Craig]]
+        - Authored by:: [[Allison Tong]]
 
         - Year: [[2007]]
 
@@ -31,7 +31,7 @@ date: Tue Jul 20 2021 14:51:56 GMT-0400 (Eastern Daylight Time)
 
         - 12.2k citations on google scholar
 
-        - connects with [[Cochrane systematic reviews]] and [[critical appraisal]]
+        - connects with [[Cochrane systematic reviews]]
 
         - in domain of health
 

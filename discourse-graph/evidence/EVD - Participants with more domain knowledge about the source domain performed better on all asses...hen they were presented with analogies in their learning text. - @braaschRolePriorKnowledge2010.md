@@ -2,7 +2,7 @@
 title: [[EVD]] - Participants with more domain knowledge about the source domain performed better on all assessments and were observed to have fewer misconceptions when they were presented with analogies in their learning text. - [[@braaschRolePriorKnowledge2010]]
 url: https://roamresearch.com/#/app/megacoglab/page/n85pbKWjj
 author: AJ Rudd
-date: Thu Jan 13 2022 10:06:23 GMT-0500 (Eastern Standard Time)
+date: Thu Jan 13 2022 23:06:23 GMT+0800 (Malaysia Time)
 ---
 
 - # Summary

@@ -2,20 +2,20 @@
 title: [[CLM]] - Symbolic knowledge bases are brittle
 url: https://roamresearch.com/#/app/megacoglab/page/uREKKbTiY
 author: Joel Chan
-date: Thu Apr 30 2020 22:04:21 GMT-0400 (Eastern Daylight Time)
+date: Fri May 01 2020 10:04:21 GMT+0800 (Malaysia Time)
 ---
 
-- #[[🌲 zettels]] #[[🌱 seedlings]
+- [[🌲 zettels]]
 
-    - Tags: #[[Knowledge Base]] [[D/Synthesis Infrastructure]] #[[D/Computational Analogy]] ]
+    - Tags: [[Knowledge Base]]
 
     - Description
 
-        - This is partially because [[[[CLM]] - Common sense concepts are fundamentally fuzzy]]
+        - This is partially because [[CLM - Common sense concepts are fundamentally fuzzy]]
 
     - R-Sources
 
-        - Describes the fact that [[[[CLM]] - Common sense concepts are fundamentally fuzzy]], and therefore we have the issue that [[[[CLM]] - Symbolic knowledge bases are brittle]] [[@pavlusCommonSenseComes2020]]
+        - Describes the fact that [[CLM - Common sense concepts are fundamentally fuzzy]]
 
 ###### Discourse Context
 

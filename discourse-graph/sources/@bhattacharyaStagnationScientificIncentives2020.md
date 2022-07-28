@@ -2,14 +2,14 @@
 title: @bhattacharyaStagnationScientificIncentives2020
 url: https://roamresearch.com/#/app/megacoglab/page/tv7G-bgxn
 author: Joel Chan
-date: Sun Mar 01 2020 22:17:02 GMT-0500 (Eastern Standard Time)
+date: Mon Mar 02 2020 11:17:02 GMT+0800 (Malaysia Time)
 ---
 
 - #references
 
     - Title: Stagnation and Scientific Incentives
 
-    - [[Authored by]]::  Jay Bhattacharya ,  Mikko Packalen
+    - [[Authored by]]
 
     - Year: 2020
 
@@ -17,9 +17,9 @@ date: Sun Mar 01 2020 22:17:02 GMT-0500 (Eastern Standard Time)
 
     - #lit-context
 
-        - No primary empirical data, they use a simple #[[m/Model]] (simulation) to test their ideas
+        - No primary empirical data, they use a simple [[mModel]]
 
-    - #[[📝 lit-notes]]
+    - [[📝 lit-notes]]
 
         - Emphasis on citations as measure of scientific productivity incentivizes incremental over exploratory work #unverified #short-termism
 

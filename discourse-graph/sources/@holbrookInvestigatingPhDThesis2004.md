@@ -2,7 +2,7 @@
 title: @holbrookInvestigatingPhDThesis2004
 url: https://roamresearch.com/#/app/megacoglab/page/QH0pEX3hy
 author: Joel Chan
-date: Mon Feb 17 2020 09:34:17 GMT-0500 (Eastern Standard Time)
+date: Mon Feb 17 2020 22:34:17 GMT+0800 (Malaysia Time)
 ---
 
 - Metadata:
@@ -13,7 +13,7 @@ date: Mon Feb 17 2020 09:34:17 GMT-0500 (Eastern Standard Time)
 
     - Publication: International Journal of Educational Research
 
-    - Tags:: #[[references]] #[[D/Synthesis Infrastructure]]
+    - Tags:: [[references]]
 - Notes/claims
 
 ###### Discourse Context

@@ -2,10 +2,10 @@
 title: @smalheiserRediscoveringDonSwanson2017
 url: https://roamresearch.com/#/app/megacoglab/page/aJg2QKzQ8
 author: Joel Chan
-date: Thu Mar 25 2021 14:49:08 GMT-0400 (Eastern Daylight Time)
+date: Fri Mar 26 2021 02:49:08 GMT+0800 (Malaysia Time)
 ---
 
-- #[[references]]
+- [[references]]
 
     - Title: Rediscovering Don Swanson:The Past, Present and Future of Literature-based Discovery
 

@@ -2,7 +2,7 @@
 title: [[EVD]] - When provided visual analogies 4th graders performed better than the students given just the target concept. However, This was not observed in 5th graders. - [[@matlenEnhancingComprehensionScience]]
 url: https://roamresearch.com/#/app/megacoglab/page/zWGskgjzd
 author: AJ Rudd
-date: Sat Dec 18 2021 08:19:14 GMT-0500 (Eastern Standard Time)
+date: Sat Dec 18 2021 21:19:14 GMT+0800 (Malaysia Time)
 ---
 
 - # Summary

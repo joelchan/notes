@@ -2,7 +2,7 @@
 title: [[EVD]] - Analogies should be used in a classroom only after they have been well thought out, made to reduce any confusion, the purpose should be clear and they should be easy to remember. - [[@orgillWHATRESEARCHTELLS2004]]
 url: https://roamresearch.com/#/app/megacoglab/page/vaJbal1WE
 author: AJ Rudd
-date: Sun Dec 19 2021 10:27:34 GMT-0500 (Eastern Standard Time)
+date: Sun Dec 19 2021 23:27:34 GMT+0800 (Malaysia Time)
 ---
 
 - # Summary

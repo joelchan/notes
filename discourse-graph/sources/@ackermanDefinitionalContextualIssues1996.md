@@ -2,7 +2,7 @@
 title: @ackermanDefinitionalContextualIssues1996
 url: https://roamresearch.com/#/app/megacoglab/page/5QYYpVmbi
 author: Joel Chan
-date: Thu Jun 17 2021 14:13:25 GMT-0400 (Eastern Daylight Time)
+date: Fri Jun 18 2021 02:13:25 GMT+0800 (Malaysia Time)
 ---
 
 - Title:: Definitional and contextual issues in organizational and group memories
@@ -13,7 +13,7 @@ date: Thu Jun 17 2021 14:13:25 GMT-0400 (Eastern Daylight Time)
 - URL : https://doi.org/10.1108/09593849610111553
 - Date Added:: [[June 17th, 2021]]
 - Zotero links:: [Local library](zotero://select/library/items/78Y7GRF5), [Web library](https://www.zotero.org/users/2451508/items/78Y7GRF5)
-- Tags:: #[[Information retrieval]], #[[Information technology]], #[[Software use]]
+- Tags:: [[Information retrieval]]
 - PDF links : [Ackerman_1996_Definitional and contextual issues in organizational and group memories.pdf](zotero://open-pdf/library/items/74SUG7XT)
 
 ###### Discourse Context

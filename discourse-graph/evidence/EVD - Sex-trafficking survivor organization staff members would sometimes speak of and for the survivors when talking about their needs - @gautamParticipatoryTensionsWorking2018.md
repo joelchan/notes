@@ -2,7 +2,7 @@
 title: [[EVD]] - Sex-trafficking survivor organization staff members would sometimes speak of and for the survivors when talking about their needs - [[@gautamParticipatoryTensionsWorking2018]]
 url: https://roamresearch.com/#/app/megacoglab/page/5GOoP5JFZ
 author: Joel Chan
-date: Wed Jun 16 2021 11:21:27 GMT-0400 (Eastern Daylight Time)
+date: Wed Jun 16 2021 23:21:27 GMT+0800 (Malaysia Time)
 ---
 
 - noteType:: [[EVD]]
@@ -23,7 +23,7 @@ date: Wed Jun 16 2021 11:21:27 GMT-0400 (Eastern Daylight Time)
 
             - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fmegacoglab%2FXdPqA7M6Zh.png?alt=media&token=c4bec0fc-bf4d-4f95-b081-6ed2b63e1b77)
 
-        - [Ethnographic]([[m/Ethnography]]) work was conducted over roughly four weeks of observations of site visits and site interviews
+        - [Ethnographic]([[mEthnography]]
 
             - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fmegacoglab%2FlCypJM7Zkl.png?alt=media&token=333bf050-4abf-45fc-8bb0-500ee5f4290f) (p. 2)
 
@@ -37,7 +37,7 @@ date: Wed Jun 16 2021 11:21:27 GMT-0400 (Eastern Daylight Time)
 
     - ## **Discourse Context**
 
-        - Informs:: [[[[QUE]] - What tension points exist between the goals of diversity and depth of user participation in participatory design?]]
+        - Informs:: [[QUE - What tension points exist between the goals of diversity and depth of user participation in participatory design]]
 
     - ## Metadata::
 

@@ -2,7 +2,7 @@
 title: [[EVD]] - online participation options for civic input diversified and strengthened participation in Chicago neighborhoods - [[@ereteEmpoweredParticipationHow2017]]
 url: https://roamresearch.com/#/app/megacoglab/page/t_CPkJv_j
 author: Joel Chan
-date: Wed Jul 14 2021 11:53:51 GMT-0400 (Eastern Daylight Time)
+date: Wed Jul 14 2021 23:53:51 GMT+0800 (Malaysia Time)
 ---
 
 - Summary::
@@ -13,7 +13,7 @@ date: Wed Jul 14 2021 11:53:51 GMT-0400 (Eastern Daylight Time)
 
         - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fmegacoglab%2F1a_dP4q_mg.png?alt=media&token=51a4dfca-96b0-4b2b-9ce3-5bbd8537aefb) (p. 2313)
 
-    - Online participation also had spillover "[[infrastructuring]] effects, where ICTs were used to seed and coordinate offline gathering and organizing
+    - Online participation also had spillover "[[infrastructuring]]
 
         - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fmegacoglab%2F3pMUokQFtf.png?alt=media&token=7034f792-8d9e-4c58-a8c2-6d5e01c5f344) (p. 2314)
 
@@ -26,7 +26,7 @@ date: Wed Jul 14 2021 11:53:51 GMT-0400 (Eastern Daylight Time)
 
         - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fmegacoglab%2FQJxLSzPCeK.png?alt=media&token=f81a7012-bcbe-43a6-af57-aa98fafe2020) (p. 2310)
 
-    - they observed ~15 meetings , and conducted ~50m [[m/Semi-structured interviews]] with  ~10 people from each community
+    - they observed ~15 meetings , and conducted ~50m [[mSemi-structured interviews]]
 
         - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fmegacoglab%2FbWRZQsPi3p.png?alt=media&token=cc716300-85e7-4ae0-b152-a968e7aa5805)
 

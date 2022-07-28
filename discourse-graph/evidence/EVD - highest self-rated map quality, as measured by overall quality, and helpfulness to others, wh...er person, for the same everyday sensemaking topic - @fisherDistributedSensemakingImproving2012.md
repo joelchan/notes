@@ -2,7 +2,7 @@
 title: [[EVD]] - highest self-rated map quality, as measured by overall quality, and helpfulness to others, when creating map based on previous map that was iterated on by multiple people, compared to creating from scratch, and basing on a map created by one other person, for the same everyday sensemaking topic - [[@fisherDistributedSensemakingImproving2012]]
 url: https://roamresearch.com/#/app/megacoglab/page/ledAQMl6P
 author: Joel Chan
-date: Wed Jul 13 2022 11:32:41 GMT-0400 (Eastern Daylight Time)
+date: Wed Jul 13 2022 23:32:41 GMT+0800 (Malaysia Time)
 ---
 
 - # Summary

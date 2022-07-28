@@ -2,16 +2,16 @@
 title: @orrTalkingMachinesEthnography1996
 url: https://roamresearch.com/#/app/megacoglab/page/j1AQVf94K
 author: Joel Chan
-date: Sun Mar 01 2020 21:04:38 GMT-0500 (Eastern Standard Time)
+date: Mon Mar 02 2020 10:04:38 GMT+0800 (Malaysia Time)
 ---
 
 - #references
 
     - Title: Talking about Machines: An Ethnography of a Modern Job
 
-        - Tags: #references #R-Book #[[D/Synthesis Infrastructure]] #[[D/KNEXT]]
+        - Tags: #references #R-Book [[DSynthesis Infrastructure]]
 
-    - [[Authored by]]::  Julian E. Orr
+    - [[Authored by]]
 
     - Year: 1996
 

@@ -2,7 +2,7 @@
 title: [[EVD]] - Aboriginal informants expressed deep skepticism of "evidence-based" top-down models and perceived them as conflicting with more effective local knowledge - [[@butcherCommunityEngagementYouth2020]]
 url: https://roamresearch.com/#/app/megacoglab/page/PTk9ZdWbz
 author: Joel Chan
-date: Tue Jul 20 2021 15:02:18 GMT-0400 (Eastern Daylight Time)
+date: Wed Jul 21 2021 03:02:18 GMT+0800 (Malaysia Time)
 ---
 
 - Summary::
@@ -20,7 +20,7 @@ date: Tue Jul 20 2021 15:02:18 GMT-0400 (Eastern Daylight Time)
 
     - semi-structured interviews, about 42 minutes each
 
-    - engaged in a [[m/Participatory Action Research]] approach: lead author and researcher (non-indigenous) had lived for two years in this community and visited at least weekly for eight years after, and worked with large nonprofit serving the community; team also engaged local cultural mentor during gathering/collection/analysis of data
+    - engaged in a [[mParticipatory Action Research]]
 
         - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fmegacoglab%2FgOnJd5Mau_.png?alt=media&token=df493ca1-294d-4beb-8a5f-fec2f345be9a) (p. 374-375)
 

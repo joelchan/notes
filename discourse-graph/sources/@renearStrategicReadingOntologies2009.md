@@ -2,7 +2,7 @@
 title: @renearStrategicReadingOntologies2009
 url: https://roamresearch.com/#/app/megacoglab/page/b1pnG7_8P
 author: Joel Chan
-date: Wed Apr 08 2020 22:28:40 GMT-0400 (Eastern Daylight Time)
+date: Thu Apr 09 2020 10:28:40 GMT+0800 (Malaysia Time)
 ---
 
 - #references
@@ -11,9 +11,9 @@ date: Wed Apr 08 2020 22:28:40 GMT-0400 (Eastern Daylight Time)
 
     - Meta:
 
-        - Tags: #ref/Paper #[[D/Synthesis Infrastructure]] #[[semantic publishing]]
+        - Tags: #ref/Paper [[DSynthesis Infrastructure]]
 
-        - Authored by::  [[Allen H. Renear]] ,  [[Carole L. Palmer]]
+        - Authored by::  [[Allen H. Renear]]
 
         - Year: [[2009]]
 
@@ -29,9 +29,9 @@ date: Wed Apr 08 2020 22:28:40 GMT-0400 (Eastern Daylight Time)
 
     - #lit-context
 
-    - #[[📝 lit-notes]]
+    - [[📝 lit-notes]]
 
-        - Describes [[sys/Textpresso]] system and other methods for integrating [[ontologies]] into the reading experience as the future of scientific reading (what it will be like in 2019)
+        - Describes [[sysTextpresso]]
 
         - #Claim Scientists read strategically by locating and extracting specific elements of interest from research papers, rather than reading in a linear fashion (p. 828-829)
 

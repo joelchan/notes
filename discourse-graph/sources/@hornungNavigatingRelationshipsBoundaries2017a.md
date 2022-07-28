@@ -2,16 +2,16 @@
 title: @hornungNavigatingRelationshipsBoundaries2017a
 url: https://roamresearch.com/#/app/megacoglab/page/1SbL3cvu8
 author: Joel Chan
-date: Fri May 14 2021 11:27:45 GMT-0400 (Eastern Daylight Time)
+date: Fri May 14 2021 23:27:45 GMT+0800 (Malaysia Time)
 ---
 
-- #[[references]]
+- [[references]]
 
     - Title: Navigating relationships and boundaries: Concerns around ICT-Uptake for elderly people
 
     - Meta:
 
-        - Authored by:: [[Dominik Hornung]] [[Claudia Müller]] [[Irina Shklovski]] [[Timo Jakobi]] [[Volker Wulf]]
+        - Authored by:: [[Dominik Hornung]]
 
         - Year: [[2017]]
 

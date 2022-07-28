@@ -2,7 +2,7 @@
 title: [[EVD]] - Teachers reported that 3rd-grade Canadian students did not sign up for participatory design sessions due to prior commitments to sports activities that clashed with the planned sessions - [[@largeBondedDesignNovel2006]]
 url: https://roamresearch.com/#/app/megacoglab/page/3tVivcFLJ
 author: Joel Chan
-date: Tue Jul 12 2022 20:55:06 GMT-0400 (Eastern Daylight Time)
+date: Wed Jul 13 2022 08:55:06 GMT+0800 (Malaysia Time)
 ---
 
 - # Summary

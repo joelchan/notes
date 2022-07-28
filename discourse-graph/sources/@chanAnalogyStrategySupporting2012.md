@@ -2,10 +2,10 @@
 title: @chanAnalogyStrategySupporting2012
 url: https://roamresearch.com/#/app/megacoglab/page/F2G-c90Xz
 author: Joel Chan
-date: Sun Mar 22 2020 15:23:49 GMT-0400 (Eastern Daylight Time)
+date: Mon Mar 23 2020 03:23:49 GMT+0800 (Malaysia Time)
 ---
 
-- #[[references]]
+- [[references]]
 
     - Title: Analogy as a strategy for supporting complex problem solving under uncertainty
 
@@ -13,7 +13,7 @@ date: Sun Mar 22 2020 15:23:49 GMT-0400 (Eastern Daylight Time)
 
         - Tags: #uncertainty #analogy
 
-        - Authored by:: [[Joel Chan]] [[Susannah B. F. Paletz]] [[Christian D. Schunn]]
+        - Authored by:: [[Joel Chan]]
 
         - Year: [[2012]]
 

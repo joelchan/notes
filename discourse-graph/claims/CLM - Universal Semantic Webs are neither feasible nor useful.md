@@ -2,25 +2,25 @@
 title: [[CLM]] - Universal Semantic Webs are neither feasible nor useful
 url: https://roamresearch.com/#/app/megacoglab/page/DynUyZDw_
 author: Joel Chan
-date: Tue Jul 28 2020 11:52:07 GMT-0400 (Eastern Daylight Time)
+date: Tue Jul 28 2020 23:52:07 GMT+0800 (Malaysia Time)
 ---
 
 - results
-- #[[🌲 zettels]]
+- [[🌲 zettels]]
 
-    - Tags: #[[D/Synthesis Infrastructure]] #[[Semantic Web]] #[[semantic publishing]]
+    - Tags: [[DSynthesis Infrastructure]]
 
     - Description
 
         - Not feasible, because it's really hard to motivate people to contribute to something that is maybe useful for some unknown others at some unknown times, but not immediately useful to me.
 
-            - Can probably overcome this somewhat with lots of money, but you're always going to have a severe upper limit on [[sustainability]].
+            - Can probably overcome this somewhat with lots of money, but you're always going to have a severe upper limit on [[sustainability]]
 
         - But also not useful even if we made it!
 
-            - There is a fundamental idea that the project of creating a human-wide knowledge base (a la [[Semantic Web]]) must fail, because [[[[CLM]] - Knowledge is fundamentally contextual]]
+            - There is a fundamental idea that the project of creating a human-wide knowledge base (a la [[Semantic Web]]
 
-            - See also: [[[[CLM]] - Multiplicity is necessary for synthesis]], and [[[[CLM]] - Contextualizability is necessary for synthesis]]
+            - See also: [[CLM - Multiplicity is necessary for synthesis]]
 
     - R-Sources
 
@@ -32,7 +32,7 @@ date: Tue Jul 28 2020 11:52:07 GMT-0400 (Eastern Daylight Time)
 
         - [[@bowkerSortingThingsOut2000]]
 
-        - [[@cambrosioOvercomingBottleneckKnowledge2020]] described tensions in interpretation and heterogeneity for curating data into evidence records in knowledge bases, spanning cancer genomics researchers and clinical oncologists
+        - [[@cambrosioOvercomingBottleneckKnowledge2020]]
 
 ###### Discourse Context
 

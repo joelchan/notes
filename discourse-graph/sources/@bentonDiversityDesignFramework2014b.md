@@ -2,16 +2,16 @@
 title: @bentonDiversityDesignFramework2014b
 url: https://roamresearch.com/#/app/megacoglab/page/gjryR1-Gt
 author: Joel Chan
-date: Fri May 14 2021 11:27:44 GMT-0400 (Eastern Daylight Time)
+date: Fri May 14 2021 23:27:44 GMT+0800 (Malaysia Time)
 ---
 
-- #[[references]]
+- [[references]]
 
     - Title: Diversity for design: A framework for involving neurodiverse children in the technology design process
 
     - Meta:
 
-        - Authored by:: [[Laura Benton]] [[Asimina Vasalou]] [[Rilla Khaled]] [[Hilary Johnson]] [[Daniel Gooch]]
+        - Authored by:: [[Laura Benton]]
 
         - Year: [[2014]]
 

@@ -2,7 +2,7 @@
 title: @bryanInnovationCrisisEvidence2020
 url: https://roamresearch.com/#/app/megacoglab/page/583q6bICu
 author: Joel Chan
-date: Tue May 19 2020 21:42:31 GMT-0400 (Eastern Daylight Time)
+date: Wed May 20 2020 09:42:31 GMT+0800 (Malaysia Time)
 ---
 
 - #references
@@ -27,7 +27,7 @@ date: Tue May 19 2020 21:42:31 GMT-0400 (Eastern Daylight Time)
 
         - Placeholder
 
-    - #[[📝 lit-notes]]
+    - [[📝 lit-notes]]
 
         - Blog post that explains more here: https://afinetheorem.wordpress.com/2020/05/19/covid-19-innovation-are-we-on-the-right-track/
 

@@ -2,7 +2,7 @@
 title: @fortnowViewpointTimeComputer2009
 url: https://roamresearch.com/#/app/megacoglab/page/NU2tjyaqI
 author: Joel Chan
-date: Sun Mar 01 2020 22:24:33 GMT-0500 (Eastern Standard Time)
+date: Mon Mar 02 2020 11:24:33 GMT+0800 (Malaysia Time)
 ---
 
 - #references
@@ -27,9 +27,9 @@ date: Sun Mar 01 2020 22:24:33 GMT-0500 (Eastern Standard Time)
 
         - Placeholder
 
-    - #[[📝 lit-notes]]
+    - [[📝 lit-notes]]
 
-        - Discusses (mostly from personal experience) the issues with a conference-driven publication culture, including deadline-driven, [[least-publishable unit]] stuff, possibly [[short-termism]] too
+        - Discusses (mostly from personal experience) the issues with a conference-driven publication culture, including deadline-driven, [[least-publishable unit]]
 
 ###### Discourse Context
 

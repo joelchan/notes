@@ -2,7 +2,7 @@
 title: @reedStructureIllStructuredWellStructured2015
 url: https://roamresearch.com/#/app/megacoglab/page/TTiyBo-M9
 author: Joel Chan
-date: Wed Aug 19 2020 10:55:51 GMT-0400 (Eastern Daylight Time)
+date: Wed Aug 19 2020 22:55:51 GMT+0800 (Malaysia Time)
 ---
 
 - Title:: The Structure of Ill-Structured (and Well-Structured) Problems Revisited

@@ -2,7 +2,7 @@
 title: [[EVD]] - Black and LatinX codesign participants were reluctant to fully disclose past experiences bc they perceived researchers as connected to outsider authorities who could harm them - [[@harringtonDeconstructingCommunityBasedCollaborative2019]]
 url: https://roamresearch.com/#/app/megacoglab/page/c-BjPnPc0
 author: Joel Chan
-date: Tue Jun 08 2021 15:55:19 GMT-0400 (Eastern Daylight Time)
+date: Wed Jun 09 2021 03:55:19 GMT+0800 (Malaysia Time)
 ---
 
 - ## Summary::
@@ -20,7 +20,7 @@ date: Tue Jun 08 2021 15:55:19 GMT-0400 (Eastern Daylight Time)
     - __<describe other claims, evidence, and questions does this note relate to in discourse terms (optional for now)>__
 - ## Metadata::
 
-    - author:: [[Joel Chan]] [[AJ Rudd Jr]]
+    - author:: [[Joel Chan]]
 
 ###### Discourse Context
 

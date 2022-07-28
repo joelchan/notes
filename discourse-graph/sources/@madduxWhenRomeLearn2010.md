@@ -2,16 +2,16 @@
 title: @madduxWhenRomeLearn2010
 url: https://roamresearch.com/#/app/megacoglab/page/nNp59YuwF
 author: Joel Chan
-date: Mon Jan 11 2021 20:55:52 GMT-0500 (Eastern Standard Time)
+date: Tue Jan 12 2021 09:55:52 GMT+0800 (Malaysia Time)
 ---
 
-- #[[references]]
+- [[references]]
 
     - Title: When in Rome ... Learn why the Romans do what they do: how multicultural learning experiences facilitate creativity.
 
     - Meta:
 
-        - Authored by:: [[W. W. Maddux]] [[H. Adam]] [[A. D. Galinsky]]
+        - Authored by:: [[W. W. Maddux]]
 
         - Year: [[2010]]
 

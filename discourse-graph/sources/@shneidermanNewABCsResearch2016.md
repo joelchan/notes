@@ -2,7 +2,7 @@
 title: @shneidermanNewABCsResearch2016
 url: https://roamresearch.com/#/app/megacoglab/page/H1I1kvdbV
 author: Joel Chan
-date: Tue Jul 14 2020 11:38:59 GMT-0400 (Eastern Daylight Time)
+date: Tue Jul 14 2020 23:38:59 GMT+0800 (Malaysia Time)
 ---
 
 

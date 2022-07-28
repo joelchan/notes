@@ -2,7 +2,7 @@
 title: [[EVD]] - Student subjects in the no prime (example)/multiple base of analogies condition produced designs that were statistically more original than the other combinations of w/ and w/o primes and single base/multiple bases of analogies. - [[@dahlInfluenceValueAnalogical2002]]
 url: https://roamresearch.com/#/app/megacoglab/page/cSmsFe2gb
 author: Jason Ding
-date: Wed Apr 20 2022 19:37:23 GMT-0400 (Eastern Daylight Time)
+date: Thu Apr 21 2022 07:37:23 GMT+0800 (Malaysia Time)
 ---
 
 

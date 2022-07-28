@@ -2,7 +2,7 @@
 title: @clausetSystematicInequalityHierarchy2015
 url: https://roamresearch.com/#/app/megacoglab/page/-fDYuXD7R
 author: Unknown
-date: Thu Jul 14 2022 10:01:04 GMT-0400 (Eastern Daylight Time)
+date: Thu Jul 28 2022 09:18:20 GMT+0800 (Malaysia Time)
 ---
 
 - #references
@@ -13,7 +13,7 @@ date: Thu Jul 14 2022 10:01:04 GMT-0400 (Eastern Daylight Time)
 
         - Tags: #ref/Paper
 
-        - Authored by::  [[Aaron Clauset]] ,  Samuel Arbesman ,  Daniel B. Larremore
+        - Authored by::  [[Aaron Clauset]]
 
         - Year: [[2015]]
 
@@ -35,17 +35,17 @@ date: Thu Jul 14 2022 10:01:04 GMT-0400 (Eastern Daylight Time)
 
         - methods described in SI: https://advances.sciencemag.org/content/advances/suppl/2015/02/11/1.1.e1400005.DC1/1400005_SM.pdf
 
-        - #m/Quantitative #[[m/Network Analysis]]
+        - #m/Quantitative [[mNetwork Analysis]]
 
         - Sample
 
-            - {{[[calc]]: 5032 + 9336 + 4556}} tenure-track faculty across {{[[calc]]: 205 + 112 + 144}} institutions in CS, business, and history in North America in ~2011-2013
+            - {{[[calc]]
 
             - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fmegacoglab%2FkFnjyhEqsV.png?alt=media&token=40ab4499-fd42-49a1-80d3-679d24a5f82a)
 
-    - #[[📝 lit-notes]]
+    - [[📝 lit-notes]]
 
-        - There were very strong prestige hierarchies in academic hiring networks amongst {{[[calc]]: 5032 + 9336 + 4556}} tenure-track faculty across {{[[calc]]: 205 + 112 + 144}} institutions in CS, business, and history in North America in ~2011-2013
+        - There were very strong prestige hierarchies in academic hiring networks amongst {{[[calc]]
 
             - ~80% of faculty were hired from ~25% of institutions (p. 2)
 
@@ -61,7 +61,7 @@ date: Thu Jul 14 2022 10:01:04 GMT-0400 (Eastern Daylight Time)
 
                 - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fmegacoglab%2FNxE0kQqvNg.png?alt=media&token=f983e1ed-58ab-4dc9-a665-e4c9258895f3)
 
-        - Made a prediction that was later tested in #[[@morganPrestigeDrivesEpistemic2018]], that #[[[[CLM]] - Prestige substantially controls how scientific ideas spread]]
+        - Made a prediction that was later tested in [[@morganPrestigeDrivesEpistemic2018]]
 
             - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fmegacoglab%2FzMbfwhIbjc.png?alt=media&token=6b3b7430-87b8-45fe-8a2b-d7af74fac11f)
 

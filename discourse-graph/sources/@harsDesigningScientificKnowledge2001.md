@@ -2,7 +2,7 @@
 title: @harsDesigningScientificKnowledge2001
 url: https://roamresearch.com/#/app/megacoglab/page/AIB5WPMAr
 author: Joel Chan
-date: Wed Jan 22 2020 11:17:29 GMT-0500 (Eastern Standard Time)
+date: Thu Jan 23 2020 00:17:29 GMT+0800 (Malaysia Time)
 ---
 
 - #references
@@ -11,7 +11,7 @@ date: Wed Jan 22 2020 11:17:29 GMT-0500 (Eastern Standard Time)
 
     - Meta
 
-        - Tags:: #[[references]] [[D/Synthesis Infrastructure]]
+        - Tags:: [[references]]
 
         - Authored by:: [[Alexander Hars]]
 
@@ -19,9 +19,9 @@ date: Wed Jan 22 2020 11:17:29 GMT-0500 (Eastern Standard Time)
 
         - Publication: [[Information Systems Frontiers]]
 
-    - #[[📝 lit-notes]]
+    - [[📝 lit-notes]]
 
-        - Typical [[scholarly communication]] infrastructures cannot answer the most basic questions that scholars often want to ask
+        - Typical [[scholarly communication]]
 
             - e.g.,
 
@@ -37,11 +37,11 @@ date: Wed Jan 22 2020 11:17:29 GMT-0500 (Eastern Standard Time)
 
             - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fmegacoglab%2Fi38d9nInbu?alt=media&token=cad426c9-9b3e-4f41-b64c-3d4fc44a346d)
 
-        - Concepts are a core building block of a model of scientific knowledge (p. 70) #[[📝 lit-notes]] #Atomicity
+        - Concepts are a core building block of a model of scientific knowledge (p. 70) [[📝 lit-notes]]
 
             - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fmegacoglab%2FJYjCmS2ftQ?alt=media&token=3752423e-86e7-4c31-931e-498bbd54b14d)
 
-        - Four [[Positivist]] epistemological models of scientific knowledge from philosophy of science [[@popperLogicScientificDiscovery1959]] [[@nagelStructureScienceProblems1979]] [[@dubinTheoryBuilding1978]] [[@bungePhilosophyScience1998]] agree that scientists build __theories__ as systems of scientific __statements__, which are composed of relationships between __concepts__ (p. 70) #[[📝 lit-notes]] #Atomicity #compositionality
+        - Four [[Positivist]]
 
             - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fmegacoglab%2FiQqwB1-Ial?alt=media&token=9a46a986-ca6d-4ba8-85f8-f86aab6bf660)
 

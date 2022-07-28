@@ -2,7 +2,7 @@
 title: [[EVD]] - Student subjects who are encouraged to access multiple base domains in the design task will access a higher proportion of far analogies than will those who are encouraged to access only one domain. - [[@dahlInfluenceValueAnalogical2002]]
 url: https://roamresearch.com/#/app/megacoglab/page/FEOJI8IHg
 author: Jason Ding
-date: Wed Apr 20 2022 19:37:23 GMT-0400 (Eastern Daylight Time)
+date: Thu Apr 21 2022 07:37:23 GMT+0800 (Malaysia Time)
 ---
 
 

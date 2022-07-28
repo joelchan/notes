@@ -2,10 +2,10 @@
 title: @chanImpactAnalogiesCreative2015
 url: https://roamresearch.com/#/app/megacoglab/page/X1E6oq5Ig
 author: Joel Chan
-date: Sun Mar 22 2020 15:19:27 GMT-0400 (Eastern Daylight Time)
+date: Mon Mar 23 2020 03:19:27 GMT+0800 (Malaysia Time)
 ---
 
-- #references for [[D/Computational Analogy]]
+- #references for [[DComputational Analogy]]
 
     - Title: The impact of analogies on creative concept generation: Lessons from an in vivo study in engineering design
 
@@ -33,16 +33,16 @@ date: Sun Mar 22 2020 15:19:27 GMT-0400 (Eastern Daylight Time)
 
     - #lit-context
 
-    - #[[📝 lit-notes]]
+    - [[📝 lit-notes]]
 
         - #Claim Analogies from conceptually far domains can help people come up with new ideas
-- #[[references]]
+- [[references]]
 
     - Title: The impact of analogies on creative concept generation: Lessons from an in vivo study in engineering design
 
     - Meta:
 
-        - Authored by:: [[Joel Chan]] [[Christian Schunn]]
+        - Authored by:: [[Joel Chan]]
 
         - Year: [[2015]]
 

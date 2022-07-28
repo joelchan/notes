@@ -2,7 +2,7 @@
 title: [[EVD]] - most undergrad 1980s textbooks in physics and chemistry cited work published before 1960; sociology texts mostly cited work published after 1960 - [[@coleHierarchySciences1983]]
 url: https://roamresearch.com/#/app/megacoglab/page/lMdlmzR0o
 author: Joel Chan
-date: Fri Sep 10 2021 22:47:15 GMT-0400 (Eastern Daylight Time)
+date: Sat Sep 11 2021 10:47:15 GMT+0800 (Malaysia Time)
 ---
 
 - # Summary

@@ -2,7 +2,7 @@
 title: @suriAdvancementsResearchSynthesis2009
 url: https://roamresearch.com/#/app/megacoglab/page/ggf-yx_HM
 author: Joel Chan
-date: Thu Sep 24 2020 15:39:16 GMT-0400 (Eastern Daylight Time)
+date: Fri Sep 25 2020 03:39:16 GMT+0800 (Malaysia Time)
 ---
 
 - #references
@@ -13,7 +13,7 @@ date: Thu Sep 24 2020 15:39:16 GMT-0400 (Eastern Daylight Time)
 
         - Tags: #ref/Paper
 
-        - Authored by::  [[Harsh Suri]] ,  David Clarke
+        - Authored by::  [[Harsh Suri]]
 
         - Year: [[2009]]
 

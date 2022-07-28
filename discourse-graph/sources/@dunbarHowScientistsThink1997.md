@@ -2,16 +2,16 @@
 title: @dunbarHowScientistsThink1997
 url: https://roamresearch.com/#/app/megacoglab/page/hKfbrOfyq
 author: Joel Chan
-date: Thu Sep 17 2020 13:44:49 GMT-0400 (Eastern Daylight Time)
+date: Fri Sep 18 2020 01:44:49 GMT+0800 (Malaysia Time)
 ---
 
-- #[[references]]
+- [[references]]
 
     - Title: How scientists think: On-line creativity and conceptual change in science
 
     - Meta:
 
-        - Tags: #ref/BookChapter #[[D/Computational Analogy]]
+        - Tags: #ref/BookChapter [[DComputational Analogy]]
 
         - Authored by:: [[Kevin Dunbar]]
 
@@ -33,9 +33,9 @@ date: Thu Sep 17 2020 13:44:49 GMT-0400 (Eastern Daylight Time)
 
         - Book chapter - he never
 
-        - But this work is super badass - was basically an extended [[m/Ethnography]]
+        - But this work is super badass - was basically an extended [[mEthnography]]
 
-    - #[[📝 lit-notes]]
+    - [[📝 lit-notes]]
 
         - super far (nonbiological) analogies mostly were used for explanations, and were super rare
 
@@ -45,7 +45,7 @@ date: Thu Sep 17 2020 13:44:49 GMT-0400 (Eastern Daylight Time)
 
         - **How did the authors approach their questions/problems?** ((most of this is going to come from the methods sections, although some info about conceptualization of key concepts might be relevant to pull from intro/lit-review)) #lit-context
 
-        - **What did they find?** ((keep this as contextualized as possible; resist the urge to repeat claims or generalizations)) #[[observation-notes]]
+        - **What did they find?** ((keep this as contextualized as possible; resist the urge to repeat claims or generalizations)) [[observation-notes]]
 
 ###### Discourse Context
 

@@ -2,10 +2,10 @@
 title: @hindsCurseExpertiseEffects1999
 url: https://roamresearch.com/#/app/megacoglab/page/2d6PQOQH7
 author: Joel Chan
-date: Wed Feb 17 2021 13:21:12 GMT-0500 (Eastern Standard Time)
+date: Thu Feb 18 2021 02:21:12 GMT+0800 (Malaysia Time)
 ---
 
-- #[[references]]
+- [[references]]
 
     - Title: The curse of expertise: The effects of expertise and debiasing methods on prediction of novice performance.
 

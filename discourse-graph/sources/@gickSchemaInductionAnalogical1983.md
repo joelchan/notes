@@ -2,18 +2,18 @@
 title: @gickSchemaInductionAnalogical1983
 url: https://roamresearch.com/#/app/megacoglab/page/YhgrJanzQ
 author: Joel Chan
-date: Tue May 19 2020 22:40:57 GMT-0400 (Eastern Daylight Time)
+date: Wed May 20 2020 10:40:57 GMT+0800 (Malaysia Time)
 ---
 
-- #[[references]]
+- [[references]]
 
     - Title: Schema induction and analogical transfer
 
     - Meta:
 
-        - Tags: #ref/Paper #[[D/Computational Analogy]]
+        - Tags: #ref/Paper [[DComputational Analogy]]
 
-        - Authored by:: [[Mary Gick]] [[Keith J. Holyoak]]
+        - Authored by:: [[Mary Gick]]
 
         - Year: [[1983]]
 
@@ -29,7 +29,7 @@ date: Tue May 19 2020 22:40:57 GMT-0400 (Eastern Daylight Time)
 
         - Abstract
 
-            - An analysis of the process of analogical thinking predicts that [analogies]([[analogy]]) will be noticed on the basis of semantic retrieval cues and that the induction of a general schema from concrete analogs will facilitate analogical transfer. These predictions were tested in experiments in which subjects first read one or more stories illus- trating problems and their solutions and then attempted to solve a disparate but analogous transfer problem. The studies in Part I attempted to foster the abstrac- tion of a problem schema from a single story analog by means of summarization instructions, a verbal statement of the underlying principle, or a diagrammatic representation of it. None of these devices achieved a notable degree of sucess. In contrast, the experiments in Part II demonstrated that if two prior analogs were given, subjects often derived a problem schema as an incidental product of de- scribing the similarities of the analogs. The quality of the induced schema was highly predictive of subsequent transfer performance. Furthermore, the verbal statements and diagrams that had failed to facilitate transfer from one analog proved highly beneficial when paired with two. The function of examples in learning was discussed in light of the present study.
+            - An analysis of the process of analogical thinking predicts that [analogies]([[analogy]]
 
         - PDF
 
@@ -53,7 +53,7 @@ date: Tue May 19 2020 22:40:57 GMT-0400 (Eastern Daylight Time)
 
     - #lit-context
 
-    - #[[📝 lit-notes]]
+    - [[📝 lit-notes]]
 
         - #inspectionalread - Part 1 has three experiments where they try various encoding manipulations to get schemas out of a single analog; Part 2 has three experiments explores manipulations where two prior analogs are presented.
 
@@ -81,7 +81,7 @@ date: Tue May 19 2020 22:40:57 GMT-0400 (Eastern Daylight Time)
 
                 - Participants: high-schoolers (grades 10-12)
 
-                - Materials: used the the [[Maier two-string problem]] instead of the radiation problem
+                - Materials: used the the [[Maier two-string problem]]
 
             - Experiment II: statement of principle (p. 15)
 
@@ -91,7 +91,7 @@ date: Tue May 19 2020 22:40:57 GMT-0400 (Eastern Daylight Time)
 
                     - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fmegacoglab%2FomgzuqaYto.png?alt=media&token=20c3d9fe-0103-4ccb-9312-d12c55940015) (p. 22)
 
-        - **What did they find?** ((keep this as contextualized as possible; resist the urge to repeat claims or generalizations)) #[[observation-notes]]
+        - **What did they find?** ((keep this as contextualized as possible; resist the urge to repeat claims or generalizations)) [[observation-notes]]
 
             - Part 1: One analog
 
@@ -101,7 +101,7 @@ date: Tue May 19 2020 22:40:57 GMT-0400 (Eastern Daylight Time)
 
                         - ![](https://firebasestorage.googleapis.com/v0/b/roampdf.appspot.com/o/public%2Fimages%2F1615924995150.png?alt=media&token=3ce40681-0627-41a3-952d-b5c7deb596ba) {{14: waiekJU5J}} [📑](((Yrmq2gVg-)))
 
-                        - Note: error in Table: Analog summary before hint should be 75%. Absolute performance before hint also quite a bit higher than what was seen with [[Duncker's radiation problem]] - ~60-70% compared to ~30%
+                        - Note: error in Table: Analog summary before hint should be 75%. Absolute performance before hint also quite a bit higher than what was seen with [[Duncker's radiation problem]]
 
                 - Experiment II: statement of principle (p. 15)
 
@@ -121,7 +121,7 @@ date: Tue May 19 2020 22:40:57 GMT-0400 (Eastern Daylight Time)
 
                 - Experiment IV: one vs. two analogs (similar or dissimilar domain pairs)
 
-                    - [[[[EVD]] - direct comparison of dissimilar analogs approximately doubled rates of spontaneous far analogical transfer for the radiation problem - [[@gickSchemaInductionAnalogical1983]]]]
+                    - [[EVD - direct comparison of dissimilar analogs approximately doubled rates of spontaneous far analogical transfer for the radiation problem - @gickSchemaInductionAnalogical1983]]
 
                 - Experiment V: statement of principle
 

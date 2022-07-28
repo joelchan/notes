@@ -2,7 +2,7 @@
 title: [[EVD]] - Crowd workers generated the most novel and practical ideas when given analogical inspirations found from domain-independent problem descriptions with concrete constraints, compared to abstract constraints - [[@yuDistributedAnalogicalIdea2016]]
 url: https://roamresearch.com/#/app/megacoglab/page/99_kDjqmw
 author: Joel Chan
-date: Fri Feb 18 2022 14:24:15 GMT-0500 (Eastern Standard Time)
+date: Sat Feb 19 2022 03:24:15 GMT+0800 (Malaysia Time)
 ---
 
 - # Summary

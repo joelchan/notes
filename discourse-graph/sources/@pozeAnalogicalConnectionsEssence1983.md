@@ -2,10 +2,10 @@
 title: @pozeAnalogicalConnectionsEssence1983
 url: https://roamresearch.com/#/app/megacoglab/page/HkrCjamCF
 author: Joel Chan
-date: Fri Oct 30 2020 11:36:00 GMT-0400 (Eastern Daylight Time)
+date: Fri Oct 30 2020 23:36:00 GMT+0800 (Malaysia Time)
 ---
 
-- #[[references]]
+- [[references]]
 
     - Title: Analogical connections: The essence of creativity
 

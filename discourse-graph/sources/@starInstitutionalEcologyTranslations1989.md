@@ -2,7 +2,7 @@
 title: @starInstitutionalEcologyTranslations1989
 url: https://roamresearch.com/#/app/megacoglab/page/6vbMSy51f
 author: Joel Chan
-date: Tue May 26 2020 01:16:39 GMT-0400 (Eastern Daylight Time)
+date: Tue May 26 2020 13:16:39 GMT+0800 (Malaysia Time)
 ---
 
 - #references
@@ -13,7 +13,7 @@ date: Tue May 26 2020 01:16:39 GMT-0400 (Eastern Daylight Time)
 
         - Tags: #ref/Paper
 
-        - Authored by::  [[Susan Leigh Star]] ,  James R. Griesemer
+        - Authored by::  [[Susan Leigh Star]]
 
         - Year: [[1989]]
 
@@ -29,7 +29,7 @@ date: Tue May 26 2020 01:16:39 GMT-0400 (Eastern Daylight Time)
 
     - #lit-context
 
-        - #canonical (original) paper for [[[[PTN]] - boundary object]]
+        - #canonical (original) paper for [[PTN - boundary object]]
 
 ###### Discourse Context
 

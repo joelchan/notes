@@ -2,10 +2,10 @@
 title: @fosterNonlinearModelInformationseeking2004
 url: https://roamresearch.com/#/app/megacoglab/page/2O2xDf-pu
 author: Joel Chan
-date: Tue Nov 24 2020 16:04:12 GMT-0500 (Eastern Standard Time)
+date: Wed Nov 25 2020 05:04:12 GMT+0800 (Malaysia Time)
 ---
 
-- #[[references]]
+- [[references]]
 
     - Title: A nonlinear model of information-seeking behavior
 

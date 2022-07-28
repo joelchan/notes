@@ -2,16 +2,16 @@
 title: @scotneyUbiquityCrossDomainThinking2019
 url: https://roamresearch.com/#/app/megacoglab/page/gn4R0NBCJ
 author: Joel Chan
-date: Mon Jul 05 2021 17:20:08 GMT-0400 (Eastern Daylight Time)
+date: Tue Jul 06 2021 05:20:08 GMT+0800 (Malaysia Time)
 ---
 
-- #[[references]]
+- [[references]]
 
     - Title: The Ubiquity of Cross-Domain Thinking in the Early Phase of the Creative Process
 
     - Meta:
 
-        - Authored by:: [[Victoria S. Scotney]] [[Sarah Weissmeyer]] [[Nicole Carbert]] [[Liane Gabora]]
+        - Authored by:: [[Victoria S. Scotney]]
 
         - Year: [[2019]]
 

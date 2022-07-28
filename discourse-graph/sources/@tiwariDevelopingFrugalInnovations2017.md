@@ -2,16 +2,16 @@
 title: @tiwariDevelopingFrugalInnovations2017
 url: https://roamresearch.com/#/app/megacoglab/page/80siADaFj
 author: Joel Chan
-date: Fri Jul 02 2021 22:21:25 GMT-0400 (Eastern Daylight Time)
+date: Sat Jul 03 2021 10:21:25 GMT+0800 (Malaysia Time)
 ---
 
-- #[[references]]
+- [[references]]
 
     - Title: Developing Frugal Innovations with Inventive Analogies: Preliminary Evidence from Innovations in India
 
     - Meta:
 
-        - Authored by:: [[Rajnish Tiwari]] [[Katharina Kalogerakis]] [[Cornelius Herstatt]] [[Cornelius Herstatt]] [[Rajnish Tiwari]]
+        - Authored by:: [[Rajnish Tiwari]]
 
         - Year: [[2017]]
 

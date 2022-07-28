@@ -2,7 +2,7 @@
 title: [[EVD]] - three communities across a range of race and income effectively used ICTs to engage with policy and governance, but government officials were most responsive to and proactive with the majority white / middle-high income community - [[@ereteEmpoweredParticipationHow2017]]
 url: https://roamresearch.com/#/app/megacoglab/page/9E5lhWAnK
 author: Joel Chan
-date: Wed Jul 14 2021 12:03:04 GMT-0400 (Eastern Daylight Time)
+date: Thu Jul 15 2021 00:03:04 GMT+0800 (Malaysia Time)
 ---
 
 - Summary::

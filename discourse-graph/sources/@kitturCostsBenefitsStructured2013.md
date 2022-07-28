@@ -2,16 +2,16 @@
 title: @kitturCostsBenefitsStructured2013
 url: https://roamresearch.com/#/app/megacoglab/page/dxeXSIOQk
 author: Joel Chan
-date: Sun Feb 07 2021 14:10:09 GMT-0500 (Eastern Standard Time)
+date: Mon Feb 08 2021 03:10:09 GMT+0800 (Malaysia Time)
 ---
 
-- #[[references]]
+- [[references]]
 
     - Title: Costs and Benefits of Structured Information Foraging
 
     - Meta:
 
-        - Authored by:: [[Aniket Kittur]] [[Andrew M. Peters]] [[Abdigani Diriye]] [[Trupti Telang]] [[Michael R. Bove]]
+        - Authored by:: [[Aniket Kittur]]
 
         - Year: [[2013]]
 

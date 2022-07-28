@@ -2,12 +2,12 @@
 title: [[QUE]] - How can we augment scientific creativity with computational analogy?
 url: https://roamresearch.com/#/app/megacoglab/page/HESVKgDk5
 author: Joel Chan
-date: Fri Sep 18 2020 12:56:45 GMT-0400 (Eastern Daylight Time)
+date: Sat Sep 19 2020 00:56:45 GMT+0800 (Malaysia Time)
 ---
 
-- #[[Question]]
+- [[question]]
 
-    - Tags: key question for #[[D/Computational Analogy]]
+    - Tags: key question for [[DComputational Analogy]]
 
     - Description {{word-count}}
 
@@ -17,15 +17,15 @@ date: Fri Sep 18 2020 12:56:45 GMT-0400 (Eastern Daylight Time)
 
                 - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fmegacoglab%2FC0CKJWoVGw.png?alt=media&token=2cac9f86-f961-4fab-9bc0-51df1ca4265f)
 
-        - [[[[CLM]] - Analogical retrieval in humans is dominated by surface similarity]] [[@gentnerAnalogicalRemindingGood1985]]
+        - [[CLM - Analogical retrieval in humans is dominated by surface similarity]]
 
             - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fmegacoglab%2FO5kmmXtt-d.png?alt=media&token=0ed35b29-10c3-4304-b35d-2687537c808f)
 
-        - [[[[CLM]] - There is a 'Sweet Spot' in Analogical Distance. Somewhat far analogies lead to better creative outcomes than very near or very far analogies]]
+        - [[CLM - There is a 'Sweet Spot' in Analogical Distance. Somewhat far analogies lead to better creative outcomes than very near or very far analogies]]
 
-        - Contribution: [[idea: purpose-mechanism schema]]
+        - Contribution: [[idea purpose-mechanism schema]]
 
-            - [[idea: purpose-mechanism schema]] is feasible target for scaling up
+            - [[idea purpose-mechanism schema]]
 
                 - Purpose mechanism can be annotated feasibly, even for highly technical papers
 
@@ -35,23 +35,23 @@ date: Fri Sep 18 2020 12:56:45 GMT-0400 (Eastern Daylight Time)
 
                     - Then did [[bi-LSTM]]
 
-                    - Then did [[SpanRel]] + some other magic.
+                    - Then did [[SpanRel]]
 
                         - This is currently our best-performing model (from our [unpublished manuscript](https://www.overleaf.com/project/5ee79084c20b3600018007b8))
 
                             - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fmegacoglab%2F36f_QbCHs6.png?alt=media&token=0b99d205-4254-4eda-9192-62af68ef552e))
 
-                        - I'm a bit nervous about these numbers because we're still using the CSCW 50 papers from [[@chanSOLVENTMixedInitiative2018]] as our test set. This is a low-hanging fruit thing that is worth exploring further, and we'll need much more data for this
+                        - I'm a bit nervous about these numbers because we're still using the CSCW 50 papers from [[@chanSOLVENTMixedInitiative2018]]
 
-                            - can reach out ot [[Kenneth Huang]] who has ~11k COVID-19 papers annotated
+                            - can reach out ot [[Kenneth Huang]]
 
-                                - --> [[dataset/CODA-19]]
+                                - --> [[datasetCODA-19]]
 
                                     - https://twitter.com/windx0303/status/1258427687191883778
 
                                 - caveat is that purpose accuracy is... not great - F of about .6
 
-                                - also shows later in [[@huangCODA19UsingNonExpert2020]] that [[sys/SciBERT]] actually does a really good job, about .7ish as well
+                                - also shows later in [[@huangCODA19UsingNonExpert2020]]
 
                                 - some nice comments in a submission here:
 
@@ -69,21 +69,21 @@ date: Fri Sep 18 2020 12:56:45 GMT-0400 (Eastern Daylight Time)
 
                                         - etc
 
-                    - [[Tom Hope]] has also explored using graph-based methods to augment the attention mechanisms
+                    - [[Tom Hope]]
 
-                    - And we've also explored the utility and feasibility of [[sys/Snorkel]]-like [[weak supervision]] to do a cue-based thing.
+                    - And we've also explored the utility and feasibility of [[sysSnorkel]]
 
                         - IIRC, works better for purpose than mechanism
 
                 - i think there is still some room here for improvement
 
-                    - wondering about integration with [[sys/Semantic Scholar]]??
+                    - wondering about integration with [[sysSemantic Scholar]]
 
                         - coudl also get some real-time data on matches? not sure though - analytics on usage rate will be tough to get - real signal is whether it gets added to your library, which mendeley has
 
-                            - so maybe integration with [[sys/Mendeley]] is the thing to explore.
+                            - so maybe integration with [[sysMendeley]]
 
-            - [[idea: purpose-mechanism schema]] is useful for supporting analogical search
+            - [[idea purpose-mechanism schema]]
 
                 - Can find matches
 
@@ -91,13 +91,13 @@ date: Fri Sep 18 2020 12:56:45 GMT-0400 (Eastern Daylight Time)
 
                     - And also science papers [[@chanSOLVENTMixedInitiative2018]]
 
-                        - New stuff from [[Hyeonsu]], with case study data
+                        - New stuff from [[Hyeonsu]]
 
                 - Interestingly, even when the purpose span predictions aren't super great, F-wise, we do ok
 
-                    - Saw this with our explorations of [[sys/Snorkel]] too
+                    - Saw this with our explorations of [[sysSnorkel]]
 
-        - [[[[CLM]] - Core attribute (mis)matches mediate the benefits of analogies in real-world, complex problem solving]]
+        - [[CLM - Core attribute (mis)matches mediate the benefits of analogies in real-world, complex problem solving]]
 
 ###### Discourse Context
 

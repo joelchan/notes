@@ -2,7 +2,7 @@
 title: [[EVD]] - Older adults needed to use special take-home activities to escape self-stereotyping - @pradhanUnderstandingOlderAdults2020
 url: https://roamresearch.com/#/app/megacoglab/page/0S1RTOmrU
 author: Joel Chan
-date: Fri May 14 2021 13:47:12 GMT-0400 (Eastern Daylight Time)
+date: Sat May 15 2021 01:47:12 GMT+0800 (Malaysia Time)
 ---
 
 - noteType:: [[EVD]]
@@ -41,7 +41,7 @@ date: Fri May 14 2021 13:47:12 GMT-0400 (Eastern Daylight Time)
 
     - ## **Discourse Context**
 
-        - Informs:: [[[[QUE]] - What tension points exist between the goals of diversity and depth of user participation in participatory design?]]
+        - Informs:: [[QUE - What tension points exist between the goals of diversity and depth of user participation in participatory design]]
 
     - ## Metadata::
 

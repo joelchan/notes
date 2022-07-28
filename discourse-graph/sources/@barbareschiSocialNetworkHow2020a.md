@@ -2,16 +2,16 @@
 title: @barbareschiSocialNetworkHow2020a
 url: https://roamresearch.com/#/app/megacoglab/page/ADnhUSRcG
 author: Joel Chan
-date: Fri May 14 2021 11:27:45 GMT-0400 (Eastern Daylight Time)
+date: Fri May 14 2021 23:27:45 GMT+0800 (Malaysia Time)
 ---
 
-- #[[references]]
+- [[references]]
 
     - Title: The social network: How people with visual impairment use mobile phones in kibera, kenya
 
     - Meta:
 
-        - Authored by:: [[Giulia Barbareschi]] [[Catherine Holloway]] [[Katherine Arnold]] [[Grace Magomere]] [[Wycliffe Ambeyi Wetende]] [[Gabriel Ngare]] [[Joyce Olenja]]
+        - Authored by:: [[Giulia Barbareschi]]
 
         - Year: [[2020]]
 

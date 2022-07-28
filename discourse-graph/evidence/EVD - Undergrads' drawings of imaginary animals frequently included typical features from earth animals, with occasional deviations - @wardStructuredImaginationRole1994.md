@@ -2,7 +2,7 @@
 title: [[EVD]] - Undergrads' drawings of imaginary animals frequently included typical features from earth animals, with occasional deviations - [[@wardStructuredImaginationRole1994]]
 url: https://roamresearch.com/#/app/megacoglab/page/0eo5aSWsb
 author: Joel Chan
-date: Tue Dec 28 2021 14:18:19 GMT-0500 (Eastern Standard Time)
+date: Wed Dec 29 2021 03:18:19 GMT+0800 (Malaysia Time)
 ---
 
 - # Summary

@@ -2,16 +2,16 @@
 title: @mcmahanAmbiguityEngagement2018
 url: https://roamresearch.com/#/app/megacoglab/page/GhXXnn8RT
 author: Joel Chan
-date: Wed Feb 03 2021 08:59:24 GMT-0500 (Eastern Standard Time)
+date: Wed Feb 03 2021 21:59:24 GMT+0800 (Malaysia Time)
 ---
 
-- #[[references]]
+- [[references]]
 
     - Title: Ambiguity and Engagement
 
     - Meta:
 
-        - Authored by:: [[Peter McMahan]] [[James A. Evans]]
+        - Authored by:: [[Peter McMahan]]
 
         - Year: [[2018]]
 

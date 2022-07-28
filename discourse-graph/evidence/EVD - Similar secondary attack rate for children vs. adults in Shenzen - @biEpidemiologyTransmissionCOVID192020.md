@@ -2,7 +2,7 @@
 title: [[EVD]] - Similar secondary attack rate for children vs. adults in Shenzen - [[@biEpidemiologyTransmissionCOVID192020]]
 url: https://roamresearch.com/#/app/megacoglab/page/KxZbYojmj
 author: Joel Chan
-date: Wed Dec 08 2021 16:43:39 GMT-0500 (Eastern Standard Time)
+date: Thu Dec 09 2021 05:43:39 GMT+0800 (Malaysia Time)
 ---
 
 - # **Summary**
@@ -12,7 +12,7 @@ date: Wed Dec 08 2021 16:43:39 GMT-0500 (Eastern Standard Time)
         - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fjoel-covid19%2FxQH9Y4f7-S.png?alt=media&token=a7b1b48a-16ad-4dd5-a90b-15ba71d2cb41) (p. 916)
 - # **Grounding Context**
 
-    - setting: Shenzen, [[China]], in the first few weeks of January [[2020]]
+    - setting: Shenzen, [[China]]
 
         - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fjoel-covid19%2FhdhUnz82JJ.png?alt=media&token=8ae62c07-c073-4529-968d-ab57332eb845) (p. 912)
 

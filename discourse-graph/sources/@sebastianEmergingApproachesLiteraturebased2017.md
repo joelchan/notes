@@ -2,16 +2,16 @@
 title: @sebastianEmergingApproachesLiteraturebased2017
 url: https://roamresearch.com/#/app/megacoglab/page/rBKn1BRt-
 author: Joel Chan
-date: Fri Mar 26 2021 02:28:52 GMT-0400 (Eastern Daylight Time)
+date: Fri Mar 26 2021 14:28:52 GMT+0800 (Malaysia Time)
 ---
 
-- #[[references]]
+- [[references]]
 
     - Title: Emerging approaches in literature-based discovery: techniques and performance review
 
     - Meta:
 
-        - Authored by:: [[Yakub Sebastian]] [[Eu-Gene Siew]] [[Sylvester O. Orimaye]]
+        - Authored by:: [[Yakub Sebastian]]
 
         - Year: [[2017]]
 

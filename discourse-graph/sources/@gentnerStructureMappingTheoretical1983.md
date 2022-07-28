@@ -2,7 +2,7 @@
 title: @gentnerStructureMappingTheoretical1983
 url: https://roamresearch.com/#/app/megacoglab/page/8znHL-G0J
 author: Joel Chan
-date: Mon Jun 29 2020 12:41:26 GMT-0400 (Eastern Daylight Time)
+date: Tue Jun 30 2020 00:41:26 GMT+0800 (Malaysia Time)
 ---
 
 - Title:: Structure Mapping: A Theoretical Framework for Analogy
@@ -12,7 +12,7 @@ date: Mon Jun 29 2020 12:41:26 GMT-0400 (Eastern Daylight Time)
 - Publication:: Cognitive Science
 - Date Added:: [[October 13th, 2020]]
 - Zotero links:: [Local library](zotero://select/groups/2451508/items/4JIDZBJ9), [Local library](https://www.zotero.org/groups/2451508/items/4JIDZBJ9)
-- Tags:: #[[Analogy]], #[[Computational modeling]], #[[DissertationProposal]], #[[Processed]], #[[Retrieval/transfer]]
+- Tags:: [[Analogy]]
 - [[Notes]]
 
     - (0)

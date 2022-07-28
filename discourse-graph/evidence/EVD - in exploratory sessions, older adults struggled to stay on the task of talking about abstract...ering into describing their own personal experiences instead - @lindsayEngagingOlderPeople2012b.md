@@ -2,7 +2,7 @@
 title: [[EVD]] - in exploratory sessions, older adults struggled to stay on the task of talking about abstract scenarios, often veering into describing their own personal experiences instead - [[@lindsayEngagingOlderPeople2012b]]
 url: https://roamresearch.com/#/app/megacoglab/page/ujkG1qoF8
 author: Joel Chan
-date: Tue Jun 29 2021 15:05:33 GMT-0400 (Eastern Daylight Time)
+date: Wed Jun 30 2021 03:05:33 GMT+0800 (Malaysia Time)
 ---
 
 - Summary::
@@ -12,7 +12,7 @@ date: Tue Jun 29 2021 15:05:33 GMT-0400 (Eastern Daylight Time)
         - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fmegacoglab%2FaL0PM6Vktl.png?alt=media&token=8b79f6c5-5d83-408f-b999-c8a857c5c546) (p. 1205)
 - **Grounding Context**
 
-    - Research team tested a new design approach, the [[sys/OASIS design approach]] with a set of older adults, aimed at three domains: 1) designing digital technology to promote healthy eating, 2) personal mobility, and 3) promoting feelings of personal security in the home.
+    - Research team tested a new design approach, the [[sysOASIS design approach]]
 
     - Their focus on older adults was to work with the full range of diversity of the 65+ age group. The researchers did not report specific demographic statistics or information about the older adults they worked with (from which their results are based), but they did report that their sample was more mobile than the typical older population
 

@@ -2,7 +2,7 @@
 title: [[EVD]] - giving a bridging analogy to a far analogy for a numerical representations led to better student performance (and more robust explanations of answers) on a math post test compared to no or just the analogy - [[@vamvakoussiBridgingGapDense2012]]
 url: https://roamresearch.com/#/app/megacoglab/page/1QfF_2Blc
 author: Joel Chan
-date: Thu Dec 09 2021 14:47:52 GMT-0500 (Eastern Standard Time)
+date: Fri Dec 10 2021 03:47:52 GMT+0800 (Malaysia Time)
 ---
 
 - results

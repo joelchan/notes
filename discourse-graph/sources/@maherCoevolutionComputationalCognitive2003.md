@@ -2,7 +2,7 @@
 title: @maherCoevolutionComputationalCognitive2003
 url: https://roamresearch.com/#/app/megacoglab/page/gKzLUf1Z9
 author: Joel Chan
-date: Wed Aug 19 2020 23:00:28 GMT-0400 (Eastern Daylight Time)
+date: Thu Aug 20 2020 11:00:28 GMT+0800 (Malaysia Time)
 ---
 
 - #references
@@ -13,7 +13,7 @@ date: Wed Aug 19 2020 23:00:28 GMT-0400 (Eastern Daylight Time)
 
         - Tags: #ref/Paper
 
-        - Authored by::  [[Mary Lou Maher]] ,  Hsien-Hui Tang
+        - Authored by::  [[Mary Lou Maher]]
 
         - Year: [[2003]]
 

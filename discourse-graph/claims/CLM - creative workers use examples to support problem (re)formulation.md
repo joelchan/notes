@@ -2,7 +2,7 @@
 title: [[CLM]] - creative workers use examples to support problem (re)formulation
 url: https://roamresearch.com/#/app/megacoglab/page/wI8zQ6kSR
 author: Joel Chan
-date: Fri Apr 08 2022 22:40:31 GMT-0400 (Eastern Daylight Time)
+date: Sat Apr 09 2022 10:40:31 GMT+0800 (Malaysia Time)
 ---
 
 - 

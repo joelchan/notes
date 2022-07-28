@@ -2,7 +2,7 @@
 title: [[EVD]] - when given a (far) analogy for numerical representations, students did no better (and possibly worse) than on a post-test than not having it - [[@vamvakoussiBridgingGapDense2012]]
 url: https://roamresearch.com/#/app/megacoglab/page/mPZM8-hmC
 author: Joel Chan
-date: Thu Dec 09 2021 14:43:52 GMT-0500 (Eastern Standard Time)
+date: Fri Dec 10 2021 03:43:52 GMT+0800 (Malaysia Time)
 ---
 
 - # Summary

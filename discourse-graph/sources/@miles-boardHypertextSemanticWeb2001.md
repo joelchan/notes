@@ -2,7 +2,7 @@
 title: @miles-boardHypertextSemanticWeb2001
 url: https://roamresearch.com/#/app/megacoglab/page/xGBHCMnoj
 author: Joel Chan
-date: Mon May 11 2020 22:04:28 GMT-0400 (Eastern Daylight Time)
+date: Tue May 12 2020 10:04:28 GMT+0800 (Malaysia Time)
 ---
 
 - #references
@@ -11,7 +11,7 @@ date: Mon May 11 2020 22:04:28 GMT-0400 (Eastern Daylight Time)
 
     - Meta:
 
-        - Tags: #ref/Paper #[[Semantic Web]]
+        - Tags: #ref/Paper [[Semantic Web]]
 
         - Authored by::  Timothy Miles-Board ,  Simon Kampa ,  Leslie Carr ,  Wendy Hall
 

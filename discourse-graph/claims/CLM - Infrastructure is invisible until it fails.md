@@ -2,12 +2,12 @@
 title: [[CLM]] - Infrastructure is invisible until it fails
 url: https://roamresearch.com/#/app/megacoglab/page/igPP_dW55
 author: Joel Chan
-date: Sat Mar 07 2020 17:25:07 GMT-0500 (Eastern Standard Time)
+date: Sun Mar 08 2020 06:25:07 GMT+0800 (Malaysia Time)
 ---
 
-- #[[🌲 zettels]]
+- [[🌲 zettels]]
 
-    - Tags: #[[D/Synthesis Infrastructure]] #infrastructure #[[Z]]
+    - Tags: [[DSynthesis Infrastructure]]
 
     - Description
 

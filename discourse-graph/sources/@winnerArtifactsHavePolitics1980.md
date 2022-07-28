@@ -2,7 +2,7 @@
 title: @winnerArtifactsHavePolitics1980
 url: https://roamresearch.com/#/app/megacoglab/page/P5sMByWwm
 author: Joel Chan
-date: Wed Jul 22 2020 16:47:24 GMT-0400 (Eastern Daylight Time)
+date: Thu Jul 23 2020 04:47:24 GMT+0800 (Malaysia Time)
 ---
 
 - #references
@@ -31,7 +31,7 @@ date: Wed Jul 22 2020 16:47:24 GMT-0400 (Eastern Daylight Time)
 
     - #lit-context
 
-        - #canonical paper for [[[[CLM]] - Artifacts have politics]]
+        - #canonical paper for [[CLM - Artifacts have politics]]
 
 ###### Discourse Context
 

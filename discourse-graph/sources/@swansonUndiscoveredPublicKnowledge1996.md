@@ -2,7 +2,7 @@
 title: @swansonUndiscoveredPublicKnowledge1996
 url: https://roamresearch.com/#/app/megacoglab/page/gkOqThs6v
 author: Joel Chan
-date: Wed Jun 17 2020 13:46:04 GMT-0400 (Eastern Daylight Time)
+date: Thu Jun 18 2020 01:46:04 GMT+0800 (Malaysia Time)
 ---
 
 - #references
@@ -13,11 +13,11 @@ date: Wed Jun 17 2020 13:46:04 GMT-0400 (Eastern Daylight Time)
 
         - Tags: #ref/Paper
 
-        - Authored by::  [[Don R. Swanson]] ,  Neil R Smalheiser
+        - Authored by::  [[Don R. Swanson]]
 
         - Year: [[1996]]
 
-        - Publication: Proceedings of [[KDD]] '96
+        - Publication: Proceedings of [[KDD]]
 
         - URL:
 

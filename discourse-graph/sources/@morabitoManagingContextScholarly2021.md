@@ -2,16 +2,16 @@
 title: @morabitoManagingContextScholarly2021
 url: https://roamresearch.com/#/app/megacoglab/page/2wTxcVs_b
 author: Joel Chan
-date: Wed Jun 23 2021 10:37:21 GMT-0400 (Eastern Daylight Time)
+date: Wed Jun 23 2021 22:37:21 GMT+0800 (Malaysia Time)
 ---
 
-- #[[references]]
+- [[references]]
 
     - Title: Managing Context during Scholarly Knowledge Synthesis: Process Patterns and System Mechanics
 
     - Meta:
 
-        - Authored by:: [[John S Morabito]] [[Joel Chan]]
+        - Authored by:: [[John S Morabito]]
 
         - Year: [[2021]]
 

@@ -2,32 +2,32 @@
 title: [[QUE]] - What are the most efficient routes to useful cross-boundary knowledge?
 url: https://roamresearch.com/#/app/megacoglab/page/xHn4gdsAm
 author: Joel Chan
-date: Mon Jan 11 2021 13:22:47 GMT-0500 (Eastern Standard Time)
+date: Tue Jan 12 2021 02:22:47 GMT+0800 (Malaysia Time)
 ---
 
 - # Synthesis
 
-    - Hypothesis: we have far better evidence of **people** being the initial / most important first entry points into ideas across disciplinary (and other) boundaries, compared to search or recommendation that is separated from a social interaction of some kind. This is a variant of [[[[CLM]] - In interdisciplinary domains, network-based foraging is more powerful than search-based foraging]]
+    - Hypothesis: we have far better evidence of **people** being the initial / most important first entry points into ideas across disciplinary (and other) boundaries, compared to search or recommendation that is separated from a social interaction of some kind. This is a variant of [[CLM - In interdisciplinary domains, network-based foraging is more powerful than search-based foraging]]
 
     - We have lots of evidence of people being an effective (and in many cases the most preferred) channel to cross-boundary information
 
-        - In describing how scientists at an interdisciplinary center imported information from outside their specialty, [[@palmerWorkBoundariesScience2001]] identified a range of practices, from talking to personal contacts, reading literature, and engaging in more formal learning activities. A strong theme was the special efficiency and effectiveness of talking to people to access and filter cross-boundary information with maximal signal-to-noise ratio.
+        - In describing how scientists at an interdisciplinary center imported information from outside their specialty, [[@palmerWorkBoundariesScience2001]]
 
             - For example, Palmer writes, "no other type of information interaction is likely to be [as] efficient and profitable [as interactive discussions with colleagues]" (p. 33-34)
 
             - She also summarized that scientists at the interdisciplinary research center imported information across disciplinary boundaries predominantly via **personal networks** (pp. 31, 32-35). For example, ((YRq-AQNqf))
 
-        - There is also research on sources of innovation in innovation contests and firm-/organizational-level innovation that suggests an [[outsider innovation]] phenomenon: breakthrough innovations are more likely to come from people who are technically marginal/distant from the problem domain
+        - There is also research on sources of innovation in innovation contests and firm-/organizational-level innovation that suggests an [[outsider innovation]]
 
-            - For example, [[@jeppesenMarginalityProblemsolvingEffectiveness2010]] found that [Solvers](((8JunxBU6A))) who chose to submit their solutions to the 2nd stage of an innovation contest and [self-rated themselves as more technically distant from the problem domain](((LtwnesPYh))) were slightly more likely to submit winning solutions for [Innocentive science problem solving contests](((OztGD5jl4)))
+            - For example, [[@jeppesenMarginalityProblemsolvingEffectiveness2010]]
 
-        - Additional indirect evidence comes from the literature on collocation and collaboration, which so far we can see generally seems to find facilitative effects on knowledge transfer and collaboration from induced face-to-face contact [[[[CLM]] - Physical proximity greatly facilitates initiation of new collaborations]]
+        - Additional indirect evidence comes from the literature on collocation and collaboration, which so far we can see generally seems to find facilitative effects on knowledge transfer and collaboration from induced face-to-face contact [[CLM - Physical proximity greatly facilitates initiation of new collaborations]]
 
-            - An entry point is [[@cataliniMicrogeographyDirectionInventive2017]], who found substantial changes in the likelihood of collaboration [across research labs](setting: major research university in France) as a function of [collocation](((5o6r4gVo9))), particularly for labs that were "[further apart](((WduBJ9Zfy)))" in research areas.
+            - An entry point is [[@cataliniMicrogeographyDirectionInventive2017]]
 
-                - This work *suggests* / is consistent with the idea that other channels of search across boundaries are less efficient than face-to-face (presumably "small touch", bc collocation) contact with people from other units (i.e., across boundaries). the logic is that if the [search costs]([[search costs of innovation]]) were the same / comparable, then those ideas would have initiation probability that is similar to collocation, in the absence of collocation.
+                - This work *suggests* / is consistent with the idea that other channels of search across boundaries are less efficient than face-to-face (presumably "small touch", bc collocation) contact with people from other units (i.e., across boundaries). the logic is that if the [search costs]([[search costs of innovation]]
 
-            - Similarly, [[@boudreauFieldExperimentSearch2017]] found that The likelihood that any given pair of [scientists](((ni7gqlsHZ))) who were [assigned](((3EdxejW1j))) to the [same breakout room](((c_73yT22R))) to discuss their work would collaborate on a [pilot grant proposal](((luxOWrHJ_))) was [estimated](((J6rkdI6pn))) to be substantially (~75%) [higher](((gA4onRafb))) ($$p(collaborate) ~= .28$$) compared to scientist pairs who were assigned to different rooms ($$p(collaborate) ~= .16$$). This estimated effect was statistically significant at p < .10.
+            - Similarly, [[@boudreauFieldExperimentSearch2017]]
 
                 - Note, however: this effect seems to be driven by [facilitating scientist pairs who are from the same clinical area to collaborate](The [estimated increased likelihood of collaboration](((WqhZS9HHR))) from being randomly assigned to be in the same breakout room dropped to basically zero when they added an interaction term between being in the same room and whether pairs of scientists were from the same clinical area; this interaction term was [statistically significant](((jvGl0gqAS))) at p < .10), which suggests there might still be [important inefficiencies](((J4R-1bnk-))) to accessing and using cross-boundary knowledge, even when you get initial access to it through a person.
 
@@ -35,17 +35,17 @@ date: Mon Jan 11 2021 13:22:47 GMT-0500 (Eastern Standard Time)
 
     - Why might people be especially efficient access points to cross-boundary information?
 
-        - One explanation might be that [[[[CLM]] - Substantial portions of knowledge that is critical for innovation are not written down]], and are instead "in the heads" of people.
+        - One explanation might be that [[CLM - Substantial portions of knowledge that is critical for innovation are not written down]]
 
-            - This is partially because [[[[CLM]] - Knowledge is fundamentally contextual]]. It is partially on this basis that [[[[CLM]] - CSCW research on knowledge sharing shifted from a repository model to an expertise sharing model around the mid-2000's - [[@ackermanSharingKnowledgeExpertise2013]]]]
+            - This is partially because [[CLM - Knowledge is fundamentally contextual]]
 
-        - Another related explanation could be [the oblique nature of analogical inspiration]([[[[CLM]] - A significant proportion of the benefits of analogical stimuli is oblique or indirect]]): rather than an idea or a phrase or picture being "the idea" that you transfer, it may be more accurate to conceptualize a stimulus, such as an [analogous paper]([[analogy]]) as a point/component/spark in a process of inspiration that may lead to a good idea via adapting a direct solution, but also potentially via other routes, such as sparking [[problem (re)formulation]].
+        - Another related explanation could be [the oblique nature of analogical inspiration]([[CLM - A significant proportion of the benefits of analogical stimuli is oblique or indirect]]
 
             - This, combined with the previous point, may mean that encountering a paper from a different domain, no matter how relevant, may be inert in itself, if it isn't connected to a rich process of inspiration (e.g., reformulation, query)
 
     - Note that there are still some inefficiencies for the people route
 
-        - For example, [[@laneEngineeringSerendipityWhen]] reported that scientist pairs who were [randomly assigned to talk to each other](((Dvg9ncop6))) (and did so, face-to-face) at an [interdisciplinary medical imaging symposium](((HvQgkhAIF))) used about 6 new [MeSH keywords from their partners in future publications](((08vh79BF1))) when the pair had [moderate overlap in intellectual interests](((_eEx8ZIIv))), compared to low or high overlap (for which there were no clear effects)
+        - For example, [[@laneEngineeringSerendipityWhen]]
 
             - It's notable that the observed positive effects here were for estimated [less than 20% of the scientist pairs](note: only 2% of the pairs fell into the "partial overlap" category for field similarity, and the majority of scientists (about 80%) had "low intellectual similarity" (i.e., ~2 common keywords or fewer))!
 
@@ -53,23 +53,23 @@ date: Mon Jan 11 2021 13:22:47 GMT-0500 (Eastern Standard Time)
 
             - #appraisal - these results seem a bit fragile to me: they rest on interaction terms in relatively complex OLS models.
 
-            - Caveats aside, this result suggests that the likelihood that a randomly paired interaction, even within a relatively shared [community of interest]([[communities of interest]]), and estimating effects on  a relatively "lightweight" outcome (i.e., evidence of [knowledge transfer](**knowledge sharing**, measured in part from random assignments, and in part from face to face interaction data from sociometric badges), instead of more costly endpoints like copublication), is probably less than a coin flip!
+            - Caveats aside, this result suggests that the likelihood that a randomly paired interaction, even within a relatively shared [community of interest]([[communities of interest]]
 
-        - These results raises the question: [[[[QUE]] - What is the range of expected "benefits" of engineered interactions with potential "informants" across knowledge boundaries?]]
+        - These results raises the question: [[QUE - What is the range of expected benefits of engineered interactions with potential informants across knowledge boundaries]]
 - ---
 - # Sources
 
-    - collocation / structural holes / networks [*]([[structural holes]])
+    - collocation / structural holes / networks [*]([[structural holes]]
 
-        - {{[[TODO]]}} [[@palmerWorkBoundariesScience2001]] Chapter 2
+        - {{[[TODO]]
 
             - scientists at the interdisciplinary research center imported information across disciplinary boundaries predominantly via **personal networks** (pp. 31, 32-35). For example, ((YRq-AQNqf))
 
-        - {{[[TODO]]}} [[@cataliniMicrogeographyDirectionInventive2017]]
+        - {{[[TODO]]
 
         - [[@hargadonTechnologyBrokeringInnovation1997]]
 
-            - This paper introduces the [[model of technology **brokering**]] through the ethnography study of a product design company IDEO
+            - This paper introduces the [[model of technology brokering]]
 
                 - IDEO designers are the brokers
 
@@ -97,7 +97,7 @@ date: Mon Jan 11 2021 13:22:47 GMT-0500 (Eastern Standard Time)
 
                 - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fmegacoglab%2Ff1HQsIkg83.png?alt=media&token=026438ed-96fa-4f3d-b2d6-5cb0e384e6ad)
 
-            - {{[[TODO]]}} Paper that cites [[@hargadonTechnologyBrokeringInnovation1997]]
+            - {{[[TODO]]
 
                 - Scite search
 
@@ -109,7 +109,7 @@ date: Mon Jan 11 2021 13:22:47 GMT-0500 (Eastern Standard Time)
 
                     - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fmegacoglab%2ForWwRrDMfU.png?alt=media&token=92ca1749-db46-41ae-9db4-e9c774865033)
 
-                    - {{[[TODO]]}} Building Bridges and Breaking Bonds : Aspects of social capital in a regional strategic network
+                    - {{[[TODO]]
 
                         - J. Frick
 
@@ -245,11 +245,11 @@ date: Mon Jan 11 2021 13:22:47 GMT-0500 (Eastern Standard Time)
 
         - [[@burtStructuralHolesGood2004]]
 
-            - This paper proposes that people who connect across groups, the [[structural holes]], are more familiar with alternative ways to think and behave, therefore express valuable ideas.
+            - This paper proposes that people who connect across groups, the [[structural holes]]
 
                 - From observations of manager networks in a American electronic firm
 
-                - This theory has predecessors, (also noted in the [[@hargadonTechnologyBrokeringInnovation1997]] paper),
+                - This theory has predecessors, (also noted in the [[@hargadonTechnologyBrokeringInnovation1997]]
 
                     - The sociological theory of Simmel
 
@@ -271,7 +271,7 @@ date: Mon Jan 11 2021 13:22:47 GMT-0500 (Eastern Standard Time)
 
             - 
 
-            - {{[[TODO]]}} Paper that cites [[@burtStructuralHolesGood2004]]
+            - {{[[TODO]]
 
                 - From Scite
 
@@ -337,25 +337,25 @@ date: Mon Jan 11 2021 13:22:47 GMT-0500 (Eastern Standard Time)
 
                         - 2013
 
-        - {{[[DONE]]}} [[@boudreauFieldExperimentSearch2017]]
+        - {{[[DONE]]
 
             - The likelihood that any given pair of [scientists](((ni7gqlsHZ))) who were [assigned](((3EdxejW1j))) to the [same breakout room](((c_73yT22R))) to discuss their work would collaborate on a [pilot grant proposal](((luxOWrHJ_))) was [estimated](((J6rkdI6pn))) to be substantially (~75%) [higher](((gA4onRafb))) ($$p(collaborate) ~= .28$$) compared to scientist pairs who were assigned to different rooms ($$p(collaborate) ~= .16$$). This estimated effect was statistically significant at p < .10.
 
-        - {{[[DONE]]}} [[@laneEngineeringSerendipityWhen]]
+        - {{[[DONE]]
 
             - scientist pairs who were [randomly assigned to talk to each other](((Dvg9ncop6))) (and did so, face-to-face) at an [interdisciplinary medical imaging symposium](((HvQgkhAIF))) used about 6 new [MeSH keywords from their partners in future publications](((08vh79BF1))) when the pair had [moderate overlap in intellectual interests](((_eEx8ZIIv))), compared to low or high overlap (for which there were no clear effects)
 
-    - outsider innovation [*]([[outsider innovation]])
+    - outsider innovation [*]([[outsider innovation]]
 
-        - {{[[TODO]]}} [[@cattaniDeconstructingOutsiderPuzzle2017]]
+        - {{[[TODO]]
 
         - [[@frankeIntegratingProblemSolvers2014]]
 
-        - {{[[DONE]]}} [[@jeppesenMarginalityProblemsolvingEffectiveness2010]]
+        - {{[[DONE]]
 
             - [Solvers](((8JunxBU6A))) who chose to submit their solutions to the 2nd stage of an innovation contest and [self-rated themselves as more technically distant from the problem domain](((LtwnesPYh))) were slightly more likely to submit winning solutions for [Innocentive science problem solving contests](((OztGD5jl4)))
 
-    - search / literature-based discovery [*]([[literature-based discovery]])
+    - search / literature-based discovery [*]([[literature-based discovery]]
 
         - [[@sebastianEmergingApproachesLiteraturebased2017]]
 
@@ -367,19 +367,19 @@ date: Mon Jan 11 2021 13:22:47 GMT-0500 (Eastern Standard Time)
 
         - [[@swansonUndiscoveredPublicKnowledge1996]]
 
-    - recommender systems [*]([[recommender system]])
+    - recommender systems [*]([[recommender system]]
 
-        - {{[[DONE]]}} [[@packerImportanceSDICurrent1979]]
+        - {{[[DONE]]
 
-            - [[SDI]] [use](((dvVQF3fsu))) was associated with a significant *reduction* in efficiency of keeping up to date with the literature for [scholars](((5IIOQ5CZq))) in [self-reported](((Iv7Euw1wK))) low-[[Scatter]] fields; in contrast, SDI use was **not** associated with efficiency for high-scatter scholars (although there was a numeric trend in a positive direction)
+            - [[SDI]]
 
         - [[@beelResearchpaperRecommenderSystems2016]]
 
-    - interdisciplinarity / domain analysis [*]([[Scatter]]) [**]([[Domain-Analysis]])
+    - interdisciplinarity / domain analysis [*]([[Scatter]]
 
-        - {{[[DONE]]}} [[@moteReasonsVariationInformation1962]]
+        - {{[[DONE]]
 
-            - Scholars in fields of study with high degree of [[Scatter]] self-reported needing longer searches (> 30 mins) about 20x more frequently compared to scholars in low [[Scatter]] fields
+            - Scholars in fields of study with high degree of [[Scatter]]
 
     - memory driven by surface similarity?
 
@@ -393,7 +393,7 @@ date: Mon Jan 11 2021 13:22:47 GMT-0500 (Eastern Standard Time)
 
             - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fmegacoglab%2FTKLTkYORda.png?alt=media&token=b78cb8b5-1808-4288-9d6c-5ddd6f663239) (p. 37)
 
-        - From [[@fosterNonlinearModelInformationseeking2004]] (maybe: ignore if can't see connection)
+        - From [[@fosterNonlinearModelInformationseeking2004]]
 
             - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fmegacoglab%2F1l8d6lxxuS.png?alt=media&token=f39bc8b8-b840-422a-a1c1-38088974cba1) (p. 228)
 
@@ -476,7 +476,7 @@ could say information is cross-boundary, or the attribute of cross-boundary **li
 
                         - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fmegacoglab%2Fer1wqJvrRF.png?alt=media&token=34d7ac09-c343-4fd2-bb42-906ad593ea4a) (p. 1139)
 
-                - New seeds out of [[@bates1996learning]] (based on Semantic Scholar)
+                - New seeds out of [[@bates1996learning]]
 
                     - Due to the paper being a paper call for research agenda
 
@@ -557,8 +557,7 @@ of faculty and graduate student use and satisfaction
 
                         - 1999
 
-                    - {{[[TODO]]}} (※) Plugging the “whole”: **librarians** as
-interdisciplinary facilitators
+                    - {{[[TODO]]
 
                         - Jeffrey A. Knapp
 
@@ -577,7 +576,7 @@ scientists
 
                         - 2010
 
-                    - {{[[TODO]]}} (※) Scholarly communication as a **socioecological** system
+                    - {{[[TODO]]
 
                         - P. Sandstrom
 
@@ -603,9 +602,7 @@ scientists
 
                         - 2002
 
-                    - {{[[TODO]]}} The construction of the meaning and significance of
-an 'author' among information behaviour researchers : a social constructivist
-approach
+                    - {{[[TODO]]
 
                         - Michael R. Olsson
 
@@ -615,7 +612,7 @@ approach
 
                         - https://opus.lib.uts.edu.au/bitstream/10453/20341/1/01front.pdf
 
-                - New seeds out of [[@palmerAligningStudiesInformation1999]] (based on SciCite)
+                - New seeds out of [[@palmerAligningStudiesInformation1999]]
 
                     - 13 mentions. 3 below may touch upon personal/informal/transepistemic communication
 
@@ -625,9 +622,9 @@ approach
 
                     - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fmegacoglab%2FcpyzgcUOnp.png?alt=media&token=02f55688-13db-4ea8-88c5-93265147bb66)
 
-        - From [[@cataliniMicrogeographyDirectionInventive2017]]: Lab pairs bring novel ideas to **domain-specific** research agendas
+        - From [[@cataliniMicrogeographyDirectionInventive2017]]
 
-            - Key idea: [[colocation (matters for the) innovation/collaboration]] [[search costs of innovation]] [[m/natural experiment]]
+            - Key idea: [[colocation (matters for the) innovationcollaboration]]
 
             - Note: collaboration in this paper seems to be an equal share, i.e. not explicitly distinguish source and target domains
 
@@ -635,19 +632,19 @@ approach
 
                 - not a lot of choice in the method
 
-            - Higher [[search costs of innovation]] leads to higher potential impact
+            - Higher [[search costs of innovation]]
 
                 - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fmegacoglab%2Fp9QRaTaBbu.png?alt=media&token=c2337e76-dec7-49d3-82f7-ff5009e67108) (p4362)
 
-            - {{TODO}} Paper that cites [[@cataliniMicrogeographyDirectionInventive2017]] from Scite
+            - {{TODO}} Paper that cites [[@cataliniMicrogeographyDirectionInventive2017]]
 
-                - [[@cataliniHowTravelCosts2020]] How Do Travel Costs Shape Collaboration?
+                - [[@cataliniHowTravelCosts2020]]
 
                     - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fmegacoglab%2FxVOuD2Oacn.png?alt=media&token=d554f0a9-6472-4081-9f1f-9bd1218eb701)
 
                         - (Disputing) From Catalini: reduction in travel costs leads to an increase in researchers' collaboration decision, specifically helping male researchers
 
-                            - That travel constraint is an additional and opposing force to [[colocation (matters for the) innovation/collaboration]]. A tradeoff.
+                            - That travel constraint is an additional and opposing force to [[colocation (matters for the) innovationcollaboration]]
 
                             - Also questions/leaves open the exact form of [[search costs of innovation]]
 
@@ -655,11 +652,11 @@ approach
 
                     - Still regression metric = # of collaboration (co-pub between scientist A and B in year t)
 
-                - [[]] A Field Experiment on Search Costs and the Formation of Scientific Collaborations
+                - [[]]
 
                     - TODO snippet
 
-                    - (Disputing) [[search costs of innovation]] remains a key friction even for colocated individuals
+                    - (Disputing) [[search costs of innovation]]
 
                     - Metric =
 
@@ -669,7 +666,7 @@ approach
 
                 - Agrawal and GoldFarb (2008):
 
-                    - (Relevant claims) Reductions in [[communication costs]] (aka? [[search costs of innovation]]) allow for better matches between top- and middle- tier institutions from the same region ([[colocation (matters for the) innovation/collaboration]])
+                    - (Relevant claims) Reductions in [[communication costs]]
 
                 - Ding et al. (2010):
 
@@ -677,9 +674,9 @@ approach
 
                 - Boudreau et al. (2017):
 
-                    - [[search costs of innovation]] is a major obstacle for [[colocation (matters for the) innovation/collaboration]]. With a description on the exact form of [[colocation (matters for the) innovation/collaboration]]
+                    - [[search costs of innovation]]
 
-                - [[@HowMicrosoftUsed2016]] Nielsen et al. (2016): a case study on Microsoft's relocation, [[Travel costs of innovation]] cut by 46%
+                - [[@HowMicrosoftUsed2016]]
 
                     - Open office maximizes random encounters
 
@@ -689,7 +686,7 @@ approach
 
                         - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fmegacoglab%2FdUNrLSCPHr.png?alt=media&token=4e780ded-ffdf-4053-b452-1065f4cd0dff)
 
-        - Re: [**how** scholars/creatives find inspiration (including possibly analogies)]([[[[QUE]] - How does analogy actually happen in the process of scholarly/scientific innovation?]])
+        - Re: [**how** scholars/creatives find inspiration (including possibly analogies)]([[QUE - How does analogy actually happen in the process of scholarlyscientific innovation]]
 
             - not in scholarship/science, but can inform our priors
 
@@ -715,7 +712,7 @@ approach
 - ---
 - # Meta
 
-    - Tags: #[[D/Computational Analogy]] #[[D/Synthesis Infrastructure]]
+    - Tags: [[DComputational Analogy]]
 
 ###### Discourse Context
 

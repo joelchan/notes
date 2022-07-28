@@ -2,7 +2,7 @@
 title: @simontonCreativityDiscoveryBlind2011a
 url: https://roamresearch.com/#/app/megacoglab/page/vnUBBhLSS
 author: Joel Chan
-date: Wed Aug 19 2020 13:35:17 GMT-0400 (Eastern Daylight Time)
+date: Thu Aug 20 2020 01:35:17 GMT+0800 (Malaysia Time)
 ---
 
 - #references

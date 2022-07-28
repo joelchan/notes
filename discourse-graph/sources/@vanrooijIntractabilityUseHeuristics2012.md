@@ -2,16 +2,16 @@
 title: @vanrooijIntractabilityUseHeuristics2012
 url: https://roamresearch.com/#/app/megacoglab/page/yYjS2IR-v
 author: Joel Chan
-date: Mon Apr 26 2021 15:46:51 GMT-0400 (Eastern Daylight Time)
+date: Tue Apr 27 2021 03:46:51 GMT+0800 (Malaysia Time)
 ---
 
-- #[[references]]
+- [[references]]
 
     - Title: Intractability and the use of heuristics in psychological explanations
 
     - Meta:
 
-        - Authored by:: [[Iris van Rooij]] [[Cory D. Wright]] [[Todd Wareham]]
+        - Authored by:: [[Iris van Rooij]]
 
         - Year: [[2012]]
 

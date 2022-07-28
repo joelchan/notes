@@ -2,20 +2,20 @@
 title: @simkinMathematicalTheoryCiting2007
 url: https://roamresearch.com/#/app/megacoglab/page/KGDVFvVv2
 author: Joel Chan
-date: Sun Aug 09 2020 21:37:57 GMT-0400 (Eastern Daylight Time)
+date: Mon Aug 10 2020 09:37:57 GMT+0800 (Malaysia Time)
 ---
 
-- #[[references]]
+- [[references]]
 
     - Title: A mathematical theory of citing
 
     - Meta:
 
-        - Authored by:: [[Mikhail V. Simkin]] [[Vwani P. Roychowdhury]]
+        - Authored by:: [[Mikhail V. Simkin]]
 
         - Year: [[2007]]
 
-        - Publication: Journal of the American Society for Information Science and Technology ([[JASIST]])
+        - Publication: Journal of the American Society for Information Science and Technology ([[JASIST]]
 
         - Zotero link: [Zotero Link](zotero://select/items/1_F52FGTDC)
 

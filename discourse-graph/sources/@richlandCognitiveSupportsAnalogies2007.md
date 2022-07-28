@@ -2,16 +2,16 @@
 title: @richlandCognitiveSupportsAnalogies2007
 url: https://roamresearch.com/#/app/megacoglab/page/rZjAxOwxm
 author: Joel Chan
-date: Fri Jul 30 2021 00:32:47 GMT-0400 (Eastern Daylight Time)
+date: Fri Jul 30 2021 12:32:47 GMT+0800 (Malaysia Time)
 ---
 
-- #[[references]]
+- [[references]]
 
     - Title: Cognitive supports for analogies in the mathematics classroom
 
     - Meta:
 
-        - Authored by:: [[L. E. Richland]] [[O. Zur]] [[K. J. Holyoak]]
+        - Authored by:: [[L. E. Richland]]
 
         - Year: [[2007]]
 
@@ -29,7 +29,7 @@ date: Fri Jul 30 2021 00:32:47 GMT-0400 (Eastern Daylight Time)
 
     - Key contributions
 
-        - [[[[EVD]] - teachers in countries with high math and science achievement scores also displayed more cognitive supports for analogies, such as bridging analogies, and visuospatial scaffolds for comparison, compared to teachers in a country with lower math and science achievement - [[@richlandCognitiveSupportsAnalogies2007]]]]
+        - [[EVD - teachers in countries with high math and science achievement scores also displayed more cogni... in a country with lower math and science achievement - @richlandCognitiveSupportsAnalogies2007]]
 
 ###### Discourse Context
 

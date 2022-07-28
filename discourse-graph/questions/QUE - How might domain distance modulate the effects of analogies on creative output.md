@@ -2,106 +2,106 @@
 title: [[QUE]] - How might domain distance modulate the effects of analogies on creative output?
 url: https://roamresearch.com/#/app/megacoglab/page/LEuEt4GRz
 author: Joel Chan
-date: Fri Oct 30 2020 11:32:53 GMT-0400 (Eastern Daylight Time)
+date: Fri Oct 30 2020 23:32:53 GMT+0800 (Malaysia Time)
 ---
 
 - # Synthesis
 
     - Related questions:
 
-        - [[[[QUE]] - What is the range of expected "benefits" of engineered interactions with potential "informants" across knowledge boundaries?]]
+        - [[QUE - What is the range of expected benefits of engineered interactions with potential informants across knowledge boundaries]]
 
-    - I think the first subclaim is the most obvious one: [[[[CLM]] - Analogical distance of inspirations for an idea are positively related to the idea's creativity]]. This is kind of a weak sauce claim, to be honest. A bit too general for my taste.
+    - I think the first subclaim is the most obvious one: [[CLM - Analogical distance of inspirations for an idea are positively related to the idea's creativity]]
 
-        - There is some weak [support]([[SupportedBy]]) from an early experiment from [[@dahlInfluenceValueAnalogical2002]] that everyone cites in the creativity/engineering design literature. Two core results relating to [[analogical distance]] come from the third experiment.
+        - There is some weak [support]([[SupportedBy]]
 
-            - In the one case, analogical distance was measured post-hoc from the analogies that the sample of engineering students turned out to use (think of; not given). They found a __positive__ correlation between % far analogy use and originality/value: [[[[EVD]] - designs that were measured during an ideation session to have come from a higher percentage of far analogies were perceived as more original and valuable by potential customer judges - [[@dahlInfluenceValueAnalogical2002]]]]
+            - In the one case, analogical distance was measured post-hoc from the analogies that the sample of engineering students turned out to use (think of; not given). They found a __positive__ correlation between % far analogy use and originality/value: [[EVD - designs that were measured during an ideation session to have come from a higher percentage o... as more original and valuable by potential customer judges - @dahlInfluenceValueAnalogical2002]]
 
-            - In the other case, analogical distance was not varied directly in terms of the stimuli, but was manipulated in a "one or more stimuli vs. no stimuli" way. All stimuli were near analogies. They found a __negative__ effect of the near stimuli compared to seeing nothing: [[[[EVD]] - Engineering students who were given one or more near analogies as stimuli generated design ideas that were perceived as less original and valuable by potential customer judges, compared to being given no stimuli - [[@dahlInfluenceValueAnalogical2002]]]]
+            - In the other case, analogical distance was not varied directly in terms of the stimuli, but was manipulated in a "one or more stimuli vs. no stimuli" way. All stimuli were near analogies. They found a __negative__ effect of the near stimuli compared to seeing nothing: [[EVD - Engineering students who were given one or more near analogies as stimuli generated design id...tential customer judges, compared to being given no stimuli - @dahlInfluenceValueAnalogical2002]]
 
-        - There's also some [evidence]([[SupportedBy]]) from citation level data that looks at combinations of "knowledge domains" (with journals as a proxy) and finds correlations between having atypical or highly novel combinations of knowledge domains being related to being outliers in terms of citation impact
+        - There's also some [evidence]([[SupportedBy]]
 
-            - [[[[EVD]] - papers with high median conventionality and high tail atypical combinations of journals they cited were 2x more likely than average to be in top 5 percent of citation distribution - [[@uzziAtypicalCombinationsScientific2013]]]]
+            - [[EVD - papers with high median conventionality and high tail atypical combinations of journals they ...erage to be in top 5 percent of citation distribution - @uzziAtypicalCombinationsScientific2013]]
 
-            - [[[[EVD]] - highly novel papers were more likely to be in the top 1% of citations in the long run, but not in the short run, and particularly in other fields - [[@wangBiasNoveltyScience2017]]]]
+            - [[EVD - highly novel papers were more likely to be in the top 1% of citations in the long run, but not in the short run, and particularly in other fields - @wangBiasNoveltyScience2017]]
 
-            - [[[[EVD]] - highly novel papers had higher variance in their citation outcomes over a 15-year window, biased towards the higher impact tail of the distribution - [[@wangBiasNoveltyScience2017]]]]
+            - [[EVD - highly novel papers had higher variance in their citation outcomes over a 15-year window, biased towards the higher impact tail of the distribution - @wangBiasNoveltyScience2017]]
 
-        - [Evidence]([[SupportedBy]]) from patent studies (at coarser level of granularity)
+        - [Evidence]([[SupportedBy]]
 
-            - [[[[EVD]] - patents filed by inventors who was new to the patent's field tended to be more novel; this was less true if they collaborated with an expert in the new field - [[@artsParadiseNoveltyLoss2018a]]]]
+            - [[EVD - patents filed by inventors who was new to the patent's field tended to be more novel; this was less true if they collaborated with an expert in the new field - @artsParadiseNoveltyLoss2018a]]
 
-            - [[[[EVD]] - patenting teams with a greater number of prior patenting fields were more likely to generate patents that were technological outliers - [[@kneelandExploringUnchartedTerritory2020]]]]
+            - [[EVD - patenting teams with a greater number of prior patenting fields were more likely to generate patents that were technological outliers - @kneelandExploringUnchartedTerritory2020]]
 
-        - Some complicated, qualified [support]([[SupportedBy]]) also comes from studies that find contingent benefits of far analogies
+        - Some complicated, qualified [support]([[SupportedBy]]
 
-            - [[[[EVD]] - Far analogies' effects on MechE students' ideation fluency and diversity were different depending on timing: more ideas (but with more functional repeats) before ideation began, vs. more functionally distinct designs after problem solving began (during a break), both compared to seeing nothing - [[@tsengRoleTimingAnalogical2008]]]]
+            - [[EVD - Far analogies' effects on MechE students' ideation fluency and diversity were different depen...olving began (during a break), both compared to seeing nothing - @tsengRoleTimingAnalogical2008]]
 
-            - [[[[EVD]] - Far analogies' effects on MechE students' novelty of ideas were different depending on timing: more novel ideas when seeing them after problem solving began vs. before - [[@tsengRoleTimingAnalogical2008]]]]
+            - [[EVD - Far analogies' effects on MechE students' novelty of ideas were different depending on timing... ideas when seeing them after problem solving began vs. before - @tsengRoleTimingAnalogical2008]]
 
-        - Also some [support]([[SupportedBy]]) from [[outsider innovation]] effects
+        - Also some [support]([[SupportedBy]]
 
-            - [[[[EVD]] - Self-rated technical distance from open innovation contest problems was slightly positively correlated with submitting winning solutions - [[@jeppesenMarginalityProblemsolvingEffectiveness2010]]]]
+            - [[EVD - Self-rated technical distance from open innovation contest problems was slightly positively correlated with submitting winning solutions - @jeppesenMarginalityProblemsolvingEffectiveness2010]]
 
-        - And some [support]([[SupportedBy]]) in the form of negative effects of near analogies
+        - And some [support]([[SupportedBy]]
 
-            - Near associated with fixation: [[[[EVD]] - Undergrad MechE students who saw near analogies (clocks) for a time-keeping problem preferred discrete (drip-based) solutions to continuous (e.g., flow/fill) solutions - [[@tsengRoleTimingAnalogical2008]]]]
+            - Near associated with fixation: [[EVD - Undergrad MechE students who saw near analogies (clocks) for a time-keeping problem preferred...drip-based) solutions to continuous (e.g., flowfill) solutions - @tsengRoleTimingAnalogical2008]]
 
-        - Weak [[SupportedBy]] from examples
+        - Weak [[SupportedBy]]
 
-            - [[[[EVD]] - a substantial number of IDEO-designed products incorporated technological solutions from other industries - [[@hargadonTechnologyBrokeringInnovation1997]]]]
+            - [[EVD - a substantial number of IDEO-designed products incorporated technological solutions from other industries - @hargadonTechnologyBrokeringInnovation1997]]
 
         - ## Counterarguments
 
-        - There is some [counter-evidence]([[Opposed By]]) from [[m/s/In vivo]] studies of science labs and design teams
+        - There is some [counter-evidence]([[Opposed By]]
 
-            - For example, Dunbar traced the discovery process of four top molecular biology labs, and found that they rarely used far analogies to generate novel scientific concepts: [[[[EVD]] - Molecular biologists with a reputation for innovation rarely used very far analogies in their lab meetings while generating novel scientific concepts; instead, they relied mainly on analogies to the same or other biological organisms - [[@dunbarHowScientistsThink1997]]]]
+            - For example, Dunbar traced the discovery process of four top molecular biology labs, and found that they rarely used far analogies to generate novel scientific concepts: [[EVD - Molecular biologists with a reputation for innovation rarely used very far analogies in their...d mainly on analogies to the same or other biological organisms - @dunbarHowScientistsThink1997]]
 
                 - This is a strong result, even though it isn't experimental, due to its high external validity. Despite lack of experimental controls, it at least puts a cap on the claim about far analogies being important/necessary for creative breakthroughs, at least in molecular biology.
 
-            - A very similar result was found by Saner et al (1999), who found that far analogies were basically never used in reasoning in psychology lab meetings, but were used in colloquia while ideas were being communicated with new audiences: [[[[EVD]] - Far analogies were rare and never used in psychology lab group meetings for reasoning (vs. mere mentions); far analogies were rare in colloquia as well, but were frequently used for reasoning - [[@sanerAnalogiesOutBlue1999]]]]
+            - A very similar result was found by Saner et al (1999), who found that far analogies were basically never used in reasoning in psychology lab meetings, but were used in colloquia while ideas were being communicated with new audiences: [[EVD - Far analogies were rare and never used in psychology lab group meetings for reasoning (vs. me... rare in colloquia as well, but were frequently used for reasoning - @sanerAnalogiesOutBlue1999]]
 
-            - Related to this is [[[[EVD]] - In a design team, concepts tended to be more similar to their immediately preceding concepts after far analogy use compared to using near or no analogies - [[@chanImpactAnalogiesCreative2015]]]]. This isn't *quite* a measure of novelty as we normally think of it (the reference for similarity is concepts generated in the last 10 or 5 lines). But it at least opposes the idea that you might be primarily using far analogies to get some distance from where you currently are.
+            - Related to this is [[EVD - In a design team, concepts tended to be more similar to their immediately preceding concepts after far analogy use compared to using near or no analogies - @chanImpactAnalogiesCreative2015]]
 
-            - Dunbar also claims that [[[[CLM]] - [[far analogies]] are systematically overrated in their importance for creative breakthroughs due to memory bias - [[@dunbarHowScientistsThink1997]]]]
+            - Dunbar also claims that [[CLM - far analogies are systematically overrated in their importance for creative breakthroughs due to memory bias - @dunbarHowScientistsThink1997]]
 
-                - One [support]([[SupportedBy]]) for this is a specific anecdote of tracing a significant discovery through a series of (near) analogies, and then asking the scientist to recall/recount the origins of that discovery: Dunbar found that [[[[EVD]] - A molecular biologist who had made a major scientific conceptual change did not recall any of the spontaneous analogies used to enact that change - [[@dunbarHowScientistsThink1997]]]]
+                - One [support]([[SupportedBy]]
 
-        - And some experimental [counter-evidence]([[Opposed By]]) showing equal effects of near analogies on novelty
+        - And some experimental [counter-evidence]([[Opposed By]]
 
-            - [[[[EVD]] - In general, MechE students' ideas when given near analogies were at least as novel, and sometimes moreso, then ideas generated with far analogies, or seeing nothing - [[@tsengRoleTimingAnalogical2008]]]]
+            - [[EVD - In general, MechE students' ideas when given near analogies were at least as novel, and somet...so, then ideas generated with far analogies, or seeing nothing - @tsengRoleTimingAnalogical2008]]
 
-            - [[[[EVD]] - no overall effect of analogical distance of cases on novelty or usefulness of campaign ad ideas - [[@althuizenSupportingCreativeProblem2014]]]]
+            - [[EVD - no overall effect of analogical distance of cases on novelty or usefulness of campaign ad ideas - @althuizenSupportingCreativeProblem2014]]
 
-            - [[[[EVD]] - overall marginally significant negative effect of analogically distant cases on creativity of campaign ad ideas, mostly for students with high creative ability - [[@althuizenSupportingCreativeProblem2014]]]]
+            - [[EVD - overall marginally significant negative effect of analogically distant cases on creativity of...ideas, mostly for students with high creative ability - @althuizenSupportingCreativeProblem2014]]
 
-        - Some experimental [counter-evidence]([[Opposed By]]) showing the opposite: far < near
+        - Some experimental [counter-evidence]([[Opposed By]]
 
-            - [[[[EVD]] - participants who received computationally selected far analogical stimuli had a lower ceiling on novelty and quality of ideas compared to participants who received near or no analogical stimuli - [[@fuMeaningFarImpact2013]]]]
+            - [[EVD - participants who received computationally selected far analogical stimuli had a lower ceiling...s compared to participants who received near or no analogical stimuli - @fuMeaningFarImpact2013]]
 
-        - [Counter-evidence]([[Opposed By]]) from observational/correlational studies
+        - [Counter-evidence]([[Opposed By]]
 
-            - Admittedly underpowered correlational case study from industry: [[[[EVD]] - No significant correlation between analogical distance of cross-industry inspirations and degree of innovation outcome (incremental, market or breakthrough, and radical) - [[@enkelCreativeImitationExploring2010]]]].
+            - Admittedly underpowered correlational case study from industry: [[EVD - No significant correlation between analogical distance of cross-industry inspirations and deg...tcome (incremental, market or breakthrough, and radical) - @enkelCreativeImitationExploring2010]]
 
                 - Note: Most of the cases were drawn from other industries that were quite close by and ((E4MwwsilX)), so probably there is range restriction.
 
                     - 25 cases is also really really small for a correlation analysis.
 
-                    - I think the most we can say from this is an existence proof that relatively [[near analogies]] can frequently lead to quite innovative outcomes.
+                    - I think the most we can say from this is an existence proof that relatively [[near analogies]]
 
                     - Telling that I previously classified this study as "anecdotal"! Yikes... This was a rigorously done multiple-case-study analysis.
 
-            - [[[[EVD]] - patents filed by inventors who was new to the patent's field tended to receive slightly fewer citations, except when they collaborated with an expert in the new field - [[@artsParadiseNoveltyLoss2018a]]]]
+            - [[EVD - patents filed by inventors who was new to the patent's field tended to receive slightly fewer..., except when they collaborated with an expert in the new field - @artsParadiseNoveltyLoss2018a]]
 
-            - [[[[EVD]] - greater mean and max conceptual distance of cited inspirations was associated with lower probability of a concept being shortlisted across 12 social innovation design challenges - [[@chanBestDesignIdeas2015]]]]
+            - [[EVD - greater mean and max conceptual distance of cited inspirations was associated with lower prob...cept being shortlisted across 12 social innovation design challenges - @chanBestDesignIdeas2015]]
 
-    - Here is a more precise version: [[[[CLM]] - There is a 'Sweet Spot' in Analogical Distance. Somewhat far analogies lead to better creative outcomes than very near or very far analogies]]
+    - Here is a more precise version: [[CLM - There is a 'Sweet Spot' in Analogical Distance. Somewhat far analogies lead to better creative outcomes than very near or very far analogies]]
 
         - this is [[SupportedBy]]
 
-            - [[[[EVD]] - Molecular biologists with a reputation for innovation rarely used very far analogies in their lab meetings while generating novel scientific concepts; instead, they relied mainly on analogies to the same or other biological organisms - [[@dunbarHowScientistsThink1997]]]]
+            - [[EVD - Molecular biologists with a reputation for innovation rarely used very far analogies in their...d mainly on analogies to the same or other biological organisms - @dunbarHowScientistsThink1997]]
 
-            - [[[[EVD]] - papers with high median conventionality and high tail atypical combinations of journals they cited were 2x more likely than average to be in top 5 percent of citation distribution - [[@uzziAtypicalCombinationsScientific2013]]]]
+            - [[EVD - papers with high median conventionality and high tail atypical combinations of journals they ...erage to be in top 5 percent of citation distribution - @uzziAtypicalCombinationsScientific2013]]
 
             - [[@yuEncouragingOutsideBox2016a]]
 - ---
@@ -145,29 +145,29 @@ date: Fri Oct 30 2020 11:32:53 GMT-0400 (Eastern Daylight Time)
 
                 1. [[@ballSpontaneousAnalogisingEngineering2004]]
 
-                1. [[@dahlInfluenceValueAnalogical2002]] study 1: verbal protocol study, similar to [[@chanImpactAnalogiesCreative2015]]
+                1. [[@dahlInfluenceValueAnalogical2002]]
 
                 1. [[@kretzExpertAnalogyUse2014]]
 
                 1. [[@caoDifferencesBeginningAdvanced2018]]
 
-                1. [[@hargadonTechnologyBrokeringInnovation1997]] (ethnography)
+                1. [[@hargadonTechnologyBrokeringInnovation1997]]
 
             1. retrospective case studies / interviews
 
-                1. [[@binghamProcessSchemaEmergence2012]] (it's about how a specific analogy emerged)
+                1. [[@binghamProcessSchemaEmergence2012]]
 
                 1. [[@heyAnalogiesMetaphorsCreative2008]]
 
-                1. [[@ngoIdentifyingTrendsAnalogy2014]] (case studies of particular products)
+                1. [[@ngoIdentifyingTrendsAnalogy2014]]
 
-                1. [[@kalogerakisDevelopingInnovationsBased2010]] (interview)
+                1. [[@kalogerakisDevelopingInnovationsBased2010]]
 
                 1. [[@gassmannOpeningSolutionSpace2008]]
 
                 1. [[@karhuHowAmbidextrousTeams2016]]
 
-                1. [[@perkinsNovelRemoteAnalogies1983]] (review of various cases and protocols)
+                1. [[@perkinsNovelRemoteAnalogies1983]]
 
                 1. [[@tiwariDevelopingFrugalInnovations2017]]
 
@@ -183,7 +183,7 @@ date: Fri Oct 30 2020 11:32:53 GMT-0400 (Eastern Daylight Time)
 
             1. [[@malagaEffectStimulusModes2000]]
 
-            1. {{[[DONE]]}} [[@tsengRoleTimingAnalogical2008]]
+            1. {{[[DONE]]
 
             1. [[@fuMeaningFarImpact2013]]
 
@@ -211,7 +211,7 @@ date: Fri Oct 30 2020 11:32:53 GMT-0400 (Eastern Daylight Time)
 
                 1. [[@catramboneOvercomingContextualLimitations1989]]
 
-                1. [[@gickAnalogicalProblemSolving1980]] (experiment I)
+                1. [[@gickAnalogicalProblemSolving1980]]
 
                 1. [[@gickSchemaInductionAnalogical1983]]
 
@@ -227,15 +227,15 @@ date: Fri Oct 30 2020 11:32:53 GMT-0400 (Eastern Daylight Time)
 
         - Quant readings with [[Matt Clancy]]
 
-            - {{[[DONE]]}} [[@kneelandExploringUnchartedTerritory2020]]
+            - {{[[DONE]]
 
-            - {{[[DONE]]}} [[@artsParadiseNoveltyLoss2018a]]
+            - {{[[DONE]]
 
-            - {{[[DONE]]}} [[@uzziAtypicalCombinationsScientific2013]]
+            - {{[[DONE]]
 
-            - {{[[DONE]]}} [[@wangBiasNoveltyScience2017]]
+            - {{[[DONE]]
 
-    - ## #[[Claims and Evidence]]
+    - ## [[Claims and Evidence]]
 
         - George Mestral's invention of velcro by analogy to a burdock root seed stuck to his dog's fur [[@swearingenIdeaThatStuck2016]]
 
@@ -243,7 +243,7 @@ date: Fri Oct 30 2020 11:32:53 GMT-0400 (Eastern Daylight Time)
 
         - People generated more novel ideas with remotely related (not unrelated) stimuli #unsourced [[@wang2019wikipedia]]
 
-        - #[[observation-notes]] Crowd workers generated the most novel and practical ideas when given analogical inspirations found from [domain-independent, concrete constraint problem descriptions](((M8KfyPUsY))), compared to inspirations from [domain-independent abstract constraints](((TUj6U8Fv9))), [domain-dependent concrete constraints](((Aw21pCePA))), or [domain-dependent abstract constraints](((r6_rbDIRA))) (which were about equal) [[@yuDistributedAnalogicalIdea2016]]
+        - [[observation-notes]]
 
         - [[@chiuInvestigatingEffectsOppositely2012]]
 
@@ -257,7 +257,7 @@ date: Fri Oct 30 2020 11:32:53 GMT-0400 (Eastern Daylight Time)
 
         - [[@enkelCreativeImitationExploring2010]]
 
-        - [[@jeppesenMarginalityProblemsolvingEffectiveness2010]] | more novel ideas / perspectives
+        - [[@jeppesenMarginalityProblemsolvingEffectiveness2010]]
 
             - [Solvers](((8JunxBU6A))) who chose to submit their solutions to the 2nd stage of an innovation contest and [self-rated themselves as more technically distant from the problem domain](((LtwnesPYh))) were slightly more likely to submit winning solutions for [Innocentive science problem solving contests](((OztGD5jl4)))
 
@@ -265,7 +265,7 @@ date: Fri Oct 30 2020 11:32:53 GMT-0400 (Eastern Daylight Time)
 - ---
 - # Meta
 
-    - Tags: #[[D/Computational Analogy]] #public
+    - Tags: [[DComputational Analogy]]
 
 ###### Discourse Context
 

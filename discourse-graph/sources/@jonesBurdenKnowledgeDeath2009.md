@@ -2,7 +2,7 @@
 title: @jonesBurdenKnowledgeDeath2009
 url: https://roamresearch.com/#/app/megacoglab/page/r0bEwGjkk
 author: Joel Chan
-date: Fri May 08 2020 11:29:00 GMT-0400 (Eastern Daylight Time)
+date: Fri May 08 2020 23:29:00 GMT+0800 (Malaysia Time)
 ---
 
 - Metadata::
@@ -22,7 +22,7 @@ date: Fri May 08 2020 11:29:00 GMT-0400 (Eastern Daylight Time)
     - PDF
 
         - :hiccup [:iframe {:width "650px", :height "650px", :src "https://drive.google.com/file/d/1SKfujXu-wrUDYgV9l5MC7eG_Om3wMr8V/preview"}]
-- #[[📝 lit-notes]]
+- [[📝 lit-notes]]
 
     - #> "...if one is to stand on the shoulders of giants, one must first climb up their backs, and the greater the body of knowledge, the harder this climb becomes."  (p.284) #synthesis
 

@@ -2,7 +2,7 @@
 title: @kilgourWhyHowCreative2009
 url: https://roamresearch.com/#/app/megacoglab/page/AmKh7uM1M
 author: Joel Chan
-date: Wed Jan 12 2022 22:56:12 GMT-0500 (Eastern Standard Time)
+date: Thu Jan 13 2022 11:56:12 GMT+0800 (Malaysia Time)
 ---
 
 

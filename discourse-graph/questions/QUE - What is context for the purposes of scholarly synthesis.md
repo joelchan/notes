@@ -2,12 +2,12 @@
 title: [[QUE]] - What is context for the purposes of scholarly synthesis?
 url: https://roamresearch.com/#/app/megacoglab/page/fFCAtZVW5
 author: Joel Chan
-date: Thu Jan 07 2021 11:51:02 GMT-0500 (Eastern Standard Time)
+date: Fri Jan 08 2021 00:51:02 GMT+0800 (Malaysia Time)
 ---
 
-- #[[Question]]
+- [[question]]
 
-    - Tags: #[[D/Synthesis Infrastructure]]
+    - Tags: [[DSynthesis Infrastructure]]
 
     - Description
 
@@ -15,15 +15,15 @@ date: Thu Jan 07 2021 11:51:02 GMT-0500 (Eastern Standard Time)
 
         - These complex questions require reasoning over far more than the claims from past papers: for example, to judge applicability, details of ^^methodology^^ (participants, setting, measures) and ^^metadata^^ (field of the author/journal, year of publication) are needed. Similarly, for validity, details of methodology are required. Judgments of applicability might also be necessary to reason about the degree of concordance across studies (which studies that have measured "the same thing" came to "the same" conclusions?). Finally, judgments of significance requires complex reasoning over the ^^discourse context^^ assumed by a given study, degree of concordance with other studies, details of results such as effect sizes, and more.
 
-        - Under some conditions, there can be relatively standardized sets of contextual information that will be broadly useful for judgments, such as the [PICO]([[PICO frames]]) (Population, Intervention, Comparator, Outcome) and worksheets like [[Risk of Bias scores]] for precisely focused [[systematic review]]s of [[RCT]]s. The [[org/Oxford Center for Evidence-Based Medicine]] has a [list of useful worksheets](https://www.cebm.ox.ac.uk/resources/ebm-tools/critical-appraisal-tools) for [[critical appraisal]] of various genres of research, including qualitative and case studies. For the latter, more focused checklists like [[Consolidated Criteria for Reporting Qualitative Studies]] ([[@tongConsolidatedCriteriaReporting2007]]) are also useful
+        - Under some conditions, there can be relatively standardized sets of contextual information that will be broadly useful for judgments, such as the [PICO]([[PICO frames]]
 
-        - However, as theories of context and [[reuse]] in CSCW would predict, what specific kinds of contextual information are required for a literature review can often vary substantially across research projects. For instance, [[@blakeCollaborativeInformationSynthesis2006]] discovered in their cognitive work analysis of a team of medical researchers conducting systematic reviews that [the particulars of information needed can vary substantially by the nature of the research question](some types of [[context]] information were more contextual, depending on the particular "hypothesis projection" of the review, which varied across the lifecycle of the project studied (e.g., location of medical condition, amount of exposure, confounding risk factors), while others were more constant regardless of hypothesis (e.g., study- and population-context information)). In interdisciplinary fields such as HCI, the nature of contextual information needed to critically assess and synthesize past work can be found in handbooks like the popular "Ways of Knowing in HCI" book [[Ways of Knowing in HCI]] that includes discussions, and to a lesser extent in research methods texts, where questions of internal and external validity (which map to validity and applicability) are discussed, and the information required to judge these questions, are enumerated.
+        - However, as theories of context and [[reuse]]
 
-            - [[[[CLM]] - Compression and contextualizability are in tension]]
+            - [[CLM - Compression and contextualizability are in tension]]
 
-            - [[[[CLM]] - Specifying context for future reuse requires predicting trajectories of future reuse]], but [[[[CLM]] - Predicting trajectories of future reuse of information objects is hard]]
+            - [[CLM - Specifying context for future reuse requires predicting trajectories of future reuse]]
 
-        - We consider the information required to make judgments of applicability, validity, and significance to be [[context]] for the information being reused (i.e., sources and claims) in [literature reviewing]([[synthesis]]).
+        - We consider the information required to make judgments of applicability, validity, and significance to be [[context]]
 
     - R-Sources
 

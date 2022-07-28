@@ -2,10 +2,10 @@
 title: @kuhnStructureScientificRevolutions1996
 url: https://roamresearch.com/#/app/megacoglab/page/dTK1Nc8xI
 author: Joel Chan
-date: Fri Sep 10 2021 21:56:37 GMT-0400 (Eastern Daylight Time)
+date: Sat Sep 11 2021 09:56:37 GMT+0800 (Malaysia Time)
 ---
 
-- #[[references]]
+- [[references]]
 
     - Title: The structure of scientific revolutions
 

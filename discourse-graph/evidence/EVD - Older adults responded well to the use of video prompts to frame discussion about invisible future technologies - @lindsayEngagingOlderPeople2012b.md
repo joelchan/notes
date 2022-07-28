@@ -2,7 +2,7 @@
 title: [[EVD]] - Older adults responded well to the use of video prompts to frame discussion about invisible future technologies - [[@lindsayEngagingOlderPeople2012b]]
 url: https://roamresearch.com/#/app/megacoglab/page/wnqonCrbF
 author: Joel Chan
-date: Tue Jun 22 2021 15:54:23 GMT-0400 (Eastern Daylight Time)
+date: Wed Jun 23 2021 03:54:23 GMT+0800 (Malaysia Time)
 ---
 
 - noteType:: [[EVD]]
@@ -17,19 +17,19 @@ date: Tue Jun 22 2021 15:54:23 GMT-0400 (Eastern Daylight Time)
 
             - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fmegacoglab%2F7KrRrMhWJW.png?alt=media&token=53ed839e-650e-4ac8-8d11-184db2d394ae) (p. 1204)
 
-        - the authors thought this point was an especially important "secret sauce" of the [[sys/OASIS design approach]], that they highlighted it in the discussion section as a design pattern to build on
+        - the authors thought this point was an especially important "secret sauce" of the [[sysOASIS design approach]]
 
             - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fmegacoglab%2Fuh8JKcaQ2x.png?alt=media&token=9abe3b38-e3c8-49f3-8365-0a347898705f)
 
     - ## **Grounding Context**
 
-        - Research team tested a new design approach, the [[sys/OASIS design approach]] with a set of older adults, aimed at three domains: 1) designing digital technology to promote healthy eating, 2) personal mobility, and 3) promoting feelings of personal security in the home.
+        - Research team tested a new design approach, the [[sysOASIS design approach]]
 
         - Their focus on older adults was to work with the full range of diversity of the 65+ age group. The researchers did not report specific demographic statistics or information about the older adults they worked with (from which their results are based), but they did report that their sample was more mobile than the typical older population
 
             - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fmegacoglab%2FRX16bKrAk8.png?alt=media&token=3f4ae0cc-bcdd-4f34-b1b9-c24ac5d08afc) (p. 1203)
 
-        - The Video Prompt method is based on an "invisible design" story format that never actually shows a specific device or discusses it. It is similar to the [[sys/ContraVision]] method
+        - The Video Prompt method is based on an "invisible design" story format that never actually shows a specific device or discusses it. It is similar to the [[sysContraVision]]
 
             - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fmegacoglab%2FeIK7Eb_5Ev.png?alt=media&token=00b9f220-e57b-4f17-b301-940c267976ec) (p. 1203)
 

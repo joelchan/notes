@@ -2,7 +2,7 @@
 title: [[EVD]] - estimated semantic networks of animal concepts from montessori-educated children were more interconnected, with shorter paths between concepts and fewer subcommunities, compared to networks from traditional-schooled but comparable children - [[@denervaudEducationShapesStructure2021]]
 url: https://roamresearch.com/#/app/megacoglab/page/jScHaY6Fl
 author: Joel Chan
-date: Tue Mar 15 2022 10:55:28 GMT-0400 (Eastern Daylight Time)
+date: Tue Mar 15 2022 22:55:28 GMT+0800 (Malaysia Time)
 ---
 
 - # Summary
@@ -44,11 +44,11 @@ date: Tue Mar 15 2022 10:55:28 GMT-0400 (Eastern Daylight Time)
 
                 - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fmegacoglab%2FsZwDPGqwwj.png?alt=media&token=b1945d69-2503-44a6-8312-50be0384ebf7) (p. 5)
 
-            - then draw a filtered network from the similarity matrix using [[m/Triangulated Maximally Filtered Graph (TMFG)]]
+            - then draw a filtered network from the similarity matrix using [[mTriangulated Maximally Filtered Graph (TMFG)]]
 
                 - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fmegacoglab%2FAjRpsnRRvW.png?alt=media&token=c04e35a2-f0aa-4356-99a6-39d29c03a0a1) (p. 5)
 
-                - method is from [[@massaraNetworkFilteringBig2017]], and can be replicated using R package described in [[@christensenSemanticNetworkAnalysis2021]]
+                - method is from [[@massaraNetworkFilteringBig2017]]
 
         - network metrics: clustering coefficient, average shortest path length (ASPL) and modularity (Q)
 

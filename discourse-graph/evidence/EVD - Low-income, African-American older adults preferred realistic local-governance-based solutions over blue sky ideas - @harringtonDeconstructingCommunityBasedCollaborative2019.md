@@ -2,7 +2,7 @@
 title: [[EVD]] - Low-income, African-American older adults preferred "realistic" local-governance-based solutions over "blue sky" ideas - [[@harringtonDeconstructingCommunityBasedCollaborative2019]]
 url: https://roamresearch.com/#/app/megacoglab/page/IPJcwncNz
 author: Joel Chan
-date: Tue Jun 08 2021 15:42:33 GMT-0400 (Eastern Daylight Time)
+date: Wed Jun 09 2021 03:42:33 GMT+0800 (Malaysia Time)
 ---
 
 - noteType:: [[EVD]]

@@ -2,10 +2,10 @@
 title: @deWaardProteinsFairytalesDirections2010
 url: https://roamresearch.com/#/app/megacoglab/page/Slep8P0rL
 author: Joel Chan
-date: Wed Jun 17 2020 16:30:16 GMT-0400 (Eastern Daylight Time)
+date: Thu Jun 18 2020 04:30:16 GMT+0800 (Malaysia Time)
 ---
 
-- #[[references]]
+- [[references]]
 
     - Title: From Proteins to Fairytales: Directions in Semantic Publishing
 
@@ -29,25 +29,25 @@ date: Wed Jun 17 2020 16:30:16 GMT-0400 (Eastern Daylight Time)
 
     - #lit-context
 
-        - Author is key figure in [[semantic publishing]], now at [[Elsevier]]
+        - Author is key figure in [[semantic publishing]]
 
-    - #[[📝 lit-notes]]
+    - [[📝 lit-notes]]
 
         - #> "The column mentions different types of projects, including efforts focusing on entity enrichment and projects that involve triple markup of documents (subject-predicate-object expressions). However, such approaches are not enough. They help us find information, but they don't help us understand it. The author argues that we need to incorporate a better understanding of how language encodes meaning into our systems, so that we can develop a richer scientific knowledge representation"
 
-            - Basically wants to say we need to model [[discourse]], not just [[entities]] and [[RDF triple store]] and [[ontologies]]
+            - Basically wants to say we need to model [[discourse]]
 
-        - mentions exemplars of [[discourse]]-modeling efforts (p. 86):
+        - mentions exemplars of [[discourse]]
 
-            - [[std/SWAN]] #[[@ciccareseSWANBiomedicalDiscourse2008]]
+            - [[stdSWAN]]
 
-                - which is a heroic #example-of [[specialized [[curator]] model of semantic publishing]]
+                - which is a heroic #example-of [[specialized curator model of semantic publishing]]
 
                 - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fmegacoglab%2FyeTGkZb5eB.png?alt=media&token=7da3494b-0159-4ec4-b93a-52f00f61fcb7)
 
-            - #[[@grozaSALTWeavingClaim2007]]
+            - [[@grozaSALTWeavingClaim2007]]
 
-            - the [[[[ART]] - Cohere]] system from the [[Knowledge Media Institute]]
+            - the [[ART - Cohere]]
 
 ###### Discourse Context
 

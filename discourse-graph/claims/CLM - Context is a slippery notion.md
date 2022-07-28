@@ -2,22 +2,22 @@
 title: [[CLM]] - Context is a slippery notion
 url: https://roamresearch.com/#/app/megacoglab/page/DdE4gxVU9
 author: Joel Chan
-date: Wed May 20 2020 11:31:06 GMT-0400 (Eastern Daylight Time)
+date: Wed May 20 2020 23:31:06 GMT+0800 (Malaysia Time)
 ---
 
-- #[[🌲 zettels]]
+- [[🌲 zettels]]
 
-    - Tags: #[[D/Synthesis Infrastructure]] #context
+    - Tags: [[DSynthesis Infrastructure]]
 
     - Description
 
     - R-Sources
 
-        - [[context]] is... contextual? Hard to pin down. What counts as "context" for a person is very dependent on other contextual factors. Probably the same for information objects. (p.7) [[@agarwalExploringContextInformation2017]]
+        - [[context]]
 
         - #> "It is not simply the case that something is or is not context; rather, it may or may not be contextually relevant to some particular activity." #context (p.22) [[@dourishWhatWeTalk2004]]
 
-        - it can be quite hard to standardize (and therefore make efficient) expressions of [[context]] (e.g., in a dropdown menu of possible "contexts") [[@andersonDataBaseMent2008]]
+        - it can be quite hard to standardize (and therefore make efficient) expressions of [[context]]
 
 ###### Discourse Context
 

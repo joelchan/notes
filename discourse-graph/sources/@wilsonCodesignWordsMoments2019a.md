@@ -2,16 +2,16 @@
 title: @wilsonCodesignWordsMoments2019a
 url: https://roamresearch.com/#/app/megacoglab/page/VVfUmXYE4
 author: Joel Chan
-date: Fri May 14 2021 11:27:45 GMT-0400 (Eastern Daylight Time)
+date: Fri May 14 2021 23:27:45 GMT+0800 (Malaysia Time)
 ---
 
-- #[[references]]
+- [[references]]
 
     - Title: Co-design beyond words: 'moments of interaction' with minimally-verbal children on the autism spectrum
 
     - Meta:
 
-        - Authored by:: [[Cara Wilson]] [[Margot Brereton]] [[Bernd Ploderer]] [[Laurianne Sitbon]]
+        - Authored by:: [[Cara Wilson]]
 
         - Year: [[2019]]
 

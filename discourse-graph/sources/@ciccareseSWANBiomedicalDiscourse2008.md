@@ -2,7 +2,7 @@
 title: @ciccareseSWANBiomedicalDiscourse2008
 url: https://roamresearch.com/#/app/megacoglab/page/A63t3b7NT
 author: Joel Chan
-date: Wed Jun 17 2020 16:56:58 GMT-0400 (Eastern Daylight Time)
+date: Thu Jun 18 2020 04:56:58 GMT+0800 (Malaysia Time)
 ---
 
 - #references
@@ -13,7 +13,7 @@ date: Wed Jun 17 2020 16:56:58 GMT-0400 (Eastern Daylight Time)
 
         - Tags: #ref/Paper
 
-        - Authored by::  [[Paolo Ciccarese]] ,  Elizabeth Wu ,  Gwen Wong ,  Marco Ocana ,  June Kinoshita ,  Alan Ruttenberg ,  [[Tim Clark]]
+        - Authored by::  [[Paolo Ciccarese]]
 
         - Year: [[2008]]
 

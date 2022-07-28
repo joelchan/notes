@@ -2,26 +2,26 @@
 title: [[CLM]] - Specifying context for future reuse is costly
 url: https://roamresearch.com/#/app/megacoglab/page/kG9NO_8Gs
 author: Joel Chan
-date: Sat Apr 18 2020 00:08:37 GMT-0400 (Eastern Daylight Time)
+date: Sat Apr 18 2020 12:08:37 GMT+0800 (Malaysia Time)
 ---
 
-- #[[🌲 zettels]]
+- [[🌲 zettels]]
 
-    - Tags: #[[Z]] #context #[[D/Synthesis Infrastructure]]
+    - Tags: [[Z]]
 
     - Description
 
         - Possible reasons:
 
-            - [[[[CLM]] - Specifying context for future reuse requires predicting trajectories of future reuse]], and it's hard to predict the future! Particularly if you want to creatively [[reuse]] something in quite different [[context]]s
+            - [[CLM - Specifying context for future reuse requires predicting trajectories of future reuse]]
 
-            - [[[[CLM]] - Context is a slippery notion]], which means it can be quite hard to standardize (and therefore make efficient) expressions of [[context]] (e.g., in a dropdown menu of possible "contexts") [[@andersonDataBaseMent2008]]
+            - [[CLM - Context is a slippery notion]]
 
 ###### Discourse Context
 
+- **Supported By::** [[CLM - Specifying context for future reuse requires predicting trajectories of future reuse]]
 - **Informs::** [[QUE - How can we best bridge private vs. public knowledge]]
 - **Informs::** [[CLM - Contextualizability is necessary for synthesis]]
-- **Supported By::** [[CLM - Specifying context for future reuse requires predicting trajectories of future reuse]]
 - **Informed By::** [[@andersonDataBaseMent2008]]
 - **Informed By::** [[CLM - Specifying context for future reuse requires predicting trajectories of future reuse]]
 - **Informed By::** [[CLM - Context is a slippery notion]]

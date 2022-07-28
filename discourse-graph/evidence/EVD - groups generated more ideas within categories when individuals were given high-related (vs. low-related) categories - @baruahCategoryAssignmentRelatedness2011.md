@@ -2,7 +2,7 @@
 title: [[EVD]] - groups generated more ideas within categories when individuals were given high-related (vs. low-related) categories - [[@baruahCategoryAssignmentRelatedness2011]]
 url: https://roamresearch.com/#/app/megacoglab/page/uVqwN3vFt
 author: Joel Chan
-date: Thu Sep 16 2021 14:06:07 GMT-0400 (Eastern Daylight Time)
+date: Fri Sep 17 2021 02:06:07 GMT+0800 (Malaysia Time)
 ---
 
 - # Summary

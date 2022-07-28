@@ -2,16 +2,16 @@
 title: @carringtonWearablesChairablesInclusive2014a
 url: https://roamresearch.com/#/app/megacoglab/page/Cv1YEABU5
 author: Joel Chan
-date: Fri May 14 2021 11:27:45 GMT-0400 (Eastern Daylight Time)
+date: Fri May 14 2021 23:27:45 GMT+0800 (Malaysia Time)
 ---
 
-- #[[references]]
+- [[references]]
 
     - Title: Wearables and chairables: Inclusive design of mobile input and output techniques for power wheelchair users
 
     - Meta:
 
-        - Authored by:: [[Patrick Carrington]] [[Amy Hurst]] [[Shaun K. Kane]]
+        - Authored by:: [[Patrick Carrington]]
 
         - Year: [[2014]]
 

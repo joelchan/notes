@@ -2,7 +2,7 @@
 title: [[EVD]] - Using language to evoke separation between participants with dementia and the design team was sometimes necessary to allow for honest feedback - @lindsayEmpathyParticipatoryDesign2012b
 url: https://roamresearch.com/#/app/megacoglab/page/KD_7Hb5vd
 author: AJ Rudd
-date: Fri May 21 2021 09:19:13 GMT-0400 (Eastern Daylight Time)
+date: Fri May 21 2021 21:19:13 GMT+0800 (Malaysia Time)
 ---
 
 - 
@@ -28,10 +28,10 @@ date: Fri May 21 2021 09:19:13 GMT-0400 (Eastern Daylight Time)
     - Source:: [[@lindsayEmpathyParticipatoryDesign2012b]]
 - ## **Discourse Context**
 
-    - Informs:: [[[[QUE]] - What tension points exist between the goals of diversity and depth of user participation in participatory design?]]
+    - Informs:: [[QUE - What tension points exist between the goals of diversity and depth of user participation in participatory design]]
 - ## Metadata::
 
-    - author:: [[AJ Rudd Jr]] [[Joel Chan]]
+    - author:: [[AJ Rudd Jr]]
 
     - noteType:: [[EVD]]
 

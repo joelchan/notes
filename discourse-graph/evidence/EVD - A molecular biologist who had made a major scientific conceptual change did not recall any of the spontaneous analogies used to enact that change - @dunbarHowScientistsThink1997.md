@@ -2,12 +2,12 @@
 title: [[EVD]] - A molecular biologist who had made a major scientific conceptual change did not recall any of the spontaneous analogies used to enact that change - [[@dunbarHowScientistsThink1997]]
 url: https://roamresearch.com/#/app/megacoglab/page/iHNCNBYd1
 author: Joel Chan
-date: Mon Jun 28 2021 14:35:26 GMT-0400 (Eastern Daylight Time)
+date: Tue Jun 29 2021 02:35:26 GMT+0800 (Malaysia Time)
 ---
 
 - Summary::
 
-    - Researcher observed analogies used in the construction of a major conceptual change in a molecular biology lab; the postdoc who engineered that change (alongside others in a lab meeting) [was not able to recall](![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fmegacoglab%2FPGOl3p2KzJ.png?alt=media&token=3dee907b-fd27-481f-bd86-53dc22af53fd)) any of the analogies involved when asked a week, month, 3 months, and 9 months later. [[[[EVD]] - In a design team, concepts tended to be more similar to their immediately preceding concepts after far analogy use compared to using near or no analogies - [[@chanImpactAnalogiesCreative2015]]]]
+    - Researcher observed analogies used in the construction of a major conceptual change in a molecular biology lab; the postdoc who engineered that change (alongside others in a lab meeting) [was not able to recall](![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fmegacoglab%2FPGOl3p2KzJ.png?alt=media&token=3dee907b-fd27-481f-bd86-53dc22af53fd)) any of the analogies involved when asked a week, month, 3 months, and 9 months later. [[EVD - In a design team, concepts tended to be more similar to their immediately preceding concepts after far analogy use compared to using near or no analogies - @chanImpactAnalogiesCreative2015]]
 
         - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fmegacoglab%2FPGOl3p2KzJ.png?alt=media&token=3dee907b-fd27-481f-bd86-53dc22af53fd)
 - **Grounding Context**
@@ -34,7 +34,7 @@ date: Mon Jun 28 2021 14:35:26 GMT-0400 (Eastern Daylight Time)
 
         - Identified in consultation with a Nobel-Prize winner
 
-    - Procedure is sort of [[m/Ethnography]]: spent a year embedded in in the labs, directly observing and audio-recording laboratory meetings, supplemented by reading grant proposals and drafts of papers, and conducting interviews with the scientists. The observation period spanned 19 research projects, many of which led to major discoveries.
+    - Procedure is sort of [[mEthnography]]
 
         - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fmegacoglab%2Fl5gy57KBtI.png?alt=media&token=c11fb5ef-2e72-42e1-a3bb-73d9aa368cac) (p. 464)
 
@@ -48,7 +48,7 @@ date: Mon Jun 28 2021 14:35:26 GMT-0400 (Eastern Daylight Time)
 
         - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fmegacoglab%2FhTTN8uBXs3.png?alt=media&token=de96b2d7-9c9a-4ad9-8219-0fff10864aec) (p. 466)
 
-    - General coding approach: extension of [[m/Think-aloud protocols]] to group setting: unit of analysis is a "statement" (clause or sentence, with a verb phrase that they assume indicates the core mental operation emplyed). Transcription was done by two students with backgrounds in the domain (molecular biology)
+    - General coding approach: extension of [[mThink-aloud protocols]]
 
         - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fmegacoglab%2Fi40jtMd3yO.png?alt=media&token=a5179466-da4c-4cef-9a52-a719c6cda808) (p. 468)
 

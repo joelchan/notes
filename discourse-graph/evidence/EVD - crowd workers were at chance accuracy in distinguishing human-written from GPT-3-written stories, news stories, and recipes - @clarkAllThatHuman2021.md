@@ -2,7 +2,7 @@
 title: [[EVD]] - crowd workers were at chance accuracy in distinguishing human-written from GPT-3-written stories, news stories, and recipes - [[@clarkAllThatHuman2021]]
 url: https://roamresearch.com/#/app/megacoglab/page/kWpt95CTL
 author: Joel Chan
-date: Wed Dec 01 2021 14:33:43 GMT-0500 (Eastern Standard Time)
+date: Thu Dec 02 2021 03:33:43 GMT+0800 (Malaysia Time)
 ---
 
 - # Summary

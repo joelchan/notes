@@ -2,16 +2,16 @@
 title: @dowParallelPrototypingLeads2010
 url: https://roamresearch.com/#/app/megacoglab/page/uEgC--uRO
 author: Joel Chan
-date: Mon Jan 11 2021 22:02:46 GMT-0500 (Eastern Standard Time)
+date: Tue Jan 12 2021 11:02:46 GMT+0800 (Malaysia Time)
 ---
 
-- #[[references]]
+- [[references]]
 
     - Title: Parallel Prototyping Leads to Better Design Results, More Divergence, and Increased Self-efficacy
 
     - Meta:
 
-        - Authored by:: [[Steven P. Dow]] [[Alana Glassco]] [[Jonathan Kass]] [[Melissa Schwarz]] [[Daniel L. Schwartz]] [[Scott R. Klemmer]]
+        - Authored by:: [[Steven P. Dow]]
 
         - Year: [[2010]]
 

@@ -2,18 +2,18 @@
 title: @denervaudEducationShapesStructure2021
 url: https://roamresearch.com/#/app/megacoglab/page/wYn3ln_N-
 author: Joel Chan
-date: Tue Mar 15 2022 10:19:43 GMT-0400 (Eastern Daylight Time)
+date: Tue Mar 15 2022 22:19:43 GMT+0800 (Malaysia Time)
 ---
 
 - Title:: Education shapes the structure of semantic memory and impacts creative thinking
-- Author(s):: [[Solange Denervaud]], [[Alexander P. Christensen]], [[Yoed N. Kenett]], [[Roger E. Beaty]]
+- Author(s):: [[Solange Denervaud]]
 - Abstract:: Education is central to the acquisition of knowledge, such as when children learn new concepts. It is unknown, however, whether educational differences impact not only what concepts children learn, but how those concepts come to be represented in semantic memory—a system that supports higher cognitive functions, such as creative thinking. Here we leverage computational network science tools to study hidden knowledge structures of 67 Swiss schoolchildren from two distinct educational backgrounds—Montessori and traditional, matched on socioeconomic factors and nonverbal intelligence—to examine how educational experience shape semantic memory and creative thinking. We find that children experiencing Montessori education show a more flexible semantic network structure (high connectivity/short paths between concepts, less modularity) alongside higher scores on creative thinking tests. The findings indicate that education impacts how children represent concepts in semantic memory and suggest that different educational experiences can affect higher cognitive functions, including creative thinking.
 - Type:: [[Article]]
 - Publication:: npj Science of Learning
 - URL : https://www.nature.com/articles/s41539-021-00113-8
 - Date Added:: [[March 15th, 2022]]
 - Zotero links:: [Local library](zotero://select/groups/2451508/items/J7KCTA92), [Local library](https://www.zotero.org/groups/2451508/items/J7KCTA92)
-- Tags:: #[[Human behaviour]], #[[Long-term memory]]
+- Tags:: [[Human behaviour]]
 - PDF links : [Denervaud et al. - 2021 - Education shapes the structure of semantic memory .pdf](zotero://open-pdf/groups/2451508/items/CUW5KUBJ)
 - #lit-context
 
@@ -46,24 +46,24 @@ date: Tue Mar 15 2022 10:19:43 GMT-0400 (Eastern Daylight Time)
 
                     - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fmegacoglab%2FsZwDPGqwwj.png?alt=media&token=b1945d69-2503-44a6-8312-50be0384ebf7) (p. 5)
 
-                - then draw a filtered network from the similarity matrix using [[m/Triangulated Maximally Filtered Graph (TMFG)]]
+                - then draw a filtered network from the similarity matrix using [[mTriangulated Maximally Filtered Graph (TMFG)]]
 
                     - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fmegacoglab%2FAjRpsnRRvW.png?alt=media&token=c04e35a2-f0aa-4356-99a6-39d29c03a0a1) (p. 5)
 
-                    - method is from [[@massaraNetworkFilteringBig2017]], and can be replicated using R package described in [[@christensenSemanticNetworkAnalysis2021]]
+                    - method is from [[@massaraNetworkFilteringBig2017]]
 
             - network metrics: clustering coefficient, average shortest path length (ASPL) and modularity (Q)
 
                 - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fmegacoglab%2Fk3I3R5wz7m.png?alt=media&token=23dc3f85-456e-46f0-b403-c57ccc02b58f)
 
             - network estimation sampling for each group: estimate 1000 case-wise bootstrapped simulated networks from each group (basically, for each group, for 1000 times, grab N-M participants from the group, [construct the network](network construction/estimation), and then compute the [network metrics](((Z37PYNsQe))))
-- #[[📝 lit-notes]]
+- [[📝 lit-notes]]
 
-    - [[Joel Chan]] for [[[[THE]] - interaction-oriented theory of creative inspiration from examples]]
+    - [[Joel Chan]]
 
         - results
 
-            - [[[[EVD]] - estimated semantic networks of animal concepts from montessori-educated children were more interconnected, with shorter paths between concepts and fewer subcommunities, compared to networks from traditional-schooled but comparable children - [[@denervaudEducationShapesStructure2021]]]]
+            - [[EVD - estimated semantic networks of animal concepts from montessori-educated children were more in...orks from traditional-schooled but comparable children - @denervaudEducationShapesStructure2021]]
 
 ###### Discourse Context
 

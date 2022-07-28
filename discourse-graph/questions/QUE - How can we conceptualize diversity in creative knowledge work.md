@@ -2,10 +2,10 @@
 title: [[QUE]] - How can we conceptualize diversity in creative knowledge work?
 url: https://roamresearch.com/#/app/megacoglab/page/pfrz3qHxw
 author: Joel Chan
-date: Sun Aug 08 2021 13:18:04 GMT-0400 (Eastern Daylight Time)
+date: Mon Aug 09 2021 01:18:04 GMT+0800 (Malaysia Time)
 ---
 
-- #Question
+- #question
 
     - # Synthesis
 
@@ -19,7 +19,7 @@ date: Sun Aug 08 2021 13:18:04 GMT-0400 (Eastern Daylight Time)
 
             - [[@siangliulueCollaborativeIdeationScale2015]]
 
-        - ## #[[Claims and Evidence]]
+        - ## [[Claims and Evidence]]
 
         - ## #Integrated
 

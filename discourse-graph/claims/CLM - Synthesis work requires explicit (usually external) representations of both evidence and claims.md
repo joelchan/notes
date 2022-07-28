@@ -2,7 +2,7 @@
 title: [[CLM]] - Synthesis work requires explicit (usually external) representations of both evidence and claims
 url: https://roamresearch.com/#/app/megacoglab/page/1bdxRphK9
 author: Joel Chan
-date: Sat Feb 05 2022 20:39:08 GMT-0500 (Eastern Standard Time)
+date: Sun Feb 06 2022 09:39:08 GMT+0800 (Malaysia Time)
 ---
 
 - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fmegacoglab%2FmTZ7FdjdMs.jpeg?alt=media&token=4cc9b738-cfea-476f-a0d0-ad881ed40a38)
@@ -28,7 +28,7 @@ date: Sat Feb 05 2022 20:39:08 GMT-0500 (Eastern Standard Time)
 
             - neural information retrieval mechanisms far outperform simpler methods
 
-            - "[[scientific flip-flopping]]" (h/t [[José Luis Ricón Fernández de la Puente]]:
+            - "[[scientific flip-flopping]]
 
                 - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fmegacoglab%2FI_rFi86zY_.png?alt=media&token=ce9bd08d-4e0f-44af-a065-964fa6c20ee3)œ
 
@@ -42,23 +42,23 @@ date: Sat Feb 05 2022 20:39:08 GMT-0500 (Eastern Standard Time)
 
         - Claim with N citations can convey far more certainty and generality than is warranted. And our human brains and incentive structures seem to push us to do this often. I see this repeatedly in my own lived experience.
 
-        - Let's look at some examples that others have documented of the [lossy claim+citation telephone game]([[[[CLM]] - Citation practices in science are far from optimal]]):
+        - Let's look at some examples that others have documented of the [lossy claim+citation telephone game]([[CLM - Citation practices in science are far from optimal]]
 
-            - [[@harzingPersistentMythHigh1995]] is another really striking example, arguing that "there is almost no empirical foundation for the existence of high failure rates when measured as premature re-entry. The persistent myth of high expatriate failure rates seems to have been created by massive (mis)quotations of three articles. Only one of these articles contained solid empirical evidence on expatriate failure rates and in fact showed them to be rather low"
+            - [[@harzingPersistentMythHigh1995]]
 
-            - [[[[EVD]] - A style guide example citation (not a real paper) was copied by more than 10 later papers to support claims of therapeutic effects of Rutin - [[@lengPhantomReferencePropagation2020]]]]
+            - [[EVD - A style guide example citation (not a real paper) was copied by more than 10 later papers to support claims of therapeutic effects of Rutin - @lengPhantomReferencePropagation2020]]
 
             - We report a method of estimating what percentage of people who cited a paper had actually read it. The method is based on a stochastic modeling of the citation process that explains empirical studies of misprint distributions in citations (which we show follows a Zipf law). Our estimate is only about 20% of citers read the original.
 
-            - #example-of [[affirmative citation bias]] [[[[CLM]] - Citation practices in science are far from optimal]]
+            - #example-of [[affirmative citation bias]]
 
-            - Citations of a particular finding about an Alzheimer's relevant protein in the brain tended to be biased against refutation, and biased towards amplifications, leading to substantial distortions in judgments of the reliability of the finding #[[@greenbergHowCitationDistortions2009]]
+            - Citations of a particular finding about an Alzheimer's relevant protein in the brain tended to be biased against refutation, and biased towards amplifications, leading to substantial distortions in judgments of the reliability of the finding [[@greenbergHowCitationDistortions2009]]
 
-            - [[open access]] could help ameliorate some of the [bad citing practices in science]([[[[CLM]] - Citation practices in science are far from optimal]]): people cite less from superficial knowledge because they can actually read the article! [[@mccabeCiteUnseenTheory2020]]
+            - [[open access]]
 
             - Papers citing papers that refute the Hawthorne effect cite those papers **in support of** the Hawthorne effect 🤦‍♂️ [[@letrudAffirmativeCitationBias2019]]
 
-            - One striking observation in [[@cohanStructuralScaffoldsCitation2019]]: ((G_fqQ_Wl9))((wfq4THZ2-))
+            - One striking observation in [[@cohanStructuralScaffoldsCitation2019]]
 
             - https://twitter.com/scite/status/1286332504211894272
 
@@ -68,7 +68,7 @@ date: Sat Feb 05 2022 20:39:08 GMT-0500 (Eastern Standard Time)
 
                 - And essay on responsible use of citation data: [[@clausetDatadrivenPredictionsScience2017]]
 
-    - 2 - One might argue that the previous issue is constrained to our current suboptimal incentive structures and human error. What if we all acted in good faith? I think we would still want separable, accessible means of tracing claims back to their evidence, because [[[[CLM]] - Knowledge is fundamentally contextual]]
+    - 2 - One might argue that the previous issue is constrained to our current suboptimal incentive structures and human error. What if we all acted in good faith? I think we would still want separable, accessible means of tracing claims back to their evidence, because [[CLM - Knowledge is fundamentally contextual]]
 
         - Claims are scoped. Conditions can change. Obvious example is what is possible vs. not, why X did not work. Crucial to retain info. This is sort of inherent to any sort of knowledge claim
 
@@ -80,7 +80,7 @@ date: Sat Feb 05 2022 20:39:08 GMT-0500 (Eastern Standard Time)
 
                 - {{embed: A few main examples of these}}
 
-            - Sleeping beauties (some pointers in this from [[@clausetDatadrivenPredictionsScience2017]])
+            - Sleeping beauties (some pointers in this from [[@clausetDatadrivenPredictionsScience2017]]
 
 ###### Discourse Context
 

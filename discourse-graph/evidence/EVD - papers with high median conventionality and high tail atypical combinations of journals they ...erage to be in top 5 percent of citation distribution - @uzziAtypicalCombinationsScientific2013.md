@@ -2,7 +2,7 @@
 title: [[EVD]] - papers with high median conventionality and high tail atypical combinations of journals they cited were 2x more likely than average to be in top 5 percent of citation distribution - [[@uzziAtypicalCombinationsScientific2013]]
 url: https://roamresearch.com/#/app/megacoglab/page/xMEXh8Glg
 author: Joel Chan
-date: Thu Jul 22 2021 11:07:32 GMT-0400 (Eastern Daylight Time)
+date: Thu Jul 22 2021 23:07:32 GMT+0800 (Malaysia Time)
 ---
 
 - results

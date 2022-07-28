@@ -2,11 +2,11 @@
 title: @russellBeingLiterateLarge2006
 url: https://roamresearch.com/#/app/megacoglab/page/YJ9jL4EvB
 author: Unknown
-date: Thu Jul 14 2022 09:59:21 GMT-0400 (Eastern Daylight Time)
+date: Thu Jul 28 2022 09:16:42 GMT+0800 (Malaysia Time)
 ---
 
 - Title:: Being literate with large document collections: Observational studies and cost structure tradeoffs
-- Author(s):: [[Daniel M Russell]], [[Malcolm Slaney]], [[Yan Qu]], [[Mave Houston]]
+- Author(s):: [[Daniel M Russell]]
 - Type:: [[Conference paper]]
 - Publication::
 - Date Added:: [[February 19th, 2020]]
@@ -17,9 +17,9 @@ date: Thu Jul 14 2022 09:59:21 GMT-0400 (Eastern Daylight Time)
 
     - Meta
 
-        - Tags: #[[references]] #[[D/Synthesis Infrastructure]] #[[🧱 sensemaking]]
+        - Tags: [[references]]
 
-        - Authored by::  [[Daniel Russell]] ,  Malcolm Slaney ,  Yan Qu ,  Mave Houston
+        - Authored by::  [[Daniel Russell]]
 
         - Year: [[2006]]
 
@@ -27,9 +27,9 @@ date: Thu Jul 14 2022 09:59:21 GMT-0400 (Eastern Daylight Time)
 
     - #lit-context
 
-    - #[[📝 lit-notes]]
+    - [[📝 lit-notes]]
 
-        - #Claim The medium we use to do [[🧱 sensemaking]] can have very large cumulative effects on the cost structure of sensemaking
+        - #Claim The medium we use to do [[🧱 sensemaking]]
 
             - Good example on p5: if "moving" a paper is costly, people do it a lot less
 

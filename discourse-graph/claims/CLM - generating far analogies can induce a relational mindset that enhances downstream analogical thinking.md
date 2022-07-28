@@ -2,7 +2,7 @@
 title: [[CLM]] - generating far analogies can induce a "relational mindset" that enhances downstream analogical thinking
 url: https://roamresearch.com/#/app/megacoglab/page/IOsCv0Rzk
 author: Joel Chan
-date: Thu Dec 16 2021 14:41:49 GMT-0500 (Eastern Standard Time)
+date: Fri Dec 17 2021 03:41:49 GMT+0800 (Malaysia Time)
 ---
 
 

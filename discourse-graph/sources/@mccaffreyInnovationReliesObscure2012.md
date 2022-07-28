@@ -2,10 +2,10 @@
 title: @mccaffreyInnovationReliesObscure2012
 url: https://roamresearch.com/#/app/megacoglab/page/cv4V1e3wG
 author: Joel Chan
-date: Thu May 14 2020 16:36:09 GMT-0400 (Eastern Daylight Time)
+date: Fri May 15 2020 04:36:09 GMT+0800 (Malaysia Time)
 ---
 
-- #[[references]]
+- [[references]]
 
     - Title: Innovation Relies on the Obscure: A Key to Overcoming the Classic Problem of Functional Fixedness
 
@@ -52,10 +52,31 @@ date: Thu May 14 2020 16:36:09 GMT-0400 (Eastern Daylight Time)
 
         - System here goes on to become commercialized. Not mainstream yet though.
 
-    - #[[📝 lit-notes]]
+    - [[📝 lit-notes]]
+
+        - [[obscure features]]
+
+            - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fmegacoglab%2FiYC6CGa3d1.png?alt=media&token=87db541f-dd4f-4516-8fc1-a15b07ce77fb) (p. 216)
+
+        - experiment
+
+            - solve 8 toy insight problems
+
+                - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fmegacoglab%2FEzeJpi5bAc.png?alt=media&token=99cd88cd-cbac-4b4c-8eff-71b3b0f137f3) (p. 217)
+
+            - intervention: [[generic-parts diagram]]
+
+                - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fmegacoglab%2FjXkyJNUZhD.png?alt=media&token=bad65e52-91bc-4392-b35d-0676ebdd2ed0)
+
+        - solve more toy insight problems when using generic-parts vs. not
+
+            - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fmegacoglab%2Fxs0qcDV8hb.png?alt=media&token=58e6f0b8-e2bd-4495-a986-9e822c0ba17c) (p. 217)
+
+            - BEWARE: this was 14 participants per cell
 
 ###### Discourse Context
 
+- **Informs::** [[CLM - Representing ideas in atomic units facilitates conceptual combination]]
 - **Informs::** [[CLM - Breaking ideas down into component parts facilitates creative reinterpretation]]
 - **Informs::** [[QUE - How do people effectively (re)formulate creative problems]]
 - **Informs::** [[THE - interaction-oriented theory of creative inspiration from examples]]

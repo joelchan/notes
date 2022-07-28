@@ -2,7 +2,7 @@
 title: [[EVD]] - in 57 nonprofit management texts, beneficiaries were mentioned mostly in marketing and eval chapters, and infrequently in HR or volunteer management chapters - [[@benjaminBringingBeneficiariesMore2020]]
 url: https://roamresearch.com/#/app/megacoglab/page/A-Z4c01gc
 author: Joel Chan
-date: Tue Dec 21 2021 13:30:59 GMT-0500 (Eastern Standard Time)
+date: Wed Dec 22 2021 02:30:59 GMT+0800 (Malaysia Time)
 ---
 
 - # Summary

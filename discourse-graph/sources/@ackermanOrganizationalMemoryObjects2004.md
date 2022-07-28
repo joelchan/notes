@@ -2,18 +2,18 @@
 title: @ackermanOrganizationalMemoryObjects2004
 url: https://roamresearch.com/#/app/megacoglab/page/HLEZnpD0H
 author: Joel Chan
-date: Wed May 20 2020 11:33:57 GMT-0400 (Eastern Daylight Time)
+date: Wed May 20 2020 23:33:57 GMT+0800 (Malaysia Time)
 ---
 
-- #[[references]]
+- [[references]]
 
     - Title: Organizational Memory as Objects, Processes, and Trajectories: An Examination of Organizational Memory in Use
 
     - Meta:
 
-        - Tags: #ref/Paper #[[D/Synthesis Infrastructure]]
+        - Tags: #ref/Paper [[DSynthesis Infrastructure]]
 
-        - Authored by:: [[Mark S. Ackerman]] [[Christine A. Halverson]]
+        - Authored by:: [[Mark S. Ackerman]]
 
         - Year: [[2004]]
 
@@ -31,7 +31,7 @@ date: Wed May 20 2020 11:33:57 GMT-0400 (Eastern Daylight Time)
 
     - #lit-context
 
-        - #canonical ref for [[context]], helps flesh out how [[[[CLM]] - Contextualizability is necessary for synthesis]]
+        - #canonical ref for [[context]]
 
         - setting:: telephone hotline group (HLG) for human resources (e.g., benefits, personnel policies) in a well-established mid-sized (~1000+ employees) company in Silicon Valley
 
@@ -41,9 +41,9 @@ date: Wed May 20 2020 11:33:57 GMT-0400 (Eastern Daylight Time)
 
                 - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fmegacoglab%2Ff0Dn98k5Mf.png?alt=media&token=a7f0515a-563b-459a-9473-682b9031a93b) (p. 165)
 
-    - #[[📝 lit-notes]]
+    - [[📝 lit-notes]]
 
-        - #[[observation-notes]]
+        - [[observation-notes]]
 
             - A [HLG employee](main participant whose transcript is analyzed (here called the HLG employee) was an experienced agent who had been at the company for 5 years, and at the hotline group for 1 year) drew on five discrete "small memories" in her handling of a hotline call, such as the telephone system's short-term memory of the group's activity, her own short-term memory, scrap paper, the CAll Tracking (CAT) system, and records in the CARL database, instead of a single monolithic memory
 
@@ -51,7 +51,7 @@ date: Wed May 20 2020 11:33:57 GMT-0400 (Eastern Daylight Time)
 
                 - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fmegacoglab%2FhfTG3GBanW.png?alt=media&token=6aa3ad03-271a-4cc4-aa49-5ab2af2fb0d0) (p. 169)
 
-            - To properly deal with a [discrepancy in benefits from the caller](The issue at play in one of the case studies was that the caller was trying to use benefits from her health care coverage, but was blocked by the provider, even though she (correctly) believed that she has coverage through the employer. This was borne out in the company's CARL database, but her record was absent in the provider's db. The HLG employee's task was to resolve this discrepancy, and ), a [HLG employee](((95SLsSLsN))) needed to [[reuse]] information from the [CARL database](((OLechJ6p6))), among other sources of information, to create an escalation to the benefits group. To do this, she needed important [[context]] that was missing from the CARL record itself, such as details of the record's creation or maintenance (was it authoritative?), and any circumstances surrounding the caller's employment. The HLG employee dealt with this missing context by consulting an expert (a senior agent) and her own memory, rather than searching databases for additional information, even though that information could in principle be in there.
+            - To properly deal with a [discrepancy in benefits from the caller](The issue at play in one of the case studies was that the caller was trying to use benefits from her health care coverage, but was blocked by the provider, even though she (correctly) believed that she has coverage through the employer. This was borne out in the company's CARL database, but her record was absent in the provider's db. The HLG employee's task was to resolve this discrepancy, and ), a [HLG employee](((95SLsSLsN))) needed to [[reuse]]
 
                 - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fmegacoglab%2FfTEHpl6sdR.png?alt=media&token=cd09b0e1-d6f1-4f6e-b1a7-d2a5cdeecf57) (p. 170)
 
@@ -70,7 +70,7 @@ date: Wed May 20 2020 11:33:57 GMT-0400 (Eastern Daylight Time)
 
     - Meta:
 
-        - Authored by::  [[Mark Ackerman]] ,  Christine Halverson
+        - Authored by::  [[Mark Ackerman]]
 
         - Year: [[2004]]
 

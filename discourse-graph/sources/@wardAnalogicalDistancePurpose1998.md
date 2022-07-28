@@ -2,16 +2,16 @@
 title: @wardAnalogicalDistancePurpose1998
 url: https://roamresearch.com/#/app/megacoglab/page/ncP9pJtXC
 author: Joel Chan
-date: Fri Sep 18 2020 11:09:45 GMT-0400 (Eastern Daylight Time)
+date: Fri Sep 18 2020 23:09:45 GMT+0800 (Malaysia Time)
 ---
 
-- #[[references]]
+- [[references]]
 
     - Title: Analogical distance and purpose in creative thought: Mental leaps versus mental hops
 
     - Meta:
 
-        - Authored by:: [[T. B. Ward]] [[Keith J. Holyoak]] [[Dedre Gentner]] [[B. Kokinov]]
+        - Authored by:: [[T. B. Ward]]
 
         - Year: [[1998]]
 

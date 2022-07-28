@@ -2,16 +2,16 @@
 title: @craigRoleDiagramsDiagrammatic2002
 url: https://roamresearch.com/#/app/megacoglab/page/WLC1SKBCa
 author: Joel Chan
-date: Fri Mar 26 2021 12:08:30 GMT-0400 (Eastern Daylight Time)
+date: Sat Mar 27 2021 00:08:30 GMT+0800 (Malaysia Time)
 ---
 
-- #[[references]]
+- [[references]]
 
     - Title: The Role of Diagrams and Diagrammatic Affordances in Analogy
 
     - Meta:
 
-        - Authored by:: [[D. L. Craig]] [[N. J. Nersessian]] [[R. Catrambone]]
+        - Authored by:: [[D. L. Craig]]
 
         - Year: [[2002]]
 

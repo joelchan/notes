@@ -2,16 +2,16 @@
 title: @chanSOLVENTMixedInitiative2018
 url: https://roamresearch.com/#/app/megacoglab/page/K8c6pu1a_
 author: Joel Chan
-date: Sun Mar 22 2020 15:22:15 GMT-0400 (Eastern Daylight Time)
+date: Mon Mar 23 2020 03:22:15 GMT+0800 (Malaysia Time)
 ---
 
-- #[[references]]
+- [[references]]
 
     - Title: SOLVENT: A Mixed Initiative System for Finding Analogies between Research Papers
 
     - Meta:
 
-        - Authored by:: [[Joel Chan]] [[Joseph Chee Chang]] [[Tom Hope]] [[Dafna Shahaf]] [[Aniket Kittur]]
+        - Authored by:: [[Joel Chan]]
 
         - Year: [[2018]]
 
@@ -31,7 +31,7 @@ date: Sun Mar 22 2020 15:22:15 GMT-0400 (Eastern Daylight Time)
 
         - embeddings
 
-            - TF-IDF-weighted average of embeddings from [[doc2vec]] model with 600D trained on ~4000 CHI/CSCW papers from 2010 - 2017
+            - TF-IDF-weighted average of embeddings from [[doc2vec]]
 
                 - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fmegacoglab%2FkhYtHaHvfw.png?alt=media&token=32b11865-e018-4004-84b6-fc3d31eb8999) (p. 8)
 
@@ -45,7 +45,7 @@ date: Sun Mar 22 2020 15:22:15 GMT-0400 (Eastern Daylight Time)
 
             - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fmegacoglab%2Fz5G6xlwmlh.png?alt=media&token=39729138-acd0-43cc-ae61-1a93e87b8d89)(p. 10)
 
-    - #[[📝 lit-notes]]
+    - [[📝 lit-notes]]
 
         - cosine distance between embeddings from spans labeled by humans for purpose/mechanism was able to achieve precision@5 of .7 for recovering "ground truth" analogies between research papers, compared to cosine distance between embeddings for all words in the abstract (precision@5 = ~.67)
 

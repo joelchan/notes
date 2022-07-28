@@ -2,17 +2,17 @@
 title: @wang2019wikipedia
 url: https://roamresearch.com/#/app/megacoglab/page/wFXPjGSPV
 author: Joel Chan
-date: Sun Mar 01 2020 20:57:57 GMT-0500 (Eastern Standard Time)
+date: Mon Mar 02 2020 09:57:57 GMT+0800 (Malaysia Time)
 ---
 
 - [[@wang2019wikipedia]]
-- #[[references]]
+- [[references]]
 
     - Title: A Wikipedia-based method to support creative idea generation: The Role of Stimulus Relatedness
 
     - Meta:
 
-        - Authored by:: [[Kai Wang]] [[Jeffrey V Nickerson]]
+        - Authored by:: [[Kai Wang]]
 
         - Year: [[2019]]
 
@@ -31,7 +31,7 @@ date: Sun Mar 01 2020 20:57:57 GMT-0500 (Eastern Standard Time)
 
     - Title: A Wikipedia-based method to support creative idea generation: The Role of Stimulus Relatedness
 
-    - [[Authored by]]::  Kai Wang ,  Jeffrey V Nickerson
+    - [[Authored by]]
 
     - Year: 2019
 

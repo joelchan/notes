@@ -2,16 +2,16 @@
 title: @laneEngineeringSerendipityWhen
 url: https://roamresearch.com/#/app/megacoglab/page/rlgQ87qm4
 author: Joel Chan
-date: Wed Jan 13 2021 18:06:35 GMT-0500 (Eastern Standard Time)
+date: Thu Jan 14 2021 07:06:35 GMT+0800 (Malaysia Time)
 ---
 
-- #[[references]]
+- [[references]]
 
     - Title: Engineering serendipity: When does knowledge sharing lead to knowledge production?
 
     - Meta:
 
-        - Authored by:: [[Jacqueline N. Lane]] [[Ina Ganguli]] [[Patrick Gaule]] [[Eva Guinan]] [[Karim R. Lakhani]]
+        - Authored by:: [[Jacqueline N. Lane]]
 
         - Year: [[undefined]]
 
@@ -29,7 +29,7 @@ date: Wed Jan 13 2021 18:06:35 GMT-0500 (Eastern Standard Time)
 
     - #lit-context
 
-        - setting: 306 (out of 402) scientists participating in an interdisciplinary medical symposium for research on advanced imaging in [[2012]], in conjunction with seed grant opportunities (up to $50k per 15 grants) from the university's clinical and translational science center
+        - setting: 306 (out of 402) scientists participating in an interdisciplinary medical symposium for research on advanced imaging in [[2012]]
 
             - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fmegacoglab%2F3U2_KD2S75.png?alt=media&token=4a8c30e7-ca7d-4abe-a9ac-bd179abd9913) (p. 10-11)
 
@@ -39,7 +39,7 @@ date: Wed Jan 13 2021 18:06:35 GMT-0500 (Eastern Standard Time)
 
             - need both deep domain knowledge and imaging tools/tech
 
-        - intervention: randomized to one of three nights of the symposium, one of four breakout rooms, one of two groups, and a poster location; F2F communication measured with [[sociometrics]] badges
+        - intervention: randomized to one of three nights of the symposium, one of four breakout rooms, one of two groups, and a poster location; F2F communication measured with [[sociometrics]]
 
             - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fmegacoglab%2F8Y01f0uh8E.png?alt=media&token=cdd09aa6-c22f-4543-a438-e1fd6d024c8e) (p. 11)
 
@@ -51,7 +51,7 @@ date: Wed Jan 13 2021 18:06:35 GMT-0500 (Eastern Standard Time)
 
                 - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fmegacoglab%2FB0gWGXYLTg.png?alt=media&token=752b8997-5919-41f2-868a-fbd6816f5c94) (p. 13)
 
-            - **knowledge similarity**, measured in terms of field similarity (clinical areas mentioned in scientists' statements of interest), and intellectual similarity (from overlap in [[MeSH]] keywords from pre-symposium pubs)
+            - **knowledge similarity**, measured in terms of field similarity (clinical areas mentioned in scientists' statements of interest), and intellectual similarity (from overlap in [[MeSH]]
 
                 - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fmegacoglab%2FiYqAyKGdJU.png?alt=media&token=02958e2e-b6a0-40f4-9689-c8ce27563fcc) (p. 13-14)
 
@@ -71,7 +71,7 @@ date: Wed Jan 13 2021 18:06:35 GMT-0500 (Eastern Standard Time)
 
         - dependent variables
 
-            - **knowledge transfer**: percentage of [[MeSH]] keywords in papers published in 6-year period after symposium that came from the scientist (their pre-symposium pubs) you were assigned to talk to
+            - **knowledge transfer**: percentage of [[MeSH]]
 
                 - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fmegacoglab%2Fc5GYOAWmOq.png?alt=media&token=94bb94e0-1b06-4cc8-b40b-fd66145e6830) (p. 13)
 
@@ -89,11 +89,11 @@ date: Wed Jan 13 2021 18:06:35 GMT-0500 (Eastern Standard Time)
 
             - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fmegacoglab%2FfciHER_rUJ.png?alt=media&token=4f55a6be-b53d-42b0-8579-fdbeeeb52457) (p. 15)
 
-    - #[[📝 lit-notes]]
+    - [[📝 lit-notes]]
 
-        - #[[observation-notes]]
+        - [[observation-notes]]
 
-            - scientist pairs who were [randomly assigned to talk to each other](intervention: randomized to one of three nights of the symposium, one of four breakout rooms, one of two groups, and a poster location; F2F communication measured with [[sociometrics]] badges) (and did so, face-to-face) at an [interdisciplinary medical imaging symposium](((HvQgkhAIF))) used about 6 new [MeSH keywords from their partners in future publications](((08vh79BF1))) when the pair had [moderate overlap in intellectual interests](((_eEx8ZIIv))), compared to low or high overlap (for which there were no clear effects)
+            - scientist pairs who were [randomly assigned to talk to each other](intervention: randomized to one of three nights of the symposium, one of four breakout rooms, one of two groups, and a poster location; F2F communication measured with [[sociometrics]]
 
                 - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fmegacoglab%2FQmpPhIvvj5.png?alt=media&token=5d2e8a76-50a1-45b3-b47c-87973dde3654) (Fig 3A, p. 19)
 
@@ -101,9 +101,9 @@ date: Wed Jan 13 2021 18:06:35 GMT-0500 (Eastern Standard Time)
 
                 - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fmegacoglab%2FA1P13Z3ZLU.png?alt=media&token=ddbc9a0d-10a5-4567-b9e2-6d2edd3405de) (table 3, p. 17-18)
 
-                - for [[[[QUE]] - What are the most efficient routes to useful cross-boundary knowledge?]]
+                - for [[QUE - What are the most efficient routes to useful cross-boundary knowledge]]
 
-            - scientist pairs who were [randomly assigned to talk to each other](intervention: randomized to one of three nights of the symposium, one of four breakout rooms, one of two groups, and a poster location; F2F communication measured with [[sociometrics]] badges) (and did so, face-to face) at an [interdisciplinary medical imaging symposium](((HvQgkhAIF))) had *fewer* [co-authored publications with their partner after the symposium](((Dxba0prqe))) when the pair had [high field similarity](((_eEx8ZIIv))), compared to low or moderate overlap (for which there were no clear effects; maybe a slightly positive effect for moderately field-similar pairs, but the 95% confidence interval crosses zero)
+            - scientist pairs who were [randomly assigned to talk to each other](intervention: randomized to one of three nights of the symposium, one of four breakout rooms, one of two groups, and a poster location; F2F communication measured with [[sociometrics]]
 
                 - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fmegacoglab%2FeBZFHPZvyU.png?alt=media&token=1cbd442f-e6a1-4359-bb04-759efebc5a3c) (Fig. 3b, p. 19)
 
@@ -111,7 +111,7 @@ date: Wed Jan 13 2021 18:06:35 GMT-0500 (Eastern Standard Time)
 
                 - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fmegacoglab%2F9h4_ThgwdY.png?alt=media&token=268eed9d-61ed-4505-9ca9-3b2c58259e0d)
 
-                - for [[[[QUE]] - What are the most efficient routes to useful cross-boundary knowledge?]]
+                - for [[QUE - What are the most efficient routes to useful cross-boundary knowledge]]
 
 ###### Discourse Context
 

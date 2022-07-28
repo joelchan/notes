@@ -2,7 +2,7 @@
 title: [[EVD]] - People were ~2x worse at solving matchstick arithmetic problems when the elements were harder to decompose into chunks - [[@knoblichConstraintRelaxationChunk1999]]
 url: https://roamresearch.com/#/app/megacoglab/page/YLzHxxCDY
 author: Joel Chan
-date: Fri Jan 14 2022 11:33:26 GMT-0500 (Eastern Standard Time)
+date: Sat Jan 15 2022 00:33:26 GMT+0800 (Malaysia Time)
 ---
 
 - # Summary

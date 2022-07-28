@@ -2,16 +2,16 @@
 title: @clarkAlzforumSWANPresent2007
 url: https://roamresearch.com/#/app/megacoglab/page/9BkTSTemw
 author: Joel Chan
-date: Sat Feb 06 2021 11:16:35 GMT-0500 (Eastern Standard Time)
+date: Sun Feb 07 2021 00:16:35 GMT+0800 (Malaysia Time)
 ---
 
-- #[[references]]
+- [[references]]
 
     - Title: Alzforum and SWAN: the present and future of scientific web communities.
 
     - Meta:
 
-        - Authored by:: [[Tim Clark]] [[June Kinoshita]]
+        - Authored by:: [[Tim Clark]]
 
         - Year: [[2007]]
 

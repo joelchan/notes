@@ -2,7 +2,7 @@
 title: @dewaardHypothesesEvidenceRelationships2009
 url: https://roamresearch.com/#/app/megacoglab/page/1Px4fzEIr
 author: Joel Chan
-date: Fri May 22 2020 15:46:53 GMT-0400 (Eastern Daylight Time)
+date: Sat May 23 2020 03:46:53 GMT+0800 (Malaysia Time)
 ---
 
 - #references
@@ -13,9 +13,9 @@ date: Fri May 22 2020 15:46:53 GMT-0400 (Eastern Daylight Time)
 
         - Tags: #ref/Paper
 
-        - Authored by:: [[Anita de Waard]] [[Simon Buckingham Shum]] [[Annamaria Carusi]] [[Jack Park]] [[Matthias Samwald]] [[Ágnes Sándor]]
+        - Authored by:: [[Anita de Waard]]
 
-        - Authored by::  [[Anita de Waard]] ,  [[Simon Buckingham Shum]] ,  Annamaria Carusi ,  [[Jack Park]] ,  Matthias Samwald ,  Ágnes Sándor
+        - Authored by::  [[Anita de Waard]]
 
         - Year: [[2009]]
 

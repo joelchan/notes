@@ -2,7 +2,7 @@
 title: [[EVD]] - design sessions with neurodiverse children sometimes led to intense conflicts that led to children disengaging [[@frauenbergerNurturingConstructiveDisagreement2019b]]
 url: https://roamresearch.com/#/app/megacoglab/page/vGH4PkkL9
 author: Joel Chan
-date: Fri Jun 25 2021 11:30:01 GMT-0400 (Eastern Daylight Time)
+date: Fri Jun 25 2021 23:30:01 GMT+0800 (Malaysia Time)
 ---
 
 - noteType:: [[EVD]]
@@ -43,7 +43,7 @@ date: Fri Jun 25 2021 11:30:01 GMT-0400 (Eastern Daylight Time)
 
     - ## **Discourse Context**
 
-        - [[[[QUE]] - What tension points exist between the goals of diversity and depth of user participation in participatory design?]]
+        - [[QUE - What tension points exist between the goals of diversity and depth of user participation in participatory design]]
 
     - ## Metadata::
 

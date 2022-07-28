@@ -2,7 +2,7 @@
 title: @ahrensHowTakeSmart2017
 url: https://roamresearch.com/#/app/megacoglab/page/EvMoh6MJI
 author: Joel Chan
-date: Sat May 09 2020 00:48:07 GMT-0400 (Eastern Daylight Time)
+date: Sat May 09 2020 12:48:07 GMT+0800 (Malaysia Time)
 ---
 
 - #references
@@ -25,7 +25,7 @@ date: Sat May 09 2020 00:48:07 GMT-0400 (Eastern Daylight Time)
 
     - #lit-context
 
-        - #canonical English-language intro to [[sys/Zettelkasten]]
+        - #canonical English-language intro to [[sysZettelkasten]]
 
 ###### Discourse Context
 

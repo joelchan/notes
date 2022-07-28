@@ -2,16 +2,16 @@
 title: @gickAnalogicalProblemSolving1980
 url: https://roamresearch.com/#/app/megacoglab/page/rtlqPlH55
 author: Joel Chan
-date: Tue May 19 2020 22:45:41 GMT-0400 (Eastern Daylight Time)
+date: Wed May 20 2020 10:45:41 GMT+0800 (Malaysia Time)
 ---
 
-- #[[references]]
+- [[references]]
 
     - Title: Analogical problem solving
 
     - Meta:
 
-        - Authored by:: [[Mary L. Gick]] [[Keith J. Holyoak]]
+        - Authored by:: [[Mary L. Gick]]
 
         - Year: [[1980]]
 
@@ -95,7 +95,7 @@ date: Tue May 19 2020 22:45:41 GMT-0400 (Eastern Daylight Time)
 
         - #canonical paper for [[analogy]]
 
-    - #[[📝 lit-notes]]
+    - [[📝 lit-notes]]
 
         - Overview: 5 experiments
 
@@ -107,7 +107,7 @@ date: Tue May 19 2020 22:45:41 GMT-0400 (Eastern Daylight Time)
 
                 - Used G-test (alt to chi-square) of independence to test for statistical significance of frequency patterns.
 
-                    - #[[❗beware]]: [this handbook](http://www.biostathandbook.com/gtestind.html) suggests it is less accurate with low N / expected frequencies
+                    - [[❗beware]]
 
             - Experiment 1
 
@@ -167,7 +167,7 @@ date: Tue May 19 2020 22:45:41 GMT-0400 (Eastern Daylight Time)
 
                     - ![](https://firebasestorage.googleapis.com/v0/b/roampdf.appspot.com/o/public%2Fimages%2F1615824626425.png?alt=media&token=c06c4ed1-fa82-40b4-9dc6-1321d21e6f5e) {{39: secOu3HpP}} [📑](((j2seNFHZP)))
 
-        - **What did they find?** ((keep this as contextualized as possible; resist the urge to repeat claims or generalizations)) #[[observation-notes]]
+        - **What did they find?** ((keep this as contextualized as possible; resist the urge to repeat claims or generalizations)) [[observation-notes]]
 
             - Experiment 1
 

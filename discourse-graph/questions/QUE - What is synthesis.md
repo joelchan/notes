@@ -2,26 +2,26 @@
 title: [[QUE]] - What is synthesis?
 url: https://roamresearch.com/#/app/megacoglab/page/_XfQAGX9s
 author: Joel Chan
-date: Tue May 19 2020 16:39:00 GMT-0400 (Eastern Daylight Time)
+date: Wed May 20 2020 04:39:00 GMT+0800 (Malaysia Time)
 ---
 
-- #[[Question]]
+- [[question]]
 
-    - Tags: #[[D/Synthesis Infrastructure]]
+    - Tags: [[DSynthesis Infrastructure]]
 
     - Description
 
-        - [[Z: Synthesis is a creative act]]
+        - [[Z Synthesis is a creative act]]
 
-            - [[[[CLM]] - Synthesis is creating a new whole out of component parts]]
+            - [[CLM - Synthesis is creating a new whole out of component parts]]
 
-            - So the new thing should have properties that the mere sum of the parts doesn't. But what properties? We think the core idea is that [[[[CLM]] - Clearer cases of synthesis involve substantial conceptual innovation]]
+            - So the new thing should have properties that the mere sum of the parts doesn't. But what properties? We think the core idea is that [[CLM - Clearer cases of synthesis involve substantial conceptual innovation]]
 
-                - [[Z: Theories are core examples of synthesis]]
+                - [[Z Theories are core examples of synthesis]]
 
-                - [[Z: Design spaces are core examples of synthesis]]
+                - [[Z Design spaces are core examples of synthesis]]
 
-                - [[Z: Frames are core examples of synthesis]]
+                - [[Z Frames are core examples of synthesis]]
 
                 - Consider the difference between these two "summaries" of a set of papers:
 
@@ -47,13 +47,13 @@ date: Tue May 19 2020 16:39:00 GMT-0400 (Eastern Daylight Time)
 
         - Relation to other constructs (outputs)
 
-            - [[[[CLM]] - Synthesis is sensemaking on "hard mode"]]
+            - [[CLM - Synthesis is sensemaking on hard mode]]
 
             - Explanation
 
                 - Thinking of [[abduction]]
 
-            - [[🧱 framing]] and [[problem (re)formulation]]
+            - [[🧱 framing]]
 
                 - [[@dubberlyModelingAnalysissynthesisBridge2008]]
 
@@ -67,21 +67,21 @@ date: Tue May 19 2020 16:39:00 GMT-0400 (Eastern Daylight Time)
 
             - Maybe
 
-                - Abstraction / [[compression]] (could become circular though: #[[❗beware]])
+                - Abstraction / [[compression]]
 
-            - Also #[[❗beware]] : What is the value of defining an umbrella term?
+            - Also [[❗beware]]
 
         - Processes
 
-            - [[[[CL]] - Synthesis is supported by Active Reading]]
+            - [[CL - Synthesis is supported by Active Reading]]
 
-            - [[[[CLM]] - Requirements for sensemaking come from the particulars of the work task]]
+            - [[CLM - Requirements for sensemaking come from the particulars of the work task]]
 
             - [[🧱 conceptual combination]]
 
-            - [[🧱 framing]] and [[problem (re)formulation]]
+            - [[🧱 framing]]
 
-        - Examples (see also [[QR: Examples of synthesis]])
+        - Examples (see also [[QR Examples of synthesis]]
 
             - 15 types of synthesis [[@strikeTypesSynthesisTheir1983]]
 
@@ -133,9 +133,9 @@ date: Tue May 19 2020 16:39:00 GMT-0400 (Eastern Daylight Time)
 
                     - 13: Assessment (p.353-354)
 
-                        - Weighing the bulk of the evidence (aka meta-analysis / [[systematic review]])
+                        - Weighing the bulk of the evidence (aka meta-analysis / [[systematic review]]
 
-                            - cc [[[[CLM]] - [[systematic review]]s are typically narrowly focused, and provide less insight]]
+                            - cc [[CLM - systematic reviews are typically narrowly focused, and provide less insight]]
 
                         - Judgment
 
@@ -145,33 +145,33 @@ date: Tue May 19 2020 16:39:00 GMT-0400 (Eastern Daylight Time)
 
             - Examples of Synthesis
 
-                - {{query: {and: [[example-of]] [[synthesis]]}}}
+                - {{query: {and: [[example-of]]
 
         - Counterexamples
 
             - We can also look at examples of intellectual acts that do not seem to produce something more than the sum of their parts.
 
-                - Classic undifferentiated list, as noted in #[[@holbrookLevelsSuccessUse2008]] and others.
+                - Classic undifferentiated list, as noted in [[@holbrookLevelsSuccessUse2008]]
 
                     - So, idea of "parts, not whole"? Assemblage? Can't transcend the sum of the parts. Or might not even have the sum.
 
                     - The idea of a conceptually new whole construction is in contrast with what we often see in related work sections and literature reviews, which are much more about assemblage, often listing in chronological or author-order, what things have been done, what topics have been covered, with little to no synthesis into a coherent new whole.
 
-                        - In this vein, [[systematic review]]s can be construed as a narrow subset of [[synthesis]] (and literature reviewing)
+                        - In this vein, [[systematic review]]
 
                             - It's not just that they're more easily done in well-structured domains where we have a bit more agreement.
 
-                            - It's also that these [[systematic review]]s and meta-analyses are often laser-focused on just one edge in a causal model!
+                            - It's also that these [[systematic review]]
 
-                                - Granted, good reviews (especially [[m/meta-analysis]]) might try to estimate some of the variability, but they're rarely focused on explicating a causal model or larger whole.
+                                - Granted, good reviews (especially [[mmeta-analysis]]
 
-                                    - Especially in medicine (e.g., [[Cochrane systematic reviews]]), the goal is more about getting a really good handle on what the evidence can say about a very narrowly defined question.
+                                    - Especially in medicine (e.g., [[Cochrane systematic reviews]]
 
-                        - #Thought-Fragment Additionally, the [[IVEO Matrix]] isn't quite where we want it to be yet: it's more of a meta-analysis or [[systematic review]], rather than a coherent new whole. There is no causal model or graph that ties it all together to support sophisticated reasoning and decision-making
+                        - #Thought-Fragment Additionally, the [[IVEO Matrix]]
 
                 - 3IccxRhD0
 
-            - [[[[CLM]] - Effective synthesis is rare]]
+            - [[CLM - Effective synthesis is rare]]
 
     - R-Sources
 
@@ -179,7 +179,7 @@ date: Tue May 19 2020 16:39:00 GMT-0400 (Eastern Daylight Time)
 
         - [[@booteScholarsResearchersCentrality2005]]
 
-        - [[@grantTypologyReviewsAnalysis2009]] typology of 14 types of review papers
+        - [[@grantTypologyReviewsAnalysis2009]]
 
 ###### Discourse Context
 

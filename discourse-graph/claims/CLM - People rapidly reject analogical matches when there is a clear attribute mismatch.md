@@ -2,16 +2,16 @@
 title: [[CLM]] - People rapidly reject analogical matches when there is a clear attribute mismatch
 url: https://roamresearch.com/#/app/megacoglab/page/3WBcvScqa
 author: Joel Chan
-date: Wed Oct 07 2020 13:19:00 GMT-0400 (Eastern Daylight Time)
+date: Thu Oct 08 2020 01:19:00 GMT+0800 (Malaysia Time)
 ---
 
-- #[[🌲 zettels]]
+- [[🌲 zettels]]
 
-    - Tags: #[[D/Computational Analogy]]
+    - Tags: [[DComputational Analogy]]
 
     - Description
 
-        - This is mostly coming for now from our experiments with [[Hyeonsu]].
+        - This is mostly coming for now from our experiments with [[Hyeonsu]]
 
         - Some related examples of this, e.g., with concrete materials, in our case study in [[@chanSOLVENTMixedInitiative2018]]
 

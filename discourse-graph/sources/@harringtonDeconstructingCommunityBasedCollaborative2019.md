@@ -2,10 +2,10 @@
 title: @harringtonDeconstructingCommunityBasedCollaborative2019
 url: https://roamresearch.com/#/app/megacoglab/page/TulqvDXJ-
 author: Joel Chan
-date: Wed Feb 05 2020 12:47:48 GMT-0500 (Eastern Standard Time)
+date: Thu Feb 06 2020 01:47:48 GMT+0800 (Malaysia Time)
 ---
 
-- #[[references]] for #[[D/Democratizing Design]]
+- [[references]]
 
     - Title: Deconstructing Community-Based Collaborative Design: Towards More Equitable Participatory Design Engagements
 
@@ -13,7 +13,7 @@ date: Wed Feb 05 2020 12:47:48 GMT-0500 (Eastern Standard Time)
 
     - Meta:
 
-        - Authored by:: [[Christina Harrington]] [[Sheena Erete]] [[Anne Marie Piper]]
+        - Authored by:: [[Christina Harrington]]
 
         - Year: [[2019]]
 
@@ -51,17 +51,17 @@ date: Wed Feb 05 2020 12:47:48 GMT-0500 (Eastern Standard Time)
 
             - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fmegacoglab%2F0V-64GhKbk.png?alt=media&token=bbf0a50b-e0be-4e95-8cc7-16d4d7b2dfb7) (p. 11)
 
-    - #[[📝 lit-notes]]
+    - [[📝 lit-notes]]
 
         - Context of injustice and low resource creates tensions with the methods (blue sky, "playful"), perceived as infantilizing, triviliazing
 
-        - [[Salma Elsayed-Ali]] (from [this doc](https://docs.google.com/document/d/1PcR40SFfbEOLfn8vUvYBwbS4H5nnZhsXOEHC1VEDtk0/edit#))
+        - [[Salma Elsayed-Ali]]
 
-            - design elitism exists and [[Participatory Design]] is typically viewed as a privileged activity, which causes an imbalance of power and equality
+            - design elitism exists and [[Participatory Design]]
 
-            - Examining PD through a  [[postcolonial]] perspective allows one to consider systematic injustice, unequal economic relations, localized knowledge in what constitutes “good” design outcomes, and design across different cultures and contexts
+            - Examining PD through a  [[postcolonial]]
 
-                - cf. [[metis]], and [[[[CLM]] - Knowledge is fundamentally contextual]]
+                - cf. [[metis]]
 
             - much research done using PD and in CSCW and HCI is funded by organizations and agencies who prioritize outcomes related to computing and technical innovations
 
@@ -71,7 +71,7 @@ date: Wed Feb 05 2020 12:47:48 GMT-0500 (Eastern Standard Time)
 
             - design engagements that are truly participatory are ones that place citizen’s contributions at the forefront, including their voicing of communal issues and suggestions of real artifacts as solutions
 
-        - #[[observation-notes]]
+        - [[observation-notes]]
 
         - #observation-note-drafts
 

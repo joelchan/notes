@@ -2,16 +2,16 @@
 title: @halskovEmergenceIdeasInterplay2007
 url: https://roamresearch.com/#/app/megacoglab/page/lGlUnCWhp
 author: Joel Chan
-date: Mon Oct 26 2020 23:09:40 GMT-0400 (Eastern Daylight Time)
+date: Tue Oct 27 2020 11:09:40 GMT+0800 (Malaysia Time)
 ---
 
-- #[[references]]
+- [[references]]
 
     - Title: The emergence of ideas: the interplay between sources of inspiration and emerging design concepts
 
     - Meta:
 
-        - Authored by:: [[K. Halskov]] [[Peter Dalsgaard]]
+        - Authored by:: [[K. Halskov]]
 
         - Year: [[2007]]
 

@@ -2,7 +2,7 @@
 title: @gentnerAnalogyCreativityWorks1997
 url: https://roamresearch.com/#/app/megacoglab/page/IJdAaP8Ld
 author: Joel Chan
-date: Thu Sep 17 2020 13:47:07 GMT-0400 (Eastern Daylight Time)
+date: Fri Sep 18 2020 01:47:07 GMT+0800 (Malaysia Time)
 ---
 
 - #references

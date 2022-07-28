@@ -2,16 +2,16 @@
 title: @eckertSourcesInspirationLanguage2000
 url: https://roamresearch.com/#/app/megacoglab/page/ccHYFPemh
 author: Joel Chan
-date: Mon Nov 16 2020 17:39:25 GMT-0500 (Eastern Standard Time)
+date: Tue Nov 17 2020 06:39:25 GMT+0800 (Malaysia Time)
 ---
 
-- #[[references]]
+- [[references]]
 
     - Title: Sources of inspiration: a language of design
 
     - Meta:
 
-        - Authored by:: [[C. Eckert]] [[M. Stacey]]
+        - Authored by:: [[C. Eckert]]
 
         - Year: [[2000]]
 

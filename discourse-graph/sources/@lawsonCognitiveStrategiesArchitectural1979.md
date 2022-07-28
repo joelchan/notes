@@ -2,10 +2,10 @@
 title: @lawsonCognitiveStrategiesArchitectural1979
 url: https://roamresearch.com/#/app/megacoglab/page/lFUuN5s-k
 author: Joel Chan
-date: Wed Aug 19 2020 23:43:39 GMT-0400 (Eastern Daylight Time)
+date: Thu Aug 20 2020 11:43:39 GMT+0800 (Malaysia Time)
 ---
 
-- #[[references]]
+- [[references]]
 
     - Title: Cognitive Strategies in Architectural Design
 
@@ -31,7 +31,7 @@ date: Wed Aug 19 2020 23:43:39 GMT-0400 (Eastern Daylight Time)
 
         - citations
 
-            - many citations, but no clear support/oppose in [[sys/scite.ai]]
+            - many citations, but no clear support/oppose in [[sysscite.ai]]
 
                 - https://scite.ai/reports/cognitive-strategies-in-architectural-design-1r0WMW?utm_campaign=badge_generic&utm_medium=plugin&utm_source=generic
 
@@ -55,7 +55,7 @@ date: Wed Aug 19 2020 23:43:39 GMT-0400 (Eastern Daylight Time)
 
                 - scores across the different problem types
 
-            - [[participants]]:
+            - [[participants]]
 
                 - fifth-year undergrad science or architecture majors (experts)
 
@@ -65,7 +65,7 @@ date: Wed Aug 19 2020 23:43:39 GMT-0400 (Eastern Daylight Time)
 
         - results
 
-            - [[[[EVD]] - science students made more planning errors and fewer structural errors on a spatial block design task; architecture students made fewer planning errors and more structural errors - [[@lawsonCognitiveStrategiesArchitectural1979]]]]
+            - [[EVD - science students made more planning errors and fewer structural errors on a spatial block des... fewer planning errors and more structural errors - @lawsonCognitiveStrategiesArchitectural1979]]
 
                 - architecture students performed worse than science students on problem variants that relied on having a good grasp of the rule (disjunction rules)
 
@@ -75,7 +75,7 @@ date: Wed Aug 19 2020 23:43:39 GMT-0400 (Eastern Daylight Time)
 
                 - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fmegacoglab%2FBX-qSwQ_wY.png?alt=media&token=c1e959e9-c942-47ac-9acb-146cca21d5d7) (p. 65)
 
-                - inferred from this that there is a contrast between "designerly" and "scientific" approach: [designers are solution-oriented]([[[[CLM]] - Expert designers are solution-oriented]]) (find solutions that work), scientists are problem oriented (try to discover structure of the problem)
+                - inferred from this that there is a contrast between "designerly" and "scientific" approach: [designers are solution-oriented]([[CLM - Expert designers are solution-oriented]]
 
                     - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fmegacoglab%2FGMfv1rlZHJ.png?alt=media&token=ecd167a1-de7a-4b26-91c2-a69ad807de71)
 

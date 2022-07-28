@@ -2,7 +2,7 @@
 title: [[CLM]] - Analogies can be a powerful source of new innovations
 url: https://roamresearch.com/#/app/megacoglab/page/hAqCorRCA
 author: Joel Chan
-date: Tue Mar 15 2022 16:07:18 GMT-0400 (Eastern Daylight Time)
+date: Wed Mar 16 2022 04:07:18 GMT+0800 (Malaysia Time)
 ---
 
 - Lots of examples in [[Examples of analogy driving innovation]]
@@ -10,9 +10,9 @@ date: Tue Mar 15 2022 16:07:18 GMT-0400 (Eastern Daylight Time)
 
     - [[@chanImpactAnalogiesCreative2015]]
 
-    - [[@dunbarHowScientistsThink1997]] - inspiring new scientific discoveries
+    - [[@dunbarHowScientistsThink1997]]
 
-    - [[@gentnerAnalogyCreativityWorks1997]] - in kepler's thinking
+    - [[@gentnerAnalogyCreativityWorks1997]]
 
     - tons of examples in [[@holyoakMentalLeapsAnalogy1996]]
 

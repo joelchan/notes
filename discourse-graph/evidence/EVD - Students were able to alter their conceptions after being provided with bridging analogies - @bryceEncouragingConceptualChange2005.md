@@ -2,7 +2,7 @@
 title: [[EVD]] - Students were able to alter their conceptions after being provided with bridging analogies - [[@bryce*EncouragingConceptualChange2005]]
 url: https://roamresearch.com/#/app/megacoglab/page/IFtWTd_4B
 author: Joel Chan
-date: Thu Dec 16 2021 14:26:25 GMT-0500 (Eastern Standard Time)
+date: Fri Dec 17 2021 03:26:25 GMT+0800 (Malaysia Time)
 ---
 
 - # Summary

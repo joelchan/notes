@@ -2,18 +2,18 @@
 title: @yangReexaminingWhetherWhy2020
 url: https://roamresearch.com/#/app/megacoglab/page/oaH_cSQMk
 author: Joel Chan
-date: Sun May 03 2020 22:57:13 GMT-0400 (Eastern Daylight Time)
+date: Mon May 04 2020 10:57:13 GMT+0800 (Malaysia Time)
 ---
 
 - #references
 
-    - Title: Re-examining Whether, Why, and How [[Human-AI Interaction]] Is Uniquely Difficult to Design
+    - Title: Re-examining Whether, Why, and How [[Human-AI Interaction]]
 
     - Meta
 
-        - Tags:: #references#ref/Paper #[[P/Material Knowledge of ML for Design]]
+        - Tags:: #references#ref/Paper [[PMaterial Knowledge of ML for Design]]
 
-        - Authored by::  [[Qian Yang]] ,  Aaron Steinfeld ,  Carolyn Rosé ,  [[John Zimmerman]]
+        - Authored by::  [[Qian Yang]]
 
         - Year: [[2020]]
 
@@ -29,7 +29,7 @@ date: Sun May 03 2020 22:57:13 GMT-0400 (Eastern Daylight Time)
 
         - Contribution apporoach is theory building
 
-    - #[[📝 lit-notes]]
+    - [[📝 lit-notes]]
 
         - #Claim major reason it's hard to design with ML is that it's hard to know what AI can or cannot do in a design context
 

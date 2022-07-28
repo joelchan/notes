@@ -2,7 +2,7 @@
 title: @venolia2008can
 url: https://roamresearch.com/#/app/megacoglab/page/8sbxKAAVM
 author: 
-date: Sat Jan 30 2021 23:36:43 GMT-0500 (Eastern Standard Time)
+date: Sun Jan 31 2021 12:36:43 GMT+0800 (Malaysia Time)
 ---
 
 - Title:: Can we make "Distance Matter" less?
@@ -29,8 +29,7 @@ date: Sat Jan 30 2021 23:36:43 GMT-0500 (Eastern Standard Time)
 - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fmegacoglab%2FaIZnOG7TYW.png?alt=media&token=f59d0401-69ad-4293-9c3c-a9064c3c052f)
 - Annotations:
 
-    - [[“Radical collocation” (aka “team rooms”)]] may be easier still [Olson and
-Olson 2002]
+    - [[“Radical collocation” (aka “team rooms”)]]
 
     - [[Opportunistic ad-hoc conversations]]
 

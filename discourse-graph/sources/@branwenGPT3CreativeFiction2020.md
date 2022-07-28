@@ -2,7 +2,7 @@
 title: @branwenGPT3CreativeFiction2020
 url: https://roamresearch.com/#/app/megacoglab/page/xuS28EsSx
 author: Joel Chan
-date: Wed Nov 10 2021 12:43:25 GMT-0500 (Eastern Standard Time)
+date: Thu Nov 11 2021 01:43:25 GMT+0800 (Malaysia Time)
 ---
 
 

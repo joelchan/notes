@@ -2,22 +2,22 @@
 title: [[CLM]] - Knowledge must be recontextualized to be usefully reused
 url: https://roamresearch.com/#/app/megacoglab/page/G0HSdnIBC
 author: Joel Chan
-date: Wed Feb 12 2020 17:19:30 GMT-0500 (Eastern Standard Time)
+date: Thu Feb 13 2020 06:19:30 GMT+0800 (Malaysia Time)
 ---
 
-- #[[🌲 zettels]]
+- [[🌲 zettels]]
 
-    - Tags: #[[D/Synthesis Infrastructure]] #[[Z]] #context #reuse
+    - Tags: [[DSynthesis Infrastructure]]
 
     - Description
 
-        - This comes mostly from the [[CSCW]] literature on knowledge reuse and [[context]] (seminal review in [[@ackermanSharingKnowledgeExpertise2013]])
+        - This comes mostly from the [[CSCW]]
 
         - For example:
 
-            - [[[[CLM]] - People need information about history of changes to reuse information]]
+            - [[CLM - People need information about history of changes to reuse information]]
 
-            - [[[[CL]] - People need information about authorship to reuse information]]
+            - [[CL - People need information about authorship to reuse information]]
 - R-Sources:
 
     - [[@ackermanSharingKnowledgeExpertise2013]]

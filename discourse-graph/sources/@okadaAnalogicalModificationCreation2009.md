@@ -2,16 +2,16 @@
 title: @okadaAnalogicalModificationCreation2009
 url: https://roamresearch.com/#/app/megacoglab/page/ymn8DDx7C
 author: Joel Chan
-date: Mon Nov 16 2020 17:45:08 GMT-0500 (Eastern Standard Time)
+date: Tue Nov 17 2020 06:45:08 GMT+0800 (Malaysia Time)
 ---
 
-- #[[references]]
+- [[references]]
 
     - Title: Analogical modification in the creation of contemporary art
 
     - Meta:
 
-        - Authored by:: [[Takeshi Okada]] [[S. Yokochi]] [[K. Ishibashi]] [[K. Ueda]]
+        - Authored by:: [[Takeshi Okada]]
 
         - Year: [[2009]]
 
@@ -51,7 +51,7 @@ date: Mon Nov 16 2020 17:45:08 GMT-0500 (Eastern Standard Time)
 
         - Results
 
-            - [[[[EVD]] - Two artists used individual artworks to shape not just their ideas, but used a process of "analogical modification" to search for and modify higher-order concepts, and their creative vision. This process unfolded over the course of years. - [[@okadaAnalogicalModificationCreation2009]]]]
+            - [[EVD - Two artists used individual artworks to shape not just their ideas, but used a process of ana...ion. This process unfolded over the course of years. - @okadaAnalogicalModificationCreation2009]]
 
         - Discussion
 

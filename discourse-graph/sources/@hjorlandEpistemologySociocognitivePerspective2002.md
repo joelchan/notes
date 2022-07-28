@@ -2,14 +2,14 @@
 title: @hjorlandEpistemologySociocognitivePerspective2002
 url: https://roamresearch.com/#/app/megacoglab/page/wzXeaVNtH
 author: Joel Chan
-date: Fri Apr 17 2020 22:35:20 GMT-0400 (Eastern Daylight Time)
+date: Sat Apr 18 2020 10:35:20 GMT+0800 (Malaysia Time)
 ---
 
 - [[@hjorlandEpistemologySociocognitivePerspective2002]]
 
-    - #[[references]]
+    - [[references]]
 
-        - Tags:: #[[references]] #[[D/Synthesis Infrastructure]] #interdisciplinarity #[[Domain-Analysis]]
+        - Tags:: [[references]]
 
         - Title: Epistemology and the socio-cognitive perspective in information science
 
@@ -19,7 +19,7 @@ date: Fri Apr 17 2020 22:35:20 GMT-0400 (Eastern Daylight Time)
 
             - Year: [[2002]]
 
-            - Publication: Journal of the American Society for Information Science and Technology ([[JASIST]])
+            - Publication: Journal of the American Society for Information Science and Technology ([[JASIST]]
 
             - Zotero link: [Zotero Link](zotero://select/items/1_ZMGUTJ6C)
 
@@ -33,13 +33,13 @@ date: Fri Apr 17 2020 22:35:20 GMT-0400 (Eastern Daylight Time)
 
     - #lit-context
 
-        - Seems classic (475 cites on GS, plus part of line of work around domain analysis) [[Domain-Analysis]] approach
+        - Seems classic (475 cites on GS, plus part of line of work around domain analysis) [[Domain-Analysis]]
 
             - Author also seems super important in this space
 
-    - #[[📝 lit-notes]]
+    - [[📝 lit-notes]]
 
-        - Disciplines have deep-rooted and consequential differences in what counts as "relevant" information. Some are characterized by [[paradigmatic relevance]], where the meaning of terms, and what therefore counts as relevant results for that term, vary substantially by "school of thought". #Relevance
+        - Disciplines have deep-rooted and consequential differences in what counts as "relevant" information. Some are characterized by [[paradigmatic relevance]]
 
             - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fmegacoglab%2Flzo9orBvZ2?alt=media&token=df92df81-86ad-42cf-84e5-f1ef93f3b620)
 

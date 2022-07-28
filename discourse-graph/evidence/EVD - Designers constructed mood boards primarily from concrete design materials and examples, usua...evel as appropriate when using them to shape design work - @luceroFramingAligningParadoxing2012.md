@@ -2,7 +2,7 @@
 title: [[EVD]] - Designers constructed mood boards primarily from concrete design materials and examples, usually not from the immediate domain of the problem, and manipulate their abstraction level as appropriate when using them to shape design work - [[@luceroFramingAligningParadoxing2012]]
 url: https://roamresearch.com/#/app/megacoglab/page/WkL9H0VfS
 author: Joel Chan
-date: Wed Jun 29 2022 11:16:31 GMT-0400 (Eastern Daylight Time)
+date: Wed Jun 29 2022 23:16:31 GMT+0800 (Malaysia Time)
 ---
 
 - # Summary
@@ -39,7 +39,7 @@ date: Wed Jun 29 2022 11:16:31 GMT-0400 (Eastern Daylight Time)
 
         - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fmegacoglab%2F_0CSdpDpz8.png?alt=media&token=d4e9079c-5721-40fb-b37c-a8b89e8c1eaa) (p. 441)
 
-    - data collection: ~2-hr video-recorded [[m/contextual inquiry]]-based retrospective interviews, in their workplaces
+    - data collection: ~2-hr video-recorded [[mcontextual inquiry]]
 
         - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fmegacoglab%2F_LMRieap7Q.png?alt=media&token=18329925-bc57-42c5-a5e8-b1ea820d4944) (p. 441)
 

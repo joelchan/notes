@@ -2,7 +2,7 @@
 title: [[EVD]] - No significant correlation between analogical distance of cross-industry inspirations and degree of innovation outcome (incremental, market or breakthrough, and radical) - [[@enkelCreativeImitationExploring2010]]
 url: https://roamresearch.com/#/app/megacoglab/page/ZkiOwUfXJ
 author: Joel Chan
-date: Wed Jan 05 2022 08:49:40 GMT-0500 (Eastern Standard Time)
+date: Wed Jan 05 2022 21:49:40 GMT+0800 (Malaysia Time)
 ---
 
 - # Summary
@@ -42,7 +42,7 @@ date: Wed Jan 05 2022 08:49:40 GMT-0500 (Eastern Standard Time)
 
         - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fmegacoglab%2FCnOnnndHob.png?alt=media&token=b73d8e8a-014e-40a7-94a4-8341d2acf536) (p. 8)
 
-    - Degree of innovation in outcome based on [[@chandyOrganizingRadicalProduct1998a]] taxonomy of innovations: 1) incremental innovations, 2) market breakthroughs / technological breakthroughs, and 3) radical innovations
+    - Degree of innovation in outcome based on [[@chandyOrganizingRadicalProduct1998a]]
 
         - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fmegacoglab%2FQ7bbPQiqdJ.png?alt=media&token=0f3f48e1-ce4b-4680-a5da-9a5d1fa81acc) (p. 8)
 

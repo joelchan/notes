@@ -2,7 +2,7 @@
 title: [[EVD]] - Design team modified photo elicitation method so sex trafficking survivor participants' faces were not shown, for safety concerns - [[@gautamParticipatoryTensionsWorking2018]]
 url: https://roamresearch.com/#/app/megacoglab/page/yy6nX0dzX
 author: Joel Chan
-date: Wed Jun 16 2021 11:18:57 GMT-0400 (Eastern Daylight Time)
+date: Wed Jun 16 2021 23:18:57 GMT+0800 (Malaysia Time)
 ---
 
 - noteType:: [[EVD]]
@@ -27,7 +27,7 @@ date: Wed Jun 16 2021 11:18:57 GMT-0400 (Eastern Daylight Time)
 
     - ## **Discourse Context**
 
-        - Informs:: [[[[QUE]] - What tension points exist between the goals of diversity and depth of user participation in participatory design?]]
+        - Informs:: [[QUE - What tension points exist between the goals of diversity and depth of user participation in participatory design]]
 
     - ## Metadata::
 

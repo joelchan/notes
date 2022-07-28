@@ -2,10 +2,10 @@
 title: @catramboneEffectsSurfaceStructural2002
 url: https://roamresearch.com/#/app/megacoglab/page/poa_s3tqs
 author: Joel Chan
-date: Fri Mar 26 2021 12:09:38 GMT-0400 (Eastern Daylight Time)
+date: Sat Mar 27 2021 00:09:38 GMT+0800 (Malaysia Time)
 ---
 
-- #[[references]]
+- [[references]]
 
     - Title: The Effects of Surface and Structural Feature Matches on the Access of Story Analogs
 

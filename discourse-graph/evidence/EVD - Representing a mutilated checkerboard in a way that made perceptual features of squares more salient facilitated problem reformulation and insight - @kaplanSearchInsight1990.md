@@ -2,7 +2,7 @@
 title: [[EVD]] - Representing a mutilated checkerboard in a way that made perceptual features of squares more salient facilitated problem reformulation and insight - [[@kaplanSearchInsight1990]]
 url: https://roamresearch.com/#/app/megacoglab/page/JDKZCIAhu
 author: Joel Chan
-date: Tue Oct 19 2021 10:53:59 GMT-0400 (Eastern Daylight Time)
+date: Tue Oct 19 2021 22:53:59 GMT+0800 (Malaysia Time)
 ---
 
 - # Summary
@@ -21,7 +21,7 @@ date: Tue Oct 19 2021 10:53:59 GMT-0400 (Eastern Daylight Time)
 
         - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fmegacoglab%2FZpLCDADyUq?alt=media&token=f3bc78a7-abb1-479b-81d9-7bae7e370573)
 
-    - A simulation in the [[SOAR]] cognitive architecture also demonstrates that attending to the parity feature of the problem representation yields rapid solutions quickly after
+    - A simulation in the [[SOAR]]
 - # Grounding Context
 
     - Participants: 25 CMU undergrads in intro psych, with no prior experience with problem

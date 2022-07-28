@@ -2,7 +2,7 @@
 title: @holbrookLevelsSuccessUse2008
 url: https://roamresearch.com/#/app/megacoglab/page/n4Hkockie
 author: Joel Chan
-date: Tue Dec 24 2019 10:38:54 GMT-0500 (Eastern Standard Time)
+date: Tue Dec 24 2019 23:38:54 GMT+0800 (Malaysia Time)
 ---
 
 - Title:: Levels of success in the use of the literature in a doctorate
@@ -14,13 +14,13 @@ date: Tue Dec 24 2019 10:38:54 GMT-0500 (Eastern Standard Time)
 - Date Added:: [[July 31st, 2021]]
 - Zotero links:: [Local library](zotero://select/groups/2451508/items/AJVH9YK3), [Local library](https://www.zotero.org/groups/2451508/items/AJVH9YK3)
 - PDF links : [Holbrook_2008_Levels of success in the use of the literature in a doctorate.pdf](zotero://open-pdf/groups/2451508/items/VR7LEILH)
-- #[[references]]
+- [[references]]
 
     - Title: Levels of success in the use of the literature in a doctorate
 
     - Meta:
 
-        - Tags: #[[D/Synthesis Infrastructure]]
+        - Tags: [[DSynthesis Infrastructure]]
 
         - Authored by:: [[A Holbrook]]
 
@@ -38,15 +38,15 @@ date: Tue Dec 24 2019 10:38:54 GMT-0500 (Eastern Standard Time)
 
             - This article explores two themes, the first is what examiners look for when judging a doctoral thesis or dissertation, the second is what constitutes an acceptable ‘level’ of doctoral scholarship. The focus of the analysis will be the literature review, chosen because it is in the presentation and use of the literature that scholarliness will be evident. The article draws together for the first time the findings of two large independent research studies on the doctorate that took place around the same time, one in the USA, the other in Australia. The aim of both studies was to make the expectations for the dissertation more transparent to graduate students. What academics expect of the literature component of the dissertation is examined in relation to ‘coverage’ and ‘use’. The findings indicate that examiners have more modest expectations of a thesis than those generally implied in the notion of academic scholarship.
 
-    - #[[📝 lit-notes]]
+    - [[📝 lit-notes]]
 
-        - Reviews the two most empirically grounded studies we know of as of [[February 17th, 2020]] about how successful doctoral students are at [[synthesis]]
+        - Reviews the two most empirically grounded studies we know of as of [[February 17th, 2020]]
 
             - [[@lovittsMakingImplicitExplicit2007]]
 
             - [[@holbrookInvestigatingPhDThesis2004]]
 
-        - #Claim Many dissertations are deemed acceptable by examiners despite comments that clearly indicate an unsatisfactory level of [[synthesis]], by scholarly standards (p. 1028-1032)
+        - #Claim Many dissertations are deemed acceptable by examiners despite comments that clearly indicate an unsatisfactory level of [[synthesis]]
 
             - See, e.g., these comments on "acceptable" dissertations re: levels of critical appraisal of the literature (or the lack thereof) (p. 1032)
 

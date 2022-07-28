@@ -2,7 +2,7 @@
 title: [[EVD]] - Participants given the far reaching analogies produced more of x result than those in the near analogy group, and it was found to be tied to generation task? - [[@vendettiFarOutThinkingGenerating2014]]
 url: https://roamresearch.com/#/app/megacoglab/page/UECZXYA4i
 author: AJ Rudd
-date: Sat Dec 18 2021 08:17:31 GMT-0500 (Eastern Standard Time)
+date: Sat Dec 18 2021 21:17:31 GMT+0800 (Malaysia Time)
 ---
 
 - # Summary

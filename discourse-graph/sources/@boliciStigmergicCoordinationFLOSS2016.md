@@ -2,7 +2,7 @@
 title: @boliciStigmergicCoordinationFLOSS2016
 url: https://roamresearch.com/#/app/megacoglab/page/-slU881VQ
 author: Joel Chan
-date: Thu May 07 2020 11:14:53 GMT-0400 (Eastern Daylight Time)
+date: Thu May 07 2020 23:14:53 GMT+0800 (Malaysia Time)
 ---
 
 - Metadata::
@@ -11,7 +11,7 @@ date: Thu May 07 2020 11:14:53 GMT-0400 (Eastern Daylight Time)
 
         - Tags:: #references#ref/Paper
 
-    - Authored by::  Francesco Bolici ,  [[James Howison]] ,  [[Kevin Crowston]]
+    - Authored by::  Francesco Bolici ,  [[James Howison]]
 
     - Year: 2016
 
@@ -24,10 +24,10 @@ date: Thu May 07 2020 11:14:53 GMT-0400 (Eastern Daylight Time)
         - Placeholder
 - #lit-context
 
-    - [[CSCW]] orbit, but also connected to [[STS]]
-- #[[📝 lit-notes]]
+    - [[CSCW]]
+- [[📝 lit-notes]]
 
-    - Applies concept of [[Stigmergic Coordination]] from biology to the context of [[FLOSS development]]
+    - Applies concept of [[Stigmergic Coordination]]
 
 ###### Discourse Context
 

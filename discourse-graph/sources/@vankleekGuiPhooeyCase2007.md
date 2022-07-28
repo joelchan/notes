@@ -2,14 +2,14 @@
 title: @vankleekGuiPhooeyCase2007
 url: https://roamresearch.com/#/app/megacoglab/page/vi58Wyb6p
 author: Joel Chan
-date: Fri Apr 10 2020 22:49:18 GMT-0400 (Eastern Daylight Time)
+date: Sat Apr 11 2020 10:49:18 GMT+0800 (Malaysia Time)
 ---
 
 - #references
 
     - Title: Gui — Phooey!: The Case for Text Input
 
-    - Authored by::  [[Max Van Kleek]] ,  [[Michael Bernstein]] ,  [[David Karger]] ,  mc schraefel
+    - Authored by::  [[Max Van Kleek]]
 
     - Year: 2007
 
@@ -19,9 +19,9 @@ date: Fri Apr 10 2020 22:49:18 GMT-0400 (Eastern Daylight Time)
     - Cool idea, evaluation not super strong
 - Reading notes
 
-    - Jourknow system includes a variety of features that can recognize formal structure (e.g., location, time, meeting information) from (relatively) unstructured notes in pidgin or more lightweight entry format, such as [[Notation3]] (p. 195-197)
+    - Jourknow system includes a variety of features that can recognize formal structure (e.g., location, time, meeting information) from (relatively) unstructured notes in pidgin or more lightweight entry format, such as [[Notation3]]
 
-        - example-of:: [[[[PTN]] - incremental formalization]]
+        - example-of:: [[PTN - incremental formalization]]
 
         - Screenshots
 

@@ -2,7 +2,7 @@
 title: [[EVD]] - while co-designing with an autistic child, designers had to work with the parents, who insisted on adhering to a structured applied behavioral analysis approach, which complicated designers' ability to draw out self-guided expression from the child - [[@spielMicroethicsParticipatoryDesign2018]]
 url: https://roamresearch.com/#/app/megacoglab/page/uVrLf5ypz
 author: Joel Chan
-date: Tue Jul 12 2022 22:29:08 GMT-0400 (Eastern Daylight Time)
+date: Wed Jul 13 2022 10:29:08 GMT+0800 (Malaysia Time)
 ---
 
 - # Summary

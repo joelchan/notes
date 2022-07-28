@@ -2,10 +2,10 @@
 title: @schrimlCOVID19PandemicReveals2020
 url: https://roamresearch.com/#/app/megacoglab/page/v0JQ-7zCa
 author: Joel Chan
-date: Tue Jun 23 2020 17:02:47 GMT-0400 (Eastern Daylight Time)
+date: Wed Jun 24 2020 05:02:47 GMT+0800 (Malaysia Time)
 ---
 
-- #[[references]]
+- [[references]]
 
     - Title: COVID-19 pandemic reveals the peril of ignoring metadata standards
 
@@ -13,7 +13,7 @@ date: Tue Jun 23 2020 17:02:47 GMT-0400 (Eastern Daylight Time)
 
         - Tags: #ref/Paper
 
-        - Authored by:: [[Lynn M. Schriml]] [[Maria Chuvochina]] [[Neil Davies]] [[Emiley A. Eloe-Fadrosh]] [[Robert D. Finn]] [[Philip Hugenholtz]] [[Christopher I. Hunter]] [[Bonnie L. Hurwitz]] [[Nikos C. Kyrpides]] [[Folker Meyer]] [[Ilene Karsch Mizrachi]] [[Susanna-Assunta Sansone]] [[Granger Sutton]] [[Scott Tighe]] [[Ramona Walls]]
+        - Authored by:: [[Lynn M. Schriml]]
 
         - Year: [[2020]]
 

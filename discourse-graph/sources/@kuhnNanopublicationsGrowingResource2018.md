@@ -2,7 +2,7 @@
 title: @kuhnNanopublicationsGrowingResource2018
 url: https://roamresearch.com/#/app/megacoglab/page/MbQPBtVI1
 author: Joel Chan
-date: Mon May 11 2020 23:06:50 GMT-0400 (Eastern Daylight Time)
+date: Tue May 12 2020 11:06:50 GMT+0800 (Malaysia Time)
 ---
 
 - #references
@@ -11,7 +11,7 @@ date: Mon May 11 2020 23:06:50 GMT-0400 (Eastern Daylight Time)
 
     - Meta
 
-        - Tags:: #ref/Paper #std/Nanopublications #[[D/Synthesis Infrastructure]]
+        - Tags:: #ref/Paper #std/Nanopublications [[DSynthesis Infrastructure]]
 
         - Year: 2018
 
@@ -19,7 +19,7 @@ date: Mon May 11 2020 23:06:50 GMT-0400 (Eastern Daylight Time)
 
         - URL: http://arxiv.org/abs/1809.06532
 
-        - Authored by::  [[Tobias Kuhn]] ,  Albert Meroño-Peñuela ,  Alexander Malic ,  Jorrit H. Poelen ,  Allen H. Hurlbert ,  Emilio Centeno Ortiz ,  Laura I. Furlong ,  Núria Queralt-Rosinach ,  Christine Chichester ,  Juan M. Banda ,  Egon Willighagen ,  Friederike Ehrhart ,  Chris Evelo ,  Tareq B. Malas ,  Michel Dumontier
+        - Authored by::  [[Tobias Kuhn]]
 
     - Content
 
@@ -27,11 +27,11 @@ date: Mon May 11 2020 23:06:50 GMT-0400 (Eastern Daylight Time)
 
     - #lit-context
 
-        - [[preprint]], not paper; but mostly reports stats from nanopub databases, which are a bit hard to navigate
+        - [[preprint]]
 
-    - #[[📝 lit-notes]]
+    - [[📝 lit-notes]]
 
-        - reports around 10 million [[std/Nanopublications]] published at the time of writing, albeit almost all within bioinformatics, and overwhelmingly dominated by a small (N=41!!) set of authors
+        - reports around 10 million [[stdNanopublications]]
 
 ###### Discourse Context
 

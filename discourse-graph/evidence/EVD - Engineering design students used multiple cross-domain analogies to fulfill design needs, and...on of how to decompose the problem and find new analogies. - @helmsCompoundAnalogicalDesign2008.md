@@ -2,7 +2,7 @@
 title: [[EVD]] - Engineering design students used multiple cross-domain analogies to fulfill design needs, and they could use analogies to get inspiration of how to decompose the problem and find new analogies. - [[@helmsCompoundAnalogicalDesign2008]]
 url: https://roamresearch.com/#/app/megacoglab/page/KW3xYXwoG
 author: Jason Ding
-date: Wed Feb 16 2022 19:48:09 GMT-0500 (Eastern Standard Time)
+date: Thu Feb 17 2022 08:48:09 GMT+0800 (Malaysia Time)
 ---
 
 - # Summary

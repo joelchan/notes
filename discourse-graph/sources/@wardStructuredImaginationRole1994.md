@@ -2,10 +2,10 @@
 title: @wardStructuredImaginationRole1994
 url: https://roamresearch.com/#/app/megacoglab/page/uYMrnvgnf
 author: Joel Chan
-date: Wed Aug 19 2020 10:46:40 GMT-0400 (Eastern Daylight Time)
+date: Wed Aug 19 2020 22:46:40 GMT+0800 (Malaysia Time)
 ---
 
-- #[[references]]
+- [[references]]
 
     - Title: Structured imagination: The role of category structure in exemplar generation
 
@@ -89,37 +89,37 @@ date: Wed Aug 19 2020 10:46:40 GMT-0400 (Eastern Daylight Time)
 
     - #lit-context
 
-        - This is considered a classic paper in research on [[🧱 fixation]] and [[creativity]]/examples: 903 [citations](https://scholar.google.com/scholar?cites=658226623983133626&as_sdt=20000005&sciodt=0,21&hl=en) on [[sys/Google Scholar]]!
+        - This is considered a classic paper in research on [[🧱 fixation]]
 
-        - Paper has 18 supporting cites from 14 papers, [per](https://scite.ai/reports/structured-imagination-the-role-of-ObmX96?contradicting=false&mentioning=false&page=2&utm_campaign=badge_generic&utm_medium=plugin&utm_source=generic) [[sys/scite.ai]]
+        - Paper has 18 supporting cites from 14 papers, [per](https://scite.ai/reports/structured-imagination-the-role-of-ObmX96?contradicting=false&mentioning=false&page=2&utm_campaign=badge_generic&utm_medium=plugin&utm_source=generic) [[sysscite.ai]]
 
             - There's 1 disputing cite, but I can't quite make sense of it
 
-    - #[[📝 lit-notes]]
+    - [[📝 lit-notes]]
 
         - **How did the authors approach their questions/problems?** ((most of this is going to come from the methods sections, although some info about conceptualization of key concepts might be relevant to pull from intro/lit-review)) #lit-context
 
             - Experiment 1
 
-                - [[c/Participants and setting]] ((Who was studied? What population is this meant to generalize to? How were participants sampled/recruited? etc.))
+                - [[cParticipants and setting]]
 
                     - Observed 37 undergraduates enrolled in intro psych
 
                         - [📑](((nbW2xQisd))) {{7: {"boundingRect":{"x1":75,"y1":101,"x2":585,"y2":152,"width":681.4686098654709,"height":993.8721973094171},"rects":[{"x1":75,"y1":101,"x2":585,"y2":152,"width":681.4686098654709,"height":993.8721973094171}],"pageNumber":7}}} ![](https://firebasestorage.googleapis.com/v0/b/roampdf.appspot.com/o/public%2Fimages%2F1614483009836.png?alt=media&token=2a7c06a7-2093-477b-91de-91b0d268b2d0)
 
-                - [[c/Procedure]] ((What did the participants do/experience? What was the "task"? What did they see?))
+                - [[cProcedure]]
 
                     - Participants were asked to draw pictures of imaginary animals that would live on another planet somewhere else in the galaxy very different from earth. Draw 1 exemplar, then another same species exemplar, then another animal from different species, and compare to first.
 
                         - [📑](((nbW2xQisd))) {{7: {"boundingRect":{"x1":72,"y1":155,"x2":589,"y2":335,"width":681.4686098654709,"height":993.8721973094171},"rects":[{"x1":72,"y1":155,"x2":589,"y2":335,"width":681.4686098654709,"height":993.8721973094171}],"pageNumber":7}}} ![](https://firebasestorage.googleapis.com/v0/b/roampdf.appspot.com/o/public%2Fimages%2F1614483031599.png?alt=media&token=641175a2-9cf3-4d46-8f59-a128db499cf5)
 
-                - [[c/Independent variables]]
+                - [[cIndependent variables]]
 
                     - Animals drawn as exemplars of the same species vs. different species
 
                         - [📑](((nbW2xQisd))) {{7: {"boundingRect":{"x1":72,"y1":155,"x2":589,"y2":335,"width":681.4686098654709,"height":993.8721973094171},"rects":[{"x1":72,"y1":155,"x2":589,"y2":335,"width":681.4686098654709,"height":993.8721973094171}],"pageNumber":7}}} ![](https://firebasestorage.googleapis.com/v0/b/roampdf.appspot.com/o/public%2Fimages%2F1614483031599.png?alt=media&token=641175a2-9cf3-4d46-8f59-a128db499cf5)
 
-                - [[c/Dependent variables]]
+                - [[cDependent variables]]
 
                     - [Two trained individuals]([📑](((nbW2xQisd))) {{8: {"boundingRect":{"x1":76,"y1":75,"x2":616,"y2":483,"width":681.4686098654709,"height":993.8721973094171},"rects":[{"x1":76,"y1":75,"x2":616,"y2":483,"width":681.4686098654709,"height":993.8721973094171}],"pageNumber":8}}} ![](https://firebasestorage.googleapis.com/v0/b/roampdf.appspot.com/o/public%2Fimages%2F1614483179899.png?alt=media&token=e810a4fc-9982-4de8-b6f3-2e2a813b578b)) coded the drawings in terms of their properties and differences between the animals. Example properties: bilateral symmetry, appendages, sense organs, etc. Reliability computed in a slightly nonstandard way (not quite % agreement), but was ~.84 to 1.0
 
@@ -127,17 +127,17 @@ date: Wed Aug 19 2020 10:46:40 GMT-0400 (Eastern Daylight Time)
 
                         - [📑](((nbW2xQisd))) {{8: {"boundingRect":{"x1":76,"y1":75,"x2":616,"y2":483,"width":681.4686098654709,"height":993.8721973094171},"rects":[{"x1":76,"y1":75,"x2":616,"y2":483,"width":681.4686098654709,"height":993.8721973094171}],"pageNumber":8}}} ![](https://firebasestorage.googleapis.com/v0/b/roampdf.appspot.com/o/public%2Fimages%2F1614483179899.png?alt=media&token=e810a4fc-9982-4de8-b6f3-2e2a813b578b)
 
-                - [[c/Control variables]] ((might be blank))
+                - [[cControl variables]]
 
-                - [[c/Experiment design]]
+                - [[cExperiment design]]
 
-                - [[c/Statistical analysis approach]]
+                - [[cStatistical analysis approach]]
 
-        - **What did they find?** ((keep this as contextualized as possible; resist the urge to repeat claims or generalizations)) #[[observation-notes]]
+        - **What did they find?** ((keep this as contextualized as possible; resist the urge to repeat claims or generalizations)) [[observation-notes]]
 
             - Experiment 1
 
-                - [[[[EVD]] - Undergrads' drawings of imaginary animals frequently included typical features from earth animals, with occasional deviations - [[@wardStructuredImaginationRole1994]]]]
+                - [[EVD - Undergrads' drawings of imaginary animals frequently included typical features from earth animals, with occasional deviations - @wardStructuredImaginationRole1994]]
 
                 - [Undergraduate students](Observed 37 undergraduates enrolled in intro psych) were [more likely to](((DmIE8zP41))) vary features such as size while [holding constant](((fc6FwBbXK))) other [features](((3M9PoLNDg))) such as shape, sense organs, and appendages when [drawing](((zwS0EXV9n))) new exemplars of the same species, compared to drawing exemplars from a different species
 

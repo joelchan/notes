@@ -2,7 +2,7 @@
 title: @everettTragedyAcademicCommons2015
 url: https://roamresearch.com/#/app/megacoglab/page/6Z7Q4JBm0
 author: Joel Chan
-date: Fri Jul 10 2020 23:02:11 GMT-0400 (Eastern Daylight Time)
+date: Sat Jul 11 2020 11:02:11 GMT+0800 (Malaysia Time)
 ---
 
 - #references

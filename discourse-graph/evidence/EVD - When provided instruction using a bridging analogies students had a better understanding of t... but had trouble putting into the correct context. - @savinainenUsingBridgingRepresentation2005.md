@@ -2,7 +2,7 @@
 title: [[EVD]] - When provided instruction using a bridging analogies students had a better understanding of the information being taught, but had trouble putting into the correct context. - [[@savinainenUsingBridgingRepresentation2005]]
 url: https://roamresearch.com/#/app/megacoglab/page/FK8kypzBa
 author: AJ Rudd
-date: Sat Dec 18 2021 08:15:12 GMT-0500 (Eastern Standard Time)
+date: Sat Dec 18 2021 21:15:12 GMT+0800 (Malaysia Time)
 ---
 
 - # Summary

@@ -2,16 +2,16 @@
 title: @doboliTwoExperimentalStudies2014
 url: https://roamresearch.com/#/app/megacoglab/page/iO0Ber1Ql
 author: Joel Chan
-date: Thu Aug 12 2021 23:17:05 GMT-0400 (Eastern Daylight Time)
+date: Fri Aug 13 2021 11:17:05 GMT+0800 (Malaysia Time)
 ---
 
-- #[[references]]
+- [[references]]
 
     - Title: Two experimental studies on creative concept combinations in modular design of electronic embedded systems
 
     - Meta:
 
-        - Authored by:: [[Alex Doboli]] [[Anurag Umbarkar]] [[Varun Subramanian]] [[Simona Doboli]]
+        - Authored by:: [[Alex Doboli]]
 
         - Year: [[2014]]
 

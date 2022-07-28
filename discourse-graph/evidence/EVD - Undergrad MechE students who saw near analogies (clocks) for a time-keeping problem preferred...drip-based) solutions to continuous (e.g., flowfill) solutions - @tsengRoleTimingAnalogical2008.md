@@ -2,7 +2,7 @@
 title: [[EVD]] - Undergrad MechE students who saw near analogies (clocks) for a time-keeping problem preferred discrete (drip-based) solutions to continuous (e.g., flow/fill) solutions - [[@tsengRoleTimingAnalogical2008]]
 url: https://roamresearch.com/#/app/megacoglab/page/SByjtUq5L
 author: Joel Chan
-date: Thu Jul 01 2021 10:57:04 GMT-0400 (Eastern Daylight Time)
+date: Thu Jul 01 2021 22:57:04 GMT+0800 (Malaysia Time)
 ---
 
 - Summary::
@@ -22,7 +22,7 @@ date: Thu Jul 01 2021 10:57:04 GMT-0400 (Eastern Daylight Time)
 
         - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fmegacoglab%2FQCDylYAR3V.png?alt=media&token=0164f153-e5d9-41cf-be46-01413bb951cd) (p. 207)
 
-    - Design: single factor, 4 between-subjects condition (nothing aka control vs. vs. [surface similar]([[near analogies]]) before problem (clocks) vs. [surface dissimilar]([[far analogies]]) (water meter, heart rate monitor, cassette tape recorded) before problem vs. surface dissimilar during problem (after filler task). All stimuli text only.
+    - Design: single factor, 4 between-subjects condition (nothing aka control vs. vs. [surface similar]([[near analogies]]
 
         - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fmegacoglab%2FkyRsBDJPYH.png?alt=media&token=ea5af47a-143c-4861-a1a7-238382f64bbc) (p. 208)
 
@@ -48,13 +48,13 @@ date: Thu Jul 01 2021 10:57:04 GMT-0400 (Eastern Daylight Time)
 
         - Total number of designs
 
-        - Number of functional repeats (a variant way of measuring [[🧱 fixation]] or [[diversity]] (reverse))
+        - Number of functional repeats (a variant way of measuring [[🧱 fixation]]
 
-        - Number of functionally distinct designs (a variant way of measuring (reverse) [[🧱 fixation]] or [[diversity]] )
+        - Number of functionally distinct designs (a variant way of measuring (reverse) [[🧱 fixation]]
 
         - Novelty of each solution
 
-        - All functional measures relied on a functional categorization, which had two researchers independently assign one or more functional categories (from a bottom-up generated list of 16 categories) to each solution. NOTE: singular solutions (functional categories that only one person generated) were lumped together into a single "other" category, comprising 3% of solutions. [[inter-rater reliability]] was pretty good, at [[Cohen's K]] = 0.87
+        - All functional measures relied on a functional categorization, which had two researchers independently assign one or more functional categories (from a bottom-up generated list of 16 categories) to each solution. NOTE: singular solutions (functional categories that only one person generated) were lumped together into a single "other" category, comprising 3% of solutions. [[inter-rater reliability]]
 
             - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fmegacoglab%2F3jxnOT3tZr.png?alt=media&token=9f8ac47d-8f9a-41f3-9433-160b37cfb4d7) (p. 209)
 

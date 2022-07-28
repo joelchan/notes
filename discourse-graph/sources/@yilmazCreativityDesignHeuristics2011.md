@@ -2,7 +2,7 @@
 title: @yilmazCreativityDesignHeuristics2011
 url: https://roamresearch.com/#/app/megacoglab/page/xSGrgSP30
 author: Joel Chan
-date: Wed Aug 19 2020 16:59:10 GMT-0400 (Eastern Daylight Time)
+date: Thu Aug 20 2020 04:59:10 GMT+0800 (Malaysia Time)
 ---
 
 - #references
@@ -31,7 +31,7 @@ date: Wed Aug 19 2020 16:59:10 GMT-0400 (Eastern Daylight Time)
 
             - Research has shown that cognition often relies on simplified heuristics; however, few studies have explored the role of heuristics in design. We propose that designers utilize specific heuristics to explore the problem space of potential concepts, leading to the generation of novel and creative solutions. Design heuristic use in the early stages of product conception was examined through a case study of an expert industrial designer working on a real-world project. Sequences of exploratory concept sketches were analyzed for evidence of design heuristic use in generating concepts. This case study uncovers design heuristics that promote variation in concepts and alter existing solutions, supporting the claim that expertise incorporates the use of heuristics to maximize creativity and diversity in designs.
 
-    - #[[📝 lit-notes]]
+    - [[📝 lit-notes]]
 
         - #example-of [[design heuristics]]
 

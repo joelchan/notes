@@ -2,7 +2,7 @@
 title: [[EVD]] - Two artists used individual artworks to shape not just their ideas, but used a process of "analogical modification" to search for and modify higher-order concepts, and their creative vision. This process unfolded over the course of years. - [[@okadaAnalogicalModificationCreation2009]]
 url: https://roamresearch.com/#/app/megacoglab/page/R--E3kMiR
 author: Joel Chan
-date: Fri Feb 11 2022 14:42:07 GMT-0500 (Eastern Standard Time)
+date: Sat Feb 12 2022 03:42:07 GMT+0800 (Malaysia Time)
 ---
 
 - # Summary

@@ -2,7 +2,7 @@
 title: [[EVD]] - higher levels of interdisciplinarity was significantly associated with fewer publications, particularly in fields with less interdisciplinarity - [[@leaheyProminentLessProductive2017]]
 url: https://roamresearch.com/#/app/megacoglab/page/fdgQruzE4
 author: Joel Chan
-date: Mon Aug 09 2021 12:06:21 GMT-0400 (Eastern Daylight Time)
+date: Tue Aug 10 2021 00:06:21 GMT+0800 (Malaysia Time)
 ---
 
 - Summary::

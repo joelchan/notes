@@ -2,10 +2,10 @@
 title: @burtStructuralHolesGood2004
 url: https://roamresearch.com/#/app/megacoglab/page/CyaygtXUR
 author: Joel Chan
-date: Tue Nov 24 2020 10:39:09 GMT-0500 (Eastern Standard Time)
+date: Tue Nov 24 2020 23:39:09 GMT+0800 (Malaysia Time)
 ---
 
-- #[[references]]
+- [[references]]
 
     - Title: Structural holes and good ideas
 

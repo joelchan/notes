@@ -2,7 +2,7 @@
 title: [[EVD]] - Better model fit to Wuhan case data with age-dependent susceptibility, with children ~2x lower than adults - [[@cmmidcovid-19workinggroupAgedependentEffectsTransmission2020]]
 url: https://roamresearch.com/#/app/megacoglab/page/xRWgPZXX9
 author: Joel Chan
-date: Wed Dec 08 2021 16:43:42 GMT-0500 (Eastern Standard Time)
+date: Thu Dec 09 2021 05:43:42 GMT+0800 (Malaysia Time)
 ---
 
 

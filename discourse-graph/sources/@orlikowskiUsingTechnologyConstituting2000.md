@@ -2,7 +2,7 @@
 title: @orlikowskiUsingTechnologyConstituting2000
 url: https://roamresearch.com/#/app/megacoglab/page/PCKPSSEFT
 author: Joel Chan
-date: Mon Nov 22 2021 09:15:09 GMT-0500 (Eastern Standard Time)
+date: Mon Nov 22 2021 22:15:09 GMT+0800 (Malaysia Time)
 ---
 
 - Title:: Using Technology and Constituting Structures: A Practice Lens for Studying Technology in Organizations
@@ -13,7 +13,7 @@ date: Mon Nov 22 2021 09:15:09 GMT-0500 (Eastern Standard Time)
 - URL : https://pubsonline.informs.org/doi/abs/10.1287/orsc.11.4.404.14600
 - Date Added:: [[August 23rd, 2021]]
 - Zotero links:: [Local library](zotero://select/groups/2451508/items/P54Z5I2M), [Local library](https://www.zotero.org/groups/2451508/items/P54Z5I2M)
-- Tags:: #[[Information Technology]], #[[Organization]], #[[Structuration Theory]], #[[Work Practices]]
+- Tags:: [[Information Technology]]
 - PDF links : [Orlikowski_2000_Using Technology and Constituting Structures.pdf](zotero://open-pdf/groups/2451508/items/NBSNQPEZ)
 
 ###### Discourse Context

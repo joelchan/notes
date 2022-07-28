@@ -2,7 +2,7 @@
 title: [[EVD]] - scientists in boundary-spanning collaborations self-reported more communication and other collaboration overheads that hindered productivity (and got better over time) - [[@leaheyProminentLessProductive2017]]
 url: https://roamresearch.com/#/app/megacoglab/page/bEmtquU9D
 author: Joel Chan
-date: Mon Aug 09 2021 12:08:04 GMT-0400 (Eastern Daylight Time)
+date: Tue Aug 10 2021 00:08:04 GMT+0800 (Malaysia Time)
 ---
 
 - Summary::

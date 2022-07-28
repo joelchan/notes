@@ -2,7 +2,7 @@
 title: [[CLM]] - Examples can improve creative outcomes by stimulating more exploration away from obvious starting points
 url: https://roamresearch.com/#/app/megacoglab/page/yNeTOfVY4
 author: Joel Chan
-date: Thu Dec 23 2021 10:48:28 GMT-0500 (Eastern Standard Time)
+date: Thu Dec 23 2021 23:48:28 GMT+0800 (Malaysia Time)
 ---
 
 

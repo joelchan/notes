@@ -2,7 +2,7 @@
 title: [[PTN]] - design mood board
 url: https://roamresearch.com/#/app/megacoglab/page/OCpdhW2AO
 author: Joel Chan
-date: Wed Jun 15 2022 10:24:07 GMT-0400 (Eastern Daylight Time)
+date: Wed Jun 15 2022 22:24:07 GMT+0800 (Malaysia Time)
 ---
 
 - from [[@luceroFramingAligningParadoxing2012]]

@@ -2,12 +2,12 @@
 title: [[EVD]] - undergraduates generated novel word combination noun phrases with more emergent features when noun pairs were dissimilar vs. similar - [[@wilkenfeldSimilarityEmergenceConceptual2001]]
 url: https://roamresearch.com/#/app/megacoglab/page/zHpJGF1Ih
 author: Joel Chan
-date: Tue Dec 28 2021 20:56:18 GMT-0500 (Eastern Standard Time)
+date: Wed Dec 29 2021 09:56:18 GMT+0800 (Malaysia Time)
 ---
 
 - # Summary
 
-    - more [[emergent properties]] from dissimilar vs. similar concept pairs
+    - more [[emergent properties]]
 
         - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fmegacoglab%2FGHbZMnJ5EJ.png?alt=media&token=8a16dbf5-0619-42c0-8f08-a71b6d0b418d) (p. 29)
 
@@ -47,7 +47,7 @@ date: Tue Dec 28 2021 20:56:18 GMT-0500 (Eastern Standard Time)
         - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fmegacoglab%2FCTgsznS1lO.png?alt=media&token=8bf095be-04bb-4483-821e-770268703301) 
 ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fmegacoglab%2FrqX8Od58Yk.png?alt=media&token=6e715996-678f-40e4-9e2d-fba50b8bfb9f) (p. 27)
 
-    - measure: combination method - classified by first author and naive grad student as relation linking, property interpretation, hybridization, or other; coding scheme based on [[@wisniewskiPuttingMilkCoffee1996]], here achieved 86% agreement
+    - measure: combination method - classified by first author and naive grad student as relation linking, property interpretation, hybridization, or other; coding scheme based on [[@wisniewskiPuttingMilkCoffee1996]]
 
         - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fmegacoglab%2FrUwjSKB75y.png?alt=media&token=de4c34ab-ef8e-4399-bed5-05a01aca0c43) (p. 30)
 

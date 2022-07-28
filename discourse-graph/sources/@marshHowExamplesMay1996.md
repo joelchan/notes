@@ -2,16 +2,16 @@
 title: @marshHowExamplesMay1996
 url: https://roamresearch.com/#/app/megacoglab/page/6fTLzpLXP
 author: Joel Chan
-date: Sat Dec 26 2020 21:58:38 GMT-0500 (Eastern Standard Time)
+date: Sun Dec 27 2020 10:58:38 GMT+0800 (Malaysia Time)
 ---
 
-- #[[references]]
+- [[references]]
 
     - Title: How examples may (and may not) constrain creativity.
 
     - Meta:
 
-        - Authored by:: [[R. L. Marsh]] [[J. D. Landau]] [[J. L. Hicks]]
+        - Authored by:: [[R. L. Marsh]]
 
         - Year: [[1996]]
 

@@ -2,16 +2,16 @@
 title: @casakinReasoningVisualAnalogy2000
 url: https://roamresearch.com/#/app/megacoglab/page/NG7MOI-n0
 author: Joel Chan
-date: Fri Mar 26 2021 13:37:39 GMT-0400 (Eastern Daylight Time)
+date: Sat Mar 27 2021 01:37:39 GMT+0800 (Malaysia Time)
 ---
 
-- #[[references]]
+- [[references]]
 
     - Reasoning by visual analogy in design problem-solving: the role of guidance
 
     - Meta:
 
-        - Authored by:: [[H. P. Casakin]] [[G. Goldschmidt]]
+        - Authored by:: [[H. P. Casakin]]
 
         - Year: [[2000]]
 

@@ -2,16 +2,16 @@
 title: @skinnerChildrenColorPerceptions2020c
 url: https://roamresearch.com/#/app/megacoglab/page/9qZDn-maW
 author: Joel Chan
-date: Fri May 14 2021 11:27:44 GMT-0400 (Eastern Daylight Time)
+date: Fri May 14 2021 23:27:44 GMT+0800 (Malaysia Time)
 ---
 
-- #[[references]]
+- [[references]]
 
     - Title: Children of color's perceptions of fairness in AI: An exploration of equitable and inclusive co-design
 
     - Meta:
 
-        - Authored by:: [[Zoe Skinner]] [[Stacey Brown]] [[Greg Walsh]]
+        - Authored by:: [[Zoe Skinner]]
 
         - Year: [[2020]]
 

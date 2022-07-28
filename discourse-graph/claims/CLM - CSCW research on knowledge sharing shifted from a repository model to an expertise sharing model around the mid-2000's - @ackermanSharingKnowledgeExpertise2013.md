@@ -2,7 +2,7 @@
 title: [[CLM]] - CSCW research on knowledge sharing shifted from a repository model to an expertise sharing model around the mid-2000's - [[@ackermanSharingKnowledgeExpertise2013]]
 url: https://roamresearch.com/#/app/megacoglab/page/tl7U8LmXa
 author: Joel Chan
-date: Sat Jan 01 2022 11:56:17 GMT-0500 (Eastern Standard Time)
+date: Sun Jan 02 2022 00:56:17 GMT+0800 (Malaysia Time)
 ---
 
 - Summarized in [[@ackermanSharingKnowledgeExpertise2013]]

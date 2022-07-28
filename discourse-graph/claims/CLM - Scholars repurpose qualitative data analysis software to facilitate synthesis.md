@@ -2,15 +2,15 @@
 title: [[CLM]] - Scholars repurpose qualitative data analysis software to facilitate synthesis
 url: https://roamresearch.com/#/app/megacoglab/page/aVDxDIJLy
 author: Joel Chan
-date: Tue Sep 07 2021 11:04:45 GMT-0400 (Eastern Daylight Time)
+date: Tue Sep 07 2021 23:04:45 GMT+0800 (Malaysia Time)
 ---
 
-- They repurpose QDA software like [[sys/NVIVO]] or [[sys/Atlas.TI]] (which now even has training videos and materials for this functionality). We actually know at least 1-2 people who do this.
+- They repurpose QDA software like [[sysNVIVO]]
 
     - Collaboration is still very difficult, however.
-- Conceptual / theoretical basis for this [[Desire Path]] in [[@wolfswinkelUsingGroundedTheory2013]]
+- Conceptual / theoretical basis for this [[Desire Path]]
 
-    - See also [[@silverCruxLiteratureReviewing2020]] (generalizes beyond [[sys/NVIVO]])
+    - See also [[@silverCruxLiteratureReviewing2020]]
 
 ###### Discourse Context
 

@@ -2,10 +2,10 @@
 title: @coleHierarchySciences1983
 url: https://roamresearch.com/#/app/megacoglab/page/efSuMAHEy
 author: Joel Chan
-date: Fri Sep 10 2021 21:50:18 GMT-0400 (Eastern Daylight Time)
+date: Sat Sep 11 2021 09:50:18 GMT+0800 (Malaysia Time)
 ---
 
-- #[[references]]
+- [[references]]
 
     - Title: The Hierarchy of the Sciences?
 

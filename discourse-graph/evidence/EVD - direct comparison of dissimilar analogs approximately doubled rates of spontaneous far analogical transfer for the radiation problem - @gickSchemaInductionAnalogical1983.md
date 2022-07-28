@@ -2,7 +2,7 @@
 title: [[EVD]] - direct comparison of dissimilar analogs approximately doubled rates of spontaneous far analogical transfer for the radiation problem - [[@gickSchemaInductionAnalogical1983]]
 url: https://roamresearch.com/#/app/megacoglab/page/X9jkreduk
 author: Joel Chan
-date: Thu Dec 02 2021 14:53:20 GMT-0500 (Eastern Standard Time)
+date: Fri Dec 03 2021 03:53:20 GMT+0800 (Malaysia Time)
 ---
 
 - # Summary

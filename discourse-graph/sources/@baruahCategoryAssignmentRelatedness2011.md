@@ -2,16 +2,16 @@
 title: @baruahCategoryAssignmentRelatedness2011
 url: https://roamresearch.com/#/app/megacoglab/page/0nXqoPQy9
 author: Joel Chan
-date: Thu Aug 12 2021 23:17:05 GMT-0400 (Eastern Daylight Time)
+date: Fri Aug 13 2021 11:17:05 GMT+0800 (Malaysia Time)
 ---
 
-- #[[references]]
+- [[references]]
 
     - Title: Category assignment and relatedness in the group ideation process
 
     - Meta:
 
-        - Authored by:: [[Jonali Baruah]] [[Paul B. Paulus]]
+        - Authored by:: [[Jonali Baruah]]
 
         - Year: [[2011]]
 

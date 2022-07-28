@@ -2,7 +2,7 @@
 title: [[EVD]] - When Given relational scaffolding related to the content participants scored better on post-tests - [[@jeeRelationalScaffoldingEnhances2019]]
 url: https://roamresearch.com/#/app/megacoglab/page/q3ue0yRTX
 author: AJ Rudd
-date: Sat Dec 18 2021 08:13:51 GMT-0500 (Eastern Standard Time)
+date: Sat Dec 18 2021 21:13:51 GMT+0800 (Malaysia Time)
 ---
 
 - # Summary

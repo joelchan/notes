@@ -2,7 +2,7 @@
 title: [[EVD]] - Low-income, African-American older adults perceived ideation materials used for brainstorming as infantilizing and belittling - [[@harringtonDeconstructingCommunityBasedCollaborative2019]]
 url: https://roamresearch.com/#/app/megacoglab/page/8mzpLPyN1
 author: Joel Chan
-date: Tue Jun 08 2021 15:39:42 GMT-0400 (Eastern Daylight Time)
+date: Wed Jun 09 2021 03:39:42 GMT+0800 (Malaysia Time)
 ---
 
 - Summary::

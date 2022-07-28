@@ -2,7 +2,7 @@
 title: [[EVD]] - highly novel papers were more likely to be published in lower impact journals - [[@wangBiasNoveltyScience2017]]
 url: https://roamresearch.com/#/app/megacoglab/page/02o3rSVIc
 author: Joel Chan
-date: Mon Jul 19 2021 11:29:14 GMT-0400 (Eastern Daylight Time)
+date: Mon Jul 19 2021 23:29:14 GMT+0800 (Malaysia Time)
 ---
 
 - Summary::

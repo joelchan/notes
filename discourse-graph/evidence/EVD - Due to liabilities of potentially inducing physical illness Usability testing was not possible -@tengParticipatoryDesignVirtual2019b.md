@@ -2,7 +2,7 @@
 title: [[EVD]] - Due to liabilities of potentially inducing physical illness Usability testing was not possible -[[@tengParticipatoryDesignVirtual2019b]]
 url: https://roamresearch.com/#/app/megacoglab/page/zFDU8_l0c
 author: AJ Rudd
-date: Mon May 24 2021 09:51:59 GMT-0400 (Eastern Daylight Time)
+date: Mon May 24 2021 21:51:59 GMT+0800 (Malaysia Time)
 ---
 
 - noteType:: [[EVD]]
@@ -39,7 +39,7 @@ date: Mon May 24 2021 09:51:59 GMT-0400 (Eastern Daylight Time)
 
     - ## **Discourse Context**
 
-        - Informs:: [[[[QUE]] - What tension points exist between the goals of diversity and depth of user participation in participatory design?]]
+        - Informs:: [[QUE - What tension points exist between the goals of diversity and depth of user participation in participatory design]]
 
     - ## Metadata::
 

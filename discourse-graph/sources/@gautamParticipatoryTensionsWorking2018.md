@@ -2,10 +2,10 @@
 title: @gautamParticipatoryTensionsWorking2018
 url: https://roamresearch.com/#/app/megacoglab/page/SyPh_2Xun
 author: Joel Chan
-date: Wed Aug 05 2020 17:35:37 GMT-0400 (Eastern Daylight Time)
+date: Thu Aug 06 2020 05:35:37 GMT+0800 (Malaysia Time)
 ---
 
-- #[[references]]
+- [[references]]
 
     - Title: Participatory tensions in working with a vulnerable population
 
@@ -13,7 +13,7 @@ date: Wed Aug 05 2020 17:35:37 GMT-0400 (Eastern Daylight Time)
 
         - Tags: #ref/Paper
 
-        - Authored by:: [[Aakash Gautam]] [[Chandani Shrestha]] [[Andrew Kulak]] [[Steve Harrison]] [[Deborah Tatar]]
+        - Authored by:: [[Aakash Gautam]]
 
         - Year: [[2018]]
 

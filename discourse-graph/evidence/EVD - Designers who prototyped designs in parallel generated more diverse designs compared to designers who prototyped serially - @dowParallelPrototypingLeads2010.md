@@ -2,7 +2,7 @@
 title: [[EVD]] - Designers who prototyped designs in parallel generated more diverse designs compared to designers who prototyped serially - [[@dowParallelPrototypingLeads2010]]
 url: https://roamresearch.com/#/app/megacoglab/page/z8AY1z1F6
 author: Joel Chan
-date: Wed Sep 29 2021 10:54:29 GMT-0400 (Eastern Daylight Time)
+date: Wed Sep 29 2021 22:54:29 GMT+0800 (Malaysia Time)
 ---
 
 - # Summary

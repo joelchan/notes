@@ -2,7 +2,7 @@
 title: @randallDistributedOntologyBuilding2011
 url: https://roamresearch.com/#/app/megacoglab/page/JvekBuOIw
 author: Joel Chan
-date: Fri May 22 2020 16:07:37 GMT-0400 (Eastern Daylight Time)
+date: Sat May 23 2020 04:07:37 GMT+0800 (Malaysia Time)
 ---
 
 - #references
@@ -29,7 +29,7 @@ date: Fri May 22 2020 16:07:37 GMT-0400 (Eastern Daylight Time)
 
     - #lit-context
 
-        - [[m/Ethnography]] studying the use of [[sys/Protege]] for building [[ontologies]]
+        - [[mEthnography]]
 
 ###### Discourse Context
 

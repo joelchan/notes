@@ -2,10 +2,10 @@
 title: @perkinsNovelRemoteAnalogies1983
 url: https://roamresearch.com/#/app/megacoglab/page/wrehZY1hn
 author: Joel Chan
-date: Fri Jul 02 2021 22:21:24 GMT-0400 (Eastern Daylight Time)
+date: Sat Jul 03 2021 10:21:24 GMT+0800 (Malaysia Time)
 ---
 
-- #[[references]]
+- [[references]]
 
     - Title: Novel Remote Analogies Seldom Contribute to Discovery
 

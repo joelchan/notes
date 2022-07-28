@@ -2,7 +2,7 @@
 title: [[EVD]] - The states when an idea was generated in the form of an analogy were shown by verbal protocols to play a prominent role for all four design teams. - [[@dahlInfluenceValueAnalogical2002]]
 url: https://roamresearch.com/#/app/megacoglab/page/VwDVjH-iT
 author: Jason Ding
-date: Wed Apr 20 2022 19:37:23 GMT-0400 (Eastern Daylight Time)
+date: Thu Apr 21 2022 07:37:23 GMT+0800 (Malaysia Time)
 ---
 
 

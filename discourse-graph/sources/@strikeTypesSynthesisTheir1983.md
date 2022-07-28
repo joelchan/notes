@@ -2,18 +2,18 @@
 title: @strikeTypesSynthesisTheir1983
 url: https://roamresearch.com/#/app/megacoglab/page/f9UljLRnV
 author: Joel Chan
-date: Mon Dec 30 2019 19:17:08 GMT-0500 (Eastern Standard Time)
+date: Tue Dec 31 2019 08:17:08 GMT+0800 (Malaysia Time)
 ---
 
-- #[[references]]
+- [[references]]
 
     - Title: Types of synthesis and their criteria
 
     - Meta:
 
-        - Tags:: #[[references]] [[D/Synthesis Infrastructure]]
+        - Tags:: [[references]]
 
-        - Authored by:: [[Kenneth Strike]] [[George Posner]]
+        - Authored by:: [[Kenneth Strike]]
 
         - Year: [[1983]]
 
@@ -51,7 +51,7 @@ date: Mon Dec 30 2019 19:17:08 GMT-0500 (Eastern Standard Time)
     - Authors are Known for:: influential Theory of [[conceptual change]]
 
         - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fmegacoglab%2FnWtNBcd4SY?alt=media&token=ba704bc5-ba7c-42f0-9fea-1cb55d60cc30)
-- #[[📝 lit-notes]]
+- [[📝 lit-notes]]
 
     - #Claim There are two core concepts for synthesis: 1) creating a new whole from parts, and 2) displaying at least some level of __conceptual__ innovation (higher = clearer case of synthesis)
 
@@ -107,7 +107,7 @@ date: Mon Dec 30 2019 19:17:08 GMT-0500 (Eastern Standard Time)
 
             - 13: Assessment (p.353-354)
 
-                - Weighing the bulk of the evidence (aka meta-analysis / [[systematic review]])
+                - Weighing the bulk of the evidence (aka meta-analysis / [[systematic review]]
 
                 - Judgment
 
@@ -115,7 +115,7 @@ date: Mon Dec 30 2019 19:17:08 GMT-0500 (Eastern Standard Time)
 
             - 15: Assemblages (p. 354)
 
-    - #Claim Some types of [[synthesis]] are simpler to produce than others (p. 355-356)
+    - #Claim Some types of [[synthesis]]
 
         - Easier: 1: Generalizing over instances (p. 349), ((pVY8cvy4Y))
 
@@ -131,23 +131,23 @@ date: Mon Dec 30 2019 19:17:08 GMT-0500 (Eastern Standard Time)
 
         - Fleshes out #Claim There are two core concepts for synthesis: 1) creating a new whole from parts, and 2) displaying at least some level of __conceptual__ innovation (higher = clearer case of synthesis)
 
-        - > A quality [[synthesis]] will clarify and resolve, rather than obscure inconsistencies or tensions between material synthesized
+        - > A quality [[synthesis]]
 
             ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fmegacoglab%2FwVfN0OkrPc?alt=media&token=4c987e60-8f2a-422b-89f7-74d652f4aefd) (p357)
 
-        - > A quality [[synthesis]] will result in a progressive problem shift
+        - > A quality [[synthesis]]
 
             - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fmegacoglab%2FmkZPSRtGTx?alt=media&token=8c9c4e90-6a91-4922-b18e-059a08d6a0d6) " (p357)
 
-        - > A successful [[synthesis]] will satisfy the formal criteria for good theories
+        - > A successful [[synthesis]]
 
             - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fmegacoglab%2FU-AqM6BweT?alt=media&token=617cad8f-8247-46e7-8037-24547e6a585c) (p357)
 
-    - #Claim A useful [[synthesis]] helps to judge how "healthy" a research program is, and suggests future directions for it, often by interrogating/assessing crucial assumptions (p. 358)
+    - #Claim A useful [[synthesis]]
 
         - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fmegacoglab%2FyMROHnwTRn?alt=media&token=b9c4f60c-cc7c-40f0-8e4f-e3c7c2f5b528)
 
-    - [[CASCI]] reading notes
+    - [[CASCI]]
 
         - Implicit ordering of "levels" of synthesis on p1
 
@@ -176,7 +176,7 @@ date: Mon Dec 30 2019 19:17:08 GMT-0500 (Eastern Standard Time)
 
         - Year: [[1983]]
 
-        - Authored by:: [[Kenneth Strike]] and [[George Posner]]
+        - Authored by:: [[Kenneth Strike]]
 
         - Publication: Knowledge Structure and Use: Implications for Synthesis and Interpretation
 

@@ -2,7 +2,7 @@
 title: [[QUE]] - Can deep learning discover analogical representations?
 url: https://roamresearch.com/#/app/megacoglab/page/7ArZLTQUN
 author: Unknown
-date: Thu Jul 14 2022 09:40:46 GMT-0400 (Eastern Daylight Time)
+date: Thu Jul 28 2022 09:00:44 GMT+0800 (Malaysia Time)
 ---
 
 - # Synthesis
@@ -15,27 +15,27 @@ date: Thu Jul 14 2022 09:40:46 GMT-0400 (Eastern Daylight Time)
 
         - so basically, the reasoning for being cautious about deep learning per se goes as follows:
 
-            - [[[[CLM]] - Analogies are fundamentally about relational similarity]]
+            - [[CLM - Analogies are fundamentally about relational similarity]]
 
-            - to reason about similarity between relations, we need to have good representations of relations (e.g., [[relational categories]], as in [[@gentnerRelationalCategories2005]]).
+            - to reason about similarity between relations, we need to have good representations of relations (e.g., [[relational categories]]
 
-            - [[[[CLM]] - Relational categories are almost overwhelmingly expressed as verbs]] #[[Z]]
+            - [[CLM - Relational categories are almost overwhelmingly expressed as verbs]]
 
             - therefore, computational models of semantics that do poorly with verbs should also do poorly with relations, and therefore struggle with [[analogy]]
 
-            - one strong representative of deep learning representations of semantics is [[word embeddings]], such as [[sys/word2vec]] (was the first model to make waves for apparently being able to do [[analogy]])
+            - one strong representative of deep learning representations of semantics is [[word embeddings]]
 
-            - There is some evidence that [[[[CLM]] - Vector-space models of language struggle with relational similarity]]
+            - There is some evidence that [[CLM - Vector-space models of language struggle with relational similarity]]
 
             - therefore, we are skeptical that deep learning-based semantics (without explicit searching / tuning for relational structure) will succeed at giving us computational [[analogy]]
 
         - HOWEVER
 
-            - There is some emerging evidence that [[[[CLM]] - [[transformer language model]]s have some analogical reasoning ability]]
+            - There is some emerging evidence that [[CLM - transformer language models have some analogical reasoning ability]]
 
                 - #SupportedBy
 
-                    - [[[[EVD]] - given one set of objects from a few classic analogies such as solar system / atom, [[sys/GPT-3]] was able to complete the corresponding objects on the other side for a few examples - [[@stayMachinamentaFormingExtended2020]]]]
+                    - [[EVD - given one set of objects from a few classic analogies such as solar system  atom, sysGPT-3 wa...rresponding objects on the other side for a few examples - @stayMachinamentaFormingExtended2020]]
 - ---
 - # Sources
 
@@ -47,7 +47,7 @@ date: Thu Jul 14 2022 09:40:46 GMT-0400 (Eastern Daylight Time)
 - ---
 - Meta
 
-    - Related projects: [[D/Computational Analogy]]
+    - Related projects: [[DComputational Analogy]]
 
 ###### Discourse Context
 

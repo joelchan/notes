@@ -2,16 +2,16 @@
 title: [[QUE]] - How can we measure everyday progress in open-ended creative work?
 url: https://roamresearch.com/#/app/megacoglab/page/D8ByQqeuB
 author: Joel Chan
-date: Sat Sep 19 2020 12:46:53 GMT-0400 (Eastern Daylight Time)
+date: Sun Sep 20 2020 00:46:53 GMT+0800 (Malaysia Time)
 ---
 
-- #[[🌲 zettels]] #[[Question]]
+- [[🌲 zettels]]
 
-    - Tags: #[[👩‍🏫 HowTo/Master]]
+    - Tags: [[👩‍🏫 HowToMaster]]
 
     - Description
 
-        - Complicated, because [[[[CLM]] - True creative breakthroughs often take a long time to develop]], and [[[[CLM]] - Paths to creative breakthroughs are frequently oblique]]
+        - Complicated, because [[CLM - True creative breakthroughs often take a long time to develop]]
 
         - My favorite tweets/heuristics
 
@@ -19,9 +19,9 @@ date: Sat Sep 19 2020 12:46:53 GMT-0400 (Eastern Daylight Time)
 
                 - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fmegacoglab%2FTSo1xJZ8_5.png?alt=media&token=61c8ee19-0219-4f5b-a7ee-4a2617b7eef8)
 
-                - From [this tweet thread](https://twitter.com/masoncurrey/status/1348621624191250433) by [[Mason Currey]].
+                - From [this tweet thread](https://twitter.com/masoncurrey/status/1348621624191250433) by [[Mason Currey]]
 
-            - [[This is shit, I am shit]] "The Creative Process 1. This is awesome 2. This is tricky 3. This is shit 4. I am shit 5. This might be ok 6. This is awesome" / Twitter
+            - [[This is shit, I am shit]]
 
                 - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fmegacoglab%2FdKSrCD8ZjJ.png?alt=media&token=eedce39b-4e74-41aa-847e-00fb0aa6a1fb)
 

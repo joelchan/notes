@@ -2,7 +2,7 @@
 title: @martinExploringLimitsPrediction2016
 url: https://roamresearch.com/#/app/megacoglab/page/NCt5GO9g0
 author: Joel Chan
-date: Fri May 22 2020 21:50:12 GMT-0400 (Eastern Daylight Time)
+date: Sat May 23 2020 09:50:12 GMT+0800 (Malaysia Time)
 ---
 
 - #references
@@ -27,7 +27,7 @@ date: Fri May 22 2020 21:50:12 GMT-0400 (Eastern Daylight Time)
 
         - Placeholder
 
-    - #[[📝 lit-notes]]
+    - [[📝 lit-notes]]
 
         - given an insane amount of data on Twitter, best models can only explain less than half of the variance in information cascades
 

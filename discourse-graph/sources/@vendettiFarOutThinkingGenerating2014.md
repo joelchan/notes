@@ -2,11 +2,11 @@
 title: @vendettiFarOutThinkingGenerating2014
 url: https://roamresearch.com/#/app/megacoglab/page/llkZ-LCBT
 author: AJ Rudd
-date: Tue Dec 14 2021 16:31:46 GMT-0500 (Eastern Standard Time)
+date: Wed Dec 15 2021 05:31:46 GMT+0800 (Malaysia Time)
 ---
 
 - Title:: Far-Out Thinking: Generating Solutions to Distant Analogies Promotes Relational Thinking
-- Author(s):: [[Michael S. Vendetti]], [[Aaron Wu]], [[Keith J. Holyoak]]
+- Author(s):: [[Michael S. Vendetti]]
 - Abstract:: Is it possible to induce a mind-set that will affect relational thinking in a subsequent reasoning task involving unrel materials? We investigated whether evaluating the validity of verbal analogies (Experiment la) or generating s for them (Experiment lb) could induce a relational mind-set that would transfer to an unrelated picture-m task. The verbal analogies were based on either near or far semantic relations. We found that generating (b evaluating) solutions for semantically distant analogies increased the proportion of relational mappings on the task, even after we controlled for fluid intelligence and response time. Solving near analogies did not produce transf Generation of solutions to far analogies appears to provide a potent method for triggering a mind-set that can relational thinking in a different task.
 - Type:: [[Article]]
 - Publication:: Psychological Science
@@ -14,7 +14,7 @@ date: Tue Dec 14 2021 16:31:46 GMT-0500 (Eastern Standard Time)
 - Date Added:: [[December 14th, 2021]]
 - Zotero links:: [Local library](zotero://select/groups/2451508/items/KA2WIYTX), [Local library](https://www.zotero.org/groups/2451508/items/KA2WIYTX)
 - PDF links : [Vendetti et al. - 2014 - Far-Out Thinking Generating Solutions to Distant .pdf](zotero://open-pdf/groups/2451508/items/CZ5HETXG)
-- #FinishedReading for [[[[QUE]] - What factors control whether people appropriately benefit from analogies (especially far-field ones) during creative problem solving?]]
+- #FinishedReading for [[QUE - What factors control whether people appropriately benefit from analogies (especially far-field ones) during creative problem solving]]
 - Method
 
     - [[Evd]]
@@ -24,14 +24,14 @@ date: Tue Dec 14 2021 16:31:46 GMT-0500 (Eastern Standard Time)
         - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fmegacoglab%2FmHMM3nJR02.png?alt=media&token=ce6975d0-dcf7-426d-89af-117e0e303b80) (Pg 929)
 - Results
 
-    - [[[[EVD]] - Students who were provided near analogies produced more accurate analogical solutions than students provided far reaching analogies - [[@vendettiFarOutThinkingGenerating2014]]]] #Informs
+    - [[EVD - Students who were provided near analogies produced more accurate analogical solutions than students provided far reaching analogies - @vendettiFarOutThinkingGenerating2014]]
 
-    - [[[[EVD]] - Participants given the far reaching analogies produced more of x result than those in the near analogy group, and it was found to be tied to generation task? - [[@vendettiFarOutThinkingGenerating2014]]]] #Informs
+    - [[EVD - Participants given the far reaching analogies produced more of x result than those in the nea...y group, and it was found to be tied to generation task - @vendettiFarOutThinkingGenerating2014]]
 
-    - [[[[EVD]] - Generating (but not evaluating) solutions to far analogy problems positively predicted performance on a subsequent analogy task (compared to generating or evaluating near analogy problems) - [[@vendettiFarOutThinkingGenerating2014]]]]
+    - [[EVD - Generating (but not evaluating) solutions to far analogy problems positively predicted perfor...ared to generating or evaluating near analogy problems) - @vendettiFarOutThinkingGenerating2014]]
 
-        - from this they conclude that [[[[CLM]] - generating far analogies can induce a "relational mindset" that enhances downstream analogical thinking]]
-- [[Arvind Srinivasan]] for [[[[QUE]] - What factors control whether people appropriately benefit from analogies (especially far-field ones) during creative problem solving?]] | __<summary of what was learned in this session (fill this out later)>__
+        - from this they conclude that [[CLM - generating far analogies can induce a relational mindset that enhances downstream analogical thinking]]
+- [[Arvind Srinivasan]]
 
     - __Feel free to have free-floating notes that don't neatly fit into the boxes below!__
 
@@ -57,7 +57,7 @@ date: Tue Dec 14 2021 16:31:46 GMT-0500 (Eastern Standard Time)
 
                 - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fmegacoglab%2Fruj2YG3D0I.png?alt=media&token=c06c3e6d-ca90-4a48-b3d3-1c8a67d9a9bf) (p. 930)
 
-            - procedure: in each trial do a 500ms-fixation cross followed by the verbal analogy task: [[four-term analogy problems]]. it is time controlled (8s max) and visual feedback is provided ("Wrong" or "Too Slow" as red text). then do [picture mapping task](((6kd5j85za)))
+            - procedure: in each trial do a 500ms-fixation cross followed by the verbal analogy task: [[four-term analogy problems]]
 
                 - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fmegacoglab%2FozGYTDAEix.png?alt=media&token=19ac663f-0cd9-48cc-a38a-dfbbbf9d24f8)(p.930)
 
@@ -71,11 +71,11 @@ date: Tue Dec 14 2021 16:31:46 GMT-0500 (Eastern Standard Time)
 
                 - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fmegacoglab%2FKxacM1ZWzE.png?alt=media&token=bf930d9f-98ab-4c48-a1b2-0454946ea7b0) (p. 930)
 
-            - verbal analogy task: [[four-term analogy problems]] with only valid problems without time-limit and feedback
+            - verbal analogy task: [[four-term analogy problems]]
 
             - transfer task: picture-mapping:
 
-            - procedure: do abridged [[RAVENS progressive matrices]] to measure fluid intelligence, then do ((WIjywcBgp)) with only valid problems without time-limit and feedback, then  [picture mapping task](((6kd5j85za)))
+            - procedure: do abridged [[RAVENS progressive matrices]]
 
                 - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fmegacoglab%2FHUYL2NwmuJ.png?alt=media&token=bd01d7e4-aa63-4784-90cb-7d188741e38d) (p. 931)
 
@@ -87,7 +87,7 @@ date: Tue Dec 14 2021 16:31:46 GMT-0500 (Eastern Standard Time)
 
                 - ### summary
 
-                    - [[[[EVD]] - Generating (but not evaluating) solutions to far analogy problems positively predicted performance on a subsequent analogy task (compared to generating or evaluating near analogy problems) - [[@vendettiFarOutThinkingGenerating2014]]]]
+                    - [[EVD - Generating (but not evaluating) solutions to far analogy problems positively predicted perfor...ared to generating or evaluating near analogy problems) - @vendettiFarOutThinkingGenerating2014]]
 
                 - ### grounding context
 
@@ -105,9 +105,9 @@ date: Tue Dec 14 2021 16:31:46 GMT-0500 (Eastern Standard Time)
 
                         - This means that, if the results are better than predicted, the users might have had the necessary prior knowledge to map the results of retrieval.
 
-                            - related to [[relational mindset]] in [[@goldwaterCanRelationalMindset2019]]
+                            - related to [[relational mindset]]
 
-                        - the emphasis on the state of mind supports the claim [[[[CLM]] - Inspiration favors the prepared mind]]
+                        - the emphasis on the state of mind supports the claim [[CLM - Inspiration favors the prepared mind]]
 
                     - impact on the relationship with fluid intelligence found in general discussion
 
@@ -133,7 +133,7 @@ date: Tue Dec 14 2021 16:31:46 GMT-0500 (Eastern Standard Time)
 
                                 - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fmegacoglab%2Fruj2YG3D0I.png?alt=media&token=c06c3e6d-ca90-4a48-b3d3-1c8a67d9a9bf) (p. 930)
 
-                            - procedure: do abridged [[RAVENS progressive matrices]] to measure fluid intelligence, then do ((jxWcWder-)), then  [picture mapping task](((6kd5j85za)))
+                            - procedure: do abridged [[RAVENS progressive matrices]]
 
                                 - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fmegacoglab%2FHUYL2NwmuJ.png?alt=media&token=bd01d7e4-aa63-4784-90cb-7d188741e38d) (p. 931)
 

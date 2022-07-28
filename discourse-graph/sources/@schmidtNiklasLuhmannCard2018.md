@@ -2,7 +2,7 @@
 title: @schmidtNiklasLuhmannCard2018
 url: https://roamresearch.com/#/app/megacoglab/page/VkCtynphM
 author: Joel Chan
-date: Mon May 25 2020 12:16:52 GMT-0400 (Eastern Daylight Time)
+date: Tue May 26 2020 00:16:52 GMT+0800 (Malaysia Time)
 ---
 
 - #references

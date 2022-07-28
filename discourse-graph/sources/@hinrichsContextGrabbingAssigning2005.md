@@ -2,7 +2,7 @@
 title: @hinrichsContextGrabbingAssigning2005
 url: https://roamresearch.com/#/app/megacoglab/page/3Gg608JFK
 author: Joel Chan
-date: Mon Jul 20 2020 13:15:13 GMT-0400 (Eastern Daylight Time)
+date: Tue Jul 21 2020 01:15:13 GMT+0800 (Malaysia Time)
 ---
 
 - #references
@@ -13,11 +13,11 @@ date: Mon Jul 20 2020 13:15:13 GMT-0400 (Eastern Daylight Time)
 
         - Tags: #ref/Paper
 
-        - Authored by:: [[Joachim Hinrichs]] [[Volkmar Pipek]] [[Volker Wulf]] [[Hans Gellersen]] [[Kjeld Schmidt]] [[Michel Beaudouin-Lafon]] [[Wendy Mackay]]
+        - Authored by:: [[Joachim Hinrichs]]
 
         - Year: [[2005]]
 
-        - Publication: [[ECSCW]] 2005
+        - Publication: [[ECSCW]]
 
         - Zotero link: [Zotero Link](zotero://select/items/1_Y2RWPBIJ)
 
@@ -49,27 +49,27 @@ date: Mon Jul 20 2020 13:15:13 GMT-0400 (Eastern Daylight Time)
 
     - #lit-context
 
-        - [[ECSCW]] is where a lot of the [[m/Ethnography]] in context of **Work** is still alive (exited somewhat from [[CSCW]]), so we can have a bit more confidence that this is done well from a theoretical and methodological perspective
+        - [[ECSCW]]
 
-        - last author [[Wendy Mackay]] is super-prominent in [[CSCW]]
+        - last author [[Wendy Mackay]]
 
             - ex: chosen to summarize history of social comptuing research in the 1980's at the [2020 CSCW conference panel](1980's)
 
-    - #[[📝 lit-notes]]
+    - [[📝 lit-notes]]
 
-        - useful precursor to idea of [[[[PTN]] - flexible compression]] as means for tackling [[[[CLM]] - Specifying context for future reuse is costly]]
+        - useful precursor to idea of [[PTN - flexible compression]]
 
     - #lit-context
 
-    - #[[📝 lit-notes]]
+    - [[📝 lit-notes]]
 
         - **How did the authors approach their questions/problems?** ((most of this is going to come from the methods sections, although some info about conceptualization of key concepts might be relevant to pull from intro/lit-review)) #lit-context
 
-        - **What did they find?** ((keep this as contextualized as possible; resist the urge to repeat claims or generalizations)) #[[observation-notes]]
+        - **What did they find?** ((keep this as contextualized as possible; resist the urge to repeat claims or generalizations)) [[observation-notes]]
 
             - [Decentralized project documentation](![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fmegacoglab%2F7zrr6dqDHb.png?alt=media&token=b9d89e5a-f88c-473c-a7e3-04e6e0cac621)) made recontextualization difficult for [engineers](((CUoGHVXbV))) because they didn't know the [history of changes for a document or if a particular document was up to date](((ANL0-Gihc))), leading to issues such as ["exploratory digging by hand" to avoid damaging power lines](((ZXWd_oKNJ))) pg 375
 
-                - [[Joel Chan]] comments
+                - [[Joel Chan]]
 
                     - this is looking pretty good in terms of granularity, i can work with this!
 

@@ -2,16 +2,16 @@
 title: @wareSTMReportOverview2015
 url: https://roamresearch.com/#/app/megacoglab/page/rqJLbeCfb
 author: Joel Chan
-date: Wed Jan 27 2021 21:15:39 GMT-0500 (Eastern Standard Time)
+date: Thu Jan 28 2021 10:15:39 GMT+0800 (Malaysia Time)
 ---
 
-- #[[references]]
+- [[references]]
 
     - Title: The STM Report:  An overview of scientific and scholarly journal publishing
 
     - Meta:
 
-        - Authored by:: [[Mark Ware]] [[Michael Mabe]]
+        - Authored by:: [[Mark Ware]]
 
         - Year: [[2015]]
 
@@ -29,4 +29,5 @@ date: Wed Jan 27 2021 21:15:39 GMT-0500 (Eastern Standard Time)
 
 ###### Discourse Context
 
+- **Informs::** [[CLM - There is significant untapped creative exhaust for a sustainable scholar-powered model of semantic publishing]]
 - **Informs::** [[QUE - How might we characterize scientists' synthesis practices from a processtool perspective]]

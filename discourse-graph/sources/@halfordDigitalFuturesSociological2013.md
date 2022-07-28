@@ -2,7 +2,7 @@
 title: @halfordDigitalFuturesSociological2013
 url: https://roamresearch.com/#/app/megacoglab/page/FIZWVSeEm
 author: Joel Chan
-date: Fri May 22 2020 16:14:39 GMT-0400 (Eastern Daylight Time)
+date: Sat May 23 2020 04:14:39 GMT+0800 (Malaysia Time)
 ---
 
 - #references
@@ -29,21 +29,21 @@ date: Fri May 22 2020 16:14:39 GMT-0400 (Eastern Daylight Time)
 
     - #lit-context
 
-        - Part of sociological sream of inquiry on [[Semantic Web]] and [[infrastructure]]. Cites [[@randallDistributedOntologyBuilding2011]]
+        - Part of sociological sream of inquiry on [[Semantic Web]]
 
-    - #[[📝 lit-notes]]
+    - [[📝 lit-notes]]
 
-        - Promise of [[Semantic Web]] rests on being able to have unique resource identifiers ([[URIs]]). This relates to [[formality]], although important to distinguish from [[compositionality]]
+        - Promise of [[Semantic Web]]
 
             - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fmegacoglab%2FM3PpiGtvzg.png?alt=media&token=e0783be4-c6dd-40fa-b76f-0805b1eb42b7)
 
-            - But naming entities is far from straightforward. See, e.g., [[@bowkerSortingThingsOut2000]] and [[@randallDistributedOntologyBuilding2011]]
+            - But naming entities is far from straightforward. See, e.g., [[@bowkerSortingThingsOut2000]]
 
                 - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fmegacoglab%2FzYhdbtf4dB.png?alt=media&token=e9d60c6d-358e-4620-880d-e7cdf6360d82)
 
-            - This has significant implications for how we think about precisely in what sense [[[[CLM]] - Composability is necessary for synthesis]], and how [[formality]] plays into it
+            - This has significant implications for how we think about precisely in what sense [[CLM - Composability is necessary for synthesis]]
 
-                - #[[Z: [[context]] and [[formality]] are in tension]]
+                - [[Z context and formality are in tension]]
 
 ###### Discourse Context
 

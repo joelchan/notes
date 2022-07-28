@@ -2,7 +2,7 @@
 title: [[EVD]] - designers used examples to shape their understanding of the problem before generating solutions - [[@herringGettingInspiredUnderstanding2009]]
 url: https://roamresearch.com/#/app/megacoglab/page/5GsNQQkHY
 author: Joel Chan
-date: Tue Dec 14 2021 14:02:16 GMT-0500 (Eastern Standard Time)
+date: Wed Dec 15 2021 03:02:16 GMT+0800 (Malaysia Time)
 ---
 
 - # Summary
@@ -20,7 +20,7 @@ date: Tue Dec 14 2021 14:02:16 GMT-0500 (Eastern Standard Time)
 
         - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fmegacoglab%2FUt6KBs2oxz.png?alt=media&token=670f297f-b720-464d-afc5-1779c537be6e) (p. 3)
 
-    - data collection: [[m/Semi-structured interviews]] in designers' workspace
+    - data collection: [[mSemi-structured interviews]]
 
         - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fmegacoglab%2FUWWgi-A4ia.png?alt=media&token=4609acad-e8d3-49d0-a034-6da25e5c4255) (p. 3)
 

@@ -2,10 +2,10 @@
 title: @benjaminBringingBeneficiariesMore2020
 url: https://roamresearch.com/#/app/megacoglab/page/KxfVm7zZe
 author: Joel Chan
-date: Fri Jul 30 2021 22:33:41 GMT-0400 (Eastern Daylight Time)
+date: Sat Jul 31 2021 10:33:41 GMT+0800 (Malaysia Time)
 ---
 
-- #[[references]]
+- [[references]]
 
     - Title: Bringing Beneficiaries More Centrally Into Nonprofit Management Education and Research:
 
@@ -29,7 +29,7 @@ date: Fri Jul 30 2021 22:33:41 GMT-0400 (Eastern Daylight Time)
 
     - Quotes and excerpts
 
-    - #NowReading for [[[[QUE]] - What does it take for a nonprofit service organization to deeply involve clients in the design of service programs?]]
+    - #NowReading for [[QUE - What does it take for a nonprofit service organization to deeply involve clients in the design of service programs]]
 
         - i want to get a "map" of the area:
 
@@ -61,7 +61,7 @@ date: Fri Jul 30 2021 22:33:41 GMT-0400 (Eastern Daylight Time)
 
                 - voluntas
 
-            - some #[[➰ breadcrumbs]]
+            - some [[➰ breadcrumbs]]
 
                 - gift here in the section on beneficiaries as organizational actors (pp. 8-13)
 
@@ -75,7 +75,7 @@ date: Fri Jul 30 2021 22:33:41 GMT-0400 (Eastern Daylight Time)
 
                     - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fmegacoglab%2FqfmBkNL8Xx.png?alt=media&token=727c7f2a-c2d6-408e-8469-1a2c46fc3877)
 
-        - important contextual note here: [[coproduction]] overlaps with, but is not synynomous with [[Participatory Design]] in our sense
+        - important contextual note here: [[coproduction]]
 
         - there's also a few key hypotheses about why clients are not more deeply integrated into service orgs
 
@@ -89,13 +89,13 @@ date: Fri Jul 30 2021 22:33:41 GMT-0400 (Eastern Daylight Time)
 
             - analysis of mentions of beneficiaries in nonprofit management texts (short one on p. 13)
 
-                - [[[[EVD]] - in 57 nonprofit management texts, beneficiaries were mentioned mostly in marketing and eval chapters, and infrequently in HR or volunteer management chapters - [[@benjaminBringingBeneficiariesMore2020]]]] #Informs
+                - [[EVD - in 57 nonprofit management texts, beneficiaries were mentioned mostly in marketing and eval c...nd infrequently in HR or volunteer management chapters - @benjaminBringingBeneficiariesMore2020]]
 
                     - (implication; they are viewed as external stakeholders);
 
             - analysis of mentions of beneficiaries in nonprofit journals between 1998-2018
 
-                - also, [[[[EVD]] - in 3 major nonprofit research journals, between 1998-2018, only 5% of empirical studies mentioned beneficiaries in abstract, title or keyword; half of these included info about beneficiaries inside nonprofit, and only 5 explicitly discussed coproduction - [[@benjaminBringingBeneficiariesMore2020]]]] #Informs
+                - also, [[EVD - in 3 major nonprofit research journals, between 1998-2018, only 5% of empirical studies menti...onprofit, and only 5 explicitly discussed coproduction - @benjaminBringingBeneficiariesMore2020]]
 
 ###### Discourse Context
 

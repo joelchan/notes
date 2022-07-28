@@ -2,7 +2,7 @@
 title: @robsonBuildingModelsInformation2013
 url: https://roamresearch.com/#/app/megacoglab/page/-H0XaSES6
 author: Joel Chan
-date: Wed Feb 12 2020 16:14:15 GMT-0500 (Eastern Standard Time)
+date: Thu Feb 13 2020 05:14:15 GMT+0800 (Malaysia Time)
 ---
 
 - #references
@@ -15,7 +15,7 @@ date: Wed Feb 12 2020 16:14:15 GMT-0500 (Eastern Standard Time)
 
     - Publication: [[Journal of Documentation]]
 
-    - Tags:: #ref/Paper #[[D/KNEXT]]
+    - Tags:: #ref/Paper [[DKNEXT]]
 - Reading notes
 
     - #Claim An information seeker's context --- including things like work role, time constraints, and location --- can substantially shape the nature of her information need (p. 186-187)

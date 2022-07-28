@@ -2,7 +2,7 @@
 title: [[PTN]] - hypertext notebooks
 url: https://roamresearch.com/#/app/megacoglab/page/OPkYFNd_f
 author: Joel Chan
-date: Fri May 22 2020 16:43:26 GMT-0400 (Eastern Daylight Time)
+date: Sat May 23 2020 04:43:26 GMT+0800 (Malaysia Time)
 ---
 
 - Relevant communities
@@ -11,7 +11,7 @@ date: Fri May 22 2020 16:43:26 GMT-0400 (Eastern Daylight Time)
 
         - 95 members as of [[June 23rd, 2020]]
 
-    - [[Knowledge Management Discord]] (grew out of [[[[ART]] - RoamResearch]])
+    - [[Knowledge Management Discord]]
 
         - {{calc: 1 mod + ((vES2WRNyj)) + ((OmLR6DDCN)) }} total "users" in community
 
@@ -23,9 +23,9 @@ date: Fri May 22 2020 16:43:26 GMT-0400 (Eastern Daylight Time)
 
             - 298 offline
 
-    - [[sys/Athens]] discord (grew out of [[[[ART]] - RoamResearch]], seeking a more [[open-source]] path forward)
+    - [[sysAthens]]
 
-        - {{[[calc]]: 1 admin + ((-XoiZ6qAB)) + ((WPXho609w)) + ((v8gZsnD-6))}} total "users" in community
+        - {{[[calc]]
 
         - Mostly real name, but mix of pseudonyms, etc.
 
@@ -39,60 +39,60 @@ date: Fri May 22 2020 16:43:26 GMT-0400 (Eastern Daylight Time)
 
             - 318 offline
 
-    - [[[[ART]] - RoamResearch]]
+    - [[ART - RoamResearch]]
 
         - 5508 "users" on Slack team
 
             - 342 in literature-reviewing channel as of 15:54 [[June 23rd, 2020]]
 
-        - ~9100 views on #[[@haisfieldRoamTourProfessor2020]]
+        - ~9100 views on [[@haisfieldRoamTourProfessor2020]]
 
-    - [[sys/Obsidian]]
+    - [[ART - Obsidian]]
 
-        - ~1000 active users on [[sys/Discourse]] [forum](https://forum.obsidian.md/about) as of 16:42 [[June 23rd, 2020]]
+        - ~1000 active users on [[sysDiscourse]]
 
-        - ~3000 active users on [[sys/Discord]] server as of 17:06 [[June 23rd, 2020]]
+        - ~3000 active users on [[sysDiscord]]
 
-    - more general [[sys/Zettelkasten]] community
+    - more general [[sysZettelkasten]]
 
-        - ~10000 views on [[Sönke Ahrens]] interview with [[Tiago Forte]] #[[@forteInterviewSonkeAhrens2020]] about [[sys/Zettelkasten]], as described in #[[@ahrensHowTakeSmart2017]]
+        - ~10000 views on [[Sönke Ahrens]]
 
-        - [[sys/TinderBox]]
+        - [[ART - TinderBox]]
 
-            - ~5000 views on #[[@tenchLiteratureReviewZettelkasten2018]]
+            - ~5000 views on [[@tenchLiteratureReviewZettelkasten2018]]
 
-    - [[sys/TiddlyWiki]]
+    - [[sysTiddlyWiki]]
 - Tools
 
     - 200+ tools listed here too: https://www.notion.so/Artificial-Brain-Networked-notebook-app-a131b468fc6f43218fb8105430304709
 
-        - h/t [[Steve Cornell]] on [[sys/Athens]] discord
+        - h/t [[Steve Cornell]]
 
-    - See also this [[Prathyvsh list of networked notebooks]]: https://github.com/prathyvsh/networked-notebooks/blob/master/readme.org
+    - See also this [[Prathyvsh list of networked notebooks]]
 
-    - [[sys/AmpleNote]]
+    - [[sysAmpleNote]]
 
-    - [[sys/RemNote]] (free!)
+    - [[sysRemNote]]
 
-    - [[sys/Zettlr]]
+    - [[sysZettlr]]
 
         - https://forum.zettlr.com/discussion/94/zotero-as-zettelkasten
 
-    - [[sys/TiddlyWiki]]-based variants, like [[sys/Stroll]]
+    - [[sysTiddlyWiki]]
 
-    - [[sys/Obsidian]]
+    - [[ART - Obsidian]]
 
-        - ~1000 active users on [[sys/Discourse]] [forum](https://forum.obsidian.md/about) as of 16:42 [[June 23rd, 2020]]
+        - ~1000 active users on [[sysDiscourse]]
 
-        - ~3000 active users on [[sys/Discord]] server as of 17:06 [[June 23rd, 2020]]
+        - ~3000 active users on [[sysDiscord]]
 
-    - [[sys/Zettlr]] (now has [[sys/Zotero]] integration)
+    - [[sysZettlr]]
 
-        - Side note: interesting #example-of workflow for synthesis by founder of [[sys/Zettlr]]
+        - Side note: interesting #example-of workflow for synthesis by founder of [[sysZettlr]]
 
-    - [[sys/org-roam]], which was a major mod on top of [[sys/org-mode]]
+    - [[sysorg-roam]]
 
-    - [[sys/TinderBox]] ~1000 "users" on [[sys/Discourse]] [forum](http://forum.eastgate.com/about), as of 17:05 [[June 23rd, 2020]]
+    - [[ART - TinderBox]]
 
 ###### Discourse Context
 

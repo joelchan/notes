@@ -2,7 +2,7 @@
 title: @lovittsMakingImplicitExplicit2007
 url: https://roamresearch.com/#/app/megacoglab/page/UsgZoMC8k
 author: Joel Chan
-date: Mon Feb 17 2020 09:34:11 GMT-0500 (Eastern Standard Time)
+date: Mon Feb 17 2020 22:34:11 GMT+0800 (Malaysia Time)
 ---
 
 - Title:: Making the Implicit Explicit: Creating Performance Expectations for the Dissertation
@@ -13,7 +13,7 @@ date: Mon Feb 17 2020 09:34:11 GMT-0500 (Eastern Standard Time)
 - URL : https://www.amazon.com/Making-Implicit-Explicit-Expectations-Dissertation/dp/1579221815
 - Date Added:: [[July 31st, 2021]]
 - Zotero links:: [Local library](zotero://select/groups/2451508/items/BGB32NCK), [Local library](https://www.zotero.org/groups/2451508/items/BGB32NCK)
-- #[[references]]
+- [[references]]
 
     - Title: Making the Implicit Explicit: Creating Performance Expectations for the Dissertation
 
@@ -40,7 +40,7 @@ date: Mon Feb 17 2020 09:34:11 GMT-0500 (Eastern Standard Time)
 
     - Meta
 
-        - Tags: #ref/Book #[[D/Synthesis Infrastructure]] #[[P/Teach INST 888]]
+        - Tags: #ref/Book [[DSynthesis Infrastructure]]
 
         - Authored by:: [[Barbara E. Lovitts]]
 
@@ -50,21 +50,21 @@ date: Mon Feb 17 2020 09:34:11 GMT-0500 (Eastern Standard Time)
 
     - #lit-context
 
-        - One of only two exemplary empirically grounded studies of doctoral students' success/challenges at [[synthesis]], operating at the artifact level (there are others that examine in interviews/surveys); the other is [[@holbrookInvestigatingPhDThesis2004]]
+        - One of only two exemplary empirically grounded studies of doctoral students' success/challenges at [[synthesis]]
 
-        - #participants were [[N=]] 276 "PhD-productive" (advising on average 10s of dissertations, and participating in more) faculty across [[N=]] 74 departments in [[N=]] 10 disciplines spanning the sciences, social sciences, and humanities, across [[N=]] 9 different universities
+        - #participants were [[N=]]
 
-        - #method was #m/Qualitative analysis of ~90-minute #[[m/Semi-structured interviews]] with #[[m/Focus Group]]s
+        - #method was #m/Qualitative analysis of ~90-minute [[mSemi-structured interviews]]
 
         - Their #method: analyzing  comments for a large number of actual dissertations across a wide range of disciplines that span the humanities, social sciences, and traditional STEM, including biology, physics, ECE, math, economics, psych, sociology, english, history, and philosophy
 
             - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fmegacoglab%2FRu2_E_qw_N?alt=media&token=53a8fa79-3acc-4eb0-bb92-845a1b86d0e6)
 
-    - #[[📝 lit-notes]]
+    - [[📝 lit-notes]]
 
-        - [[[[EVD]] - Doctoral examiners reported that many acceptable or even "very good" dissertations across a range of disciplines fell well short of implicit and explicit criteria for effective synthesis in their literature reviews - [[@lovittsMakingImplicitExplicit2007]]]]
+        - [[EVD - Doctoral examiners reported that many acceptable or even very good dissertations across a ran...iteria for effective synthesis in their literature reviews - @lovittsMakingImplicitExplicit2007]]
 
-            - Ineffective [[synthesis]] is not a reason to fail a dissertation! Qualities associated with literature reviews in "acceptable" (or even "very good")  dissertations fall well short of implicit and explicit criteria for effective synthesis (e.g., [[@strikeTypesSynthesisTheir1983]], [[@booteScholarsResearchersCentrality2005]]
+            - Ineffective [[synthesis]]
 
 ###### Discourse Context
 

@@ -2,7 +2,7 @@
 title: [[EVD]] - no overall effect of analogical distance of cases on novelty or usefulness of campaign ad ideas - [[@althuizenSupportingCreativeProblem2014]]
 url: https://roamresearch.com/#/app/megacoglab/page/mtKPi-Abu
 author: Joel Chan
-date: Tue Nov 23 2021 20:58:23 GMT-0500 (Eastern Standard Time)
+date: Wed Nov 24 2021 09:58:23 GMT+0800 (Malaysia Time)
 ---
 
 - # Summary
@@ -22,11 +22,11 @@ date: Tue Nov 23 2021 20:58:23 GMT-0500 (Eastern Standard Time)
 
     - task: write proposal for a Dutch brewery to boost brand loyalty and enhance brand image
 
-    - measure: creative ability with [[measure/Abbreviated [[Torrance Test]] for Adults]]
+    - measure: creative ability with [[measureAbbreviated Torrance Test for Adults]]
 
         - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fmegacoglab%2FSMRMu2lao3.png?alt=media&token=231254da-8973-4b09-b5b1-5074039d2c43) (p. 317)
 
-    - measure: **novelty** (originality, surprise, and uniques from [[measure/Creative Product Semantic Scale]]) and **usefulness** (effectiveness, fit, attractiveness, and usefulness, adapted from [[measure/Creative Product Semantic Scale]]), rated independently by three experts, [[Cronbach's Alpha]] > 0.86
+    - measure: **novelty** (originality, surprise, and uniques from [[measureCreative Product Semantic Scale]]
 
         - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fmegacoglab%2FTsJ4ndrPmD.png?alt=media&token=d9872efd-95f2-42ce-a8aa-f23132745945) (p. 317-318)
 

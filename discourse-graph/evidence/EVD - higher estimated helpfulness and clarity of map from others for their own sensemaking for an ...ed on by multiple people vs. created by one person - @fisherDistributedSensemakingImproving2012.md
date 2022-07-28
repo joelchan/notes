@@ -2,12 +2,12 @@
 title: [[EVD]] - higher estimated helpfulness and clarity of map from others for their own sensemaking for an everyday sensemaking task when the map was iterated on by multiple people vs. created by one person - [[@fisherDistributedSensemakingImproving2012]]
 url: https://roamresearch.com/#/app/megacoglab/page/kvQUSZy5J
 author: Joel Chan
-date: Wed Jul 13 2022 11:48:07 GMT-0400 (Eastern Daylight Time)
+date: Wed Jul 13 2022 23:48:07 GMT+0800 (Malaysia Time)
 ---
 
 - # Summary
 
-    - [[[[EVD]] - higher estimated helpfulness and clarity of map from others for their own sensemaking for an everyday sensemaking task when the map was iterated on by multiple people vs. created by one person - [[@fisherDistributedSensemakingImproving2012]]]]
+    - [[EVD - higher estimated helpfulness and clarity of map from others for their own sensemaking for an ...ed on by multiple people vs. created by one person - @fisherDistributedSensemakingImproving2012]]
 
         - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fmegacoglab%2FOYn0tdvpFh.png?alt=media&token=c9499895-3b0b-4004-8ca4-820e43ca23c5) (p. 253)
 

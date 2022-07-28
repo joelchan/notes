@@ -2,12 +2,12 @@
 title: [[QUE]] - What does it take for a nonprofit service organization to deeply involve clients in the design of service programs?
 url: https://roamresearch.com/#/app/megacoglab/page/F54vkEJOg
 author: Joel Chan
-date: Tue Nov 30 2021 13:44:42 GMT-0500 (Eastern Standard Time)
+date: Wed Dec 01 2021 02:44:42 GMT+0800 (Malaysia Time)
 ---
 
 - # Synthesis
 
-    - Related to [[[[QUE]] - What tension points exist between the goals of diversity and depth of user participation in participatory design?]]
+    - Related to [[QUE - What tension points exist between the goals of diversity and depth of user participation in participatory design]]
 - ---
 - # Sources
 
@@ -15,7 +15,7 @@ date: Tue Nov 30 2021 13:44:42 GMT-0500 (Eastern Standard Time)
 - ---
 - # Meta
 
-    - Tags: q for [[D/Democratizing Design]]
+    - Tags: q for [[DDemocratizing Design]]
 
     - Led by [[Sarah DiPasquale]]
 

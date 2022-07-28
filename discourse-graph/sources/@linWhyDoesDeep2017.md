@@ -2,16 +2,16 @@
 title: @linWhyDoesDeep2017
 url: https://roamresearch.com/#/app/megacoglab/page/RyneYsQKq
 author: Joel Chan
-date: Sat Nov 28 2020 16:12:18 GMT-0500 (Eastern Standard Time)
+date: Sun Nov 29 2020 05:12:18 GMT+0800 (Malaysia Time)
 ---
 
-- #[[references]]
+- [[references]]
 
     - Title: Why does deep and cheap learning work so well?
 
     - Meta:
 
-        - Authored by:: [[Henry W. Lin]] [[Max Tegmark]] [[David Rolnick]]
+        - Authored by:: [[Henry W. Lin]]
 
         - Year: [[2017]]
 
@@ -29,11 +29,11 @@ date: Sat Nov 28 2020 16:12:18 GMT-0500 (Eastern Standard Time)
 
     - #lit-context
 
-        - source was twitter post by [[Sebastian Gehrmann]]: might have more commentary there
+        - source was twitter post by [[Sebastian Gehrmann]]
 
             - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fmegacoglab%2FEVlc8ANpz7?alt=media&token=4a2bdaea-74e3-4843-b578-55c3ca588172)
 
-    - #[[📝 lit-notes]]
+    - [[📝 lit-notes]]
 
         - basically argues that success of deep/cheap learning hinges on the shared physics properties of processes it is good at modeling (i.e., symmetry, locality, polynomial log-probability in data)
 

@@ -2,7 +2,7 @@
 title: @dourishWhatWeTalk2004
 url: https://roamresearch.com/#/app/megacoglab/page/4SafY60Wi
 author: Joel Chan
-date: Wed May 20 2020 11:20:00 GMT-0400 (Eastern Daylight Time)
+date: Wed May 20 2020 23:20:00 GMT+0800 (Malaysia Time)
 ---
 
 - #references
@@ -29,11 +29,11 @@ date: Wed May 20 2020 11:20:00 GMT-0400 (Eastern Daylight Time)
 
     - #lit-context
 
-        - Classic #canonical paper about [[context]] within [[Ubiquitous Computing]]
+        - Classic #canonical paper about [[context]]
 
             - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fmegacoglab%2FjB4WPv_NGL.png?alt=media&token=cdbc182d-1e96-403b-91a3-133a24e209aa)
 
-    - #[[📝 lit-notes]]
+    - [[📝 lit-notes]]
 
         - #> "It is not simply the case that something is or is not context; rather, it may or may not be contextually relevant to some particular activity." #context (p.22)
 

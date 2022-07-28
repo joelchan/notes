@@ -2,16 +2,16 @@
 title: @kangCollaboratorsAnnotationsHelp2012
 url: https://roamresearch.com/#/app/megacoglab/page/076zywxfW
 author: Joel Chan
-date: Sun Feb 07 2021 14:16:11 GMT-0500 (Eastern Standard Time)
+date: Mon Feb 08 2021 03:16:11 GMT+0800 (Malaysia Time)
 ---
 
-- #[[references]]
+- [[references]]
 
     - Title: Do collaborators' annotations help or hurt asynchronous analysis
 
     - Meta:
 
-        - Authored by:: [[Ruogu Kang]] [[Sara Kiesler]]
+        - Authored by:: [[Ruogu Kang]]
 
         - Year: [[2012]]
 
@@ -29,9 +29,9 @@ date: Sun Feb 07 2021 14:16:11 GMT-0500 (Eastern Standard Time)
 
     - #lit-context
 
-        - it's a [[ref/Poster]], so work-in-progress, a bit like a [[preprint]]
+        - it's a [[refPoster]]
 
-    - #[[📝 lit-notes]]
+    - [[📝 lit-notes]]
 
         - if see good annotations (where good = annotations that point ou connections across many documents) led to better perofrmance, but seeing (and being aware of) lower-quality annotations from others hurt perforamnc
 

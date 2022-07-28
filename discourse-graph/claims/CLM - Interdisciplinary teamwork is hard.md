@@ -2,18 +2,18 @@
 title: [[CLM]] - Interdisciplinary teamwork is hard
 url: https://roamresearch.com/#/app/megacoglab/page/K6CYwqryp
 author: Joel Chan
-date: Thu Aug 20 2020 17:26:58 GMT-0400 (Eastern Daylight Time)
+date: Fri Aug 21 2020 05:26:58 GMT+0800 (Malaysia Time)
 ---
 
-- #[[🌲 zettels]] #[[Z]]
+- [[🌲 zettels]]
 
-    - Tags: #[[D/Synthesis Infrastructure]]
+    - Tags: [[DSynthesis Infrastructure]]
 
     - Description
 
-        - [[@kaneMultidisciplinaryTeamMeetings2007]] Basically says that these [interdisciplinary]([[interdisciplinarity]]) teams [need to meet A LOT](((f38DmnLbp))); possibly too much to sustain [*](((fNh1Ct0UU)))
+        - [[@kaneMultidisciplinaryTeamMeetings2007]]
 
-        - reminds me of how [[synthesis centers]] struggle to keep afloat [[@baronSynthesisCentersCritical2017]], and the [[leeway]] needed to sustain [[interdisciplinarity]] ([[@palmerWorkBoundariesScience2001]]) [*](reminds me of how [[synthesis centers]] struggle to keep afloat [[@baronSynthesisCentersCritical2017]], and the [[leeway]] needed to sustain [[interdisciplinarity]] ([[@palmerWorkBoundariesScience2001]]))
+        - reminds me of how [[synthesis centers]]
 
 ###### Discourse Context
 

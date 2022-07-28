@@ -2,7 +2,7 @@
 title: [[EVD]] - Experienced facilitator participants created inspirations for crowd brainstormers with strategies like crafting simulation prompts or inquiries, in contrast to novice facilitators, who relied more heavily on simply passing on examples without further processing - [[@chanImprovingCrowdInnovation2016]]
 url: https://roamresearch.com/#/app/megacoglab/page/JszLLa3Q4
 author: Joel Chan
-date: Sun Jul 10 2022 23:27:27 GMT-0400 (Eastern Daylight Time)
+date: Mon Jul 11 2022 11:27:27 GMT+0800 (Malaysia Time)
 ---
 
 - # Summary

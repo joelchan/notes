@@ -2,7 +2,7 @@
 title: @qianOpeningBlackBox2020
 url: https://roamresearch.com/#/app/megacoglab/page/kcvU2YR96
 author: Joel Chan
-date: Fri Jun 12 2020 09:35:06 GMT-0400 (Eastern Daylight Time)
+date: Fri Jun 12 2020 21:35:06 GMT+0800 (Malaysia Time)
 ---
 
 - #references
@@ -11,13 +11,13 @@ date: Fri Jun 12 2020 09:35:06 GMT-0400 (Eastern Daylight Time)
 
     - Meta:
 
-        - Authored by:: [[Xin Qian]] [[Katrina Fenlon]] [[Wayne Lutters]] [[Joel Chan]]
+        - Authored by:: [[Xin Qian]]
 
         - Year: [[2020]]
 
         - Zotero link:: [Zotero Link](zotero://select/items/1_3JCBYY4X)
 
-        - Tags: #[[D/Synthesis Infrastructure]]
+        - Tags: [[DSynthesis Infrastructure]]
 
     - camera-ready
 
@@ -35,13 +35,13 @@ date: Fri Jun 12 2020 09:35:06 GMT-0400 (Eastern Daylight Time)
 
             - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fmegacoglab%2FTyrIIDkvzA.png?alt=media&token=7b755a9e-2446-4b70-91de-831774d83b7f)
 
-    - #[[📝 lit-notes]]
+    - [[📝 lit-notes]]
 
-        - #[[observation-notes]]
+        - [[observation-notes]]
 
             - Did semi-structured contextual interviews with beginning interdisciplinary scholars.
 
-                - Scholars varied substantially in the [[ecology of tools]] used for [[synthesis]]: no single tool was used to encompass every (sub)task, and few tools were common across all scholars.
+                - Scholars varied substantially in the [[ecology of tools]]
 
                     - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fmegacoglab%2FpfGp_fY99U.png?alt=media&token=db2472d9-6884-467c-8ae0-5db27fcb6643)
 

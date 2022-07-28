@@ -2,18 +2,18 @@
 title: @chanWhereRubberMeets2020
 url: https://roamresearch.com/#/app/megacoglab/page/zQnaE3Z7x
 author: Joel Chan
-date: Mon Aug 03 2020 21:50:26 GMT-0400 (Eastern Daylight Time)
+date: Tue Aug 04 2020 09:50:26 GMT+0800 (Malaysia Time)
 ---
 
-- #[[references]]
+- [[references]]
 
     - Title: Where the rubber meets the road: Identifying integration points for semantic publishing in existing scholarly practice
 
     - Meta:
 
-        - Tags: #ref/Paper #[[D/Synthesis Infrastructure]] #MyPaper
+        - Tags: #ref/Paper [[DSynthesis Infrastructure]]
 
-        - Authored by:: [[Joel Chan]] [[Xin Qian]] [[Katrina Fenlon]] [[Wayne G. Lutters]]
+        - Authored by:: [[Joel Chan]]
 
         - Year: [[2020]]
 
@@ -31,9 +31,9 @@ date: Mon Aug 03 2020 21:50:26 GMT-0400 (Eastern Daylight Time)
 
     - #lit-context
 
-        - way more background data in [[WP: JCDL Where the semantic publishing rubber meets the scholarly practice road]]
+        - way more background data in [[WP JCDL Where the semantic publishing rubber meets the scholarly practice road]]
 
-    - #[[📝 lit-notes]]
+    - [[📝 lit-notes]]
 
 ###### Discourse Context
 

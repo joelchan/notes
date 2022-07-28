@@ -2,16 +2,16 @@
 title: @eckertFortuneFavoursOnly1998
 url: https://roamresearch.com/#/app/megacoglab/page/o8LOvpxd6
 author: Joel Chan
-date: Mon Nov 16 2020 17:39:25 GMT-0500 (Eastern Standard Time)
+date: Tue Nov 17 2020 06:39:25 GMT+0800 (Malaysia Time)
 ---
 
-- #[[references]]
+- [[references]]
 
     - Title: Fortune Favours Only the Prepared Mind: Why Sources of Inspiration are Essential for Continuing Creativity
 
     - Meta:
 
-        - Authored by:: [[C. Eckert]] [[M. Stacey]]
+        - Authored by:: [[C. Eckert]]
 
         - Year: [[1998]]
 
@@ -27,7 +27,7 @@ date: Mon Nov 16 2020 17:39:25 GMT-0500 (Eastern Standard Time)
 
             - Intellectual health like physical health depends on a balance between feeding and exercise. But the demands of work often make a healthy balance very hard to maintain. In a detailed study of the knitwear industry and in comparisons with other design fields, we have observed that designers use external sources of ideas for a variety of different purposes throughout the design process. We have also observed that designers creative potential is often limited by the failure of managers to understand design, and especially their designers need to search for sources of new ideas. Managing design processes to maximise creative output requires both an understanding of the role of sources of ideas in the creative process, and proactive management to support and encourage the renewal of intellectual resources. In this paper we suggest some practical steps for supporting continuing creativity.
 
-    - #[[📝 lit-notes]]
+    - [[📝 lit-notes]]
 
         - Nice detailed model of where sources of inspiration come from and how they are used in the knitwear design process
 

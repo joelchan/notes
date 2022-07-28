@@ -2,7 +2,7 @@
 title: [[QUE]] - Can hypertext notetaking systems enhance cognitive flexibility?
 url: https://roamresearch.com/#/app/megacoglab/page/9KF912-Ly
 author: Joel Chan
-date: Wed Feb 16 2022 20:12:10 GMT-0500 (Eastern Standard Time)
+date: Thu Feb 17 2022 09:12:10 GMT+0800 (Malaysia Time)
 ---
 
 - # Synthesis
@@ -17,39 +17,39 @@ date: Wed Feb 16 2022 20:12:10 GMT-0500 (Eastern Standard Time)
 
         - CFT - need flexible, interconnected representations of *cases* to enable on-the-fly (re)construction of frames
 
-        - [[@spiroCognitiveFlexibilityTheory1988]] - OG [[[[THE]] - Cognitive Flexibility Theory (CFT)]] paper
+        - [[@spiroCognitiveFlexibilityTheory1988]]
 
     - hypertext learning systems (students don't take notes, they are exposed to concepts and cases using hypertext wiht various configurations)
 
-        - [[@barhoumiEffectivenessInstructionOrientedHypertext2013]] - positive results in online learning
+        - [[@barhoumiEffectivenessInstructionOrientedHypertext2013]]
 
             - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fmegacoglab%2FgYC4j0Jr0a.png?alt=media&token=bf0a4fcb-8cd7-4ad7-8088-6b5e979ef511)
 
             - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fmegacoglab%2Fv-f53RIgEa.png?alt=media&token=683c6c14-ac34-4b1d-85a0-1da4cdb99ae1)
 
-        - [[@wetterImprovingEffectivenessNondisclosure2017]] - elaborated NDA cases --> better recognitiono f (subtle?) trade secret violations
+        - [[@wetterImprovingEffectivenessNondisclosure2017]]
 
             - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fmegacoglab%2FPcN8XLjhW6.png?alt=media&token=382fa50e-598d-46e4-92d4-97c627b99dbe)
 
             - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fmegacoglab%2FZxS2S2B0vp.png?alt=media&token=6ccaacdf-c846-4710-a673-79c6c8f14278)
 
-        - [[@betzDevelopmentConceptualFlexibility2020]] more ecological realtions (not just static taxonomic) with more unstructured exploration
+        - [[@betzDevelopmentConceptualFlexibility2020]]
 
             - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fmegacoglab%2FMUllN1BCfq.png?alt=media&token=a0f4e244-7ede-4031-9e44-3e8f5e99990f)
 
             - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fmegacoglab%2F8TjiT50s2I.png?alt=media&token=01f8b30b-acb3-4d31-b75f-99ff8381acb9)
 
-        - [[@chenInteractingHypertextMetaAnalysis1996]] super highly cited [[m/meta-analysis]], including [response from Shapiro](https://scite.ai/reports/promoting-active-learning-the-role-bbprD1?page=1) - basically says "idk, too noisy, but lots of extenunating factors, including student characteristics, task complexity, and basically we don't have a good handle on how to compare studies" - also, more effective but less efficient for hypertext vs. trad. (cc [[@kirshMultitaskingCostStructure2005]]) [*]([[@chenInteractingHypertextMetaAnalysis1996]] super highly cited [[m/meta-analysis]], including [response from Shapiro](https://scite.ai/reports/promoting-active-learning-the-role-bbprD1?page=1) - basically says "idk, too noisy, but lots of extenunating factors, including student characteristics, task complexity, and basically we don't have a good handle on how to compare studies" - also, more effective but less efficient for hypertext vs. trad. (cc [[@kirshMultitaskingCostStructure2005]]))
+        - [[@chenInteractingHypertextMetaAnalysis1996]]
 
-        - [[@mishraUsingHypermediaLearning2006]] - qual study - -> chemistry
+        - [[@mishraUsingHypermediaLearning2006]]
 
-            - #[[references]]
+            - [[references]]
 
                 - Title: Using Hypermedia for Learning Complex Concepts in Chemistry: A Qualitative Study on the Relationship Between Prior Knowledge, Beliefs, and Motivation
 
                 - Meta:
 
-                    - Authored by:: [[Punya Mishra]] [[Aman Yadav]]
+                    - Authored by:: [[Punya Mishra]]
 
                     - Year: [[2006]]
 
@@ -65,15 +65,15 @@ date: Wed Feb 16 2022 20:12:10 GMT-0500 (Eastern Standard Time)
 
                         - This paper reports the results of a qualitative study on the process of learning complex concepts in chemistry by four students as they worked with FLiPS (Flexible Learning in the Periodic System), a cognitive ﬂexibility multi-media hypertext for learning about the periodic system of elements. A wide range of probes (think-alouds; navigation logs; observational notes, interviews; pre- and post-tests; epistemic beliefs survey; and background questionnaire) produced a rich data set for analysis. This data was analyzed to construct rich narrative case- and cross-case narratives of the participants’ process of working and learning in this complex hypertext environment. This multi-level analysis offers insight both into the ﬁne-grained process of use as well as the larger issues of the pedagogical signiﬁcance of FLiPS. Our analysis reveals a complex relationship between epistemic beliefs, student motivation, prior knowledge, and process of learning from hypertext. We offer implications for future research, design and the application of pedagogical hypertexts.
 
-        - [[@jacobsonDesignHypermediaTools2000]] - 1 year followup!!!!!
+        - [[@jacobsonDesignHypermediaTools2000]]
 
-            - #[[references]]
+            - [[references]]
 
                 - Title: The Design of Hypermedia Tools for Learning: Fostering Conceptual Change and Transfer of Complex Scientific Knowledge
 
                 - Meta:
 
-                    - Authored by:: [[Michael J. Jacobson]] [[Anthi Archodidou]]
+                    - Authored by:: [[Michael J. Jacobson]]
 
                     - Year: [[2000]]
 
@@ -91,13 +91,13 @@ date: Wed Feb 16 2022 20:12:10 GMT-0500 (Eastern Standard Time)
 
         - [[@spiroModesOpennessFlexibility2007]]
 
-            - #[[references]]
+            - [[references]]
 
                 - Title: Modes of Openness and Flexibility in Cognitive Flexibility Hypertext Learning Environments:
 
                 - Meta:
 
-                    - Authored by:: [[Badrul H. Khan]] [[Rand J. Spiro]] [[Brian P. Collins]] [[Aparna R. Ramchandran]]
+                    - Authored by:: [[Badrul H. Khan]]
 
                     - Year: [[2007]]
 
@@ -115,13 +115,13 @@ date: Wed Feb 16 2022 20:12:10 GMT-0500 (Eastern Standard Time)
 
         - [[@coulsonCognitiveFlexibilityMedicine]]
 
-            - #[[references]]
+            - [[references]]
 
                 - Title: Cognitive Flexibility in Medicine: An Application to the Recognition and Understanding of Hypertension
 
                 - Meta:
 
-                    - Authored by:: [[Richard L Coulson]] [[Paul J Feltovich]] [[Rand J Spiro]]
+                    - Authored by:: [[Richard L Coulson]]
 
                     - Year: [[undefined]]
 
@@ -139,7 +139,7 @@ date: Wed Feb 16 2022 20:12:10 GMT-0500 (Eastern Standard Time)
 
         - [[@jonassenInstructionalDesignModels1997]]
 
-            - #[[references]]
+            - [[references]]
 
                 - Title: Instructional design models for well-structured and III-structured problem-solving learning outcomes
 
@@ -161,15 +161,15 @@ date: Wed Feb 16 2022 20:12:10 GMT-0500 (Eastern Standard Time)
 
                         - Although problem solving is regarded by most educators as among the most important learning outcomes, few instructional design prescriptions are available for designing problem-solving instruction and engaging learners. This paper distinguishes between well-structured problems and ill-structured problems. Well-structured problems are constrained problems with convergent solutions that engage the application of a limited number of rules and principles within well-defined parameters. Ill-structured problems possess multiple solutions, solution paths, fewer parameters which are less manipulable, and contain uncertainty about which concepts, rules, and principles are necessary for the solution or how they are organized and which solution is best. For both types of problems, this paper presents models for how learners solve them and models for designing instruction to support problem-solving skill development. The model for solving well-structured problems is based on information processing theories of learning, while the model for solving ill-structured problems relies on an emerging theory of ill-structured problem solving and on constructivist and situated cognition approaches to learning.
 
-        - [[@jacobsonHypertextLearningEnvironments1995]] thematic criss-crossing > vanilla hypertext for "holistic quality" of problem -solving essays after a few sessions; reverse was true for factual knowledge (vanilla better)
+        - [[@jacobsonHypertextLearningEnvironments1995]]
 
-            - #[[references]]
+            - [[references]]
 
                 - Title: Hypertext Learning Environments, Cognitive Flexibility, and the Transfer of Complex Knowledge: An Empirical Investigation
 
                 - Meta:
 
-                    - Authored by:: [[Michael J. Jacobson]] [[Rand J. Spiro]]
+                    - Authored by:: [[Michael J. Jacobson]]
 
                     - Year: [[1995]]
 
@@ -189,13 +189,13 @@ date: Wed Feb 16 2022 20:12:10 GMT-0500 (Eastern Standard Time)
 
         - [[@steffeCognitiveFlexibilityConstructivism2012]]
 
-            - #[[references]]
+            - [[references]]
 
                 - Title: Cognitive Flexibility, Constructivism, and Hypertext: Random Access Instruction for Advanced Knowledge Acquisition in Ill-Structured Domains
 
                 - Meta:
 
-                    - Authored by:: [[Leslie P. Steffe]] [[Jerry Gale]]
+                    - Authored by:: [[Leslie P. Steffe]]
 
                     - Year: [[2012]]
 
@@ -215,9 +215,9 @@ date: Wed Feb 16 2022 20:12:10 GMT-0500 (Eastern Standard Time)
 
     - Tags:
 
-    - With [[Cedric Chin]]: https://docs.google.com/document/d/1Q6LQlNmG0hEL44Oz0EJsYN9hWp0I0xIy0IqdQifi2ng/edit#
+    - With [[Cedric Chin]]
 
-    - Informs [[[[THE]] - interaction-oriented theory of creative inspiration from examples]]
+    - Informs [[THE - interaction-oriented theory of creative inspiration from examples]]
 
 ###### Discourse Context
 

@@ -2,7 +2,7 @@
 title: [[EVD]] - Working with an advocate within the prison system allowed researchers to navigate bureaucratic hierarchy with relative ease - @tengParticipatoryDesignVirtual2019b
 url: https://roamresearch.com/#/app/megacoglab/page/a3y33bC01
 author: AJ Rudd
-date: Mon May 24 2021 10:06:08 GMT-0400 (Eastern Daylight Time)
+date: Mon May 24 2021 22:06:08 GMT+0800 (Malaysia Time)
 ---
 
 - noteType:: [[EVD]]
@@ -27,7 +27,7 @@ date: Mon May 24 2021 10:06:08 GMT-0400 (Eastern Daylight Time)
 
     - ## **Discourse Context**
 
-        - Informs:: [[[[QUE]] - What tension points exist between the goals of diversity and depth of user participation in participatory design?]]
+        - Informs:: [[QUE - What tension points exist between the goals of diversity and depth of user participation in participatory design]]
 
     - ## Metadata::
 

@@ -2,26 +2,26 @@
 title: [[QUE]] - What are some major phenomena around designers' exploration of design spaces and how might these map to characteristics of optimizers?
 url: https://roamresearch.com/#/app/megacoglab/page/U8F4kbPuu
 author: Joel Chan
-date: Wed Aug 19 2020 10:34:39 GMT-0400 (Eastern Daylight Time)
+date: Wed Aug 19 2020 22:34:39 GMT+0800 (Malaysia Time)
 ---
 
-- #[[🌲 zettels]] #[[Question]]
+- [[🌲 zettels]]
 
-    - Tags: #[[D/Solution-Diversity]] #[[Fundamental Theories of Creativity]]
+    - Tags: [[DSolution-Diversity]]
 
     - Description
 
-        - Goal: We would like to choose one or more optimizers for [[D/Solution-Diversity]] that have psychological plausibility.
+        - Goal: We would like to choose one or more optimizers for [[DSolution-Diversity]]
 
-        - Working synthesis of principles (lots of #[[Z]] here)
+        - Working synthesis of principles (lots of [[Z]]
 
             - **Limited memory**
 
-                - cf. [[[[THE]] - Search in Associative Memory (SIAM)]]
+                - cf. [[THE - Search in Associative Memory (SIAM)]]
 
                 - Optimization algorithms that require significant "working memory" are psychologically implausible, since people have Limited [[working memory]]
 
-                - Similarly, psychologically plausible optimization algorithms should have limited lookahead or function approximation (cf. [[tmodel/BVSR]]), except if designer is expert in problem area, or problem is routine)
+                - Similarly, psychologically plausible optimization algorithms should have limited lookahead or function approximation (cf. [[tmodelBVSR]]
 
             - **Problem dependency**
 
@@ -31,11 +31,11 @@ date: Wed Aug 19 2020 10:34:39 GMT-0400 (Eastern Daylight Time)
 
                 - Lots of studies showing that experts and novices have different processes
 
-                - Might be a different way of saying problem dependency: for experts, many problems are routine; when they tackle nonroutine problems, they might start to look like novices (this is a point that [[Herbert Simon]] makes about "strong" and "weak" strategies)
+                - Might be a different way of saying problem dependency: for experts, many problems are routine; when they tackle nonroutine problems, they might start to look like novices (this is a point that [[Herbert Simon]]
 
             - **Satisficing over optimizing**
 
-                - This comes again in part from **Limited memory**, and also from general models and phenomena around [[decision-making]]: the basic idea is that people tend not to optimize in the sense of considering as many options as possible and exhaustively and precisely evaluating them to find the best option
+                - This comes again in part from **Limited memory**, and also from general models and phenomena around [[decision-making]]
 
                     - A possible implication of this for modeling is that we should only study up to a short number of runs, not necessarily to convergence
 
@@ -43,11 +43,11 @@ date: Wed Aug 19 2020 10:34:39 GMT-0400 (Eastern Daylight Time)
 
                 - Relatedly, there is a general tendency to explore deeper down (the specification hierarchy) of a solution angle, rather than exploring many different solution angles in parallel, in part due to **Limited memory**
 
-                    - There is some evidence (again cf. **Expertise dependency**) that a depth-frist orientation might be more characteristic of novices (see, e.g., [[@ballProblemsolvingStrategiesExpertise1997]], [[@ballCognitiveProcessesEngineering1994]])
+                    - There is some evidence (again cf. **Expertise dependency**) that a depth-frist orientation might be more characteristic of novices (see, e.g., [[@ballProblemsolvingStrategiesExpertise1997]]
 
             - **Nonrandomness in sampling**
 
-                - It should be possible to "bias" the algorithm (cf. [[🧱 fixation]] - nonrandom starting positions in design space; influenced by various things in the past)
+                - It should be possible to "bias" the algorithm (cf. [[🧱 fixation]]
 
                     - So "memoryless" functions are a bad fit
 
@@ -55,7 +55,7 @@ date: Wed Aug 19 2020 10:34:39 GMT-0400 (Eastern Daylight Time)
 
                 - And often use some kind of [[design heuristics]]
 
-                - Search is also often in __lower dimensional space__ (e.g., [[Chunking]]), in part due to **Limited memory**
+                - Search is also often in __lower dimensional space__ (e.g., [[Chunking]]
 
                     - A variant of this is that designers may compose and iterate and recombine ideas, rather than sample points in a design space
 
@@ -63,11 +63,11 @@ date: Wed Aug 19 2020 10:34:39 GMT-0400 (Eastern Daylight Time)
 
                 - Skilled designers rarely take the design space as "given"; instead, they actively reformulate the problem in conjunction with making design moves.
 
-                    - More in [[[[CLM]] - Design proceeds by co-evolution of problem and solution space]]
+                    - More in [[CLM - Design proceeds by co-evolution of problem and solution space]]
 
             - **Has the capacity for "high temperature" search**
 
-                - cf. [[tmodel/BVSR]], and explore/exploit models
+                - cf. [[tmodelBVSR]]
 
             - [[serial order effect]]
 
@@ -75,7 +75,7 @@ date: Wed Aug 19 2020 10:34:39 GMT-0400 (Eastern Daylight Time)
 
                     - although there are later models that dispute this based on protocol studies. important to think carefully about the difference, since there seems to be a systematic difference by methodology
 
-                        - reminiscent of the arguments about [[nominal groups]] (see, e.g., [[@suttonBrainstormingGroupsContext1996]])
+                        - reminiscent of the arguments about [[nominal groups]]
 
                 - indicating a role for [[executive function]]
 
@@ -85,57 +85,57 @@ date: Wed Aug 19 2020 10:34:39 GMT-0400 (Eastern Daylight Time)
 
             - Explore vs. exploit
 
-                - Related to [[🧱 fixation]] - nonrandom starting positions in design space; influenced by various things in the past
+                - Related to [[🧱 fixation]]
 
             - Top-down vs. bottom-up
 
-                - Designers frequently deviate from a normative top-down, structured design approach [[@ballProblemsolvingStrategiesExpertise1997]][[@daviesCharacterizingProgramDesign1991]]
+                - Designers frequently deviate from a normative top-down, structured design approach [[@ballProblemsolvingStrategiesExpertise1997]]
 
-            - [[🧱 fixation]] - nonrandom starting positions in design space; influenced by various things in the past
+            - [[🧱 fixation]]
 
-                - [[structured imagination]] [[[[EVD]] - Undergrads' drawings of imaginary animals frequently included typical features from earth animals, with occasional deviations - [[@wardStructuredImaginationRole1994]]]]
+                - [[structured imagination]]
 
-            - [[[[CLM]] - Design proceeds by co-evolution of problem and solution space]]
+            - [[CLM - Design proceeds by co-evolution of problem and solution space]]
 
-            - [[[[CLM]] - Expert designers are solution-oriented]]
+            - [[CLM - Expert designers are solution-oriented]]
 
             - Iterative / accretive nature of ideation
 
                 - designers may compose and iterate and recombine ideas, rather than sample points in a design space
 
-                - cf. also [[[[CLM]] - Compression is necessary for synthesis]]
+                - cf. also [[CLM - Compression is necessary for synthesis]]
 
                 - [[@sosaAccretionTheoryIdeation2019]]
 
-                    - a similar idea is that of [[preinventive structures]] from the [[creative cognition approach]] of [[@finkeCreativeCognitionTheory1996]]
+                    - a similar idea is that of [[preinventive structures]]
 
             - use of generative strategies (vs. just search)
 
-                - e.g., use of [[design heuristics]] (not to be confused with the [[Daniel Kahneman]] kind of heuristics) - more like meta-patterns or schemas (similar to [[sys/TRIZ]] or [[sys/SCAMPER]]) [[@yilmazCreativityDesignHeuristics2011]]
+                - e.g., use of [[design heuristics]]
 
                 - these seem like "meta-patterns" through the design space
 
         - Models
 
-            - [[m/Computational Model]] / cognitive
+            - [[mComputational Model]]
 
-                - [[[[THE]] - Search in Associative Memory (SIAM)]] [[@nijstadHowGroupAffects2006]] for brainstorming / generic ideation
+                - [[THE - Search in Associative Memory (SIAM)]]
 
-                - [[tmodel/BVSR]] [[@campbellBlindVariationSelective1960]], later popularized and revisited by [[Dean Simonton]] (e.g., [[@simontonCreativityDiscoveryBlind2011a]])
+                - [[tmodelBVSR]]
 
-                    - fun empirical demonstration in [[@simontonCreativeProcessPicasso2007]]: sequence of Picasso's sketches of Guernica was nonmonotonic in terms of progression towards final painting
+                    - fun empirical demonstration in [[@simontonCreativeProcessPicasso2007]]
 
                         - seems contra to basic "hill climbing", but probably interaction with problem characteristics
 
-                        - we see similar meandering back-and-forth dynamics in analysis of [[Darwin's notebooks]] [[@gruberDarwinManPsychological1974]]
+                        - we see similar meandering back-and-forth dynamics in analysis of [[Darwin's notebooks]]
 
-                - Good review of models based on [[m/Think-aloud protocols]] and [[m/Case study]] work in the early days of design research by [[@fingerReviewResearchMechanical1989]] / see also [[@maherCoevolutionComputationalCognitive2003]]
+                - Good review of models based on [[mThink-aloud protocols]]
 
-                - Another good review of process models across design and creativity (including [[John Gero]]'s [[tmodel/FBS]]] [[@howardDescribingCreativeDesign2008]])
+                - Another good review of process models across design and creativity (including [[John Gero]]
 
             - Other
 
-                - [[@schonReflectivePractitionerHow1983]]: reflective conversation with design problem / material: iterative, see-move-see --> frequent updating?
+                - [[@schonReflectivePractitionerHow1983]]
 
         - Constraints / interactions
 
@@ -145,7 +145,7 @@ date: Wed Aug 19 2020 10:34:39 GMT-0400 (Eastern Daylight Time)
 
                 - expertise
 
-                - [[latent inhibition]] [[@carsonDecreasedLatentInhibition2003]]
+                - [[latent inhibition]]
 
             - Arousal / [[attentional focus]]
 
@@ -165,7 +165,7 @@ date: Wed Aug 19 2020 10:34:39 GMT-0400 (Eastern Daylight Time)
 
                 - Well-defined vs ill-defined (how structured is the problem?)
 
-                    - [[@reedStructureIllStructuredWellStructured2015]] information-processing principles apply to all problems but apply differently as problems become more ill structured
+                    - [[@reedStructureIllStructuredWellStructured2015]]
 
                         - builds on proposal by [[@simonStructureIllStructured1973]]
 
@@ -175,7 +175,7 @@ date: Wed Aug 19 2020 10:34:39 GMT-0400 (Eastern Daylight Time)
 
         - Generations / streams of research
 
-            - Design [[m/Think-aloud protocols]] (around 1990's and before)
+            - Design [[mThink-aloud protocols]]
 
             - Case studies
 

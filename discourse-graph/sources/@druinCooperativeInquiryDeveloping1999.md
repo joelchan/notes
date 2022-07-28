@@ -2,10 +2,10 @@
 title: @druinCooperativeInquiryDeveloping1999
 url: https://roamresearch.com/#/app/megacoglab/page/gGSj42WOX
 author: Joel Chan
-date: Tue Jul 06 2021 11:58:40 GMT-0400 (Eastern Daylight Time)
+date: Tue Jul 06 2021 23:58:40 GMT+0800 (Malaysia Time)
 ---
 
-- #[[references]]
+- [[references]]
 
     - Title: Cooperative inquiry: Developing new technologies for children with children
 

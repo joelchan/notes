@@ -2,12 +2,12 @@
 title: [[CLM]] - Analogical retrieval in humans is dominated by surface similarity
 url: https://roamresearch.com/#/app/megacoglab/page/SUmcJA3xe
 author: Joel Chan
-date: Fri Oct 02 2020 10:37:35 GMT-0400 (Eastern Daylight Time)
+date: Fri Oct 02 2020 22:37:35 GMT+0800 (Malaysia Time)
 ---
 
-- #[[🌲 zettels]]
+- [[🌲 zettels]]
 
-    - Tags: #[[D/Computational Analogy]] #[[analogy]]
+    - Tags: [[DComputational Analogy]]
 
     - near analogies with superficial similarity more easily accessed in memory
 
@@ -17,7 +17,7 @@ date: Fri Oct 02 2020 10:37:35 GMT-0400 (Eastern Daylight Time)
 
         - [[@holyoakSurfaceStructuralSimilarity1987]]
 
-        - [[@forbusMACFACModel1994]] (models empirical results of this)
+        - [[@forbusMACFACModel1994]]
 
         - maybe also [[@olguinEffectSurfaceSimilarities2022]]
 

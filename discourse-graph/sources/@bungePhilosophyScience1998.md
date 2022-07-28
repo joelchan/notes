@@ -2,7 +2,7 @@
 title: @bungePhilosophyScience1998
 url: https://roamresearch.com/#/app/megacoglab/page/rGOXAH3jQ
 author: Joel Chan
-date: Sat Feb 15 2020 23:22:15 GMT-0500 (Eastern Standard Time)
+date: Sun Feb 16 2020 12:22:15 GMT+0800 (Malaysia Time)
 ---
 
 - Title:: Philosophy of Science

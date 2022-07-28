@@ -2,7 +2,7 @@
 title: @mccrickardMakingClaimsKnowledge2012
 url: https://roamresearch.com/#/app/megacoglab/page/5v05MK3rY
 author: Joel Chan
-date: Sun Jan 19 2020 21:57:29 GMT-0500 (Eastern Standard Time)
+date: Mon Jan 20 2020 10:57:29 GMT+0800 (Malaysia Time)
 ---
 
 - #references
@@ -11,7 +11,7 @@ date: Sun Jan 19 2020 21:57:29 GMT-0500 (Eastern Standard Time)
 
     - Meta
 
-        - Tags:: #[[references]] #[[D/Synthesis Infrastructure]]
+        - Tags:: [[references]]
 
         - Authored by::  [[D. Scott McCrickard]]
 
@@ -21,11 +21,11 @@ date: Sun Jan 19 2020 21:57:29 GMT-0500 (Eastern Standard Time)
 
     - #lit-context
 
-        - Has had limited impact in terms of citations (N=15) as of [[February 27th, 2020]]. A real shame! :(
+        - Has had limited impact in terms of citations (N=15) as of [[February 27th, 2020]]
 
-    - #[[📝 lit-notes]]
+    - [[📝 lit-notes]]
 
-        - Key influences from before are Rittel's [[design issues]], Alexander's [[patterns]], and especially Carroll's [[standard/Claims]] (p. 3-4)
+        - Key influences from before are Rittel's [[design issues]]
 
         - Examples
 
@@ -37,5 +37,6 @@ date: Sun Jan 19 2020 21:57:29 GMT-0500 (Eastern Standard Time)
 
 - **Informs::** [[CLM - Compression is necessary for synthesis]]
 - **Informs::** [[CLM - Scholarly argumentation operates on atomic statements and concepts as fundamental units]]
+- **Informs::** [[CLM - Representing ideas in atomic units facilitates conceptual combination]]
 - **Informs::** [[CLM - Compressing complex ideas into more manageable chunks facilitates more complex thought]]
 - **Informs::** [[QUE - What (existing) systems facilitate individual synthesis]]

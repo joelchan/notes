@@ -2,16 +2,16 @@
 title: @bates1996learning
 url: https://roamresearch.com/#/app/megacoglab/page/vMcejesHi
 author: Joel Chan
-date: Fri Apr 17 2020 23:48:24 GMT-0400 (Eastern Daylight Time)
+date: Sat Apr 18 2020 11:48:24 GMT+0800 (Malaysia Time)
 ---
 
-- #[[references]]
+- [[references]]
 
     - Title: Learning about the information seeking of interdisciplinary scholars and students
 
     - Meta:
 
-        - Tags:: #[[references]] #[[D/Synthesis Infrastructure]] #interdisciplinarity
+        - Tags:: [[references]]
 
         - Authored by:: [[Marcia J Bates]]
 
@@ -31,7 +31,7 @@ date: Fri Apr 17 2020 23:48:24 GMT-0400 (Eastern Daylight Time)
 
     - #lit-context
 
-    - #[[📝 lit-notes]]
+    - [[📝 lit-notes]]
 
         - Reading notes: studies the information seeking behavior of Interdisciplinary field  scholars. This problem has not been investigated before.
 
@@ -43,7 +43,7 @@ date: Fri Apr 17 2020 23:48:24 GMT-0400 (Eastern Daylight Time)
 
                 - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fmegacoglab%2FhvNc2O4LzR.png?alt=media&token=56022b49-fa0f-44ed-85f7-32ab54852fe2) (p.156-157)
 
-            - Referenced [[SDI]] detailed in [[@housmanStateArtSelective1970]] (cited by [[@packerImportanceSDICurrent1979]]) that recommends paper to interdisciplinary scholars. Analyzed [[@packerImportanceSDICurrent1979]]
+            - Referenced [[SDI]]
 
 ###### Discourse Context
 

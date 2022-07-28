@@ -2,7 +2,7 @@
 title: [[EVD]] - conflict among children in the design process led to "mixed" or collaborative designs to meet both children's wants [[@frauenbergerNurturingConstructiveDisagreement2019b]]
 url: https://roamresearch.com/#/app/megacoglab/page/rW3n0H8ST
 author: Sarah DiPasquale
-date: Mon Jun 28 2021 20:46:37 GMT-0400 (Eastern Daylight Time)
+date: Tue Jun 29 2021 08:46:37 GMT+0800 (Malaysia Time)
 ---
 
 - noteType:: [[EVD]]
@@ -17,11 +17,11 @@ date: Mon Jun 28 2021 20:46:37 GMT-0400 (Eastern Daylight Time)
 
         - Conducted PD with two groups of neurodiverse children from two different schools over the course of a school year (10 students; 2 teachers) approximately once every two weeks to design technologies that supported social play through the process of creating agonistic spaces (or Thinging technology) and turning conflict into design features. They created the two technologies called Music Pads and Light Spaces. (p. 4)
 
-        - Source:: [[@frauenbergerNurturingConstructiveDisagreement2019b]]]
+        - Source:: [[@frauenbergerNurturingConstructiveDisagreement2019b]]
 
     - ## **Discourse Context**
 
-        - [[[[QUE]] - What tension points exist between the goals of diversity and depth of user participation in participatory design?]]
+        - [[QUE - What tension points exist between the goals of diversity and depth of user participation in participatory design]]
 
     - ## Metadata::
 

@@ -2,16 +2,16 @@
 title: @enkelCreativeImitationExploring2010
 url: https://roamresearch.com/#/app/megacoglab/page/5He_mb6Ki
 author: Joel Chan
-date: Fri Oct 30 2020 11:49:55 GMT-0400 (Eastern Daylight Time)
+date: Fri Oct 30 2020 23:49:55 GMT+0800 (Malaysia Time)
 ---
 
-- #[[references]]
+- [[references]]
 
     - Title: Creative imitation: exploring the case of cross-industry innovation
 
     - Meta:
 
-        - Authored by:: [[E. Enkel]] [[O. Gassmann]]
+        - Authored by:: [[E. Enkel]]
 
         - Year: [[2010]]
 
@@ -49,7 +49,7 @@ date: Fri Oct 30 2020 11:49:55 GMT-0400 (Eastern Daylight Time)
 
             - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fmegacoglab%2FCnOnnndHob.png?alt=media&token=b73d8e8a-014e-40a7-94a4-8341d2acf536) (p. 8)
 
-        - Degree of innovation in outcome based on [[@chandyOrganizingRadicalProduct1998a]] taxonomy of innovations: 1) incremental innovations, 2) market breakthroughs / technological breakthroughs, and 3) radical innovations
+        - Degree of innovation in outcome based on [[@chandyOrganizingRadicalProduct1998a]]
 
             - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fmegacoglab%2FQ7bbPQiqdJ.png?alt=media&token=0f3f48e1-ce4b-4680-a5da-9a5d1fa81acc) (p. 8)
 
@@ -57,11 +57,11 @@ date: Fri Oct 30 2020 11:49:55 GMT-0400 (Eastern Daylight Time)
 
             - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fmegacoglab%2FvEXqoGI8oc.png?alt=media&token=f744fae4-d773-44c0-ac07-9a3499101f7e) (p. 11)
 
-    - #[[📝 lit-notes]]
+    - [[📝 lit-notes]]
 
-        - #[[observation-notes]]
+        - [[observation-notes]]
 
-            - [[[[EVD]] - No significant correlation between analogical distance of cross-industry inspirations and degree of innovation outcome (incremental, market or breakthrough, and radical) - [[@enkelCreativeImitationExploring2010]]]]
+            - [[EVD - No significant correlation between analogical distance of cross-industry inspirations and deg...tcome (incremental, market or breakthrough, and radical) - @enkelCreativeImitationExploring2010]]
 
 ###### Discourse Context
 

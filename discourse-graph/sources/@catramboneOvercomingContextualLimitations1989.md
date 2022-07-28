@@ -2,16 +2,16 @@
 title: @catramboneOvercomingContextualLimitations1989
 url: https://roamresearch.com/#/app/megacoglab/page/udRysoy5b
 author: Joel Chan
-date: Fri Mar 26 2021 12:11:09 GMT-0400 (Eastern Daylight Time)
+date: Sat Mar 27 2021 00:11:09 GMT+0800 (Malaysia Time)
 ---
 
-- #[[references]]
+- [[references]]
 
     - Title: Overcoming contextual limitations on problem-solving transfer.
 
     - Meta:
 
-        - Authored by:: [[R. Catrambone]] [[K. J. Holyoak]]
+        - Authored by:: [[R. Catrambone]]
 
         - Year: [[1989]]
 

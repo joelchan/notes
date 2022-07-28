@@ -2,7 +2,7 @@
 title: @alonHowChooseGood2009
 url: https://roamresearch.com/#/app/megacoglab/page/oAeuHcNvt
 author: Joel Chan
-date: Thu Feb 06 2020 09:31:08 GMT-0500 (Eastern Standard Time)
+date: Thu Feb 06 2020 22:31:08 GMT+0800 (Malaysia Time)
 ---
 
 - #references

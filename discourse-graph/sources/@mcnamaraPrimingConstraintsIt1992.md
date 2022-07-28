@@ -2,7 +2,7 @@
 title: @mcnamaraPrimingConstraintsIt1992
 url: https://roamresearch.com/#/app/megacoglab/page/EU3s2sUmm
 author: Joel Chan
-date: Fri Jan 14 2022 11:05:06 GMT-0500 (Eastern Standard Time)
+date: Sat Jan 15 2022 00:05:06 GMT+0800 (Malaysia Time)
 ---
 
 - Title:: Priming and Constraints It Places on Theories of Memory and Retrieval
@@ -12,7 +12,7 @@ date: Fri Jan 14 2022 11:05:06 GMT-0500 (Eastern Standard Time)
 - Publication:: Psychological Review
 - Date Added:: [[July 31st, 2021]]
 - Zotero links:: [Local library](zotero://select/groups/2451508/items/LWGALCPD), [Local library](https://www.zotero.org/groups/2451508/items/LWGALCPD)
-- Tags:: #[[Computational modeling]], #[[Conceptual models]], #[[Memory]], #[[Processed]], #[[Review]]
+- Tags:: [[Computational modeling]]
 - [[Notes]]
 
     - (0)

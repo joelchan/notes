@@ -2,7 +2,7 @@
 title: @harawaySituatedKnowledgesScience1988
 url: https://roamresearch.com/#/app/megacoglab/page/sxPmfQcVq
 author: Joel Chan
-date: Sun Jul 12 2020 22:12:54 GMT-0400 (Eastern Daylight Time)
+date: Mon Jul 13 2020 10:12:54 GMT+0800 (Malaysia Time)
 ---
 
 - #references
@@ -11,7 +11,7 @@ date: Sun Jul 12 2020 22:12:54 GMT-0400 (Eastern Daylight Time)
 
     - Meta:
 
-        - Tags: #ref/Paper #[[standpoint theory]]
+        - Tags: #ref/Paper [[standpoint theory]]
 
         - Authored by::  [[Donna Haraway]]
 

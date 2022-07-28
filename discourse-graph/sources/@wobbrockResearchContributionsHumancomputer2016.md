@@ -2,16 +2,16 @@
 title: @wobbrockResearchContributionsHumancomputer2016
 url: https://roamresearch.com/#/app/megacoglab/page/7YnpGeY_k
 author: Joel Chan
-date: Fri Jul 31 2020 10:56:19 GMT-0400 (Eastern Daylight Time)
+date: Fri Jul 31 2020 22:56:19 GMT+0800 (Malaysia Time)
 ---
 
-- #[[references]]
+- [[references]]
 
     - Title: Research contributions in human-computer interaction
 
     - Meta:
 
-        - Authored by:: [[Jacob O. Wobbrock]] [[Julie A. Kientz]]
+        - Authored by:: [[Jacob O. Wobbrock]]
 
         - Year: [[2016]]
 

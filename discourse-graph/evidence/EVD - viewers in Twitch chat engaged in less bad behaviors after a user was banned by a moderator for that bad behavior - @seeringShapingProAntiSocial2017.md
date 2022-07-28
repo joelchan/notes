@@ -2,7 +2,7 @@
 title: [[EVD]] - viewers in Twitch chat engaged in less bad behaviors after a user was banned by a moderator for that bad behavior - [[@seeringShapingProAntiSocial2017]]
 url: https://roamresearch.com/#/app/megacoglab/page/UIVkpC3D_
 author: Joel Chan
-date: Sun Oct 24 2021 16:28:59 GMT-0400 (Eastern Daylight Time)
+date: Mon Oct 25 2021 04:28:59 GMT+0800 (Malaysia Time)
 ---
 
 - # Summary

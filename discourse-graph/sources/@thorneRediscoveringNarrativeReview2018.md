@@ -2,7 +2,7 @@
 title: @thorneRediscoveringNarrativeReview2018
 url: https://roamresearch.com/#/app/megacoglab/page/jrhDJv6nz
 author: Joel Chan
-date: Fri May 08 2020 00:53:18 GMT-0400 (Eastern Daylight Time)
+date: Fri May 08 2020 12:53:18 GMT+0800 (Malaysia Time)
 ---
 
 - Metadata::

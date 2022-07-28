@@ -2,10 +2,10 @@
 title: @adelsonWhenNovicesSurpass1984
 url: https://roamresearch.com/#/app/megacoglab/page/HCbpgCiAg
 author: Joel Chan
-date: Wed Feb 17 2021 13:39:43 GMT-0500 (Eastern Standard Time)
+date: Thu Feb 18 2021 02:39:43 GMT+0800 (Malaysia Time)
 ---
 
-- #[[references]]
+- [[references]]
 
     - Title: When novices surpass experts: The difficulty of a task may increase with expertise.
 

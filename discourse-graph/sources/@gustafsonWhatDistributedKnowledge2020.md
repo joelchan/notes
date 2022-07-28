@@ -2,10 +2,10 @@
 title: @gustafsonWhatDistributedKnowledge2020
 url: https://roamresearch.com/#/app/megacoglab/page/O7iGjKVaH
 author: Joel Chan
-date: Thu Oct 15 2020 13:41:48 GMT-0400 (Eastern Daylight Time)
+date: Fri Oct 16 2020 01:41:48 GMT+0800 (Malaysia Time)
 ---
 
-- #[[references]]
+- [[references]]
 
     - Title: What is a Distributed Knowledge Graph?
 

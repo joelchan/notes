@@ -2,17 +2,17 @@
 title: @meccaImitationCreativityBeneficial2013
 url: https://roamresearch.com/#/app/megacoglab/page/8330RaHnz
 author: Joel Chan
-date: Sat Jan 15 2022 15:47:38 GMT-0500 (Eastern Standard Time)
+date: Sun Jan 16 2022 04:47:38 GMT+0800 (Malaysia Time)
 ---
 
 - Title:: Imitation and Creativity: Beneficial Effects of Propulsion Strategies and Specificity
-- Author(s):: [[Jensen T. Mecca]], [[Michael D. Mumford]]
+- Author(s):: [[Jensen T. Mecca]]
 - Abstract:: Prior studies examining imitation of exemplar solutions have produced a mixed pattern of findings with some studies indicating that exemplar imitation contributes to creative problem-solving and other studies indicating that it may inhibit creative problem-solving. In the present effort, it is argued that the effects of exemplar imita-tion on creative problem-solving depend on the strategies people use when working with exemplars. In the present study, people were asked to provide advertising campaigns in response to a marketing problem. Prior to starting work on this problem, manipulations were made in exemplar content. Imitation strategies used in problem-solving, for example, forward incrementation, and redefinition, were assessed. It was found that imitation strategies were strongly related to the produc-tion of higher quality, more original, and more elegant advertising campaigns. Moreover, use of these strategies was facilitated when more specific information was presented in exemplar solutions. The implications of these findings for understand-ing the role of imitation in creative problem-solving are discussed.
 - Type:: [[Article]]
 - Publication:: The Journal of Creative Behavior
 - Date Added:: [[June 23rd, 2021]]
 - Zotero links:: [Local library](zotero://select/groups/2451508/items/AZHYMLN8), [Local library](https://www.zotero.org/groups/2451508/items/AZHYMLN8)
-- Tags:: #[[Creativity]], #[[IdeationHeuristics]], #[[IdeationWorkflows]], #[[Inspiration]], #[[Stimuli distance effects]]
+- Tags:: [[Creativity]]
 - PDF links : [Mecca_Mumford_2013_Imitation and Creativity.pdf](zotero://open-pdf/groups/2451508/items/4663C3EC)
 - [[Notes]]
 

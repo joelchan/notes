@@ -2,7 +2,7 @@
 title: @howardDescribingCreativeDesign2008
 url: https://roamresearch.com/#/app/megacoglab/page/Ty3fFh-yf
 author: Joel Chan
-date: Wed Aug 19 2020 23:47:36 GMT-0400 (Eastern Daylight Time)
+date: Thu Aug 20 2020 11:47:36 GMT+0800 (Malaysia Time)
 ---
 
 - #references

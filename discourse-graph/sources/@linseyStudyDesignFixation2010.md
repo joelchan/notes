@@ -2,16 +2,16 @@
 title: @linseyStudyDesignFixation2010
 url: https://roamresearch.com/#/app/megacoglab/page/eaP1kqWol
 author: Joel Chan
-date: Sat Dec 26 2020 21:52:26 GMT-0500 (Eastern Standard Time)
+date: Sun Dec 27 2020 10:52:26 GMT+0800 (Malaysia Time)
 ---
 
-- #[[references]]
+- [[references]]
 
     - Title: A Study of Design Fixation, Its Mitigation and Perception in Engineering Design Faculty
 
     - Meta:
 
-        - Authored by:: [[Julie S. Linsey]] [[Ian Tseng]] [[Katherine Fu]] [[Jonathan Cagan]] [[Kristin L. Wood]] [[Christian D. Schunn]]
+        - Authored by:: [[Julie S. Linsey]]
 
         - Year: [[2010]]
 

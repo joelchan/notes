@@ -2,18 +2,18 @@
 title: @bryce*EncouragingConceptualChange2005
 url: https://roamresearch.com/#/app/megacoglab/page/XALooUUk1
 author: AJ Rudd
-date: Tue Nov 23 2021 10:19:41 GMT-0500 (Eastern Standard Time)
+date: Tue Nov 23 2021 23:19:41 GMT+0800 (Malaysia Time)
 ---
 
 - Title:: Encouraging conceptual change: the use of bridging analogies in the teaching of action–reaction forces and the ‘at rest’ condition in physics
-- Author(s):: [[Tom Bryce *]], [[Kenneth MacMillan]]
+- Author(s):: [[Tom Bryce ]]
 - Type:: [[Article]]
 - Publication:: International Journal of Science Education
 - URL : http://www.tandfonline.com/doi/abs/10.1080/09500690500038132
 - Date Added:: [[November 23rd, 2021]]
 - Zotero links:: [Local library](zotero://select/groups/2451508/items/ISK8MDFX), [Local library](https://www.zotero.org/groups/2451508/items/ISK8MDFX)
 - PDF links : [Bryce  and MacMillan - 2005 - Encouraging conceptual change the use of bridging.pdf](zotero://open-pdf/groups/2451508/items/XDP73WP3)
-- #FinishedReading for [[[[QUE]] - What factors control whether people appropriately benefit from analogies (especially far-field ones) during creative problem solving?]]
+- #FinishedReading for [[QUE - What factors control whether people appropriately benefit from analogies (especially far-field ones) during creative problem solving]]
 
     - Method
 
@@ -53,9 +53,9 @@ date: Tue Nov 23 2021 10:19:41 GMT-0500 (Eastern Standard Time)
 
     - Results
 
-        - [[[[EVD]] - Students were able to alter their conceptions after being provided with bridging analogies - [[@bryce*EncouragingConceptualChange2005]]]] #Informs
+        - [[EVD - Students were able to alter their conceptions after being provided with bridging analogies - @bryceEncouragingConceptualChange2005]]
 
-        - [[[[EVD]] - Students were mixed in their subjective opinion of whether or not the bridging analogies aided in their misconceptions. - [[@bryce*EncouragingConceptualChange2005]]]] #Informs
+        - [[EVD - Students were mixed in their subjective opinion of whether or not the bridging analogies aided in their misconceptions. - @bryceEncouragingConceptualChange2005]]
 
 ###### Discourse Context
 

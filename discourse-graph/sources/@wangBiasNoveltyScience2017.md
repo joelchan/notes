@@ -2,16 +2,16 @@
 title: @wangBiasNoveltyScience2017
 url: https://roamresearch.com/#/app/megacoglab/page/d43-XaKGV
 author: Joel Chan
-date: Fri Jul 16 2021 10:09:22 GMT-0400 (Eastern Daylight Time)
+date: Fri Jul 16 2021 22:09:22 GMT+0800 (Malaysia Time)
 ---
 
-- #[[references]]
+- [[references]]
 
     - Title: Bias against novelty in science: A cautionary tale for users of bibliometric indicators
 
     - Meta:
 
-        - Authored by:: [[Jian Wang]] [[Reinhilde Veugelers]] [[Paula Stephan]]
+        - Authored by:: [[Jian Wang]]
 
         - Year: [[2017]]
 

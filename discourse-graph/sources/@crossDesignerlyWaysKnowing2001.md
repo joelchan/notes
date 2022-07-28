@@ -2,10 +2,10 @@
 title: @crossDesignerlyWaysKnowing2001
 url: https://roamresearch.com/#/app/megacoglab/page/0fXVJI5M5
 author: Joel Chan
-date: Wed Nov 04 2020 16:30:31 GMT-0500 (Eastern Standard Time)
+date: Thu Nov 05 2020 05:30:31 GMT+0800 (Malaysia Time)
 ---
 
-- #[[references]]
+- [[references]]
 
     - Title: Designerly Ways of Knowing: Design Discipline Versus Design Science
 

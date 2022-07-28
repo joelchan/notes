@@ -2,16 +2,16 @@
 title: @yipBrowniesBagsofstuffDomain2013
 url: https://roamresearch.com/#/app/megacoglab/page/iaEMOqGaj
 author: Joel Chan
-date: Tue Jul 13 2021 10:42:59 GMT-0400 (Eastern Daylight Time)
+date: Tue Jul 13 2021 22:42:59 GMT+0800 (Malaysia Time)
 ---
 
-- #[[references]]
+- [[references]]
 
     - Title: Brownies or bags-of-stuff?: domain expertise in cooperative inquiry with children
 
     - Meta:
 
-        - Authored by:: [[Jason Yip]] [[Tamara Clegg]] [[Elizabeth Bonsignore]] [[Helene Gelderblom]] [[Emily Rhodes]] [[Allison Druin]]
+        - Authored by:: [[Jason Yip]]
 
         - Year: [[2013]]
 

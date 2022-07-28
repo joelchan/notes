@@ -2,12 +2,12 @@
 title: [[CLM]] - Scientists prefer to pursue safer incremental advances rather than risky breakthroughs
 url: https://roamresearch.com/#/app/megacoglab/page/zkLPGOXaC
 author: Joel Chan
-date: Mon Mar 23 2020 21:23:34 GMT-0400 (Eastern Daylight Time)
+date: Tue Mar 24 2020 09:23:34 GMT+0800 (Malaysia Time)
 ---
 
-- #[[🌲 zettels]] #[[Z]]
+- [[🌲 zettels]]
 
-    - Tags: #[[V: Open and Sustainable Innovation Systems]] #short-termism
+    - Tags: [[V Open and Sustainable Innovation Systems]]
 
     - Description
 
@@ -29,7 +29,7 @@ date: Mon Mar 23 2020 21:23:34 GMT-0400 (Eastern Daylight Time)
 
         - [[@fortnowViewpointTimeComputer2009]]
 
-            - Discusses (mostly from personal experience) the issues with a conference-driven publication culture, including deadline-driven, [[least-publishable unit]] stuff, possibly [[short-termism]] too
+            - Discusses (mostly from personal experience) the issues with a conference-driven publication culture, including deadline-driven, [[least-publishable unit]]
 
 ###### Discourse Context
 

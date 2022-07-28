@@ -2,7 +2,7 @@
 title: @edwardsIntroductionAgendaInfrastructure2009
 url: https://roamresearch.com/#/app/megacoglab/page/92pBPN1cP
 author: Joel Chan
-date: Tue Apr 28 2020 12:51:57 GMT-0400 (Eastern Daylight Time)
+date: Wed Apr 29 2020 00:51:57 GMT+0800 (Malaysia Time)
 ---
 
 - #references
@@ -11,9 +11,9 @@ date: Tue Apr 28 2020 12:51:57 GMT-0400 (Eastern Daylight Time)
 
     - Meta
 
-        - Tags:: #[[references]] #[[D/Synthesis Infrastructure]]
+        - Tags:: [[references]]
 
-        - Authored by::  [[Paul Edwards]] ,  [[Geoffrey C Bowker]] ,  [[Steven Jackson]] ,  Robin Williams
+        - Authored by::  [[Paul Edwards]]
 
         - Year: [[2009]]
 
@@ -25,9 +25,9 @@ date: Tue Apr 28 2020 12:51:57 GMT-0400 (Eastern Daylight Time)
 
         - Intro paper for special issue on [[infrastructure]]
 
-    - #[[📝 lit-notes]]
+    - [[📝 lit-notes]]
 
-        - Relevant prior thread of terms/areas around [[infrastructure]] is [[digital libraries]] and [[Collaboratories]]
+        - Relevant prior thread of terms/areas around [[infrastructure]]
 
             - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fmegacoglab%2F6Eb6NSQ4-l?alt=media&token=08259536-5163-4381-b650-c558420f6058)
 

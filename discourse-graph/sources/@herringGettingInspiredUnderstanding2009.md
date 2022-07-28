@@ -2,16 +2,16 @@
 title: @herringGettingInspiredUnderstanding2009
 url: https://roamresearch.com/#/app/megacoglab/page/Sn61Lgthw
 author: Joel Chan
-date: Sat Dec 26 2020 22:03:45 GMT-0500 (Eastern Standard Time)
+date: Sun Dec 27 2020 11:03:45 GMT+0800 (Malaysia Time)
 ---
 
-- #[[references]]
+- [[references]]
 
     - Title: Getting inspired!: understanding how and why examples are used in creative design practice
 
     - Meta:
 
-        - Authored by:: [[Scarlett R. Herring]] [[Chia-Chen Chang]] [[Jesse Krantzler]] [[Brian P. Bailey]]
+        - Authored by:: [[Scarlett R. Herring]]
 
         - Year: [[2009]]
 

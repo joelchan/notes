@@ -2,16 +2,16 @@
 title: @yuDistributedAnalogicalIdea2014
 url: https://roamresearch.com/#/app/megacoglab/page/w8hhHXyqY
 author: Joel Chan
-date: Mon Jan 11 2021 21:38:32 GMT-0500 (Eastern Standard Time)
+date: Tue Jan 12 2021 10:38:32 GMT+0800 (Malaysia Time)
 ---
 
-- #[[references]]
+- [[references]]
 
     - Title: Distributed Analogical Idea Generation: Inventing with Crowds
 
     - Meta:
 
-        - Authored by:: [[Lixiu Yu]] [[Aniket Kittur]] [[Robert E. Kraut]]
+        - Authored by:: [[Lixiu Yu]]
 
         - Year: [[2014]]
 

@@ -2,7 +2,7 @@
 title: @wengerCommunitiesPracticeLearning1998
 url: https://roamresearch.com/#/app/megacoglab/page/WWA8SEm-n
 author: Joel Chan
-date: Thu Mar 05 2020 23:43:15 GMT-0500 (Eastern Standard Time)
+date: Fri Mar 06 2020 12:43:15 GMT+0800 (Malaysia Time)
 ---
 
 - #references
@@ -29,19 +29,19 @@ date: Thu Mar 05 2020 23:43:15 GMT-0500 (Eastern Standard Time)
 
             - #canonical refs are:
 
-                - #[[@laveSituatedLearningLegitimate1991]]
+                - [[@laveSituatedLearningLegitimate1991]]
 
-                - Then #[[@wengerCommunitiesPracticeLearning1999]]
+                - Then [[@wengerCommunitiesPracticeLearning1999]]
 
-    - #[[📝 lit-notes]]
+    - [[📝 lit-notes]]
 
-        - [[communities of practice]] are able to capture and share [[tacit knowledge]] that are difficult or impossible to represent in formal repositories p.5
+        - [[communities of practice]]
 
             - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fmegacoglab%2Fdnh6mw8Qbm?alt=media&token=4a729b47-3d6e-4aa0-ba37-9b797483ace6)
 
-        - Could COVID be an impetus for [[communities of practice]] to develop?
+        - Could COVID be an impetus for [[communities of practice]]
 
-        - 3 conditions for [[communities of practice]]: 1) shared __practice__ (not specific task, but domain of doing), 2) mutual, ongoing engagement, 3) shared repertoire of learning / resources / practice (p. 2)
+        - 3 conditions for [[communities of practice]]
 
             - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fmegacoglab%2FtndZeGkyXF.png?alt=media&token=bf9e9f00-ac23-4df9-b3fd-af2f609cf52e)
 
@@ -49,25 +49,25 @@ date: Thu Mar 05 2020 23:43:15 GMT-0500 (Eastern Standard Time)
 
                 - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fmegacoglab%2Ffb6-0Vfh27.png?alt=media&token=45484e0a-ef74-43a6-8963-cf5f16fe94a3)
 
-        - [[communities of practice]] go through distinct stages of development (p. 3)
+        - [[communities of practice]]
 
             - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fmegacoglab%2FwcUe2mCU3X.png?alt=media&token=99cb9264-e544-4485-8a2a-7fcb6a443033)
 
-            - #[[I wonder]] where our small businesses are on this spectrum?
+            - [[I wonder]]
 
-        - [[communities of practice]]' development depends critically on effective __internal leadership__ (p. 7)
+        - [[communities of practice]]
 
             - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fmegacoglab%2FM1XgOaeo4S.png?alt=media&token=2807ee1d-ef22-4e6a-b10c-136319318ac1)
 
-            - #[[I wonder]] where [[librarians]] might fit in? seems like the [[classificatory leadership]] role might be key, as well as [[boundary leadership]] (concept of [[warm referrals]] from [[Ryan O Grady]]?)
+            - [[I wonder]]
 
                 - later in this paper, the authors discuss ways that organizations who are *external* to the communities of practice can help nurture it.
 
-                    - one way is by providing support (maybe [[infrastructure]])
+                    - one way is by providing support (maybe [[infrastructure]]
 
                         - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fmegacoglab%2FRPJsSfkQCr.png?alt=media&token=9d39d2cb-bd22-4e48-96c0-45bb184f97a9) (p. 8)
 
-                - #[[Q: How if at all do libraries and small businesses fit into the narrative of communities of practice?]]
+                - [[Q How if at all do libraries and small businesses fit into the narrative of communities of practice]]
 
 ###### Discourse Context
 

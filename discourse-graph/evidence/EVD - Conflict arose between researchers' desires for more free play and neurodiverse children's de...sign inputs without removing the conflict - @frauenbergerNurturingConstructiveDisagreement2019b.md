@@ -2,7 +2,7 @@
 title: [[EVD]] - Conflict arose between researchers' desires for more free play and neurodiverse children's desires for more specific and clear-cut competitive games. A platform that allowed for both at the same time helped generate valuable design inputs without removing the conflict - [[@frauenbergerNurturingConstructiveDisagreement2019b]]
 url: https://roamresearch.com/#/app/megacoglab/page/8ug1Eh_X2
 author: Sarah DiPasquale
-date: Mon Jun 28 2021 20:52:35 GMT-0400 (Eastern Daylight Time)
+date: Tue Jun 29 2021 08:52:35 GMT+0800 (Malaysia Time)
 ---
 
 - noteType:: [[EVD]]
@@ -21,7 +21,7 @@ date: Mon Jun 28 2021 20:52:35 GMT-0400 (Eastern Daylight Time)
 
     - ## **Discourse Context**
 
-        - [[[[QUE]] - What tension points exist between the goals of diversity and depth of user participation in participatory design?]]
+        - [[QUE - What tension points exist between the goals of diversity and depth of user participation in participatory design]]
 
     - ## Metadata::
 

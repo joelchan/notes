@@ -2,16 +2,16 @@
 title: @palmerWorkBoundariesScience2001
 url: https://roamresearch.com/#/app/megacoglab/page/9JrJVRnPh
 author: Joel Chan
-date: Sat Feb 15 2020 14:09:21 GMT-0500 (Eastern Standard Time)
+date: Sun Feb 16 2020 03:09:21 GMT+0800 (Malaysia Time)
 ---
 
-- #[[references]]
+- [[references]]
 
     - Title: Work at the Boundaries of Science: Information and the Interdisciplinary Research Process
 
     - Meta:
 
-        - Tags:: #ref/Book #[[D/Synthesis Infrastructure]]
+        - Tags:: #ref/Book [[DSynthesis Infrastructure]]
 
         - Authored by:: [[Carole L. Palmer]]
 
@@ -45,17 +45,17 @@ date: Sat Feb 15 2020 14:09:21 GMT-0500 (Eastern Standard Time)
 
     - #lit-context
 
-        - #canonical work in lab for [[D/Synthesis Infrastructure]] and especially understanding [[interdisciplinarity]]
+        - #canonical work in lab for [[DSynthesis Infrastructure]]
 
         - participants in the study: PhD-level resarch faculty at interdisciplinary center
 
             - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fmegacoglab%2Fr7vGLYrODQ.png?alt=media&token=8dc0c1a8-1a60-44db-9188-18fefd77778d) (p. 18-19)
 
-    - #[[📝 lit-notes]]
+    - [[📝 lit-notes]]
 
         - #inspectionalread
 
-            - [[Chapter 1]]: The Context of Interdisciplinary Science
+            - [[Chapter 1]]
 
                 - Gives an overview of the problem the book is meant to address (around information work), including a gold mine of refs to prior work
 
@@ -63,21 +63,21 @@ date: Sat Feb 15 2020 14:09:21 GMT-0500 (Eastern Standard Time)
 
                 - Also describes the key bits we'll put into #lit-context for the setting of the study (most of the chapter)
 
-            - [[Chapter 2]]: Information Accumulation
+            - [[Chapter 2]]
 
-                - Most relevant for [[D/Synthesis Infrastructure]] and [[D/Computational Analogy]] - talking about how scientists at the Center did "import" and "export" of information for their work
+                - Most relevant for [[DSynthesis Infrastructure]]
 
-            - [[Chapter 3]]: Conditions of Boundary Crossing Research
+            - [[Chapter 3]]
 
                 - This is more about working conditions, incentives, organizational structures, etc. that seem good/bad for fostering [[interdisciplinarity]]
 
-            - [[Chapter 4]]: Accommodating Interdisciplinary Research
+            - [[Chapter 4]]
 
-                - Discusses key concept of [[leeway]] as a major way to create the necessary conditions for [[interdisciplinarity]] to thrive
+                - Discusses key concept of [[leeway]]
 
                     - much more in-depth treatment of the study that was more concisely detailed in [[@palmerStructuresStrategiesInterdisciplinary1999]]
 
-            - [[Chapter 5]]: Conclusion
+            - [[Chapter 5]]
 
             - [[Appendix]]
 
@@ -85,7 +85,7 @@ date: Sat Feb 15 2020 14:09:21 GMT-0500 (Eastern Standard Time)
 
         - #analyticalread
 
-            - [[Chapter 2]]: Information Accumulation
+            - [[Chapter 2]]
 
                 - import *processes* (higher level than practices)
 
@@ -133,13 +133,13 @@ date: Sat Feb 15 2020 14:09:21 GMT-0500 (Eastern Standard Time)
 
                             - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fmegacoglab%2FJ4q6kfEbf1.png?alt=media&token=dbe6b188-f5f5-4240-87dd-477e3a5ff2d4) (p. 48)
 
-                - sources re: [[Informal]] sources
+                - sources re: [[Informal]]
 
                     - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fmegacoglab%2Fc1KGzD1wjf.png?alt=media&token=0aabef69-f3df-497d-9d6f-a38ac21f9441)
 
-                        - can't track down fulltext for the 1964 ref, but this is related: [[@garveyCommunicationEssenceScience1979]] (by same author)
+                        - can't track down fulltext for the 1964 ref, but this is related: [[@garveyCommunicationEssenceScience1979]]
 
-                        - can't track down fulltext for [[@skeltonScientistsSocialScientists1973]] - secondary claim here is that abstracting/indexing, personal recommendations, and chance were the most important ways to get information
+                        - can't track down fulltext for [[@skeltonScientistsSocialScientists1973]]
 
                             - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fmegacoglab%2F-lBHKJC1g1.png?alt=media&token=932c9291-a547-4060-898e-60fddc1e3496)
 

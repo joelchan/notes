@@ -2,7 +2,7 @@
 title: [[EVD]] - while co-designing with an autistic child, designers had to work with and trust a teacher to know when to engage in design activities with the child, even under some conditions where the child expressed initial refusal or resistance - [[@spielMicroethicsParticipatoryDesign2018]]
 url: https://roamresearch.com/#/app/megacoglab/page/IwDA6CfYj
 author: Joel Chan
-date: Tue Jul 12 2022 22:26:31 GMT-0400 (Eastern Daylight Time)
+date: Wed Jul 13 2022 10:26:31 GMT+0800 (Malaysia Time)
 ---
 
 - # Summary

@@ -2,7 +2,7 @@
 title: @lengPhantomReferencePropagation2020
 url: https://roamresearch.com/#/app/megacoglab/page/nljKUrca1
 author: Joel Chan
-date: Sun Oct 11 2020 21:34:45 GMT-0400 (Eastern Daylight Time)
+date: Mon Oct 12 2020 09:34:45 GMT+0800 (Malaysia Time)
 ---
 
 - Title:: The phantom reference and the propagation of error
@@ -13,7 +13,7 @@ date: Sun Oct 11 2020 21:34:45 GMT-0400 (Eastern Daylight Time)
 - URL : https://www.the-matter-of-facts.com/post/the-phantom-reference-and-the-propagation-of-error
 - Date Added:: [[October 11th, 2020]]
 - Zotero links:: [Local library](zotero://select/groups/2451508/items/6NTI56F3), [Local library](https://www.zotero.org/groups/2451508/items/6NTI56F3)
-- #[[references]]
+- [[references]]
 
     - Title: The phantom reference and the propagation of error
 

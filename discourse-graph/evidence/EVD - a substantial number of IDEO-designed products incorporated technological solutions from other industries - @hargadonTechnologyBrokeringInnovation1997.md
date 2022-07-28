@@ -2,7 +2,7 @@
 title: [[EVD]] - a substantial number of IDEO-designed products incorporated technological solutions from other industries - [[@hargadonTechnologyBrokeringInnovation1997]]
 url: https://roamresearch.com/#/app/megacoglab/page/rjVivNG51
 author: Joel Chan
-date: Tue May 03 2022 16:24:17 GMT-0400 (Eastern Daylight Time)
+date: Wed May 04 2022 04:24:17 GMT+0800 (Malaysia Time)
 ---
 
 - # Summary
@@ -30,7 +30,7 @@ date: Tue May 03 2022 16:24:17 GMT-0400 (Eastern Daylight Time)
         - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Froam-journal-club-pilot-1%2Fi0hrQX2-xd.png?alt=media&token=3558f147-3bae-4aa9-b3ba-e28b4d1c6e9b) (p. 725)
 - # Grounding Context
 
-    - method: ~2-year [[m/Ethnography]] in three phases from mid-1994 to end of 1996, including observations design team project work, [[m/Semi-structured interviews]], informal discussions, brainstorming and "Monday meetings", design team interviews, and review of artifacts such as written materials and videos
+    - method: ~2-year [[mEthnography]]
 
         - sources (table 2)
 
@@ -53,7 +53,7 @@ date: Tue May 03 2022 16:24:17 GMT-0400 (Eastern Daylight Time)
 
         - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fmegacoglab%2F2jUFmvMfYA.png?alt=media&token=e58fdaaa-f0c9-4409-aab8-d18731511546) (p. 718)
 
-    - analysis: weick theory building and [[@glaserDiscoveryGroundedTheory2010]] [[m/Grounded Theory]]
+    - analysis: weick theory building and [[@glaserDiscoveryGroundedTheory2010]]
 
         - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fmegacoglab%2F8hX7_85wtD.png?alt=media&token=f293932c-80f1-45ce-828f-47dca81d01bd) (p. 725)
 

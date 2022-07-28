@@ -2,7 +2,7 @@
 title: @wolfswinkelUsingGroundedTheory2013
 url: https://roamresearch.com/#/app/megacoglab/page/tF7y6z1gV
 author: Joel Chan
-date: Sun May 03 2020 22:31:54 GMT-0400 (Eastern Daylight Time)
+date: Mon May 04 2020 10:31:54 GMT+0800 (Malaysia Time)
 ---
 
 - #references
@@ -11,7 +11,7 @@ date: Sun May 03 2020 22:31:54 GMT-0400 (Eastern Daylight Time)
 
     - Meta
 
-        - Tags:: #references#ref/Paper #[[D/Synthesis Infrastructure]]
+        - Tags:: #references#ref/Paper [[DSynthesis Infrastructure]]
 
         - Authored by::  Joost F Wolfswinkel ,  Elfi Furtmueller ,  Celeste P M Wilderom
 

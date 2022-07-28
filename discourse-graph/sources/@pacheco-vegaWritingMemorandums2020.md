@@ -2,7 +2,7 @@
 title: @pacheco-vegaWritingMemorandums2020
 url: https://roamresearch.com/#/app/megacoglab/page/q07vzvOFh
 author: Joel Chan
-date: Sun May 03 2020 22:35:01 GMT-0400 (Eastern Daylight Time)
+date: Mon May 04 2020 10:35:01 GMT+0800 (Malaysia Time)
 ---
 
 - #references

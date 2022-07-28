@@ -2,7 +2,7 @@
 title: [[EVD]] - No analogical transfer amongst undergraduates between insight problems without hints about analogical mapping - [[@reedRoleAnalogyTransfer1974]]
 url: https://roamresearch.com/#/app/megacoglab/page/GxyCjeS8g
 author: Joel Chan
-date: Thu Sep 09 2021 22:40:03 GMT-0400 (Eastern Daylight Time)
+date: Fri Sep 10 2021 10:40:03 GMT+0800 (Malaysia Time)
 ---
 
 - Summary

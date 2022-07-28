@@ -2,7 +2,7 @@
 title: @luciani2018machine
 url: https://roamresearch.com/#/app/megacoglab/page/ckDG4Qalv
 author: Joel Chan
-date: Wed Feb 05 2020 14:31:08 GMT-0500 (Eastern Standard Time)
+date: Thu Feb 06 2020 03:31:08 GMT+0800 (Malaysia Time)
 ---
 
 - #references
@@ -11,17 +11,17 @@ date: Wed Feb 05 2020 14:31:08 GMT-0500 (Eastern Standard Time)
 
     - Meta
 
-        - Authored by:: [[Danwei Tran Luciani]], [[Martin Lindvall]], and [[Jonas Löwgren]]
+        - Authored by:: [[Danwei Tran Luciani]]
 
         - Year: [[2018]]
 
-        - Publication: [[NordDesign]] 2018
+        - Publication: [[NordDesign]]
 
-        - Tags:: #[[references]] #[[P/Material Knowledge of ML for Design]]
+        - Tags:: [[references]]
 
-    - #[[📝 lit-notes]]
+    - [[📝 lit-notes]]
 
-        - This paper describes an approach for representing design ideas that can help designers work with machine learning as a design material #[[material knowledge]]
+        - This paper describes an approach for representing design ideas that can help designers work with machine learning as a design material [[material knowledge]]
 
         - They present a "curated collection" of four exemplars (and accompanying design ideas). I'm not sure I understand all of them.
 
@@ -31,29 +31,29 @@ date: Wed Feb 05 2020 14:31:08 GMT-0500 (Eastern Standard Time)
 
                 - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fmegacoglab%2FJ-0vGmhEN4?alt=media&token=3321e436-731a-42f8-b149-1ca5aceb6fff)
 
-                - There is no #evidence offered for this claim though. But might be an idea to follow-up on. It reminds of why there is such a strong focus on [[explainable AI]] these days; there is a sense that their complexity AND opaqueness make them hard to work with when designing actual solutions for people.
+                - There is no #evidence offered for this claim though. But might be an idea to follow-up on. It reminds of why there is such a strong focus on [[explainable AI]]
 
-                    - See, e.g., [[Chris Olah]] and others' paper in [[sys/distill.pub]] on the building blocks of interpretability [[@olahBuildingBlocksInterpretability2018]]
+                    - See, e.g., [[Chris Olah]]
 
-        - Some of the design ideas can be read as strategies for helping designers gain [[material knowledge]] of ML as a design material (although the focus of the ideas is on empowering users in conversation with ML in a system they are users of)
+        - Some of the design ideas can be read as strategies for helping designers gain [[material knowledge]]
 
-            - The most useful one I think is trying to provide a near real-time interaction loop to enable better understanding and training of the automation (p. 6) #[[📝 lit-notes]]
+            - The most useful one I think is trying to provide a near real-time interaction loop to enable better understanding and training of the automation (p. 6) [[📝 lit-notes]]
 
                 - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fmegacoglab%2FBeRMSeaK3F?alt=media&token=d9973df2-e1b5-46d9-8551-b22b2e4c2c39)
 
-            - If real-time interaction is not possible, some way of leaving traces that can be reasoned about may also be powerful (p. 7). #[[📝 lit-notes]]
+            - If real-time interaction is not possible, some way of leaving traces that can be reasoned about may also be powerful (p. 7). [[📝 lit-notes]]
 
                 - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fmegacoglab%2FxTfMo036jR?alt=media&token=63ed9683-b9b4-4b5a-bd8f-b2f54acbcf8c)
 
-                - This reminds me of the work on [[analytic [[provenance]]]] in visual / intelligence analytics
+                - This reminds me of the work on [[analytic provenance]]
 
-            - Generally, these discussions make me think of [[Bret Victor]]'s work on [[dynamic media]] and [[DynamicLand]] (see, e.g., [[@victorHumaneRepresentationThought2014]])
+            - Generally, these discussions make me think of [[Bret Victor]]
 
-                - In general, I think the idea of [[direct manipulation]] seems like a central principle
+                - In general, I think the idea of [[direct manipulation]]
 
-                - Also think that if there is a thread of work on [[dynamic media]] and [[material knowledge]], that would be a good place to start from in terms of SOTA for thinking about [[material knowledge]] of AI/ML for [[D/Democratizing Design]]
+                - Also think that if there is a thread of work on [[dynamic media]]
 
-                    - One possible opportunity for advancing the conversation: thinking about how users can (or if they can / should) acquire designerly [[material knowledge]] of ML for the systems they are co-designing
+                    - One possible opportunity for advancing the conversation: thinking about how users can (or if they can / should) acquire designerly [[material knowledge]]
 
 ###### Discourse Context
 

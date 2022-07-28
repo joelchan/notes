@@ -2,7 +2,7 @@
 title: @morganPrestigeDrivesEpistemic2018
 url: https://roamresearch.com/#/app/megacoglab/page/yop3rtz4c
 author: Joel Chan
-date: Fri May 22 2020 21:43:12 GMT-0400 (Eastern Daylight Time)
+date: Sat May 23 2020 09:43:12 GMT+0800 (Malaysia Time)
 ---
 
 - #references
@@ -13,7 +13,7 @@ date: Fri May 22 2020 21:43:12 GMT-0400 (Eastern Daylight Time)
 
         - Tags: #ref/Paper
 
-        - Authored by::  [[Allison Morgan]] ,  Dimitrios J. Economou ,  Samuel F. Way ,  [[Aaron Clauset]]
+        - Authored by::  [[Allison Morgan]]
 
         - Year: [[2018]]
 
@@ -37,7 +37,7 @@ date: Fri May 22 2020 21:43:12 GMT-0400 (Eastern Daylight Time)
 
         - #m/Model repurposing an SIS model from epidemiology
 
-            - some questionable assumptions about "ideas" and "idea quality". #[[❗beware]] until it's replicated with empirical data
+            - some questionable assumptions about "ideas" and "idea quality". [[❗beware]]
 
                 - some issues that quickly come to mind:
 

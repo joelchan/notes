@@ -2,18 +2,18 @@
 title: @marshallExploringRelationshipPersonal2004
 url: https://roamresearch.com/#/app/megacoglab/page/fVAXNcSDq
 author: Joel Chan
-date: Mon Mar 16 2020 11:50:15 GMT-0400 (Eastern Daylight Time)
+date: Mon Mar 16 2020 23:50:15 GMT+0800 (Malaysia Time)
 ---
 
-- #[[references]]
+- [[references]]
 
     - Title: Exploring the Relationship Between Personal and Public Annotations
 
     - Meta:
 
-        - Tags:  #[[D/Synthesis Infrastructure]]
+        - Tags:  [[DSynthesis Infrastructure]]
 
-        - Authored by:: [[Catherine C. Marshall]] [[A. J. Bernheim Brush]]
+        - Authored by:: [[Catherine C. Marshall]]
 
         - Year: [[2004]]
 
@@ -33,17 +33,17 @@ date: Mon Mar 16 2020 11:50:15 GMT-0400 (Eastern Daylight Time)
 
         - #canonical cite in our lab on annotations
 
-    - #[[📝 lit-notes]]
+    - [[📝 lit-notes]]
 
-        - Types of [[annotation]]s p.351
+        - Types of [[annotation]]
 
             - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fmegacoglab%2F_UKK-Yjrcn?alt=media&token=79854c40-f7a2-4673-be57-642006212805)
 
-        - Most (~70-80%) private [[annotation]]s are not useful to other people (p. 354)
+        - Most (~70-80%) private [[annotation]]
 
             - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fmegacoglab%2FP8xVLNi95c?alt=media&token=c43ee13b-f30e-4b33-a701-4c4a7be09eee)
 
-        - People frequently need to make substantial changes to [[annotation]]s ot make them useful to other people (p. 354)
+        - People frequently need to make substantial changes to [[annotation]]
 
             - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fmegacoglab%2F4p3Us2Yrvg?alt=media&token=b0954b0f-7664-4125-b109-3fb4f5693955)
 

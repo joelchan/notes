@@ -2,7 +2,7 @@
 title: [[EVD]] - highly novel combinations of cited journals in a paper were almost always cross-disciplinary, but cross-disciplinary combinations were infrequently novel - [[@wangBiasNoveltyScience2017]]
 url: https://roamresearch.com/#/app/megacoglab/page/_a4sXXwhE
 author: Joel Chan
-date: Mon Jul 19 2021 09:55:12 GMT-0400 (Eastern Daylight Time)
+date: Mon Jul 19 2021 21:55:12 GMT+0800 (Malaysia Time)
 ---
 
 - Summary::

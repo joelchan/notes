@@ -2,22 +2,22 @@
 title: [[CLM]] - Scholars constantly need to reread during a literature review
 url: https://roamresearch.com/#/app/megacoglab/page/yMBDof2rH
 author: Joel Chan
-date: Fri Feb 28 2020 16:56:58 GMT-0500 (Eastern Standard Time)
+date: Sat Feb 29 2020 05:56:58 GMT+0800 (Malaysia Time)
 ---
 
-- #[[🌲 zettels]]
+- [[🌲 zettels]]
 
-    - Tags: #[[D/Synthesis Infrastructure]]
+    - Tags: [[DSynthesis Infrastructure]]
 
     - Description:
 
-        - This idea is substantiated by research on [[scholarly primitives]]. #[[@palmerScholarlyInformationPractices2009]] provides a good summary of this line of work, along with a novel set of scholarly primitives (including re-reading).
+        - This idea is substantiated by research on [[scholarly primitives]]
 
-        - Also verified in our [[WP: ASIST Intermediate products of synthesis]] paper [[@qianOpeningBlackBox2020]].
+        - Also verified in our [[WP ASIST Intermediate products of synthesis]]
 
     - R-Sources:
 
-        - Re-reading is a sub-primitive of the scholarly primitive of reading #[[@palmerScholarlyInformationPractices2009]]
+        - Re-reading is a sub-primitive of the scholarly primitive of reading [[@palmerScholarlyInformationPractices2009]]
 
         - [[@oharaStudentReadersUse1998]]
 

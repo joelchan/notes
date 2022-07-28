@@ -2,16 +2,16 @@
 title: @nagaiConceptBlendingDissimilarity2009
 url: https://roamresearch.com/#/app/megacoglab/page/Ek0II4gSc
 author: Joel Chan
-date: Thu Aug 12 2021 23:17:05 GMT-0400 (Eastern Daylight Time)
+date: Fri Aug 13 2021 11:17:05 GMT+0800 (Malaysia Time)
 ---
 
-- #[[references]]
+- [[references]]
 
     - Title: Concept blending and dissimilarity: factors for creative concept generation process
 
     - Meta:
 
-        - Authored by:: [[Yukari Nagai]] [[Toshiharu Taura]] [[Futoshi Mukai]]
+        - Authored by:: [[Yukari Nagai]]
 
         - Year: [[2009]]
 

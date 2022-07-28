@@ -2,27 +2,27 @@
 title: [[CLM]] - Compression and contextualizability are in tension
 url: https://roamresearch.com/#/app/megacoglab/page/eiCoI_04x
 author: Joel Chan
-date: Wed Apr 20 2022 11:27:12 GMT-0400 (Eastern Daylight Time)
+date: Wed Apr 20 2022 23:27:12 GMT+0800 (Malaysia Time)
 ---
 
 - 
-- #[[🌲 zettels]]
+- [[🌲 zettels]]
 
     - Tags:
 
     - Description
 
-        - [[compression]] can be thought of as [[abstraction]]. A core thing that abstraction does is remove "extraneous" details, retaining only what is "necesssary".
+        - [[compression]]
 
-        - This process of removing details is studied by [[CSCW]] in the context of Knowledge [[reuse]]: the rich history of studies here emphasize that [[decontextualization]] ---removing extraneous details from a description of a knowledge object --- is a necessary precondition for [[reuse]], across organizational/social boundaries and time [[@ackermanSharingKnowledgeExpertise2013]].
+        - This process of removing details is studied by [[CSCW]]
 
-            - In [[CSCW]] theories of knowledge reuse, there is a related idea of [[decontextualization]], where a bit of knowledge has to be stripped of "irrelevant" details in order to become useful in organizational contexts across boundaries.
+            - In [[CSCW]]
 
                 - Decontextualization allows knowledge to be stored and passed across organizational boundaries, enabling coordination.
 
         - 
 
-            - #[[@starInstitutionalEcologyTranslations1989]] also introduces the related idea of [[[[PTN]] - boundary object]]s
+            - [[@starInstitutionalEcologyTranslations1989]]
 
         - could be addressed if we design for the [[dance between the theoretical and the evidential]]
 

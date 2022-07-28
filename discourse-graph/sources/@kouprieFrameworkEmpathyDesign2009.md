@@ -2,16 +2,16 @@
 title: @kouprieFrameworkEmpathyDesign2009
 url: https://roamresearch.com/#/app/megacoglab/page/zAD7Cd6iS
 author: Joel Chan
-date: Mon Jan 11 2021 20:54:59 GMT-0500 (Eastern Standard Time)
+date: Tue Jan 12 2021 09:54:59 GMT+0800 (Malaysia Time)
 ---
 
-- #[[references]]
+- [[references]]
 
     - Title: A framework for empathy in design: stepping into and out of the user's life
 
     - Meta:
 
-        - Authored by:: [[Merlijn Kouprie]] [[Froukje Sleeswijk Visser]]
+        - Authored by:: [[Merlijn Kouprie]]
 
         - Year: [[2009]]
 

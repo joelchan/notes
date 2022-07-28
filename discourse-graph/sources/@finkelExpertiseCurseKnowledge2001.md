@@ -2,16 +2,16 @@
 title: @finkelExpertiseCurseKnowledge2001
 url: https://roamresearch.com/#/app/megacoglab/page/dNTpUt4gn
 author: Joel Chan
-date: Wed Feb 17 2021 13:32:24 GMT-0500 (Eastern Standard Time)
+date: Thu Feb 18 2021 02:32:24 GMT+0800 (Malaysia Time)
 ---
 
-- #[[references]]
+- [[references]]
 
     - Title: Expertise and the curse of knowledge: The communication problems of specialists
 
     - Meta:
 
-        - Authored by:: [[E Finkel]] [[C Heath]] [[J Dent]]
+        - Authored by:: [[E Finkel]]
 
         - Year: [[2001]]
 

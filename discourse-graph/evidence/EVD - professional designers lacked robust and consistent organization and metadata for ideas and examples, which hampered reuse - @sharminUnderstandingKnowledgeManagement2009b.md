@@ -2,7 +2,7 @@
 title: [[EVD]] - professional designers lacked robust and consistent organization and metadata for ideas and examples, which hampered reuse - [[@sharminUnderstandingKnowledgeManagement2009b]]
 url: https://roamresearch.com/#/app/megacoglab/page/kcFsv3Bh7
 author: Joel Chan
-date: Thu Dec 30 2021 16:26:00 GMT-0500 (Eastern Standard Time)
+date: Fri Dec 31 2021 05:26:00 GMT+0800 (Malaysia Time)
 ---
 
 - # Summary
@@ -24,7 +24,7 @@ date: Thu Dec 30 2021 16:26:00 GMT-0500 (Eastern Standard Time)
 
         - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fmegacoglab%2FS-Zrxe-iCO.png?alt=media&token=8ef14bfd-8af4-4045-9070-3d5430ba0e1f) (p. 3)
 
-    - procedures: [[m/Semi-structured interviews]] and [[m/Survey]]
+    - procedures: [[mSemi-structured interviews]]
 
         - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fmegacoglab%2FFJt5mXsq8u.png?alt=media&token=0d2b6a75-dbcd-415f-899f-2b430a16f745) (p. 3)
 

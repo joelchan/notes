@@ -2,16 +2,16 @@
 title: [[CLM]] - Recent or concurrent exposure to ideas can substantially influence the direction of ideation
 url: https://roamresearch.com/#/app/megacoglab/page/TCJUJDkyd
 author: Joel Chan
-date: Sun Dec 27 2020 22:10:57 GMT-0500 (Eastern Standard Time)
+date: Mon Dec 28 2020 11:10:57 GMT+0800 (Malaysia Time)
 ---
 
-- #[[🌲 zettels]]
+- [[🌲 zettels]]
 
-    - Tags: #D/Solution-Diversity #[[D/Computational Analogy]]
+    - Tags: #D/Solution-Diversity [[DComputational Analogy]]
 
     - Content
 
-        - When this is positive, we say [[[[CLM]] - Examples can improve creative outcomes by stimulating more exploration away from obvious starting points]]
+        - When this is positive, we say [[CLM - Examples can improve creative outcomes by stimulating more exploration away from obvious starting points]]
 
     - R-Sources
 

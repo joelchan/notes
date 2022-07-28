@@ -2,16 +2,16 @@
 title: @goyalLeveragingPartnerInsights2013
 url: https://roamresearch.com/#/app/megacoglab/page/tC6CgKcRt
 author: Joel Chan
-date: Sun Feb 07 2021 14:16:11 GMT-0500 (Eastern Standard Time)
+date: Mon Feb 08 2021 03:16:11 GMT+0800 (Malaysia Time)
 ---
 
-- #[[references]]
+- [[references]]
 
     - Title: Leveraging partner's insights for distributed collaborative sensemaking
 
     - Meta:
 
-        - Authored by:: [[Nitesh Goyal]] [[Gilly Leshed]] [[Susan R. Fussell]]
+        - Authored by:: [[Nitesh Goyal]]
 
         - Year: [[2013]]
 

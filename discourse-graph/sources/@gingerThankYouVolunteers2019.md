@@ -2,10 +2,10 @@
 title: @gingerThankYouVolunteers2019
 url: https://roamresearch.com/#/app/megacoglab/page/9dMUC0cIU
 author: Joel Chan
-date: Wed Jan 27 2021 21:42:44 GMT-0500 (Eastern Standard Time)
+date: Thu Jan 28 2021 10:42:44 GMT+0800 (Malaysia Time)
 ---
 
-- #[[references]]
+- [[references]]
 
     - Title: Thank you, Volunteers and Citizen Scientists
 
@@ -27,9 +27,9 @@ date: Wed Jan 27 2021 21:42:44 GMT-0500 (Eastern Standard Time)
 
             - Thank you for joining (or being interested in joining) our exploratory effort to increase the accessibility and utility of knowledge from scientific literature. Your enthusiasm and generosity has helped to demonstrate that citizen science has great potential for addressing informatics challenges in biomedical research.  Although we have collected enough data
 
-    - #[[📝 lit-notes]]
+    - [[📝 lit-notes]]
 
-        - had to shutter their effort in September of [[2019]]: the stated reason was that they did not feel that they could curate enough knowledge to uncover clues for identifying potential treatment strategies for NGLY1-deficiency
+        - had to shutter their effort in September of [[2019]]
 
             - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fmegacoglab%2FOViYj64hn_.png?alt=media&token=c034415c-88d1-443f-a825-6521f52a2396)
 

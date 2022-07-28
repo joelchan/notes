@@ -2,7 +2,7 @@
 title: [[EVD]] - Students given analogical instruction performed better on far domain problems than students provided expert instruction(A teacher with a P.H.D in physics). - [[@jacobsonSchemaAbstractionProductive2020]]
 url: https://roamresearch.com/#/app/megacoglab/page/TAgkEfWtq
 author: AJ Rudd
-date: Tue Jan 18 2022 10:46:30 GMT-0500 (Eastern Standard Time)
+date: Tue Jan 18 2022 23:46:30 GMT+0800 (Malaysia Time)
 ---
 
 - # Summary

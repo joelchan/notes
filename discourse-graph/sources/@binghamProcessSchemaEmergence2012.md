@@ -2,16 +2,16 @@
 title: @binghamProcessSchemaEmergence2012
 url: https://roamresearch.com/#/app/megacoglab/page/U8W0NjEX-
 author: Joel Chan
-date: Fri Jul 02 2021 22:21:24 GMT-0400 (Eastern Daylight Time)
+date: Sat Jul 03 2021 10:21:24 GMT+0800 (Malaysia Time)
 ---
 
-- #[[references]]
+- [[references]]
 
     - Title: The process of schema emergence: Assimilation, deconstruction, unitization and the plurality of analogies
 
     - Meta:
 
-        - Authored by:: [[C. Bingham]] [[S. Kahl]]
+        - Authored by:: [[C. Bingham]]
 
         - Year: [[2012]]
 

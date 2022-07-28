@@ -2,7 +2,7 @@
 title: [[EVD]] - participants who received computationally selected far analogical stimuli had a lower ceiling on novelty and quality of ideas compared to participants who received near or no analogical stimuli - [[@fuMeaningFarImpact2013]]
 url: https://roamresearch.com/#/app/megacoglab/page/xnr7n-v9j
 author: Joel Chan
-date: Fri Mar 25 2022 09:52:40 GMT-0400 (Eastern Daylight Time)
+date: Fri Mar 25 2022 21:52:40 GMT+0800 (Malaysia Time)
 ---
 
 - # Summary

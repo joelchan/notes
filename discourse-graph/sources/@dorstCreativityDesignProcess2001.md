@@ -2,7 +2,7 @@
 title: @dorstCreativityDesignProcess2001
 url: https://roamresearch.com/#/app/megacoglab/page/uhdWry2QM
 author: Joel Chan
-date: Wed Aug 19 2020 22:51:21 GMT-0400 (Eastern Daylight Time)
+date: Thu Aug 20 2020 10:51:21 GMT+0800 (Malaysia Time)
 ---
 
 - #references
@@ -13,7 +13,7 @@ date: Wed Aug 19 2020 22:51:21 GMT-0400 (Eastern Daylight Time)
 
         - Tags: #ref/Paper
 
-        - Authored by::  [[Kees Dorst]] ,  [[Nigel Cross]]
+        - Authored by::  [[Kees Dorst]]
 
         - Year: [[2001]]
 

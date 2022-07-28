@@ -2,16 +2,16 @@
 title: @ackermanAnswerGardenMerging1996
 url: https://roamresearch.com/#/app/megacoglab/page/9sofrC0Im
 author: Joel Chan
-date: Thu Jun 17 2021 13:13:16 GMT-0400 (Eastern Daylight Time)
+date: Fri Jun 18 2021 01:13:16 GMT+0800 (Malaysia Time)
 ---
 
-- #[[references]]
+- [[references]]
 
     - Title: Answer Garden 2: merging organizational memory with collaborative help
 
     - Meta:
 
-        - Authored by:: [[Mark S. Ackerman]] [[David W. McDonald]]
+        - Authored by:: [[Mark S. Ackerman]]
 
         - Year: [[1996]]
 

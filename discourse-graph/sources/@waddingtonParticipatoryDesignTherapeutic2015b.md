@@ -2,16 +2,16 @@
 title: @waddingtonParticipatoryDesignTherapeutic2015b
 url: https://roamresearch.com/#/app/megacoglab/page/uRL5-eE3f
 author: Joel Chan
-date: Fri May 14 2021 11:27:44 GMT-0400 (Eastern Daylight Time)
+date: Fri May 14 2021 23:27:44 GMT+0800 (Malaysia Time)
 ---
 
-- #[[references]]
+- [[references]]
 
     - Title: Participatory design of therapeutic video games for young people with neurological vision impairment
 
     - Meta:
 
-        - Authored by:: [[Jonathan Waddington]] [[Conor Linehan]] [[Kathrin Gerling]] [[Kieran Hicks]] [[Timothy L. Hodgson]]
+        - Authored by:: [[Jonathan Waddington]]
 
         - Year: [[2015]]
 

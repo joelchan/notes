@@ -2,16 +2,16 @@
 title: @hindsBotheredAbstractionEffect2001
 url: https://roamresearch.com/#/app/megacoglab/page/h2VcHSlkA
 author: Joel Chan
-date: Wed Feb 17 2021 13:20:32 GMT-0500 (Eastern Standard Time)
+date: Thu Feb 18 2021 02:20:32 GMT+0800 (Malaysia Time)
 ---
 
-- #[[references]]
+- [[references]]
 
     - Title: Bothered by abstraction: The effect of expertise on knowledge transfer and subsequent novice performance.
 
     - Meta:
 
-        - Authored by:: [[Pamela J Hinds]] [[Michael Patterson]] [[Jeffrey Pfeffer]]
+        - Authored by:: [[Pamela J Hinds]]
 
         - Year: [[2001]]
 

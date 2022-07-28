@@ -2,7 +2,7 @@
 title: [[EVD]] - Intermediaries such as local government officials were necessary for accessing and co-designing with marginalized populations, but the intermediaries sometimes spoke for the people in ways that opposed what they really wanted - [[@ssozi-mugaruraSupportingCommunityNeeds2016]]
 url: https://roamresearch.com/#/app/megacoglab/page/TszXVps8y
 author: Joel Chan
-date: Wed Jul 14 2021 13:50:43 GMT-0400 (Eastern Daylight Time)
+date: Thu Jul 15 2021 01:50:43 GMT+0800 (Malaysia Time)
 ---
 
 - Summary::

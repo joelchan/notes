@@ -2,7 +2,7 @@
 title: [[EVD]] - teams were more likely than single or pair-authored papers to cite atypical combinations of journals - [[@uzziAtypicalCombinationsScientific2013]]
 url: https://roamresearch.com/#/app/megacoglab/page/3rIy1jtKe
 author: Joel Chan
-date: Fri Aug 06 2021 17:22:37 GMT-0400 (Eastern Daylight Time)
+date: Sat Aug 07 2021 05:22:37 GMT+0800 (Malaysia Time)
 ---
 
 - Summary::
@@ -18,11 +18,11 @@ date: Fri Aug 06 2021 17:22:37 GMT-0400 (Eastern Daylight Time)
     - __<summarize the result in a bit more detail here>__
 - **Grounding Context**
 
-    - 17.9 million papers in [[Web of Science]] from 1990 to 2000
+    - 17.9 million papers in [[Web of Science]]
 
         - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fmegacoglab%2FHFWbdimkWW.png?alt=media&token=11bc49a6-9961-4a6f-908b-c4f0b3511a5f) (p. 468)
 
-    - both novelty and conventionality defined in terms of expected frequency of pairwise combinations of journals cited in a paper. background distribution estimated by [[Monte Carlo]] algorithm switching citation links in a citation network of all papers published *the same year* as the focal paper to generate 10 "alternate universe" webs of science citation networks
+    - both novelty and conventionality defined in terms of expected frequency of pairwise combinations of journals cited in a paper. background distribution estimated by [[Monte Carlo]]
 
         - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fmegacoglab%2FKiH9OVSVXR.png?alt=media&token=fd9f7b9d-9516-48b4-81b6-1f87c55a4aca)
 

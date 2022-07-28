@@ -2,7 +2,7 @@
 title: [[EVD]] - Comparable secondary attack rate in households in China for children under 3 compared to other age groups - [[@wuHouseholdTransmissionSARSCoV22020]]
 url: https://roamresearch.com/#/app/megacoglab/page/p2hCTLXaE
 author: Joel Chan
-date: Wed Dec 08 2021 16:43:39 GMT-0500 (Eastern Standard Time)
+date: Thu Dec 09 2021 05:43:39 GMT+0800 (Malaysia Time)
 ---
 
 - # Summary

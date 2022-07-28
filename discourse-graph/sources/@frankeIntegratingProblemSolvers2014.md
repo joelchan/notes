@@ -2,16 +2,16 @@
 title: @frankeIntegratingProblemSolvers2014
 url: https://roamresearch.com/#/app/megacoglab/page/pT3MaeTH1
 author: Joel Chan
-date: Wed Nov 25 2020 16:26:32 GMT-0500 (Eastern Standard Time)
+date: Thu Nov 26 2020 05:26:32 GMT+0800 (Malaysia Time)
 ---
 
-- #[[references]]
+- [[references]]
 
     - Title: Integrating Problem Solvers from Analogous Markets in New Product Ideation
 
     - Meta:
 
-        - Authored by:: [[Nikolaus Franke]] [[Marion K. Poetz]] [[Martin Schreier]]
+        - Authored by:: [[Nikolaus Franke]]
 
         - Year: [[2014]]
 

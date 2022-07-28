@@ -2,7 +2,7 @@
 title: @crossExpertiseDesignOverview2004
 url: https://roamresearch.com/#/app/megacoglab/page/_t68_ZDiG
 author: Joel Chan
-date: Thu Jun 18 2020 16:48:11 GMT-0400 (Eastern Daylight Time)
+date: Fri Jun 19 2020 04:48:11 GMT+0800 (Malaysia Time)
 ---
 
 - Title:: Expertise in design: an overview
@@ -11,11 +11,11 @@ date: Thu Jun 18 2020 16:48:11 GMT-0400 (Eastern Daylight Time)
 - Publication:: Design Studies
 - Date Added:: [[July 31st, 2021]]
 - Zotero links:: [Local library](zotero://select/groups/2451508/items/339KPVB8), [Local library](https://www.zotero.org/groups/2451508/items/339KPVB8)
-- Tags:: #[[Creativity]], #[[Design]], #[[Expertise]], #[[IdeationWorkflows]], #[[Review]], #[[SearchSpace]], #[[design behaviour]], #[[design cognition]], #[[design process]]
+- Tags:: [[Creativity]]
 - [[Notes]]
 
     - (0) might give clues to best practices for ideation
-- #[[📝 lit-notes]]
+- [[📝 lit-notes]]
 
     - experienced designers' solution-orientation is a function of experience with the problem type (possibly making it less ill-structured)
 

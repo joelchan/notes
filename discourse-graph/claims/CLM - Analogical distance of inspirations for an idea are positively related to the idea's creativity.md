@@ -2,18 +2,16 @@
 title: [[CLM]] - Analogical distance of inspirations for an idea are positively related to the idea's creativity
 url: https://roamresearch.com/#/app/megacoglab/page/r2v4FU42H
 author: Joel Chan
-date: Wed Jun 30 2021 10:27:17 GMT-0400 (Eastern Daylight Time)
+date: Wed Jun 30 2021 22:27:17 GMT+0800 (Malaysia Time)
 ---
 
-- Tags:: #analogy #[[far analogies]]
+- Tags:: #analogy [[far analogies]]
 - [[SupportedBy]]
 
-    - [[[[EVD]] - Self-rated technical distance from open innovation contest problems was slightly positively correlated with submitting winning solutions - [[@jeppesenMarginalityProblemsolvingEffectiveness2010]]]]
-- {{[[DONE]]}}
+    - [[EVD - Self-rated technical distance from open innovation contest problems was slightly positively correlated with submitting winning solutions - @jeppesenMarginalityProblemsolvingEffectiveness2010]]
 
 ###### Discourse Context
 
-- **Informs::** [[QUE - How might domain distance modulate the effects of analogies on creative output]]
 - **Supported By::** [[EVD - Engineering students who were given one or more near analogies as stimuli generated design id...tential customer judges, compared to being given no stimuli - @dahlInfluenceValueAnalogical2002]]
 - **Supported By::** [[EVD - highly novel papers were more likely to be in the top 1% of citations in the long run, but not in the short run, and particularly in other fields - @wangBiasNoveltyScience2017]]
 - **Supported By::** [[EVD - Self-rated technical distance from open innovation contest problems was slightly positively correlated with submitting winning solutions - @jeppesenMarginalityProblemsolvingEffectiveness2010]]
@@ -37,4 +35,5 @@ date: Wed Jun 30 2021 10:27:17 GMT-0400 (Eastern Daylight Time)
 - **Opposed By::** [[EVD - No significant correlation between analogical distance of cross-industry inspirations and deg...tcome (incremental, market or breakthrough, and radical) - @enkelCreativeImitationExploring2010]]
 - **Opposed By::** [[EVD - In a design team, concepts tended to be more similar to their immediately preceding concepts after far analogy use compared to using near or no analogies - @chanImpactAnalogiesCreative2015]]
 - **Opposed By::** [[EVD - patents filed by inventors who was new to the patent's field tended to receive slightly fewer..., except when they collaborated with an expert in the new field - @artsParadiseNoveltyLoss2018a]]
+- **Informs::** [[QUE - How might domain distance modulate the effects of analogies on creative output]]
 - **Informed By::** [[@jeppesenMarginalityProblemsolvingEffectiveness2010]]

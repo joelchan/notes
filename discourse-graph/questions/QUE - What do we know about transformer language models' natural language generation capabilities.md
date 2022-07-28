@@ -2,12 +2,12 @@
 title: [[QUE]] - What do we know about [[transformer language model]]s' natural language generation capabilities?
 url: https://roamresearch.com/#/app/megacoglab/page/y33fB8TjN
 author: Joel Chan
-date: Wed Nov 10 2021 09:37:39 GMT-0500 (Eastern Standard Time)
+date: Wed Nov 10 2021 22:37:39 GMT+0800 (Malaysia Time)
 ---
 
 - # Synthesis
 
-    - [[[[CLM]] - [[transformer language model]]s have some analogical reasoning ability]]
+    - [[CLM - transformer language models have some analogical reasoning ability]]
 - ---
 - # Sources
 
@@ -19,9 +19,9 @@ date: Wed Nov 10 2021 09:37:39 GMT-0500 (Eastern Standard Time)
 
     - more about prompting
 
-        - [[@reynoldsPromptProgrammingLarge2021a]] - CHI poster that explores the conditions under which zero-shot prompting may be better than few- or n-shot (only explores French-to-English translation though)
+        - [[@reynoldsPromptProgrammingLarge2021a]]
 
-        - [[@liuPretrainPromptPredict2021]] - systematic survey of methods
+        - [[@liuPretrainPromptPredict2021]]
 
         - Reframing Instructional Prompts to GPTk’s Language: https://arxiv.org/pdf/2109.07830.pdf
 
@@ -31,29 +31,29 @@ date: Wed Nov 10 2021 09:37:39 GMT-0500 (Eastern Standard Time)
 
             - [[prompt programming]]
 
-        - New model! [[sys/T0]] directly optimizes for multitask prompt learning, and outperforms [[sys/GPT-3]] with 16x fewer params! (also available on [[huggingface]])
+        - New model! [[sysT0]]
 
             - https://twitter.com/srush_nlp/status/1450539883081179139?s=20
 
             - https://twitter.com/mark_riedl/status/1450273843008974856?s=20
 
-    - [[@clarkAllThatHuman2021]] - recent study asking non-experts to compare human- and machine-generated text ([[sys/GPT-2]] and [[sys/GPT-3]]) for stories, news articles, and recipes
+    - [[@clarkAllThatHuman2021]]
 - ---
 - # Meta
 
     - Tags:
-- Pulling on this thread [[@bommasaniOpportunitiesRisksFoundation2021]] for [[[[QUE]] - What do we know about [[transformer language model]]s' natural language generation capabilities?]] |
+- Pulling on this thread [[@bommasaniOpportunitiesRisksFoundation2021]]
 - Collecting some other papers on [[prompt programming]]
-- Maybe more here also from [[org/Ought]]'s reading list: https://docs.google.com/document/d/1Z1mQ47FqzNBzNvalWgSnyGph7A4Q7MndOEqsqv_mto0/edit#heading=h.4khaz12c49ll
-- And some good video explainers/discussion of [[@brownLanguageModelsAre2020]] and [[sys/GPT-3]]
+- Maybe more here also from [[orgOught]]
+- And some good video explainers/discussion of [[@brownLanguageModelsAre2020]]
 
-    - WE GOT ACCESS TO GPT-3! (With [[Gary Marcus]], Walid Saba and [[Connor Leahy]]) - YouTube: https://www.youtube.com/watch?v=iccd86vOz3w
+    - WE GOT ACCESS TO GPT-3! (With [[Gary Marcus]]
 
-        - Note: [[Connor Leahy]] is the guy who recreated GPT-3 when OpenAI was still going back and forth about releasing the models
+        - Note: [[Connor Leahy]]
 
-        - Connor mentions at ~01:31:40 that [[sys/GPT-3]] does surprisingly well at poems, and poorly at math, and he suspects it's because of "the BPE" thing
+        - Connor mentions at ~01:31:40 that [[sysGPT-3]]
 
-            - Digging, this is [[Byte-Pair Encoding (BPE)]], which I got from here: The GPT-3 Architecture, on a Napkin: https://dugas.ch/artificial_curiosity/GPT_architecture.html
+            - Digging, this is [[Byte-Pair Encoding (BPE)]]
 
                 - > For efficiency, GPT-3 actually uses byte-level Byte Pair Encoding (BPE) tokenization. What this means is that "words" in the vocabulary are not full words, but groups of characters (for byte-level BPE, bytes) which occur often in text. Using the GPT-3 Byte-level BPE tokenizer, "Not all heroes wear capes" is split into tokens "Not" "all" "heroes" "wear" "cap" "es", which have ids 3673, 477, 10281, 5806, 1451, 274 in the vocabulary. [Here](https://huggingface.co/transformers/tokenizer_summary.html) is a very good introduction to the subject, and a [github implementation](https://github.com/huggingface/tokenizers) so you can try it yourself.
 
@@ -63,8 +63,8 @@ date: Wed Nov 10 2021 09:37:39 GMT-0500 (Eastern Standard Time)
 
     - GPT-3: Language Models are Few-Shot Learners (Paper Explained) - YouTube: https://www.youtube.com/watch?v=SY5PvZrJhLE
 - Title:: The Illustrated Transformer [[@alammarIllustratedTransformer]]
-- [[@branwenGPT3CreativeFiction2020]] GPT-3 Creative Fiction · Gwern.net: https://www.gwern.net/GPT-3#prompts-as-programming
-- [[@lescaoHowManyData2021]] how many data points is a prompt worth? "prompting is often worth 100s of data points on average across classification tasks"
+- [[@branwenGPT3CreativeFiction2020]]
+- [[@lescaoHowManyData2021]]
 
 ###### Discourse Context
 

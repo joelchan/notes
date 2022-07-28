@@ -2,16 +2,16 @@
 title: @wilsonEffectsBiologicalExamples2010
 url: https://roamresearch.com/#/app/megacoglab/page/H1r6l0ZcU
 author: Joel Chan
-date: Fri Jun 11 2021 23:29:32 GMT-0400 (Eastern Daylight Time)
+date: Sat Jun 12 2021 11:29:32 GMT+0800 (Malaysia Time)
 ---
 
-- #[[references]]
+- [[references]]
 
     - Title: The effects of biological examples in idea generation
 
     - Meta:
 
-        - Authored by:: [[J. O. Wilson]] [[D. Rosen]] [[B. A. Nelson]] [[J. Yen]]
+        - Authored by:: [[J. O. Wilson]]
 
         - Year: [[2010]]
 

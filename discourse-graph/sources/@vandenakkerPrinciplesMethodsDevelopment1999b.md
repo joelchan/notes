@@ -2,10 +2,10 @@
 title: @vandenakkerPrinciplesMethodsDevelopment1999b
 url: https://roamresearch.com/#/app/megacoglab/page/xrVrLD86R
 author: Joel Chan
-date: Tue Jun 01 2021 14:17:26 GMT-0400 (Eastern Daylight Time)
+date: Wed Jun 02 2021 02:17:26 GMT+0800 (Malaysia Time)
 ---
 
-- #[[references]]
+- [[references]]
 
     - Title: Principles and methods of development research
 
@@ -27,7 +27,7 @@ date: Tue Jun 01 2021 14:17:26 GMT-0400 (Eastern Daylight Time)
 
             - undefined
 
-    - #[[📝 lit-notes]]
+    - [[📝 lit-notes]]
 
         - litany about what kind of knowledge is gained from design research: "if you want to support person P in context C for goal G, then design D will help because of theory T, and we know this because of evidence E
 

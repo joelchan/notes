@@ -2,7 +2,7 @@
 title: [[EVD]] - Analogies are beneficial in learning new material, but it is not a substitute for intellectual ability. - [[@bakerComplexInstructionalAnalogies2001]]
 url: https://roamresearch.com/#/app/megacoglab/page/AZ-LvsLz_
 author: AJ Rudd
-date: Tue Jan 11 2022 16:11:49 GMT-0500 (Eastern Standard Time)
+date: Wed Jan 12 2022 05:11:49 GMT+0800 (Malaysia Time)
 ---
 
 - # Summary

@@ -2,7 +2,7 @@
 title: @dryNewtonPapersStrange2014
 url: https://roamresearch.com/#/app/megacoglab/page/M6z-9i1uZ
 author: Joel Chan
-date: Tue Jan 11 2022 21:02:43 GMT-0500 (Eastern Standard Time)
+date: Wed Jan 12 2022 10:02:43 GMT+0800 (Malaysia Time)
 ---
 
 

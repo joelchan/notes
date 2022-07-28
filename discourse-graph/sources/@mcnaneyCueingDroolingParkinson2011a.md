@@ -2,16 +2,16 @@
 title: @mcnaneyCueingDroolingParkinson2011a
 url: https://roamresearch.com/#/app/megacoglab/page/RY0WzEiDU
 author: Joel Chan
-date: Fri May 14 2021 11:27:45 GMT-0400 (Eastern Daylight Time)
+date: Fri May 14 2021 23:27:45 GMT+0800 (Malaysia Time)
 ---
 
-- #[[references]]
+- [[references]]
 
     - Title: Cueing for drooling in parkinson's disease
 
     - Meta:
 
-        - Authored by:: [[Roisin McNaney]] [[Stephen Lindsay]] [[Karim Ladha]] [[Cassim Ladha]] [[Guy Schofield]] [[Thomas Ploetz]] [[Nils Hammerla]] [[Daniel Jackson]] [[Richard Walker]] [[Nick Miller]] [[Patrick Olivier]]
+        - Authored by:: [[Roisin McNaney]]
 
         - Year: [[2011]]
 

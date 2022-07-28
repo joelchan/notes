@@ -2,7 +2,7 @@
 title: @fingerReviewResearchMechanical1989
 url: https://roamresearch.com/#/app/megacoglab/page/mO16Yd8Mn
 author: Joel Chan
-date: Wed Aug 19 2020 13:57:06 GMT-0400 (Eastern Daylight Time)
+date: Thu Aug 20 2020 01:57:06 GMT+0800 (Malaysia Time)
 ---
 
 - #references

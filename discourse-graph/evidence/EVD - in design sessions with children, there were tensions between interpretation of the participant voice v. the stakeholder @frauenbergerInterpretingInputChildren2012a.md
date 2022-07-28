@@ -2,7 +2,7 @@
 title: [[EVD]] - in design sessions with children, there were tensions between interpretation of the participant voice v. the stakeholder [[@frauenbergerInterpretingInputChildren2012a]]
 url: https://roamresearch.com/#/app/megacoglab/page/meNzLw9D5
 author: Sarah DiPasquale
-date: Sat Jun 26 2021 10:28:44 GMT-0400 (Eastern Daylight Time)
+date: Sat Jun 26 2021 22:28:44 GMT+0800 (Malaysia Time)
 ---
 
 - noteType:: [[EVD]]

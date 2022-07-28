@@ -2,16 +2,16 @@
 title: @darrAcquisitionTransferDepreciation1995
 url: https://roamresearch.com/#/app/megacoglab/page/eKjqt-69L
 author: Joel Chan
-date: Thu Mar 11 2021 14:15:12 GMT-0500 (Eastern Standard Time)
+date: Fri Mar 12 2021 03:15:12 GMT+0800 (Malaysia Time)
 ---
 
-- #[[references]]
+- [[references]]
 
     - Title: The Acquisition, Transfer, and Depreciation of Knowledge in Service Organizations: Productivity in Franchises
 
     - Meta:
 
-        - Authored by:: [[Eric D. Darr]] [[Linda Argote]] [[Dennis Epple]]
+        - Authored by:: [[Eric D. Darr]]
 
         - Year: [[1995]]
 

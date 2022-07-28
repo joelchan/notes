@@ -2,16 +2,16 @@
 title: @sulsSocialComparisonSocial1983
 url: https://roamresearch.com/#/app/megacoglab/page/IFupSK4rf
 author: Joel Chan
-date: Fri Sep 17 2021 13:03:49 GMT-0400 (Eastern Daylight Time)
+date: Sat Sep 18 2021 01:03:49 GMT+0800 (Malaysia Time)
 ---
 
-- #[[references]]
+- [[references]]
 
     - Title: Social Comparison in the Social and Physical Sciences: An Archival Study
 
     - Meta:
 
-        - Authored by:: [[Jerry Suls]] [[Barbara Fletcher]]
+        - Authored by:: [[Jerry Suls]]
 
         - Year: [[1983]]
 

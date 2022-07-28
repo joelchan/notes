@@ -2,11 +2,11 @@
 title: @xuIdeateRelateExamplesGallery2021
 url: https://roamresearch.com/#/app/megacoglab/page/P4LBv5NV_
 author: Joel Chan
-date: Tue Dec 07 2021 10:01:55 GMT-0500 (Eastern Standard Time)
+date: Tue Dec 07 2021 23:01:55 GMT+0800 (Malaysia Time)
 ---
 
 - Title:: IdeateRelate: An Examples Gallery That Helps Creators Explore Ideas in Relation to Their Own
-- Author(s):: [[Xiaotong (Tone) Xu]], [[Rosaleen Xiong]], [[Boyang Wang]], [[David Min]], [[Steven P. Dow]]
+- Author(s):: [[Xiaotong (Tone) Xu]]
 - Abstract:: Creating truly original ideas requires extensive knowledge of existing ideas. Navigating prior examples can help people to understand what has already been done and to assess the quality of their own ideas through comparison. The creativity literature has suggested that the conceptual distance between a proposed solution and a potential inspiration can influence one’s thinking. However, less is known about how creators might use data about conceptual distance when exploring a large repository of ideas. To investigate this, we created a novel tool for exploring examples called IdeateRelate that visualizes 600+ COVID-related ideas, organized by their similarity to a new idea. In an experiment that compared the IdeateRelate visualization to a simple list of examples, we found that users in the Viz condition leveraged both semantic and categorical similarity, curated a more similar set of examples, and adopted more language from examples into their iterated ideas (without negatively affecting the overall novelty). We discuss implications for creating adaptive interfaces that provide creative inspiration in response to designers’ ideas throughout an iterative design process. CCS Concepts: • Human-centered computing → Information visualization; Computer supported cooperative work; Interaction design theory, concepts and paradigms.
 - Type:: [[Article]]
 - Publication:: Proceedings of the ACM on Human-Computer Interaction
@@ -23,7 +23,7 @@ date: Tue Dec 07 2021 10:01:55 GMT-0500 (Eastern Standard Time)
     - Design: IdeaRelate with viz vs. no viz (take out part b in screenshot)
 
         - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fmegacoglab%2F_s5ZqBzveL.png?alt=media&token=2ef5ed80-bbc2-4c04-be9a-bf2550aa4135) (p.6 )
-- [[Jason Ding]] for [[[[THE]] - interaction-oriented theory of creative inspiration from examples]] | __<summary of what was learned in this session (fill this out later)>__
+- [[Jason Ding]]
 
     - __Feel free to have free-floating notes that don't neatly fit into the boxes below!__
 
@@ -47,7 +47,7 @@ date: Tue Dec 07 2021 10:01:55 GMT-0500 (Eastern Standard Time)
 
                     - As a study procedure, participants first generated their own idea for solving a COVID-related challenge. Then participants explored all 637 ideas — either using IdeateRelate (Viz condition) or a list view (No-Viz condition) — and curated at least seven ideas to help them refine their own proposals. Finally, participants generated a final concept while viewing the curated subset of examples.
 
-                        - Curating a list includes [[view]], [[analyze]] and [[compare]]?
+                        - Curating a list includes [[view]]
 
                     - Measure of similarity
 
@@ -61,9 +61,9 @@ date: Tue Dec 07 2021 10:01:55 GMT-0500 (Eastern Standard Time)
 
                         - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fmegacoglab%2F6NGoIxz8ZK.png?alt=media&token=1a280a14-17d9-4422-9e31-9802cfe6c1a8)
 
-                    - Instances of [[combine & integrate]] and [[model]] functional outcomes
+                    - Instances of [[combine & integrate]]
 
-                        - Users' ideas first; examples with low diversity (similar to users' ideas) might help [[combine & integrate]]; examples with high diversity (far from users' ideas) might help [[model]]
+                        - Users' ideas first; examples with low diversity (similar to users' ideas) might help [[combine & integrate]]
 
                         - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fmegacoglab%2F71_ykYO85h.png?alt=media&token=7c2fccd3-99c5-49f0-a990-7a6576f7003e)
 
@@ -73,7 +73,7 @@ date: Tue Dec 07 2021 10:01:55 GMT-0500 (Eastern Standard Time)
 
                     - Viz participants also adopted more language from the examples they curated.
 
-                        - [[contextualize]] could help [[combine & integrate]] similar examples which is one level lower
+                        - [[contextualize]]
 
                         - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fmegacoglab%2F49BxUOijF4.png?alt=media&token=33ebfa81-0f4d-40f6-9e49-4ad8d3759d60)
 

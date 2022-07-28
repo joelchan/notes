@@ -2,7 +2,7 @@
 title: @clementEffectStructuralEmbedding1994
 url: https://roamresearch.com/#/app/megacoglab/page/wQF7J1HJ3
 author: Joel Chan
-date: Fri Jan 14 2022 11:39:53 GMT-0500 (Eastern Standard Time)
+date: Sat Jan 15 2022 00:39:53 GMT+0800 (Malaysia Time)
 ---
 
 - Title:: Effect of structural embedding on analogical transfer: Manifest versus latent analogs
@@ -12,7 +12,7 @@ date: Fri Jan 14 2022 11:39:53 GMT-0500 (Eastern Standard Time)
 - Publication:: The American Journal of Psychology
 - Date Added:: [[July 31st, 2021]]
 - Zotero links:: [Local library](zotero://select/groups/2451508/items/7BEX394K), [Local library](https://www.zotero.org/groups/2451508/items/7BEX394K)
-- Tags:: #[[Analogy]], #[[Memory]], #[[PROBLEM solving]], #[[Processed]], #[[Representation]], #[[Retrieval/transfer]]
+- Tags:: [[Analogy]]
 - PDF links : [Clement_1994_Effect of structural embedding on analogical transfer.pdf](zotero://open-pdf/groups/2451508/items/XGNXVT63)
 - [[Notes]]
 

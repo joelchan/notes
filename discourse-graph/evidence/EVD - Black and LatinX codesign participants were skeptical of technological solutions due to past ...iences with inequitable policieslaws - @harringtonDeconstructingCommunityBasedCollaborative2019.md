@@ -2,7 +2,7 @@
 title: [[EVD]] - Black and LatinX codesign participants were skeptical of technological solutions due to past negative experiences with inequitable policies/laws - [[@harringtonDeconstructingCommunityBasedCollaborative2019]]
 url: https://roamresearch.com/#/app/megacoglab/page/L4sG8K1Se
 author: Joel Chan
-date: Tue Jun 08 2021 15:48:46 GMT-0400 (Eastern Daylight Time)
+date: Wed Jun 09 2021 03:48:46 GMT+0800 (Malaysia Time)
 ---
 
 - noteType:: [[EVD]]
@@ -25,7 +25,7 @@ date: Tue Jun 08 2021 15:48:46 GMT-0400 (Eastern Daylight Time)
 
     - ## Metadata::
 
-        - author:: [[Joel Chan]] [[AJ Rudd Jr]]
+        - author:: [[Joel Chan]]
 
 ###### Discourse Context
 

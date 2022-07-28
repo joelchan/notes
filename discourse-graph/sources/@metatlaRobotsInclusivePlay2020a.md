@@ -2,16 +2,16 @@
 title: @metatlaRobotsInclusivePlay2020a
 url: https://roamresearch.com/#/app/megacoglab/page/3uIZHCwMJ
 author: Joel Chan
-date: Fri May 14 2021 11:27:45 GMT-0400 (Eastern Daylight Time)
+date: Fri May 14 2021 23:27:45 GMT+0800 (Malaysia Time)
 ---
 
-- #[[references]]
+- [[references]]
 
     - Title: Robots for inclusive play: Co-designing an educational game with visually impaired and sighted children
 
     - Meta:
 
-        - Authored by:: [[Oussama Metatla]] [[Sandra Bardot]] [[Clare Cullen]] [[Marcos Serrano]] [[Christophe Jouffrais]]
+        - Authored by:: [[Oussama Metatla]]
 
         - Year: [[2020]]
 

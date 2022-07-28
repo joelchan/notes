@@ -2,14 +2,14 @@
 title: [[EVD]] - Older adults found it difficult to engage productively with a design topic around personal security, despite engaging productively with two other topics - [[@lindsayEngagingOlderPeople2012b]]
 url: https://roamresearch.com/#/app/megacoglab/page/oWSz6Wn2E
 author: Joel Chan
-date: Tue Jun 29 2021 14:59:16 GMT-0400 (Eastern Daylight Time)
+date: Wed Jun 30 2021 02:59:16 GMT+0800 (Malaysia Time)
 ---
 
 - Summary::
 
     - Older adults found it difficult to engage productively with a design topic around personal security
 
-    - For example, video prompts, which [worked well for a few other topics]([[[[EVD]] - Older adults responded well to the use of video prompts to frame discussion about invisible future technologies - [[@lindsayEngagingOlderPeople2012b]]]]), didn't work well for one case (personal security) when they used TV characters instead of older adults: participants said "that for me is not serious"
+    - For example, video prompts, which [worked well for a few other topics]([[EVD - Older adults responded well to the use of video prompts to frame discussion about invisible future technologies - @lindsayEngagingOlderPeople2012b]]
 
         - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fmegacoglab%2Fy-daMe3d01.png?alt=media&token=577849e0-bf07-4c5d-a0c8-3af8aaf40972) (p. 1204)
 
@@ -17,7 +17,7 @@ date: Tue Jun 29 2021 14:59:16 GMT-0400 (Eastern Daylight Time)
 
         - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fmegacoglab%2FxMnEzXRe4A.png?alt=media&token=c784a3f5-e60d-49b8-a802-6eb721917d00) (p. 1206)
 
-        - cc [[[[EVD]] - Sex trafficking survivors shared concerns about painful experiences from writing their stories in design exercises. A future-focused photo elicitation method seemed to be a viable alternative - @gautamParticipatoryTensionsWorking2018]]
+        - cc [[EVD - Sex trafficking survivors shared concerns about painful experiences from writing their storie... elicitation method seemed to be a viable alternative - @gautamParticipatoryTensionsWorking2018]]
 
         - the authors seem to think that making the groups smaller could be a way to manage this when working with sensitive topics
 
@@ -30,13 +30,13 @@ date: Tue Jun 29 2021 14:59:16 GMT-0400 (Eastern Daylight Time)
             - this coudl definitely be in tension wtih teh goal of breadth/diversity - needing smaller groups especially with marginalized populations due to extra attentino needed for managing dynamics???
 - ## **Grounding Context**
 
-    - Research team tested a new design approach, the [[sys/OASIS design approach]] with a set of older adults, aimed at three domains: 1) designing digital technology to promote healthy eating, 2) personal mobility, and 3) promoting feelings of personal security in the home.
+    - Research team tested a new design approach, the [[sysOASIS design approach]]
 
     - Their focus on older adults was to work with the full range of diversity of the 65+ age group. The researchers did not report specific demographic statistics or information about the older adults they worked with (from which their results are based), but they did report that their sample was more mobile than the typical older population
 
         - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fmegacoglab%2FRX16bKrAk8.png?alt=media&token=3f4ae0cc-bcdd-4f34-b1b9-c24ac5d08afc) (p. 1203)
 
-    - The Video Prompt method is based on an "invisible design" story format that never actually shows a specific device or discusses it. It is similar to the [[sys/ContraVision]] method
+    - The Video Prompt method is based on an "invisible design" story format that never actually shows a specific device or discusses it. It is similar to the [[sysContraVision]]
 
         - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fmegacoglab%2FeIK7Eb_5Ev.png?alt=media&token=00b9f220-e57b-4f17-b301-940c267976ec) (p. 1203)
 

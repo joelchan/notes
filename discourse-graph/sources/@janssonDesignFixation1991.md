@@ -2,16 +2,16 @@
 title: @janssonDesignFixation1991
 url: https://roamresearch.com/#/app/megacoglab/page/cQqRLeF43
 author: Joel Chan
-date: Sat Dec 26 2020 21:47:48 GMT-0500 (Eastern Standard Time)
+date: Sun Dec 27 2020 10:47:48 GMT+0800 (Malaysia Time)
 ---
 
-- #[[references]]
+- [[references]]
 
     - Title: Design fixation
 
     - Meta:
 
-        - Authored by:: [[David G. Jansson]] [[Steven M. Smith]]
+        - Authored by:: [[David G. Jansson]]
 
         - Year: [[1991]]
 
@@ -33,7 +33,7 @@ date: Sat Dec 26 2020 21:47:48 GMT-0500 (Eastern Standard Time)
 
             - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fmegacoglab%2FlEKKUH0AgG.png?alt=media&token=2195f007-4538-470a-a30a-63d15adf87a7)
 
-            - Earlier version of the paper (presumably) published as a conference paper in [[1988]] (about 3 years prior), which suggests the work was done in mid-1980's
+            - Earlier version of the paper (presumably) published as a conference paper in [[1988]]
 
         - citation classic: ~1300 [citations on google scholar](https://scholar.google.com/scholar?cites=1705592259695927703&as_sdt=20000005&sciodt=0,21&hl=en) as of [[December 26th, 2020]]
 
@@ -125,13 +125,13 @@ date: Sat Dec 26 2020 21:47:48 GMT-0500 (Eastern Standard Time)
 
                 - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fmegacoglab%2FILQC_YZwmr.png?alt=media&token=ef711238-26ab-4c61-ab4c-cbc2f9aabc3a) (p. 10)
 
-    - #[[📝 lit-notes]]
+    - [[📝 lit-notes]]
 
         - [Across]([Senior mechanical engineering students](((L9Pert3wW))) who [were shown an example](((wifdfiVqs))) (flawed, with flaws stated) design for a bike rack were approximately 2X more likely to [include key features from the example design](((EhzLUIP8e))) in [their own brainstormed designs](((I6nlnuhu7))), compared to students who didn't see the example; both sets of students generated similar numbers of total design ideas) [three](((JQTZ6O5dx))) [experiments](((piMY5G8cZ))), undergrad design students who were shown an example design were about 2X more likely to include features from that design in their own ideas, even though the design was flawed (and in one case, explicitly pointed out as a flaw), compared to students who didn't see an example. Basically [the same pattern](((qHXeIGhad))) was found with professional engineers.
 
-        - #FinishedReading for [[[[QUE]] - What is the relationship between prior knowledge and new ideas?]]
+        - #FinishedReading for [[QUE - What is the relationship between prior knowledge and new ideas]]
 
-            - [[[[EVD]] - design students transferred flawed features from an example even though the flaws were described as negative - [[@janssonDesignFixation1991]]]]
+            - [[EVD - design students transferred flawed features from an example even though the flaws were described as negative - @janssonDesignFixation1991]]
 
                 - #appraisal NOTE: the N is really small (~12 per cell in a between-subjects), and we aren't given information about the coding procedure (why these three features of the example design? who coded them, with what reliability?), and no statistics are run, so by itself this isn't very strong result.
 
@@ -143,19 +143,19 @@ date: Sat Dec 26 2020 21:47:48 GMT-0500 (Eastern Standard Time)
 
                 - #appraisal similar [criticism](#appraisal NOTE: the N is really small (~12 per cell in a between-subjects), and we aren't given information about the coding procedure (why these three features of the example design? who coded them, with what reliability?), and no statistics are run, so by itself this isn't very strong result. ) to results from experiment 1, although [a bit stronger](((TrqoO_qiF)))!
 
-                - #[[🧱 fixation]]
+                - [[🧱 fixation]]
 
             - [Senior mechanical engineering students](participants: 35 seniors in mechE design course at Texas A&M) who [were shown an example](((auNuxzU1Y))) (flawed, but flaws not stated) design for a disposable coffee cup were approximately 2X more likely to include key features from the example design in [their own brainstormed designs](((wLEsG3chK))), compared to students who didn't see the example; both sets of students generated similar numbers of total design ideas, although the flexibility and originality scores were very slightly (numerically) lower for students who saw the example
 
                 - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fmegacoglab%2FGgR5cb6UDv.png?alt=media&token=a92c4795-9d8d-41b5-a62e-4cfe5a8514e9) (p. 9)
 
-                - #[[🧱 fixation]]
+                - [[🧱 fixation]]
 
             - [Professional structural design engineers](participants: 13 professional structural design engineers in a major corporation in Forth Worth, TX) who [were shown an example](((XNP7iOLs5))) (flawed, but flaws not stated) design for a disposable coffee cup were approximately 2X more likely to include key features from the example design in [their own brainstormed designs](((vlqhHRHsI))), compared to engineers who didn't see the example; both sets of engineers generated similar numbers of total design ideas
 
                 ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fmegacoglab%2FUnLJsJvA5t.png?alt=media&token=0496139c-d400-4b13-bf08-03eb9be5d697)
 
-                #[[🧱 fixation]]
+                [[🧱 fixation]]
 
 ###### Discourse Context
 

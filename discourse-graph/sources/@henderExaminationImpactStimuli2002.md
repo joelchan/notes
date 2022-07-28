@@ -2,16 +2,16 @@
 title: @henderExaminationImpactStimuli2002
 url: https://roamresearch.com/#/app/megacoglab/page/8asqqn-W4
 author: Joel Chan
-date: Fri Oct 30 2020 15:38:39 GMT-0400 (Eastern Daylight Time)
+date: Sat Oct 31 2020 03:38:39 GMT+0800 (Malaysia Time)
 ---
 
-- #[[references]]
+- [[references]]
 
     - Title: An Examination of the Impact of Stimuli Type and GSS Structure on Creativity: Brainstorming Versus Non-Brainstorming Techniques in a GSS Environment.
 
     - Meta:
 
-        - Authored by:: [[Jillian M. Hender]] [[Douglas L. Dean]] [[Thomas L. Rodgers]] [[F. F. Jay]]
+        - Authored by:: [[Jillian M. Hender]]
 
         - Year: [[2002]]
 

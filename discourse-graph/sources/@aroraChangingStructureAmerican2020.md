@@ -2,7 +2,7 @@
 title: @aroraChangingStructureAmerican2020
 url: https://roamresearch.com/#/app/megacoglab/page/cVu2HhsGV
 author: Joel Chan
-date: Tue Jul 14 2020 11:30:26 GMT-0400 (Eastern Daylight Time)
+date: Tue Jul 14 2020 23:30:26 GMT+0800 (Malaysia Time)
 ---
 
 - #references
@@ -13,7 +13,7 @@ date: Tue Jul 14 2020 11:30:26 GMT-0400 (Eastern Daylight Time)
 
         - Tags: #ref/Paper
 
-        - Authored by::  [[Ashish Arora]] ,  Sharon Belenzon ,  Andrea Patacconi ,  Jungkyu Suh
+        - Authored by::  [[Ashish Arora]]
 
         - Year: [[2020]]
 

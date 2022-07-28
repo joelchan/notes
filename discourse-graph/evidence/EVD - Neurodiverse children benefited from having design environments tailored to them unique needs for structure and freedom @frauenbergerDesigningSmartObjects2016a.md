@@ -2,7 +2,7 @@
 title: [[EVD]] - Neurodiverse children benefited from having design environments tailored to them unique needs for structure and freedom [[@frauenbergerDesigningSmartObjects2016a]]
 url: https://roamresearch.com/#/app/megacoglab/page/pb64CWM_I
 author: Sarah DiPasquale
-date: Sat Jun 26 2021 09:48:17 GMT-0400 (Eastern Daylight Time)
+date: Sat Jun 26 2021 21:48:17 GMT+0800 (Malaysia Time)
 ---
 
 - noteType:: [[EVD]]
@@ -25,7 +25,7 @@ date: Sat Jun 26 2021 09:48:17 GMT-0400 (Eastern Daylight Time)
 
     - ## **Discourse Context**
 
-        - [[[[QUE]] - What tension points exist between the goals of diversity and depth of user participation in participatory design?]]
+        - [[QUE - What tension points exist between the goals of diversity and depth of user participation in participatory design]]
 
     - ## Metadata::
 

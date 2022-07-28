@@ -2,7 +2,7 @@
 title: @mitchellCanGPT3Make2020
 url: https://roamresearch.com/#/app/megacoglab/page/RjXoWrCDA
 author: Joel Chan
-date: Wed Nov 10 2021 11:41:32 GMT-0500 (Eastern Standard Time)
+date: Thu Nov 11 2021 00:41:32 GMT+0800 (Malaysia Time)
 ---
 
 - Title:: Can GPT-3 Make Analogies?

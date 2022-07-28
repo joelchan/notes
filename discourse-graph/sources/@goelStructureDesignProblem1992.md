@@ -2,7 +2,7 @@
 title: @goelStructureDesignProblem1992
 url: https://roamresearch.com/#/app/megacoglab/page/UqAz-H6DN
 author: Joel Chan
-date: Thu Aug 20 2020 01:59:25 GMT-0400 (Eastern Daylight Time)
+date: Thu Aug 20 2020 13:59:25 GMT+0800 (Malaysia Time)
 ---
 
 - #references
@@ -13,7 +13,7 @@ date: Thu Aug 20 2020 01:59:25 GMT-0400 (Eastern Daylight Time)
 
         - Tags: #ref/Paper
 
-        - Authored by::  [[Vinod Goel]] ,  [[Peter Pirolli]]
+        - Authored by::  [[Vinod Goel]]
 
         - Year: [[1992]]
 
@@ -35,11 +35,11 @@ date: Thu Aug 20 2020 01:59:25 GMT-0400 (Eastern Daylight Time)
 
         - studies are greatly expanded on book-length treatment (summarizing the dissertation work) in [[@goelSketchesThought1995]]
 
-    - #[[📝 lit-notes]]
+    - [[📝 lit-notes]]
 
         - the designers they studied returned to problem formulation activities throughout the design process, not just in the beginning of the process
 
-        - similar to [[@simonStructureIllStructured1973]] and [[@rittelDilemmasGeneralTheory1973]], lays out characteristics of [[Ill-structured problem]]s, specifically a set of dimensions on which to contrast them with [[well-structured problem]]s
+        - similar to [[@simonStructureIllStructured1973]]
 
             - distribution of information
 

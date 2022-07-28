@@ -2,16 +2,16 @@
 title: @inieHowInteractionDesigners2020
 url: https://roamresearch.com/#/app/megacoglab/page/Z4iVb_eC2
 author: Joel Chan
-date: Mon Nov 16 2020 17:38:46 GMT-0500 (Eastern Standard Time)
+date: Tue Nov 17 2020 06:38:46 GMT+0800 (Malaysia Time)
 ---
 
-- #[[references]]
+- [[references]]
 
     - Title: How Interaction Designers Use Tools to Manage Ideas
 
     - Meta:
 
-        - Authored by:: [[Nanna Inie]] [[Peter Dalsgaard]]
+        - Authored by:: [[Nanna Inie]]
 
         - Year: [[2020]]
 

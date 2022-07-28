@@ -2,16 +2,16 @@
 title: @ozkanCognitiveStrategiesAnalogical2013
 url: https://roamresearch.com/#/app/megacoglab/page/OJKD6los2
 author: Joel Chan
-date: Fri Jul 02 2021 22:21:24 GMT-0400 (Eastern Daylight Time)
+date: Sat Jul 03 2021 10:21:24 GMT+0800 (Malaysia Time)
 ---
 
-- #[[references]]
+- [[references]]
 
     - Title: Cognitive strategies of analogical reasoning in design: Differences between expert and novice designers
 
     - Meta:
 
-        - Authored by:: [[Ozgu Ozkan]] [[Fehmi Dogan]]
+        - Authored by:: [[Ozgu Ozkan]]
 
         - Year: [[2013]]
 

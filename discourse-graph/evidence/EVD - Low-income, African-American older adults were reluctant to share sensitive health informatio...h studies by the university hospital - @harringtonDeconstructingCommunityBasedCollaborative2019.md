@@ -2,7 +2,7 @@
 title: [[EVD]] - Low-income, African-American older adults were reluctant to share sensitive health information bc of past mistreatment in research studies by the university hospital - [[@harringtonDeconstructingCommunityBasedCollaborative2019]]
 url: https://roamresearch.com/#/app/megacoglab/page/xAnC0u3Cx
 author: Joel Chan
-date: Tue Jun 08 2021 15:44:35 GMT-0400 (Eastern Daylight Time)
+date: Wed Jun 09 2021 03:44:35 GMT+0800 (Malaysia Time)
 ---
 
 - noteType:: [[EVD]]

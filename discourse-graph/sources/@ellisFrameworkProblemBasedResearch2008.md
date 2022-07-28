@@ -2,7 +2,7 @@
 title: @ellisFrameworkProblemBasedResearch2008
 url: https://roamresearch.com/#/app/megacoglab/page/C5cbHACTo
 author: Joel Chan
-date: Thu Feb 27 2020 14:38:54 GMT-0500 (Eastern Standard Time)
+date: Fri Feb 28 2020 03:38:54 GMT+0800 (Malaysia Time)
 ---
 
 - #references
@@ -11,9 +11,9 @@ date: Thu Feb 27 2020 14:38:54 GMT-0500 (Eastern Standard Time)
 
     - Meta
 
-        - Tags: #[[references]] #[[P/Teach INST 888]] #[[problem (re)formulation]]
+        - Tags: [[references]]
 
-        - Authored by::  [[Timothy J. Ellis]] ,  Yair Levy
+        - Authored by::  [[Timothy J. Ellis]]
 
         - Year: [[2008]]
 
@@ -21,7 +21,7 @@ date: Thu Feb 27 2020 14:38:54 GMT-0500 (Eastern Standard Time)
 
     - #lit-context
 
-    - #[[📝 lit-notes]]
+    - [[📝 lit-notes]]
 
         - A problem statement describes and argues for the research-worthiness of a research problem (p.27)
 

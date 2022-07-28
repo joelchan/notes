@@ -2,7 +2,7 @@
 title: @tenchLiteratureReviewZettelkasten2018
 url: https://roamresearch.com/#/app/megacoglab/page/10KyBIp1y
 author: Joel Chan
-date: Tue Jun 23 2020 16:04:03 GMT-0400 (Eastern Daylight Time)
+date: Wed Jun 24 2020 04:04:03 GMT+0800 (Malaysia Time)
 ---
 
 - #references
@@ -25,7 +25,7 @@ date: Tue Jun 23 2020 16:04:03 GMT-0400 (Eastern Daylight Time)
 
     - Content
 
-        - {{[[youtube]]: https://www.youtube.com/watch?v=IOWLOMGFAEw&t=244s}}
+        - {{[[youtube]]
 
 ###### Discourse Context
 

@@ -2,16 +2,16 @@
 title: [[CLM]] - Inspiration favors the prepared mind
 url: https://roamresearch.com/#/app/megacoglab/page/KXSSU8GJw
 author: Joel Chan
-date: Tue May 19 2020 23:12:51 GMT-0400 (Eastern Daylight Time)
+date: Wed May 20 2020 11:12:51 GMT+0800 (Malaysia Time)
 ---
 
-- #[[🌲 zettels]]
+- [[🌲 zettels]]
 
     - Tags:
 
     - Description
 
-        - Instantiated by [[[[THE]] - Opportunistic Assimilation Theory]]
+        - Instantiated by [[THE - Opportunistic Assimilation Theory]]
 
     - R-Sources
 

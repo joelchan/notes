@@ -2,10 +2,10 @@
 title: @gentnerStructureMappingAnalogy1997
 url: https://roamresearch.com/#/app/megacoglab/page/n3vQ54ceX
 author: Joel Chan
-date: Fri Sep 18 2020 11:10:11 GMT-0400 (Eastern Daylight Time)
+date: Fri Sep 18 2020 23:10:11 GMT+0800 (Malaysia Time)
 ---
 
-- #[[📝 lit-notes]]
+- [[📝 lit-notes]]
 
     - Proposed a 2 x 2 between relational and attribute similarity, to understand how analogies relate to other kinds of similarity
 

@@ -2,18 +2,18 @@
 title: @helmsCompoundAnalogicalDesign2008
 url: https://roamresearch.com/#/app/megacoglab/page/5hRkfCeMS
 author: Joel Chan
-date: Wed Sep 09 2020 21:57:16 GMT-0400 (Eastern Daylight Time)
+date: Thu Sep 10 2020 09:57:16 GMT+0800 (Malaysia Time)
 ---
 
-- #[[references]]
+- [[references]]
 
     - Title: Compound analogical design, or how to make a surfboard disappear
 
     - Meta:
 
-        - Tags: #ref/Paper #[[D/Computational Analogy]] #[[Biologically Inspired Design]] #analogy
+        - Tags: #ref/Paper [[DComputational Analogy]]
 
-        - Authored by:: [[M. E. Helms]] [[S. Vattam]] [[A. K. Goel]]
+        - Authored by:: [[M. E. Helms]]
 
         - Year: [[2008]]
 
@@ -49,13 +49,13 @@ date: Wed Sep 09 2020 21:57:16 GMT-0400 (Eastern Daylight Time)
 
             - analysis: not described. #appraisal/caution
 
-    - #[[📝 lit-notes]]
+    - [[📝 lit-notes]]
 
-        - for [[[[THE]] - interaction-oriented theory of creative inspiration from examples]]
+        - for [[THE - interaction-oriented theory of creative inspiration from examples]]
 
             - results
 
-                - [[[[EVD]] - Engineering design students used multiple cross-domain analogies to fulfill design needs, and they could use analogies to get inspiration of how to decompose the problem and find new analogies. - [[@helmsCompoundAnalogicalDesign2008]]]]
+                - [[EVD - Engineering design students used multiple cross-domain analogies to fulfill design needs, and...on of how to decompose the problem and find new analogies. - @helmsCompoundAnalogicalDesign2008]]
 
 ###### Discourse Context
 

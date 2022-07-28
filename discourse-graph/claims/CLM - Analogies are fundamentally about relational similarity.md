@@ -2,12 +2,12 @@
 title: [[CLM]] - Analogies are fundamentally about relational similarity
 url: https://roamresearch.com/#/app/megacoglab/page/B9PP4d1A8
 author: Joel Chan
-date: Sat Nov 28 2020 16:18:52 GMT-0500 (Eastern Standard Time)
+date: Sun Nov 29 2020 05:18:52 GMT+0800 (Malaysia Time)
 ---
 
-- #[[🌲 zettels]] #[[Z]]
+- [[🌲 zettels]]
 
-    - Tags: #[[D/Computational Analogy]]
+    - Tags: [[DComputational Analogy]]
 
     - R-Sources
 

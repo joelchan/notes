@@ -2,7 +2,7 @@
 title: @cowanMagicalNumberShortterm2000
 url: https://roamresearch.com/#/app/megacoglab/page/U2ux1KqqF
 author: Joel Chan
-date: Tue Feb 04 2020 08:01:56 GMT-0500 (Eastern Standard Time)
+date: Tue Feb 04 2020 21:01:56 GMT+0800 (Malaysia Time)
 ---
 
 

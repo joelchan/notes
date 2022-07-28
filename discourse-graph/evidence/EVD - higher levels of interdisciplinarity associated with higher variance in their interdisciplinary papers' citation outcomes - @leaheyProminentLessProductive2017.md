@@ -2,7 +2,7 @@
 title: [[EVD]] - higher levels of interdisciplinarity associated with higher variance in their interdisciplinary papers' citation outcomes - [[@leaheyProminentLessProductive2017]]
 url: https://roamresearch.com/#/app/megacoglab/page/C5L_KQ5fy
 author: Joel Chan
-date: Mon Aug 09 2021 12:06:26 GMT-0400 (Eastern Daylight Time)
+date: Tue Aug 10 2021 00:06:26 GMT+0800 (Malaysia Time)
 ---
 
 - Summary::

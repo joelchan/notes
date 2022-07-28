@@ -2,16 +2,16 @@
 title: @tauraDesignSpaceBlending2005
 url: https://roamresearch.com/#/app/megacoglab/page/MuMZmY7DA
 author: Joel Chan
-date: Thu Aug 12 2021 23:17:05 GMT-0400 (Eastern Daylight Time)
+date: Fri Aug 13 2021 11:17:05 GMT+0800 (Malaysia Time)
 ---
 
-- #[[references]]
+- [[references]]
 
     - Title: Design Space Blending–A Key for Creative Design
 
     - Meta:
 
-        - Authored by:: [[Toshiharu Taura]] [[Yukari Nagai]] [[Shinji Tanaka]]
+        - Authored by:: [[Toshiharu Taura]]
 
         - Year: [[2005]]
 

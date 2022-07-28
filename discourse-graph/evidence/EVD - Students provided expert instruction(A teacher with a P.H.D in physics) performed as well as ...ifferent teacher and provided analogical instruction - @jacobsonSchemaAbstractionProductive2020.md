@@ -2,7 +2,7 @@
 title: [[EVD]] - Students provided expert instruction(A teacher with a P.H.D in physics) performed as well as groups given the same instruction by a different teacher and provided analogical instruction - [[@jacobsonSchemaAbstractionProductive2020]]
 url: https://roamresearch.com/#/app/megacoglab/page/zwlHilzun
 author: AJ Rudd
-date: Tue Jan 18 2022 10:45:02 GMT-0500 (Eastern Standard Time)
+date: Tue Jan 18 2022 23:45:02 GMT+0800 (Malaysia Time)
 ---
 
 - # Summary

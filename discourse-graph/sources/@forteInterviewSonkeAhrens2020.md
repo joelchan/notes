@@ -2,12 +2,12 @@
 title: @forteInterviewSonkeAhrens2020
 url: https://roamresearch.com/#/app/megacoglab/page/vr2gcAS42
 author: Joel Chan
-date: Tue Jun 23 2020 16:04:59 GMT-0400 (Eastern Daylight Time)
+date: Wed Jun 24 2020 04:04:59 GMT+0800 (Malaysia Time)
 ---
 
 - #references
 
-    - Title: Interview and Q\&A with [[Sönke Ahrens]] on How to Take Smart Notes
+    - Title: Interview and Q\&A with [[Sönke Ahrens]]
 
     - Meta:
 
@@ -25,7 +25,7 @@ date: Tue Jun 23 2020 16:04:59 GMT-0400 (Eastern Daylight Time)
 
     - Content
 
-        - {{[[youtube]]: https://www.youtube.com/watch?v=kXnR7qX3BDc&t=1011s}}
+        - {{[[youtube]]
 
 ###### Discourse Context
 

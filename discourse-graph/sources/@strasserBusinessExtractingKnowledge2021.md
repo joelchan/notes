@@ -2,7 +2,7 @@
 title: @strasserBusinessExtractingKnowledge2021
 url: https://roamresearch.com/#/app/megacoglab/page/zUso-Y9kZ
 author: Joel Chan
-date: Sun Dec 26 2021 21:00:52 GMT-0500 (Eastern Standard Time)
+date: Mon Dec 27 2021 10:00:52 GMT+0800 (Malaysia Time)
 ---
 
 - https://markusstrasser.org/extracting-knowledge-from-literature/

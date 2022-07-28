@@ -2,7 +2,7 @@
 title: @harrisonMakingEpistemologicalTrouble2011
 url: https://roamresearch.com/#/app/megacoglab/page/a0on4Pp4V
 author: Joel Chan
-date: Sun Jul 12 2020 22:09:23 GMT-0400 (Eastern Daylight Time)
+date: Mon Jul 13 2020 10:09:23 GMT+0800 (Malaysia Time)
 ---
 
 - #references
@@ -13,7 +13,7 @@ date: Sun Jul 12 2020 22:09:23 GMT-0400 (Eastern Daylight Time)
 
         - Tags: #ref/Paper
 
-        - Authored by::  [[Steve Harrison]] ,  Phoebe Sengers ,  [[Deborah Tatar]]
+        - Authored by::  [[Steve Harrison]]
 
         - Year: [[2011]]
 

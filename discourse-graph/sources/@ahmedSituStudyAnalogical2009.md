@@ -2,16 +2,16 @@
 title: @ahmedSituStudyAnalogical2009
 url: https://roamresearch.com/#/app/megacoglab/page/aYrIelQbD
 author: Joel Chan
-date: Fri Jul 02 2021 22:21:24 GMT-0400 (Eastern Daylight Time)
+date: Sat Jul 03 2021 10:21:24 GMT+0800 (Malaysia Time)
 ---
 
-- #[[references]]
+- [[references]]
 
     - Title: An In Situ Study of Analogical Reasoning in Novice and Experienced Design Engineers
 
     - Meta:
 
-        - Authored by:: [[S. Ahmed]] [[B. T. Christensen]]
+        - Authored by:: [[S. Ahmed]]
 
         - Year: [[2009]]
 

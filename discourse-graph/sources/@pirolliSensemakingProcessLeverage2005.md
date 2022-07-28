@@ -2,16 +2,16 @@
 title: @pirolliSensemakingProcessLeverage2005
 url: https://roamresearch.com/#/app/megacoglab/page/rFmimVedt
 author: Joel Chan
-date: Wed Feb 12 2020 17:25:21 GMT-0500 (Eastern Standard Time)
+date: Thu Feb 13 2020 06:25:21 GMT+0800 (Malaysia Time)
 ---
 
-- #[[references]]
+- [[references]]
 
     - Title: The sensemaking process and leverage points for analyst technology as identified through cognitive task analysis
 
     - Meta:
 
-        - Authored by:: [[Peter Pirolli]] [[Stuart Card]]
+        - Authored by:: [[Peter Pirolli]]
 
         - Year: [[2005]]
 
@@ -30,9 +30,9 @@ date: Wed Feb 12 2020 17:25:21 GMT-0500 (Eastern Standard Time)
 
     - Title: The Cost Structure of Sensemaking
 
-    - Authored by::[[Peter Pirolli]] and [[Stuart K. Card]]
+    - Authored by::[[Peter Pirolli]]
 
-        - Tags:: #[[references]] #[[D/Synthesis Infrastructure]]
+        - Tags:: [[references]]
 
     - Year: 2005
 
@@ -46,7 +46,7 @@ date: Wed Feb 12 2020 17:25:21 GMT-0500 (Eastern Standard Time)
     - #canonical paper for sensemaking, mostly for [[Notional Model of Sensemaking]]
 - Notes/claims
 
-    - [[Notional Model of Sensemaking]] in intelligence analysis has a looping structure that loops both between and within foraging and sensemaking loops, and progressively increases in both structure and effort, starting from raw data sources and culminating in a synthesized set of hypotheses #[[📝 lit-notes]] (p3)
+    - [[Notional Model of Sensemaking]]
 
         - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fmegacoglab%2Fmc0kri3kHD?alt=media&token=d576ef0b-d645-4b26-b4a1-0d0dee53ffe3)
 

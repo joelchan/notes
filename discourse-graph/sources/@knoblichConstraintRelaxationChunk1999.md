@@ -2,16 +2,16 @@
 title: @knoblichConstraintRelaxationChunk1999
 url: https://roamresearch.com/#/app/megacoglab/page/DrY6C0hp6
 author: Joel Chan
-date: Fri Feb 28 2020 21:57:05 GMT-0500 (Eastern Standard Time)
+date: Sat Feb 29 2020 10:57:05 GMT+0800 (Malaysia Time)
 ---
 
-- #[[references]]
+- [[references]]
 
     - Title: Constraint relaxation and chunk decomposition in insight problem solving
 
     - Meta:
 
-        - Authored by:: [[G. Knoblich]] [[S. Ohlsson]] [[H. Haider]] [[D. Rhenius]]
+        - Authored by:: [[G. Knoblich]]
 
         - Year: [[1999]]
 
@@ -32,25 +32,25 @@ date: Fri Feb 28 2020 21:57:05 GMT-0500 (Eastern Standard Time)
 
     - Meta
 
-        - Tags: [[D/Solution-Diversity]] [[D/Synthesis Infrastructure]] [[D/Computational Analogy]]
+        - Tags: [[DSolution-Diversity]]
 
-        - Authored by::  [[Gunther Knoblich]] ,  [[Stellan Ohlsson]] ,  H. Haider ,  D. Rhenius
+        - Authored by::  [[Gunther Knoblich]]
 
         - Year: [[1999]]
 
-        - Publication: [[Journal of Experimental Psychology: Learning, Memory, and Cognition]]
+        - Publication: [[Journal of Experimental Psychology Learning, Memory, and Cognition]]
 
     - #lit-context
 
-        - [[Stellan Ohlsson]] is prominent authority on [[Insight problem solving]]
+        - [[Stellan Ohlsson]]
 
         - Design: have people do two blocks: in second block people got a lot btter, so probably best to consider block 1 to really feel out the ffects of problem types
 
             - Vary problem difficulty by varying constraint hardness and chunk tightness, both together and independently
 
-    - #[[📝 lit-notes]]
+    - [[📝 lit-notes]]
 
-        - Two key mechanisms proposed for overcoming [[Impasses]] (aka [[🧱 fixation]], which is diagnosed as a suboptimal [[problem (re)formulation]]): 1) [[constraint relaxation]], and [[chunk decomposition]]
+        - Two key mechanisms proposed for overcoming [[Impasses]]
 
             - If constraints are not considered explicitly, possible to over/under-constrain problem representation (through implicit reminding) (p. 1535)
 
@@ -60,21 +60,21 @@ date: Fri Feb 28 2020 21:57:05 GMT-0500 (Eastern Standard Time)
 
                 - Therefore, if problem solver is able to relax unnecessary constraints, they can find a problem representation that admits solution, and overcome the impasse
 
-            - Argument for [[chunk decomposition]] as a mechanism of breaking [[🧱 fixation]] and [[Impasses]]
+            - Argument for [[chunk decomposition]]
 
                 - People create chunks to organize experience.
 
-                - Encountering a novel problem activates some chunks from past experiences. Not all of them will be helpful; and some will be actively unhelpful. And some will need to be decomposed ([[compression]] reversed??)
+                - Encountering a novel problem activates some chunks from past experiences. Not all of them will be helpful; and some will be actively unhelpful. And some will need to be decomposed ([[compression]]
 
                 - Decomposing is harder for "tighter" chunks: where the components are not (obviously) meaningful units on their own
 
                 - Thus, problems with tight chunks are harder to solve.
 
-            - Evidence for this: [[[[EVD]] - People were ~2x worse at solving matchstick arithmetic problems when the elements were harder to decompose into chunks - [[@knoblichConstraintRelaxationChunk1999]]]] when they made it harder to decompose chunks (even with identical constraint types), people were about half as likely to solve the problem (p. 1540).
+            - Evidence for this: [[EVD - People were ~2x worse at solving matchstick arithmetic problems when the elements were harder to decompose into chunks - @knoblichConstraintRelaxationChunk1999]]
 
                 - Said another way
 
-                    - Impeding [[chunk decomposition]] makes it harder to overcome [[Impasses]] during [[Insight problem solving]]
+                    - Impeding [[chunk decomposition]]
 
                         - Possible context
 
@@ -114,21 +114,21 @@ date: Fri Feb 28 2020 21:57:05 GMT-0500 (Eastern Standard Time)
 
                             - https://iccm-conference.neocities.org/2012/proceedings/papers/0033/paper0033.pdf
 
-                            - supported-by:: [[@zhangChunkDecompositionContributes2015]] [[@wellerInteractiveInsightProblem2011]]
+                            - supported-by:: [[@zhangChunkDecompositionContributes2015]]
 
             - What are chunks??
 
-                - "chunks" for Knoblich are *not* similar to [[Design Patterns]] or [[Frames]] - they are more like visual features, that exist at multiple levels of hierarachies. (cf.
+                - "chunks" for Knoblich are *not* similar to [[Design Patterns]]
 
-                - Knoblich characterizes [[Chunk]]s as #> "patterns that capture recurring constellations of features or components" (p. 1535)
+                - Knoblich characterizes [[Chunk]]
 
                     - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fmegacoglab%2F_jL1XWtx0l.png?alt=media&token=85dd6f16-4814-40d4-975f-114c303aaddc)
 
-                - To [[@chaseMindEyeChess1973]] on the idea of [[Chunking]] as a mechanism for expert performance #expertise
+                - To [[@chaseMindEyeChess1973]]
 
-                    - Which itself goes back fruther to [[de Groot]], back in the mid-1960's
+                    - Which itself goes back fruther to [[de Groot]]
 
-                    - Be careful, though! Their idea of [[Chunking]] is closer to the idea of [[compression]] - packing a huge amount of information into a smaller unit, abstracting away a lot of things.
+                    - Be careful, though! Their idea of [[Chunking]]
 
         - Observed some transfer effects across blocks: once you see a constraint relaxed or decompose a chunk, a later problem that .
 

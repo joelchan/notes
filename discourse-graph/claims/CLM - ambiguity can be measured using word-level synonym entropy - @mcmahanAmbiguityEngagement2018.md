@@ -2,11 +2,11 @@
 title: [[CLM]] - ambiguity can be measured using word-level synonym entropy - [[@mcmahanAmbiguityEngagement2018]]
 url: https://roamresearch.com/#/app/megacoglab/page/fuiq6Vyxt
 author: Joel Chan
-date: Mon Jul 12 2021 12:39:18 GMT-0400 (Eastern Daylight Time)
+date: Tue Jul 13 2021 00:39:18 GMT+0800 (Malaysia Time)
 ---
 
 
 
 ###### Discourse Context
 
-- **Supports::** [[CLM - ambiguity in scholarly communication facilitates within- and cross-field integration of discourse - @mcmahanAmbiguityEngagement2018]]
+- **Supported By::** [[EVD - LDA-powered measure of ambiguity significantly predicted crowd workers' judgment of sentence ambiguity - @mcmahanAmbiguityEngagement2018]]

@@ -2,7 +2,7 @@
 title: @luceroFramingAligningParadoxing2012
 url: https://roamresearch.com/#/app/megacoglab/page/tehRlItDh
 author: Joel Chan
-date: Wed Jun 15 2022 10:19:42 GMT-0400 (Eastern Daylight Time)
+date: Wed Jun 15 2022 22:19:42 GMT+0800 (Malaysia Time)
 ---
 
 - Meta
@@ -23,15 +23,15 @@ date: Wed Jun 15 2022 10:19:42 GMT-0400 (Eastern Daylight Time)
 
     - Zotero links:: [Local library](zotero://select/groups/2451508/items/9YMG8S6Q), [Local library](https://www.zotero.org/groups/2451508/items/9YMG8S6Q)
 
-    - Tags:: #[[conceptual design]], #[[creativity]], #[[ideation]], #[[interaction design]]
+    - Tags:: [[conceptual design]]
 - ---
-- #[[📝 lit-notes]]
+- [[📝 lit-notes]]
 
-    - [[Joel Chan]] for [[[[THE]] - interaction-oriented theory of creative inspiration from examples]] |
+    - [[Joel Chan]]
 
         - #inspectionalread
 
-            - I think it's fine to think of [[[[PTN]] - design mood board]]s as a design pattern
+            - I think it's fine to think of [[PTN - design mood board]]
 
                 - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fmegacoglab%2FAZnaYuGyGJ.png?alt=media&token=66528564-91e2-4b4d-9d47-4a62504887d2) (p. 439)
 
@@ -41,19 +41,19 @@ date: Wed Jun 15 2022 10:19:42 GMT-0400 (Eastern Daylight Time)
 
             - Assorted reactions of interesting observations while they're fresh
 
-                - {{[[DONE]]}} Framing!! Used for framing!! And setting a design trajectory!!
+                - {{[[DONE]]
 
-                - {{[[DONE]]}} Mix of abstract and concrete, but this is NOT a property of the images (they are all *real*), but an emergent property of the discussion, under dynamic control of the designer!!!
+                - {{[[DONE]]
 
                     - Part of this is getting distance from the domain
 
                         - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fmegacoglab%2FdqLdy9Hva_.png?alt=media&token=28843a7f-5c03-46f1-b812-6d0a7838a0d3) (p. 444)
 
-                - {{[[DONE]]}} Juxtaposition for exploring conflicting ideas in a generative way!
+                - {{[[DONE]]
 
-                - {{[[DONE]]}} It's about the whole, not the parts, at the end at least
+                - {{[[DONE]]
 
-                - #[[➰ breadcrumbs]]
+                - [[➰ breadcrumbs]]
 
                     - Notice the claim that it takes weeks to make mood boards.
 
@@ -63,7 +63,7 @@ date: Wed Jun 15 2022 10:19:42 GMT-0400 (Eastern Daylight Time)
 
                             - Dabner, D. Graphic Design School: The Principles and Practices of Graphic Design. Thames & Hudson, 2004.
 
-                    - Other design patterns: sketching, and design workbooks (reminds me of [[commonplace notebook]]s)
+                    - Other design patterns: sketching, and design workbooks (reminds me of [[commonplace notebook]]
 
                         - [[sketch]]
 
@@ -87,7 +87,7 @@ date: Wed Jun 15 2022 10:19:42 GMT-0400 (Eastern Daylight Time)
 
                 - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fmegacoglab%2F_0CSdpDpz8.png?alt=media&token=d4e9079c-5721-40fb-b37c-a8b89e8c1eaa) (p. 441)
 
-            - data collection: ~2-hr video-recorded [[m/contextual inquiry]]-based retrospective interviews, in their workplaces
+            - data collection: ~2-hr video-recorded [[mcontextual inquiry]]
 
                 - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fmegacoglab%2F_LMRieap7Q.png?alt=media&token=18329925-bc57-42c5-a5e8-b1ea820d4944) (p. 441)
 
@@ -97,17 +97,17 @@ date: Wed Jun 15 2022 10:19:42 GMT-0400 (Eastern Daylight Time)
 
         - ## results of interest and discussion
 
-            - [[[[EVD]] - expert designers used mood boards in their practice to frame the design problem, both alone and in conjunction with a client - [[@luceroFramingAligningParadoxing2012]]]]
+            - [[EVD - expert designers used mood boards in their practice to frame the design problem, both alone and in conjunction with a client - @luceroFramingAligningParadoxing2012]]
 
-                - i think this [[Supports]] the claim that [[[[CLM]] - creative workers use examples to support problem (re)formulation]] because mood boards contain concrete examples, though [often not from the same domain]([[[[EVD]] - Designers constructed mood boards primarily from concrete design materials and examples, usually not from the immediate domain of the problem, and manipulate their abstraction level as appropriate when using them to shape design work - [[@luceroFramingAligningParadoxing2012]]]])
+                - i think this [[Supports]]
 
-            - [[[[EVD]] - Designers constructed mood boards primarily from concrete design materials and examples, usually not from the immediate domain of the problem, and manipulate their abstraction level as appropriate when using them to shape design work - [[@luceroFramingAligningParadoxing2012]]]]
+            - [[EVD - Designers constructed mood boards primarily from concrete design materials and examples, usua...evel as appropriate when using them to shape design work - @luceroFramingAligningParadoxing2012]]
 
-                - this i think [[Supports]] the claim that [[[[CLM]] - Analogical distance of inspirations for an idea are positively related to the idea's creativity]]
+                - this i think [[Supports]]
 
-            - [[[[EVD]] - Designers reported that visual juxtaposition of often contradictory themes, in the context of a coherent whole, on mood boards was essential for productively reframing the design problem - [[@luceroFramingAligningParadoxing2012]]]]
+            - [[EVD - Designers reported that visual juxtaposition of often contradictory themes, in the context of... essential for productively reframing the design problem - @luceroFramingAligningParadoxing2012]]
 
-                - this [[Supports]] [[[[CLM]] - diverse examples improve creative outcomes by enabling novel conceptual integrations]]
+                - this [[Supports]]
 
 ###### Discourse Context
 

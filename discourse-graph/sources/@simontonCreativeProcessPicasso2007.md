@@ -2,7 +2,7 @@
 title: @simontonCreativeProcessPicasso2007
 url: https://roamresearch.com/#/app/megacoglab/page/TIFJPzy4o
 author: Joel Chan
-date: Wed Aug 19 2020 13:40:00 GMT-0400 (Eastern Daylight Time)
+date: Thu Aug 20 2020 01:40:00 GMT+0800 (Malaysia Time)
 ---
 
 - #references
@@ -35,7 +35,7 @@ date: Wed Aug 19 2020 13:40:00 GMT-0400 (Eastern Daylight Time)
 
         - Disputed by [[Robert Weisberg]]
 
-    - #[[📝 lit-notes]]
+    - [[📝 lit-notes]]
 
         - sequence of Picasso's sketches of Guernica was nonmonotonic in terms of progression towards final painting
 

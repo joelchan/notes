@@ -2,7 +2,7 @@
 title: @victorHumaneRepresentationThought2014
 url: https://roamresearch.com/#/app/megacoglab/page/KXoiff6vZ
 author: Joel Chan
-date: Fri May 15 2020 11:31:26 GMT-0400 (Eastern Daylight Time)
+date: Fri May 15 2020 23:31:26 GMT+0800 (Malaysia Time)
 ---
 
 - #references
@@ -27,7 +27,7 @@ date: Fri May 15 2020 11:31:26 GMT-0400 (Eastern Daylight Time)
 
         - Placeholder
 
-    - #[[📝 lit-notes]]
+    - [[📝 lit-notes]]
 
         - Closing keynote at the UIST and SPLASH conferences, October 2014.
 

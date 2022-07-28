@@ -2,7 +2,7 @@
 title: [[EVD]] - Children can still participate in design workshop even if they resist some elements, resisting is a form of participation [[@frauenbergerNurturingConstructiveDisagreement2019b]]
 url: https://roamresearch.com/#/app/megacoglab/page/n9g_ls9K7
 author: Sarah DiPasquale
-date: Mon Jun 28 2021 20:37:36 GMT-0400 (Eastern Daylight Time)
+date: Tue Jun 29 2021 08:37:36 GMT+0800 (Malaysia Time)
 ---
 
 - noteType:: [[EVD]]
@@ -23,7 +23,7 @@ date: Mon Jun 28 2021 20:37:36 GMT-0400 (Eastern Daylight Time)
 
     - ## **Discourse Context**
 
-        - [[[[QUE]] - What tension points exist between the goals of diversity and depth of user participation in participatory design?]]
+        - [[QUE - What tension points exist between the goals of diversity and depth of user participation in participatory design]]
 
     - ## Metadata::
 

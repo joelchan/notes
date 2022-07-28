@@ -2,7 +2,7 @@
 title: [[EVD]] - children with severe disabilities were not used to being active participants in design, because usually they are passive recipients and others spoke/did things for them - [[@holoneThreeTensionsParticipatory2013b]]
 url: https://roamresearch.com/#/app/megacoglab/page/2Sc4RSXj9
 author: Joel Chan
-date: Tue Jul 20 2021 14:32:39 GMT-0400 (Eastern Daylight Time)
+date: Wed Jul 21 2021 02:32:39 GMT+0800 (Malaysia Time)
 ---
 
 - Summary::

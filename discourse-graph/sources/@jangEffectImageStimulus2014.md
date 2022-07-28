@@ -2,10 +2,10 @@
 title: @jangEffectImageStimulus2014
 url: https://roamresearch.com/#/app/megacoglab/page/USSpEnNkL
 author: Joel Chan
-date: Thu Aug 12 2021 23:17:05 GMT-0400 (Eastern Daylight Time)
+date: Fri Aug 13 2021 11:17:05 GMT+0800 (Malaysia Time)
 ---
 
-- #[[references]]
+- [[references]]
 
     - Title: The Effect of Image Stimulus on Conceptual Combination in the Design Idea Generation Process
 

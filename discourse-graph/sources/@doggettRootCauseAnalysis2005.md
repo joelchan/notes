@@ -2,10 +2,10 @@
 title: @doggettRootCauseAnalysis2005
 url: https://roamresearch.com/#/app/megacoglab/page/g0EH5Yur-
 author: Joel Chan
-date: Mon Jan 11 2021 20:56:20 GMT-0500 (Eastern Standard Time)
+date: Tue Jan 12 2021 09:56:20 GMT+0800 (Malaysia Time)
 ---
 
-- #[[references]]
+- [[references]]
 
     - Title: Root Cause Analysis: A Framework for Tool Selection
 

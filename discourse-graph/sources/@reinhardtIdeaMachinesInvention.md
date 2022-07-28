@@ -2,7 +2,7 @@
 title: @reinhardtIdeaMachinesInvention
 url: https://roamresearch.com/#/app/megacoglab/page/r0YD1zw-8
 author: Joel Chan
-date: Tue Jul 14 2020 11:42:48 GMT-0400 (Eastern Daylight Time)
+date: Tue Jul 14 2020 23:42:48 GMT+0800 (Malaysia Time)
 ---
 
 - #references

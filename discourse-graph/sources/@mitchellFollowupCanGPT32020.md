@@ -2,7 +2,7 @@
 title: @mitchellFollowupCanGPT32020
 url: https://roamresearch.com/#/app/megacoglab/page/TfR8ne1kn
 author: Joel Chan
-date: Wed Nov 10 2021 11:41:39 GMT-0500 (Eastern Standard Time)
+date: Thu Nov 11 2021 00:41:39 GMT+0800 (Malaysia Time)
 ---
 
 - Title:: Follow-up to “Can GPT-3 Make Analogies?”

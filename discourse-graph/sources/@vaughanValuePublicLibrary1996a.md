@@ -2,24 +2,24 @@
 title: @vaughanValuePublicLibrary1996a
 url: https://roamresearch.com/#/app/megacoglab/page/EPWp7Ngw-
 author: Joel Chan
-date: Tue Mar 03 2020 16:39:16 GMT-0500 (Eastern Standard Time)
+date: Wed Mar 04 2020 05:39:16 GMT+0800 (Malaysia Time)
 ---
 
 - #references
 
     - Title: The Value of the Public Library to Small Businesses
 
-    - [[Authored by]]::  Liwen Qiu Vaughan ,  Jean Tague-Sutcliffe ,  Pat Tripp
+    - [[Authored by]]
 
     - Year: 1996
 
     - Publication: RQ
 
-    - Tags: #[[references]] for #[[D/KNEXT]]
+    - Tags: [[references]]
 
     - Status:
 
-        - {{[[DONE]]}} [[Joel Chan]] #TaskNext #TaskWrite Finish recording findings about information sources and information needs, consider implications for SOTA and our work
+        - {{[[DONE]]
 
     - #lit-context
 
@@ -33,9 +33,9 @@ date: Tue Mar 03 2020 16:39:16 GMT-0500 (Eastern Standard Time)
 
         - consider differences in funding structure, institutional trust, etc. when generalizing to our context
 
-    - #[[📝 lit-notes]]
+    - [[📝 lit-notes]]
 
-        - #[[observation-notes]]
+        - [[observation-notes]]
 
             - [Small businesses](Setting: small businesses (50 or fewer employees) in London, Ontario, Canada, in the 1990s'  (p. 264)) in Ontario in the 1990s' self-reported a [strong preference](((8kiNEEyUW))) for [informal over formal sources](((mKGOobhnR))) of information
 

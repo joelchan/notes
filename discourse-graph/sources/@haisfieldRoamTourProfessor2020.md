@@ -2,7 +2,7 @@
 title: @haisfieldRoamTourProfessor2020
 url: https://roamresearch.com/#/app/megacoglab/page/T2UuZ0GCv
 author: Joel Chan
-date: Tue Jun 23 2020 15:54:51 GMT-0400 (Eastern Daylight Time)
+date: Wed Jun 24 2020 03:54:51 GMT+0800 (Malaysia Time)
 ---
 
 - #references
@@ -25,7 +25,7 @@ date: Tue Jun 23 2020 15:54:51 GMT-0400 (Eastern Daylight Time)
 
     - Content
 
-        - {{[[youtube]]: https://www.youtube.com/watch?v=A6PIrVZoZAk}}
+        - {{[[youtube]]
 
     - My Youtube Roam walk-through with Rob Haisfield
 

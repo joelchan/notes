@@ -2,10 +2,10 @@
 title: @martindaleCreativityConnectionism1997
 url: https://roamresearch.com/#/app/megacoglab/page/_N7qf-G2w
 author: Joel Chan
-date: Thu Aug 20 2020 10:56:32 GMT-0400 (Eastern Daylight Time)
+date: Thu Aug 20 2020 22:56:32 GMT+0800 (Malaysia Time)
 ---
 
-- #[[references]]
+- [[references]]
 
     - Title: Creativity and connectionism
 

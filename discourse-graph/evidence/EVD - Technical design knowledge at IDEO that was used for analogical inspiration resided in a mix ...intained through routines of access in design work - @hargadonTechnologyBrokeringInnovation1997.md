@@ -2,7 +2,7 @@
 title: [[EVD]] - Technical design knowledge at IDEO that was used for analogical inspiration resided in a mix of artifacts, prototypes, and designers' memories, and was actively maintained through routines of access in design work - [[@hargadonTechnologyBrokeringInnovation1997]]
 url: https://roamresearch.com/#/app/megacoglab/page/1ws8Mh-W-
 author: Joel Chan
-date: Tue May 03 2022 16:50:18 GMT-0400 (Eastern Daylight Time)
+date: Wed May 04 2022 04:50:18 GMT+0800 (Malaysia Time)
 ---
 
 - # Summary
@@ -13,7 +13,7 @@ date: Tue May 03 2022 16:50:18 GMT-0400 (Eastern Daylight Time)
 
         - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fmegacoglab%2FZDjDQ_p-zb.png?alt=media&token=b18a0c46-b83f-454b-bada-07eca42e7f0e) (p. 734)
 
-            - cc [[[[CLM]] - A significant proportion of the benefits of analogical stimuli is oblique or indirect]]
+            - cc [[CLM - A significant proportion of the benefits of analogical stimuli is oblique or indirect]]
 
     - in loosely organized collections of artifacts that they would borrow and exchange
 
@@ -32,7 +32,7 @@ date: Tue May 03 2022 16:50:18 GMT-0400 (Eastern Daylight Time)
         - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fmegacoglab%2FdETufsgEEE.png?alt=media&token=19abdbd0-503d-47e1-b031-673cdf7ff246) (p. 737)
 - # Grounding Context
 
-    - method: ~2-year [[m/Ethnography]] in three phases from mid-1994 to end of 1996, including observations design team project work, [[m/Semi-structured interviews]], informal discussions, brainstorming and "Monday meetings", design team interviews, and review of artifacts such as written materials and videos
+    - method: ~2-year [[mEthnography]]
 
         - sources (table 2)
 
@@ -55,7 +55,7 @@ date: Tue May 03 2022 16:50:18 GMT-0400 (Eastern Daylight Time)
 
         - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fmegacoglab%2F2jUFmvMfYA.png?alt=media&token=e58fdaaa-f0c9-4409-aab8-d18731511546) (p. 718)
 
-    - analysis: weick theory building and [[@glaserDiscoveryGroundedTheory2010]] [[m/Grounded Theory]]
+    - analysis: weick theory building and [[@glaserDiscoveryGroundedTheory2010]]
 
         - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fmegacoglab%2F8hX7_85wtD.png?alt=media&token=f293932c-80f1-45ce-828f-47dca81d01bd) (p. 725)
 

@@ -2,7 +2,7 @@
 title: [[EVD]] - Students who were provided near analogies produced more accurate analogical solutions than students provided far reaching analogies - [[@vendettiFarOutThinkingGenerating2014]]
 url: https://roamresearch.com/#/app/megacoglab/page/Ck3xjpdf6
 author: AJ Rudd
-date: Sat Dec 18 2021 08:17:04 GMT-0500 (Eastern Standard Time)
+date: Sat Dec 18 2021 21:17:04 GMT+0800 (Malaysia Time)
 ---
 
 - # Summary

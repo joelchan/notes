@@ -2,7 +2,7 @@
 title: @blakeCollaborativeInformationSynthesis2006
 url: https://roamresearch.com/#/app/megacoglab/page/2T-vDZuNd
 author: Joel Chan
-date: Sun Aug 02 2020 22:42:02 GMT-0400 (Eastern Daylight Time)
+date: Mon Aug 03 2020 10:42:02 GMT+0800 (Malaysia Time)
 ---
 
 - #references
@@ -13,7 +13,7 @@ date: Sun Aug 02 2020 22:42:02 GMT-0400 (Eastern Daylight Time)
 
         - Tags: #ref/Paper
 
-        - Authored by::  [[Catherine Blake]] ,  [[Wanda Pratt]]
+        - Authored by::  [[Catherine Blake]]
 
         - Year: [[2006]]
 
@@ -37,33 +37,33 @@ date: Sun Aug 02 2020 22:42:02 GMT-0400 (Eastern Daylight Time)
 
         - followed up by [[@blakeCollaborativeInformationSynthesis2006a]]
 
-    - #[[📝 lit-notes]]
+    - [[📝 lit-notes]]
 
         - two main information artifact types: 1) hypothesis projection, and 2) context information
 
-        - is an #example-of how [[context]] is critical for synthesis (in this case, showing the kinds of [[context queries]] scientists look for to try to do [[synthesis]] over contradictory findings in a [[systematic review]]
+        - is an #example-of how [[context]]
 
             - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fmegacoglab%2FHMQH8rqkuk.png?alt=media&token=037f6d7e-f1e4-4738-a841-58923bbacadc) (p. 1744)
 
             - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fmegacoglab%2F1iSPHVlrcS.png?alt=media&token=5700d1f3-6c77-4b9a-a51c-bc083004ae33) (p. 1744)
 
-        - some types of [[context]] information were more contextual, depending on the particular "hypothesis projection" of the review, which varied across the lifecycle of the project studied (e.g., location of medical condition, amount of exposure, confounding risk factors), while others were more constant regardless of hypothesis (e.g., study- and population-context information)
+        - some types of [[context]]
 
             - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fmegacoglab%2FB4elpsPH17.png?alt=media&token=afbe16b6-a3e6-478f-9929-95c520444ad3) (p., 1744)
 
             - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fmegacoglab%2FHMQH8rqkuk.png?alt=media&token=037f6d7e-f1e4-4738-a841-58923bbacadc) (p. 1744)
 
-        - authors think that there is enough regularity in the types and locations of [[context]] information that we could build an automated system to extract htese bits of information, which would in turn enable exploration of a variety of hypothesis projections
+        - authors think that there is enough regularity in the types and locations of [[context]]
 
-            - in other words: [[[[CLM]] - Contextualizability is necessary for synthesis]] :)
+            - in other words: [[CLM - Contextualizability is necessary for synthesis]]
 
             - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fmegacoglab%2F_KER50Xs10.png?alt=media&token=b19c8f59-7da5-4ccd-bcb5-4e7f2f7f2f49) (p. 1744)
 
-        - director of the public health group estimated that she spent ~3 hrs per article to extract [[context]] information required  for a particular [[systematic review]]
+        - director of the public health group estimated that she spent ~3 hrs per article to extract [[context]]
 
             - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fmegacoglab%2FbDAZcjYk1P.png?alt=media&token=5758ef30-d816-4a53-82c0-b32abc55e667) (p. 1746)
 
-            - this is self-reported estimate: based on work on knowledge work estimation (cc. also [[@russellCostStructureSensemaking1993]]), could well be an underestimate, though unclear by how much
+            - this is self-reported estimate: based on work on knowledge work estimation (cc. also [[@russellCostStructureSensemaking1993]]
 
 ###### Discourse Context
 

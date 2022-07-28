@@ -2,14 +2,14 @@
 title: @moteReasonsVariationInformation1962
 url: https://roamresearch.com/#/app/megacoglab/page/SuRK7SPFl
 author: Joel Chan
-date: Fri Apr 17 2020 23:56:58 GMT-0400 (Eastern Daylight Time)
+date: Sat Apr 18 2020 11:56:58 GMT+0800 (Malaysia Time)
 ---
 
-- #[[references]]
+- [[references]]
 
     - Title: Reasons for the variation in the information needs of scientists
 
-    - Tags:: #[[references]] #[[D/Synthesis Infrastructure]] #Scatter
+    - Tags:: [[references]]
 
     - Meta:
 
@@ -33,21 +33,21 @@ date: Fri Apr 17 2020 23:56:58 GMT-0400 (Eastern Daylight Time)
 
         - sample: 178
 
-        - [[replicated-by]] [[@packerImportanceSDICurrent1979]] with [this result]([Scholars](((5IIOQ5CZq))) in high [[Scatter]] and low scatter domains [self-reported](((Iv7Euw1wK))) equal levels of success at keeping up to date with relevant literature, but at the cost of [time](((rjdnxKjgt))) (high-scatter 2x more likely to spend > 5 hrs/wk on lit))
+        - [[replicated-by]]
 
-    - #[[📝 lit-notes]]
+    - [[📝 lit-notes]]
 
-        - #Claim  [[Scatter]] makes [[🧱 foraging]] harder (p. 172)
+        - #Claim  [[Scatter]]
 
-            - #[[observation-notes]]
+            - [[observation-notes]]
 
-                - Scholars in fields of study with high degree of [[Scatter]] self-reported needing longer searches (> 30 mins) about 20x more frequently compared to scholars in low [[Scatter]] fields
+                - Scholars in fields of study with high degree of [[Scatter]]
 
                     - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fmegacoglab%2FHss0vOXz0O?alt=media&token=547e704c-99e5-44c9-87cd-d79c1b11ff32)
 
                     - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fmegacoglab%2FZl53foVGHf.png?alt=media&token=6d978df5-ced5-4311-a799-0fb89dd85803)
 
-                    - #ClaimSecondary from [[@bates1996learning]], quoted on p. 172
+                    - #ClaimSecondary from [[@bates1996learning]]
 
 ###### Discourse Context
 

@@ -2,7 +2,7 @@
 title: @finkeCreativeCognitionTheory1996
 url: https://roamresearch.com/#/app/megacoglab/page/70KTYKWoJ
 author: Joel Chan
-date: Thu Aug 20 2020 02:08:44 GMT-0400 (Eastern Daylight Time)
+date: Thu Aug 20 2020 14:08:44 GMT+0800 (Malaysia Time)
 ---
 
 

@@ -2,16 +2,16 @@
 title: @largeBondedDesignNovel2006
 url: https://roamresearch.com/#/app/megacoglab/page/OaHZHvSO4
 author: Joel Chan
-date: Thu Feb 13 2020 09:43:35 GMT-0500 (Eastern Standard Time)
+date: Thu Feb 13 2020 22:43:35 GMT+0800 (Malaysia Time)
 ---
 
-- #[[references]]
+- [[references]]
 
     - Title: “Bonded design”: A novel approach to intergenerational information technology design
 
     - Meta:
 
-        - Authored by:: [[Andrew Large]] [[Valerie Nesset]] [[Jamshid Beheshti]] [[Leanne Bowler]]
+        - Authored by:: [[Andrew Large]]
 
         - Year: [[2006]]
 

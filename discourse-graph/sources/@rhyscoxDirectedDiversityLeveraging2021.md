@@ -2,16 +2,16 @@
 title: @rhyscoxDirectedDiversityLeveraging2021
 url: https://roamresearch.com/#/app/megacoglab/page/J0WK7D8c4
 author: Joel Chan
-date: Mon Aug 02 2021 22:17:01 GMT-0400 (Eastern Daylight Time)
+date: Tue Aug 03 2021 10:17:01 GMT+0800 (Malaysia Time)
 ---
 
-- #[[references]]
+- [[references]]
 
     - Title: Directed Diversity: Leveraging Language Embedding Distances for Collective Creativity in Crowd Ideation
 
     - Meta:
 
-        - Authored by:: [[Samuel Rhys Cox]] [[Yunlong Wang]] [[Ashraf Abdul]] [[Christian von der Weth]] [[Brian Y. Lim]]
+        - Authored by:: [[Samuel Rhys Cox]]
 
         - Year: [[2021]]
 
@@ -29,13 +29,13 @@ date: Mon Aug 02 2021 22:17:01 GMT-0400 (Eastern Daylight Time)
 
         - Use diversity to improve crowd creativity, and measure creativity
 
-        - Useful for both [[D/Solution-Diversity]] and [[D/Computational Analogy]]
+        - Useful for both [[DSolution-Diversity]]
 
         - Proposed an automatic prompt selection approach that leverages language model embedding distances to maximize diversity, and an evaluation framework called "a Diversity Prompting Evaluation Framework"
 
         - Summarized results, p15
 
-            - [[[[EVD]] - Diverse prompts will be perceived as more unexpectedness but of poorer quality and understandability - [[@rhyscoxDirectedDiversityLeveraging2021]]]]
+            - [[EVD - Diverse prompts will be perceived as more unexpectedness but of poorer quality and understandability - @rhyscoxDirectedDiversityLeveraging2021]]
 
             - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fmegacoglab%2F0ahxu1O6Sm.png?alt=media&token=439d70a4-8567-49c5-b269-27f4ae13225c)
 

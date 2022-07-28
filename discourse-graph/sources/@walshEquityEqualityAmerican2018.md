@@ -2,10 +2,10 @@
 title: @walshEquityEqualityAmerican2018
 url: https://roamresearch.com/#/app/megacoglab/page/h2WAprem7
 author: Joel Chan
-date: Mon Feb 01 2021 16:24:13 GMT-0500 (Eastern Standard Time)
+date: Tue Feb 02 2021 05:24:13 GMT+0800 (Malaysia Time)
 ---
 
-- #[[references]]
+- [[references]]
 
     - Title: Towards equity and equality in American co-design: a case study
 
@@ -29,9 +29,9 @@ date: Mon Feb 01 2021 16:24:13 GMT-0500 (Eastern Standard Time)
 
     - #lit-context
 
-        - [[Greg Walsh]] got PhD at [[University of Maryland]] with [[Allison Druin]]
+        - [[Greg Walsh]]
 
-    - #[[📝 lit-notes]]
+    - [[📝 lit-notes]]
 
         - **How did the authors approach their questions/problems?** ((most of this is going to come from the methods sections, although some info about conceptualization of key concepts might be relevant to pull from intro/lit-review)) #lit-context
 
@@ -43,11 +43,11 @@ date: Mon Feb 01 2021 16:24:13 GMT-0500 (Eastern Standard Time)
 
                 - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fmegacoglab%2FtE70UheBHe.png?alt=media&token=1da6ae1d-d74b-4034-857a-aff5a0914ac2) pg 438
 
-        - **What did they find?** ((keep this as contextualized as possible; resist the urge to repeat claims or generalizations)) #[[observation-notes]]
+        - **What did they find?** ((keep this as contextualized as possible; resist the urge to repeat claims or generalizations)) [[observation-notes]]
 
-            - [[[[EVD]] - Children from underserved communities were often unable to attend in-lab PD sessions due to travel and time constraints - [[@walshEquityEqualityAmerican2018]]]]
+            - [[EVD - Children from underserved communities were often unable to attend in-lab PD sessions due to travel and time constraints - @walshEquityEqualityAmerican2018]]
 
-            - [[[[EVD]] - PD sessions had to be significantly scoped down in both length and focus to accommodate travel and time constraints for children from underserved communities - [[@walshEquityEqualityAmerican2018]]]]
+            - [[EVD - PD sessions had to be significantly scoped down in both length and focus to accommodate trave...d time constraints for children from underserved communities - @walshEquityEqualityAmerican2018]]
 
 ###### Discourse Context
 

@@ -2,7 +2,7 @@
 title: [[EVD]] - Starbucks baristas used a paper cup to support complex coordination to reduce the cost structure of creating complex drinks in a tight, multi-tasking and interruption-intensive environment - [[@kirshMultitaskingCostStructure2005]]
 url: https://roamresearch.com/#/app/megacoglab/page/WvLS4KFnb
 author: Joel Chan
-date: Sat Jan 22 2022 22:45:16 GMT-0500 (Eastern Standard Time)
+date: Sun Jan 23 2022 11:45:16 GMT+0800 (Malaysia Time)
 ---
 
 - # Summary
@@ -38,7 +38,7 @@ date: Sat Jan 22 2022 22:45:16 GMT-0500 (Eastern Standard Time)
 ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fmegacoglab%2FdKWa5tQl3E.png?alt=media&token=5445ed98-4f0b-4484-a7b0-3fc2c5914498) (p. 4)
 - # Grounding Context
 
-    - [[m/Ethnography]] observation in cafes, as well as task elicitation + interviews with baristas in the lab
+    - [[mEthnography]]
 
         - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fmegacoglab%2FSuGncKTNKj.png?alt=media&token=069f1142-a2d0-4b04-903e-f54332ed523a) (p. 3)
 

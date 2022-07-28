@@ -2,7 +2,7 @@
 title: @fisherDistributedSensemakingImproving2012
 url: https://roamresearch.com/#/app/megacoglab/page/h69KZE7hS
 author: Joel Chan
-date: Fri Apr 24 2020 13:37:58 GMT-0400 (Eastern Daylight Time)
+date: Sat Apr 25 2020 01:37:58 GMT+0800 (Malaysia Time)
 ---
 
 - #references
@@ -11,13 +11,13 @@ date: Fri Apr 24 2020 13:37:58 GMT-0400 (Eastern Daylight Time)
 
     - Meta:
 
-        - Tags: #ref/Paper #[[🧱 sensemaking]] #[[idea: multiplayer zettelkastens]]
+        - Tags: #ref/Paper [[🧱 sensemaking]]
 
-        - Authored by::  Kristie Fisher ,  Scott Counts ,  [[Aniket Kittur]]
+            - Authored by::  Kristie Fisher ,  Scott Counts ,  [[Aniket Kittur]]
 
         - Year: [[2012]]
 
-        - Publication: Proceedings of the SIGCHI Conference on Human Factors in Computing Systems [[conf/CHI]]
+        - Publication: Proceedings of the SIGCHI Conference on Human Factors in Computing Systems [[confCHI]]
 
         - URL: http://doi.acm.org/10.1145/2207676.2207711
 
@@ -31,9 +31,9 @@ date: Fri Apr 24 2020 13:37:58 GMT-0400 (Eastern Daylight Time)
 
             - We examine the possibility of distributed sensemaking: improving a user's sensemaking by leveraging previous users' work without those users directly collaborating or even knowing one another. We asked users to engage in sensemaking by organizing and annotating web search results into "knowledge maps," either with or without previous users' maps to work from. We also recorded gaze patterns as users examined others' knowledge maps. Our findings show the conditions under which distributed sensemaking can improve sensemaking quality; that a user's sensemaking process is readily apparent to a subsequent user via a knowledge map; and that the organization of content was more useful to subsequent users than the content itself, especially when those users had differing goals. We discuss the role distributed sensemaking can play in schema induction by helping users make a mental model of an information space and make recommendations for new tool and system development.
 
-    - #[[📝 lit-notes]]
+    - [[📝 lit-notes]]
 
-        - [[Jay Patel]] for [[[[QUE]] - How can we best bridge private vs. public knowledge?]] | __<summary of what was learned in this session (fill this out later)>__
+        - [[Jay Patel]]
 
             - __Feel free to have free-floating notes that don't neatly fit into the boxes below!__
 
@@ -59,7 +59,7 @@ date: Fri Apr 24 2020 13:37:58 GMT-0400 (Eastern Daylight Time)
 
                 - __Where are the authors coming from? Are there any useful "breadcrumbs" (e.g., other theoretical frameworks, authors, papers) we can follow up on?__
 
-        - [[Joel Chan]] for [[[[QUE]] - How can we best bridge private vs. public knowledge?]] | higher self-rated quality (no cost in time/effort) when building on maps iterated on by others for an everyday sensemaking task; helpfulness mostly seems to be from org/schema, mixed for content
+        - [[Joel Chan]]
 
             - ## #inspectionalread
 
@@ -131,15 +131,15 @@ date: Fri Apr 24 2020 13:37:58 GMT-0400 (Eastern Daylight Time)
 
                     - there are some similar results from a think-aloud, though not formally analyzed, in the pilot study
 
-                    - [[[[EVD]] - no reliable differences in time and effort when creating a sensemaking map for an everyday topic when starting from scratch vs. building on maps from others - [[@fisherDistributedSensemakingImproving2012]]]]
+                    - [[EVD - no reliable differences in time and effort when creating a sensemaking map for an everyday to...ting from scratch vs. building on maps from others - @fisherDistributedSensemakingImproving2012]]
 
-                    - [[[[EVD]] - highest self-rated map quality, as measured by overall quality, and helpfulness to others, when creating map based on previous map that was iterated on by multiple people, compared to creating from scratch, and basing on a map created by one other person, for the same everyday sensemaking topic - [[@fisherDistributedSensemakingImproving2012]]]]
+                    - [[EVD - highest self-rated map quality, as measured by overall quality, and helpfulness to others, wh...er person, for the same everyday sensemaking topic - @fisherDistributedSensemakingImproving2012]]
 
-                        - i want to signal that this was an everyday topic because [[[[CLM]] - Requirements for sensemaking come from the particulars of the work task]]
+                        - i want to signal that this was an everyday topic because [[CLM - Requirements for sensemaking come from the particulars of the work task]]
 
-                    - [[[[EVD]] - participants more frequently cited organization as helpful when building on sensemaking maps from others, compared to the content itself - [[@fisherDistributedSensemakingImproving2012]]]]
+                    - [[EVD - participants more frequently cited organization as helpful when building on sensemaking maps from others, compared to the content itself - @fisherDistributedSensemakingImproving2012]]
 
-                    - [[[[EVD]] - participants spent more time looking at content vs. organization in maps created by one other person, but equally at content and organization for maps that were iterated on by multiple people - [[@fisherDistributedSensemakingImproving2012]]]]
+                    - [[EVD - participants spent more time looking at content vs. organization in maps created by one other... for maps that were iterated on by multiple people - @fisherDistributedSensemakingImproving2012]]
 
                 - __One block for each result of interest. we'll refactor this together into EVD notes__
 
@@ -157,21 +157,21 @@ date: Fri Apr 24 2020 13:37:58 GMT-0400 (Eastern Daylight Time)
 
             - So in general, I think the key inference for here is that
 
-                - [[[[CLM]] - It is possible to benefit from receiving intermediate sensemaking outputs from others, particularly if those outputs have been iterated on]]
+                - [[CLM - It is possible to benefit from receiving intermediate sensemaking outputs from others, particularly if those outputs have been iterated on]]
 
                     - [[SupportedBy]]
 
-                        - [[[[EVD]] - no reliable differences in time and effort when creating a sensemaking map for an everyday topic when starting from scratch vs. building on maps from others - [[@fisherDistributedSensemakingImproving2012]]]]'
+                        - [[EVD - no reliable differences in time and effort when creating a sensemaking map for an everyday to...ting from scratch vs. building on maps from others - @fisherDistributedSensemakingImproving2012]]
 
-                        - [[[[EVD]] - highest self-rated map quality, as measured by overall quality, and helpfulness to others, when creating map based on previous map that was iterated on by multiple people, compared to creating from scratch, and basing on a map created by one other person, for the same everyday sensemaking topic - [[@fisherDistributedSensemakingImproving2012]]]]
+                        - [[EVD - highest self-rated map quality, as measured by overall quality, and helpfulness to others, wh...er person, for the same everyday sensemaking topic - @fisherDistributedSensemakingImproving2012]]
 
-                    - more specifically: [[[[CLM]] - Organizations and schemas from others' intermediate sensemaking outputs may be more beneficial for distributed sensemaking compared to the content]]
+                    - more specifically: [[CLM - Organizations and schemas from others' intermediate sensemaking outputs may be more beneficial for distributed sensemaking compared to the content]]
 
                         - [[SupportedBy]]
 
-                            - [[[[EVD]] - participants more frequently cited organization as helpful when building on sensemaking maps from others, compared to the content itself - [[@fisherDistributedSensemakingImproving2012]]]]
+                            - [[EVD - participants more frequently cited organization as helpful when building on sensemaking maps from others, compared to the content itself - @fisherDistributedSensemakingImproving2012]]
 
-                            - [[[[EVD]] - participants spent more time looking at content vs. organization in maps created by one other person, but equally at content and organization for maps that were iterated on by multiple people - [[@fisherDistributedSensemakingImproving2012]]]]
+                            - [[EVD - participants spent more time looking at content vs. organization in maps created by one other... for maps that were iterated on by multiple people - @fisherDistributedSensemakingImproving2012]]
 
 ###### Discourse Context
 

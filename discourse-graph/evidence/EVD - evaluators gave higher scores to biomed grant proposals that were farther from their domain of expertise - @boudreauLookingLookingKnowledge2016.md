@@ -2,7 +2,7 @@
 title: [[EVD]] - evaluators gave higher scores to biomed grant proposals that were farther from their domain of expertise - [[@boudreauLookingLookingKnowledge2016]]
 url: https://roamresearch.com/#/app/megacoglab/page/W-DsHoVoj
 author: Joel Chan
-date: Mon Aug 09 2021 12:46:44 GMT-0400 (Eastern Daylight Time)
+date: Tue Aug 10 2021 00:46:44 GMT+0800 (Malaysia Time)
 ---
 
 - Summary::

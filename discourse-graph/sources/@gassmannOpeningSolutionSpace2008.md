@@ -2,16 +2,16 @@
 title: @gassmannOpeningSolutionSpace2008
 url: https://roamresearch.com/#/app/megacoglab/page/i70cs8nE4
 author: Joel Chan
-date: Fri Jul 02 2021 22:21:24 GMT-0400 (Eastern Daylight Time)
+date: Sat Jul 03 2021 10:21:24 GMT+0800 (Malaysia Time)
 ---
 
-- #[[references]]
+- [[references]]
 
     - Title: Opening up the Solution Space: The Role of Analogical Thinking for Breakthrough Product Innovation
 
     - Meta:
 
-        - Authored by:: [[O. Gassmann]] [[M. Zeschky]]
+        - Authored by:: [[O. Gassmann]]
 
         - Year: [[2008]]
 

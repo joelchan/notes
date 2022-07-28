@@ -2,7 +2,7 @@
 title: @koStudyDesignDesign2019
 url: https://roamresearch.com/#/app/megacoglab/page/tPG27pbsK
 author: Joel Chan
-date: Sat Sep 19 2020 12:56:47 GMT-0400 (Eastern Daylight Time)
+date: Sun Sep 20 2020 00:56:47 GMT+0800 (Malaysia Time)
 ---
 
 - #references
@@ -13,7 +13,7 @@ date: Sat Sep 19 2020 12:56:47 GMT-0400 (Eastern Daylight Time)
 
         - Tags: #ref/BookChapter
 
-        - Authored by::  [[Amy J Ko]] ,  [[Sally Fincher]]
+        - Authored by::  [[Amy J Ko]]
 
         - Year: [[2019]]
 
@@ -31,7 +31,7 @@ date: Sat Sep 19 2020 12:56:47 GMT-0400 (Eastern Daylight Time)
 
         - Abstract
 
-    - #[[📝 lit-notes]]
+    - [[📝 lit-notes]]
 
         - overview of [[study design design process]]
 

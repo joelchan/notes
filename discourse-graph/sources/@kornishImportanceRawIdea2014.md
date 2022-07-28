@@ -2,21 +2,21 @@
 title: @kornishImportanceRawIdea2014
 url: https://roamresearch.com/#/app/megacoglab/page/1JYWbmTyd
 author: Joel Chan
-date: Fri Mar 11 2022 14:29:44 GMT-0500 (Eastern Standard Time)
+date: Sat Mar 12 2022 03:29:44 GMT+0800 (Malaysia Time)
 ---
 
 - Title:: The Importance of the Raw Idea in Innovation: Testing the Sow's Ear Hypothesis
-- Author(s):: [[Laura J. Kornish]], [[Karl T. Ulrich]]
+- Author(s):: [[Laura J. Kornish]]
 - Type:: [[Article]]
 - Publication:: Journal of Marketing Research
 - Date Added:: [[August 1st, 2021]]
 - Zotero links:: [Local library](zotero://select/groups/2451508/items/T3B7AN2I), [Local library](https://www.zotero.org/groups/2451508/items/T3B7AN2I)
-- Tags:: #[[Assessment]], #[[Creativity]], #[[IdeaSelection]], #[[Ideation]], #[[In vivo]], #[[Processed]]
+- Tags:: [[Assessment]]
 - PDF links : [Kornish_Ulrich_2014_The Importance of the Raw Idea in Innovation.pdf](zotero://open-pdf/groups/2451508/items/97SBA597)
 - [[Notes]]
 
     - (19) (23) not that surprising given large N of consumer ratings‼!
-- #[[📝 lit-notes]]
+- [[📝 lit-notes]]
 
     - core result: rated quality of idea predicts sales outcomes
 

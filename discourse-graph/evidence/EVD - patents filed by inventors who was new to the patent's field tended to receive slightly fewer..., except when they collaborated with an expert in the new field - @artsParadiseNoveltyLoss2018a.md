@@ -2,7 +2,7 @@
 title: [[EVD]] - patents filed by inventors who was new to the patent's field tended to receive slightly fewer citations, except when they collaborated with an expert in the new field - [[@artsParadiseNoveltyLoss2018a]]
 url: https://roamresearch.com/#/app/megacoglab/page/b8pGDFeTc
 author: Joel Chan
-date: Wed Jul 28 2021 13:39:19 GMT-0400 (Eastern Daylight Time)
+date: Thu Jul 29 2021 01:39:19 GMT+0800 (Malaysia Time)
 ---
 
 - Summary::

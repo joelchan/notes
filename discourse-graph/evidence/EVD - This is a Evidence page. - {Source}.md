@@ -1,12 +1,12 @@
 ---
 title: [[EVD]] - This is a Evidence page. - {Source}
-url: https://roamresearch.com/#/app/megacoglab/page/iojr99aVx
+url: https://roamresearch.com/#/app/megacoglab/page/S1GEVFyMY
 author: Joel Chan
-date: Tue Jul 12 2022 12:56:22 GMT-0400 (Eastern Daylight Time)
+date: Sat Jul 23 2022 17:52:26 GMT+0800 (Malaysia Time)
 ---
 
 
 
 ###### Discourse Context
 
-- **Informs::** [[QUE - This is a Question page.]]
+- **Supports::** [[CLM - This is a Claim page.]]

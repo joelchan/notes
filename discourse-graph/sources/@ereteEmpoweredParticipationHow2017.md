@@ -2,16 +2,16 @@
 title: @ereteEmpoweredParticipationHow2017
 url: https://roamresearch.com/#/app/megacoglab/page/FnJF7KIeH
 author: Joel Chan
-date: Tue Jul 13 2021 10:44:21 GMT-0400 (Eastern Daylight Time)
+date: Tue Jul 13 2021 22:44:21 GMT+0800 (Malaysia Time)
 ---
 
-- #[[references]]
+- [[references]]
 
     - Title: Empowered Participation: How Citizens Use Technology in Local Governance
 
     - Meta:
 
-        - Authored by:: [[Sheena Erete]] [[Jennifer O. Burrell]]
+        - Authored by:: [[Sheena Erete]]
 
         - Year: [[2017]]
 

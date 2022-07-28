@@ -2,7 +2,7 @@
 title: [[EVD]] - groups given low-related categories of solutions ended up exploring more categories in their solutions compared to high-related category groups - [[@baruahCategoryAssignmentRelatedness2011]]
 url: https://roamresearch.com/#/app/megacoglab/page/lbRNxo-nM
 author: Joel Chan
-date: Thu Sep 16 2021 14:02:25 GMT-0400 (Eastern Daylight Time)
+date: Fri Sep 17 2021 02:02:25 GMT+0800 (Malaysia Time)
 ---
 
 - # Summary

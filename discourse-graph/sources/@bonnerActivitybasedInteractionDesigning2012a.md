@@ -2,16 +2,16 @@
 title: @bonnerActivitybasedInteractionDesigning2012a
 url: https://roamresearch.com/#/app/megacoglab/page/_34zNVLfa
 author: Joel Chan
-date: Fri May 14 2021 11:27:44 GMT-0400 (Eastern Daylight Time)
+date: Fri May 14 2021 23:27:44 GMT+0800 (Malaysia Time)
 ---
 
-- #[[references]]
+- [[references]]
 
     - Title: Activity-based interaction: Designing with child life specialists in a children's hospital
 
     - Meta:
 
-        - Authored by:: [[Matthew Bonner]] [[Lan Wang]] [[Elizabeth D. Mynatt]]
+        - Authored by:: [[Matthew Bonner]]
 
         - Year: [[2012]]
 

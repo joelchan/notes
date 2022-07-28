@@ -2,7 +2,7 @@
 title: [[EVD]] - Self-rated technical distance from open innovation contest problems was slightly positively correlated with submitting winning solutions - [[@jeppesenMarginalityProblemsolvingEffectiveness2010]]
 url: https://roamresearch.com/#/app/megacoglab/page/wlMJq0BJy
 author: Joel Chan
-date: Mon Jul 05 2021 23:16:10 GMT-0400 (Eastern Daylight Time)
+date: Tue Jul 06 2021 11:16:10 GMT+0800 (Malaysia Time)
 ---
 
 - Summary::
@@ -15,14 +15,14 @@ date: Mon Jul 05 2021 23:16:10 GMT-0400 (Eastern Daylight Time)
 
         - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fmegacoglab%2FkiadkA-1Y8.png?alt=media&token=1c63c087-ee5b-4404-8042-0b0f6f68e870) (p. 1028)
 
-        - for comparison, the effect of being female (their proxy for [[social marginality]]) was almost an order of magnitude bigger!
+        - for comparison, the effect of being female (their proxy for [[social marginality]]
 - ## **Grounding Context**
 
     - Design: two-stage: some choose to submit solution (993 out of 13k), estimate likelihood of submission; then some choose to
 
         - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fmegacoglab%2Fv68uSWNA-Q.png?alt=media&token=99319eca-417e-41fc-9626-acac86809d01)
 
-    - [[c/Participants and setting]]
+    - [[cParticipants and setting]]
 
         - Participants: 320 out of 993 solvers who responded to the survey
 
@@ -38,7 +38,7 @@ date: Mon Jul 05 2021 23:16:10 GMT-0400 (Eastern Daylight Time)
 
                 - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fmegacoglab%2FMCtGt_ajEO.png?alt=media&token=66943cdb-27e0-4837-bc2f-f972e8a8c98d) (p. 1024)
 
-    - [[c/Independent variables]]
+    - [[cIndependent variables]]
 
         - Measure for expertise distance (here called "technical marginality"): self-reported on 7-point scale (1 inside your field of expertise, 4 at boundary, 7 outside your field)
 

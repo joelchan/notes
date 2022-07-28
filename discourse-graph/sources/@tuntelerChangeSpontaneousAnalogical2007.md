@@ -2,16 +2,16 @@
 title: @tuntelerChangeSpontaneousAnalogical2007
 url: https://roamresearch.com/#/app/megacoglab/page/kSIVb6w5u
 author: Joel Chan
-date: Fri May 28 2021 23:10:55 GMT-0400 (Eastern Daylight Time)
+date: Sat May 29 2021 11:10:55 GMT+0800 (Malaysia Time)
 ---
 
-- #[[references]]
+- [[references]]
 
     - Title: Change in Spontaneous Analogical Transfer in Young Children: A Microgenetic Study
 
     - Meta:
 
-        - Authored by:: [[E. Tunteler]] [[W. C. M. Resing]]
+        - Authored by:: [[E. Tunteler]]
 
         - Year: [[2007]]
 

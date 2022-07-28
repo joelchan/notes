@@ -2,10 +2,10 @@
 title: @kostoffLiteraturerelatedDiscovery2009
 url: https://roamresearch.com/#/app/megacoglab/page/L4n8Fxc7A
 author: Joel Chan
-date: Wed Jun 17 2020 13:48:35 GMT-0400 (Eastern Daylight Time)
+date: Thu Jun 18 2020 01:48:35 GMT+0800 (Malaysia Time)
 ---
 
-- #[[references]]
+- [[references]]
 
     - Title: Literature-related discovery
 
@@ -13,7 +13,7 @@ date: Wed Jun 17 2020 13:48:35 GMT-0400 (Eastern Daylight Time)
 
         - Tags: #ref/Paper
 
-        - Authored by:: [[Ronald N. Kostoff]] [[Joel A. Block]] [[Jeffrey L. Solka]] [[Michael B. Briggs]] [[Robert L. Rushenberg]] [[Jesse A. Stump]] [[Dustin Johnson]] [[Terence J. Lyons]] [[Jeffrey R. Wyatt]]
+        - Authored by:: [[Ronald N. Kostoff]]
 
         - Year: [[2009]]
 
@@ -33,11 +33,11 @@ date: Wed Jun 17 2020 13:48:35 GMT-0400 (Eastern Daylight Time)
 
         - is a #synthesis
 
-    - #[[📝 lit-notes]]
+    - [[📝 lit-notes]]
 
         - Reviews progress and future directions for [[literature-based discovery]]
 
-            - Is a bit pessimistic on the true value gained from this approach: questions whether the ~6-7 examples proposed by [[Don R. Swanson]] ([[@swansonUndiscoveredPublicKnowledge1996]]) were actually discoveries!
+            - Is a bit pessimistic on the true value gained from this approach: questions whether the ~6-7 examples proposed by [[Don R. Swanson]]
 
 ###### Discourse Context
 

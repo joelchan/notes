@@ -2,7 +2,7 @@
 title: @bowkerSortingThingsOut2000
 url: https://roamresearch.com/#/app/megacoglab/page/FWT-LvSrC
 author: Joel Chan
-date: Fri May 22 2020 16:17:56 GMT-0400 (Eastern Daylight Time)
+date: Sat May 23 2020 04:17:56 GMT+0800 (Malaysia Time)
 ---
 
 - #references
@@ -13,7 +13,7 @@ date: Fri May 22 2020 16:17:56 GMT-0400 (Eastern Daylight Time)
 
         - Tags: #ref/Book
 
-        - Authored by::  [[Geoffrey C Bowker]] ,  [[Susan Leigh Star]]
+        - Authored by::  [[Geoffrey C Bowker]]
 
         - Year: [[2000]]
 

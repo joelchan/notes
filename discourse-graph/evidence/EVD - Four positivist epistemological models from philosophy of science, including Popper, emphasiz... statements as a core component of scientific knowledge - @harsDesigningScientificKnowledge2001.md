@@ -2,12 +2,12 @@
 title: [[EVD]] - Four positivist epistemological models from philosophy of science, including Popper, emphasized scientific statements as a core component of scientific knowledge - [[@harsDesigningScientificKnowledge2001]]
 url: https://roamresearch.com/#/app/megacoglab/page/tLxiZe61Y
 author: Joel Chan
-date: Tue Sep 07 2021 16:45:51 GMT-0400 (Eastern Daylight Time)
+date: Wed Sep 08 2021 04:45:51 GMT+0800 (Malaysia Time)
 ---
 
 - **Summary**
 
-    - Statements were a core building block of a model of scientific knowledge synthesized from four [[Positivist]] epistemological models of scientific knowledge from philosophy of science [[@popperLogicScientificDiscovery1959]] [[@nagelStructureScienceProblems1979]] [[@dubinTheoryBuilding1978]] [[@bungePhilosophyScience1998]]   #Atomicity
+    - Statements were a core building block of a model of scientific knowledge synthesized from four [[Positivist]]
 
         - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fmegacoglab%2FBKdsNedWQB?alt=media&token=8d75e1d8-bd58-439f-a232-a25ebf651691) (p. 70)
 - **Grounding Context**
@@ -38,11 +38,11 @@ date: Tue Sep 07 2021 16:45:51 GMT-0400 (Eastern Daylight Time)
 
         - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fmegacoglab%2FDnaXSUchx8?alt=media&token=c69c3cfc-7cb0-4bd8-b056-0c6d9a22d4a9)
 
-    - Selection criteria for epistemology texts: 1) broad and comprehensive, and 2) had an impact on practice of research. But I don't see how this selection criteria is borne out in the selected texts, except maybe [[@popperLogicScientificDiscovery1959]]; no evidence is provided to support the claim that these selected texts meet the stated criteria. So I'm going to put a big asterisk on this until I can confirm it with other stuff. The good thing is that the core statement about statements does sort of pass the smell test, by being consistent with other lines of evidence.
+    - Selection criteria for epistemology texts: 1) broad and comprehensive, and 2) had an impact on practice of research. But I don't see how this selection criteria is borne out in the selected texts, except maybe [[@popperLogicScientificDiscovery1959]]
 
         - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fmegacoglab%2FZ6tXTSw7AN.png?alt=media&token=645aab1f-0b60-4abb-8226-81d063456ae8) (p. 6)
 
-        - [[Mario Bunge]] sort of passes the smell test by having some presence on the [[Stanford Encyclopedia of Philosophy]] (across [105 documents](https://plato.stanford.edu/search/searcher.py?query=mario+bunge) related to philosophy of science). That doesn't address the second criteria though, although perhaps only in a loose way.
+        - [[Mario Bunge]]
 
 ###### Discourse Context
 

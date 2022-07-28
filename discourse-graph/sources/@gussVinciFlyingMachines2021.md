@@ -2,12 +2,12 @@
 title: @gussVinciFlyingMachines2021
 url: https://roamresearch.com/#/app/megacoglab/page/IYztrCj55
 author: Joel Chan
-date: Tue Jan 11 2022 20:47:21 GMT-0500 (Eastern Standard Time)
+date: Wed Jan 12 2022 09:47:21 GMT+0800 (Malaysia Time)
 ---
 
 - Title:: From da Vinci’s Flying Machines to a Theory of the Creative Process
-- Author(s):: [[C. Dominik Güss]], [[Sarah Ahmed]], [[Dietrich Dörner]]
-- Abstract:: Steps involved in the creative process have been described in previous research, yet the exact nature of the process still remains unclear. In the current study, we take this investigation further, referring to two flying machines developed by [[Leonardo Da Vinci]] and his other notes. Nine iterative steps are described with a focus on motivation and cognition: (a) vision and curiosity; (b) social recognition; (c) asking questions; (d) analogical thinking; (e) trial and error; (f) abductive reasoning; (g) incubation and forgetting; (h) overinclusive thinking, latent inhibition, and illumination; and (i) schema elaboration. The influence of da Vinci?s socio-historic context is also briefly discussed. The analyses show how general psychological mechanisms can explain extraordinary acts of creativity. The steps discussed can be further formalized in future research to advance the modeling of creativity.
+- Author(s):: [[C. Dominik Güss]]
+- Abstract:: Steps involved in the creative process have been described in previous research, yet the exact nature of the process still remains unclear. In the current study, we take this investigation further, referring to two flying machines developed by [[Leonardo Da Vinci]]
 - Type:: [[Article]]
 - Publication:: Perspectives on Psychological Science
 - URL : https://doi.org/10.1177/1745691620966790

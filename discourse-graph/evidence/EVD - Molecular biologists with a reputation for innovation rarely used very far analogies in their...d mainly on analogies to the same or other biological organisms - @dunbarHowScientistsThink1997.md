@@ -2,7 +2,7 @@
 title: [[EVD]] - Molecular biologists with a reputation for innovation rarely used very far analogies in their lab meetings while generating novel scientific concepts; instead, they relied mainly on analogies to the same or other biological organisms - [[@dunbarHowScientistsThink1997]]
 url: https://roamresearch.com/#/app/megacoglab/page/KQ6aLkCGV
 author: Joel Chan
-date: Mon Jun 28 2021 12:58:57 GMT-0400 (Eastern Daylight Time)
+date: Tue Jun 29 2021 00:58:57 GMT+0800 (Malaysia Time)
 ---
 
 - # Summary::
@@ -11,7 +11,7 @@ date: Mon Jun 28 2021 12:58:57 GMT-0400 (Eastern Daylight Time)
 
         - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fmegacoglab%2FPrLf45BISk.png?alt=media&token=3325f60f-f449-4c35-bbdc-41d15f367e58)
 
-    - An important example comes from an episode of a major conceptual change that involved only [[near analogies]] from [Lab A](Lab A: major discovery (during observation period) of how cells proilferate into certain regions of hte body). The details of the change had to be written out to preserve anonymity, but the basic gist was a reconceptualization of how cells proliferate to certain regions of the body, which had major implications for understanding entire classes of autoimmune diseases. The conceptual change relied on a series of analogies to
+    - An important example comes from an episode of a major conceptual change that involved only [[near analogies]]
 
         - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fmegacoglab%2FqkEv_PWAUk.png?alt=media&token=dc1541f0-6f97-4b94-b2b4-9541375e6cb9)
 
@@ -50,7 +50,7 @@ date: Mon Jun 28 2021 12:58:57 GMT-0400 (Eastern Daylight Time)
 
         - Identified in consultation with a Nobel-Prize winner
 
-    - Procedure is sort of [[m/Ethnography]]: spent a year embedded in in the labs, directly observing and audio-recording laboratory meetings, supplemented by reading grant proposals and drafts of papers, and conducting interviews with the scientists. The observation period spanned 19 research projects, many of which led to major discoveries.
+    - Procedure is sort of [[mEthnography]]
 
         - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fmegacoglab%2Fl5gy57KBtI.png?alt=media&token=c11fb5ef-2e72-42e1-a3bb-73d9aa368cac) (p. 464)
 
@@ -64,7 +64,7 @@ date: Mon Jun 28 2021 12:58:57 GMT-0400 (Eastern Daylight Time)
 
         - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fmegacoglab%2FhTTN8uBXs3.png?alt=media&token=de96b2d7-9c9a-4ad9-8219-0fff10864aec) (p. 466)
 
-    - General coding approach: extension of [[m/Think-aloud protocols]] to group setting: unit of analysis is a "statement" (clause or sentence, with a verb phrase that they assume indicates the core mental operation emplyed). Transcription was done by two students with backgrounds in the domain (molecular biology)
+    - General coding approach: extension of [[mThink-aloud protocols]]
 
         - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fmegacoglab%2Fi40jtMd3yO.png?alt=media&token=a5179466-da4c-4cef-9a52-a719c6cda808) (p. 468)
 

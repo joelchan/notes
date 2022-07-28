@@ -2,16 +2,16 @@
 title: @shneidermanCreativitySupportTools2006
 url: https://roamresearch.com/#/app/megacoglab/page/hhqVAjyJn
 author: Joel Chan
-date: Sun Feb 07 2021 14:46:42 GMT-0500 (Eastern Standard Time)
+date: Mon Feb 08 2021 03:46:42 GMT+0800 (Malaysia Time)
 ---
 
-- #[[references]]
+- [[references]]
 
     - Title: Creativity Support Tools: Report From a U.S. National Science Foundation Sponsored Workshop
 
     - Meta:
 
-        - Authored by:: [[Ben Shneiderman]] [[Gerhard Fischer]] [[Mary Czerwinski]] [[Mitch Resnick]] [[Brad Myers]] [[Linda Candy]] [[Ernest Edmonds]] [[Mike Eisenberg]] [[Elisa Giaccardi]] [[Tom Hewett]] [[Pamela Jennings]] [[Bill Kules]] [[Kumiyo Nakakoji]] [[Jay Nunamaker]] [[Randy Pausch]] [[Ted Selker]] [[Elisabeth Sylvan]] [[Michael Terry]]
+        - Authored by:: [[Ben Shneiderman]]
 
         - Year: [[2006]]
 

@@ -2,16 +2,16 @@
 title: @eppleEmpiricalInvestigationMicrostructure1996
 url: https://roamresearch.com/#/app/megacoglab/page/aJuV35mMv
 author: Joel Chan
-date: Wed Feb 17 2021 13:33:51 GMT-0500 (Eastern Standard Time)
+date: Thu Feb 18 2021 02:33:51 GMT+0800 (Malaysia Time)
 ---
 
-- #[[references]]
+- [[references]]
 
     - Title: An empirical investigation of the microstructure of knowledge acquisition and transfer through learning by doing
 
     - Meta:
 
-        - Authored by:: [[Dennis Epple]] [[Linda Argote]] [[Kenneth Murphy]]
+        - Authored by:: [[Dennis Epple]]
 
         - Year: [[1996]]
 

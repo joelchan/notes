@@ -2,7 +2,7 @@
 title: @ackermanAugmentingOrganizationalMemory1994
 url: https://roamresearch.com/#/app/megacoglab/page/L-laSH-S8
 author: Joel Chan
-date: Thu Jun 17 2021 14:13:05 GMT-0400 (Eastern Daylight Time)
+date: Fri Jun 18 2021 02:13:05 GMT+0800 (Malaysia Time)
 ---
 
 - Title:: Augmenting the organizational memory: a field study of answer garden
@@ -13,7 +13,7 @@ date: Thu Jun 17 2021 14:13:05 GMT-0400 (Eastern Daylight Time)
 - URL : https://doi.org/10.1145/192844.193019
 - Date Added:: [[June 17th, 2021]]
 - Zotero links:: [Local library](zotero://select/library/items/ARTQEC5F), [Web library](https://www.zotero.org/users/2451508/items/ARTQEC5F)
-- Tags:: #[[CSCW]], #[[computer-supported cooperative work]], #[[corporate memory]], #[[group memory]], #[[information access]], #[[information retrieval]], #[[information systems]], #[[organizational memory]]
+- Tags:: [[CSCW]]
 - PDF links : [Ackerman_1994_Augmenting the organizational memory.pdf](zotero://open-pdf/library/items/U9JC9QLK)
 
 ###### Discourse Context

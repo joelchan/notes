@@ -2,16 +2,16 @@
 title: @baughmanProcessanalyticModelsCreative1995
 url: https://roamresearch.com/#/app/megacoglab/page/hbXTTDfBi
 author: Joel Chan
-date: Thu Aug 12 2021 23:17:05 GMT-0400 (Eastern Daylight Time)
+date: Fri Aug 13 2021 11:17:05 GMT+0800 (Malaysia Time)
 ---
 
-- #[[references]]
+- [[references]]
 
     - Title: Process-analytic models of creative capacities: Operations influencing the combination-and-reorganization process.
 
     - Meta:
 
-        - Authored by:: [[Wayne A. Baughman]] [[Michael D. Mumford]]
+        - Authored by:: [[Wayne A. Baughman]]
 
         - Year: [[1995]]
 

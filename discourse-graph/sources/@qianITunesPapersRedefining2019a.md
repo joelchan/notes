@@ -2,7 +2,7 @@
 title: @qianITunesPapersRedefining2019a
 url: https://roamresearch.com/#/app/megacoglab/page/dHZZbVBov
 author: Joel Chan
-date: Wed Mar 18 2020 11:42:16 GMT-0400 (Eastern Daylight Time)
+date: Wed Mar 18 2020 23:42:16 GMT+0800 (Malaysia Time)
 ---
 
 - #references
@@ -11,13 +11,13 @@ date: Wed Mar 18 2020 11:42:16 GMT-0400 (Eastern Daylight Time)
 
     - Meta
 
-        - Tags: #[[D/Synthesis Infrastructure]] #ref/Paper
+        - Tags: [[DSynthesis Infrastructure]]
 
-        - [[Authored by]]::  [[Xin Qian]] ,  Matt J. Erhart ,  [[Aniket Kittur]] ,  [[Wayne Lutters]] ,  [[Joel Chan]]
+        - [[Authored by]]
 
         - Year: 2019
 
-        - Publication: [[CSCW]] '19
+        - Publication: [[CSCW]]
 
         - URL: https://doi.org/10.1145/3311957.3359455
 
@@ -27,7 +27,7 @@ date: Wed Mar 18 2020 11:42:16 GMT-0400 (Eastern Daylight Time)
 
         - No eval
 
-        - Our first published salvo for #[[D/Synthesis Infrastructure]], describing the [[[[ART]] - Knowledge Compressor]] work
+        - Our first published salvo for [[DSynthesis Infrastructure]]
 
 ###### Discourse Context
 

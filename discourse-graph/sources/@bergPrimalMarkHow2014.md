@@ -2,7 +2,7 @@
 title: @bergPrimalMarkHow2014
 url: https://roamresearch.com/#/app/megacoglab/page/gWoFVhbX9
 author: Joel Chan
-date: Tue Sep 22 2020 21:44:03 GMT-0400 (Eastern Daylight Time)
+date: Wed Sep 23 2020 09:44:03 GMT+0800 (Malaysia Time)
 ---
 
 - #references
@@ -35,7 +35,7 @@ date: Tue Sep 22 2020 21:44:03 GMT-0400 (Eastern Daylight Time)
 
         - Experiment 4
 
-    - #[[📝 lit-notes]]
+    - [[📝 lit-notes]]
 
         - "novel primal marks" led to more novel but less useful ideas *initially*, but then when more familiar ideas were "infused", they ended up with better combinations of novelty and usefulness than starting out with familiar primal marks
 

@@ -2,16 +2,16 @@
 title: @christensenRelationshipAnalogicalDistance2007
 url: https://roamresearch.com/#/app/megacoglab/page/72M9H2GN4
 author: Joel Chan
-date: Mon Jan 11 2021 21:45:18 GMT-0500 (Eastern Standard Time)
+date: Tue Jan 12 2021 10:45:18 GMT+0800 (Malaysia Time)
 ---
 
-- #[[references]]
+- [[references]]
 
     - Title: The relationship of analogical distance to analogical function and preinventive structure: the case of engineering design.
 
     - Meta:
 
-        - Authored by:: [[B. T. Christensen]] [[C. D. Schunn]]
+        - Authored by:: [[B. T. Christensen]]
 
         - Year: [[2007]]
 

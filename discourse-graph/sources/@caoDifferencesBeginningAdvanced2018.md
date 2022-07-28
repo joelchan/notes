@@ -2,16 +2,16 @@
 title: @caoDifferencesBeginningAdvanced2018
 url: https://roamresearch.com/#/app/megacoglab/page/NEtvtDXXX
 author: Joel Chan
-date: Fri Jul 02 2021 22:21:25 GMT-0400 (Eastern Daylight Time)
+date: Sat Jul 03 2021 10:21:25 GMT+0800 (Malaysia Time)
 ---
 
-- #[[references]]
+- [[references]]
 
     - Title: Differences between beginning and advanced design students in analogical reasoning during idea generation: evidence from eye movements
 
     - Meta:
 
-        - Authored by:: [[Juan Cao]] [[Yan Xiong]] [[Yan Li]] [[Longfan Liu]] [[Mei Wang]]
+        - Authored by:: [[Juan Cao]]
 
         - Year: [[2018]]
 

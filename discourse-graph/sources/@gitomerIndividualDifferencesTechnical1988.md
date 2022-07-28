@@ -2,10 +2,10 @@
 title: @gitomerIndividualDifferencesTechnical1988
 url: https://roamresearch.com/#/app/megacoglab/page/wSvqkM8GS
 author: Joel Chan
-date: Wed Feb 17 2021 13:27:23 GMT-0500 (Eastern Standard Time)
+date: Thu Feb 18 2021 02:27:23 GMT+0800 (Malaysia Time)
 ---
 
-- #[[references]]
+- [[references]]
 
     - Title: Individual Differences in Technical Troubleshooting
 

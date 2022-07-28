@@ -2,14 +2,14 @@
 title: [[EVD]] - In a design team, concepts tended to be more similar to their immediately preceding concepts after far analogy use compared to using near or no analogies - [[@chanImpactAnalogiesCreative2015]]
 url: https://roamresearch.com/#/app/megacoglab/page/sBhdunCTd
 author: Joel Chan
-date: Wed Jun 30 2021 11:00:25 GMT-0400 (Eastern Daylight Time)
+date: Wed Jun 30 2021 23:00:25 GMT+0800 (Malaysia Time)
 ---
 
 - Summary::
 
-    - Authors [analyzed](Analysis approach: [[m/Retrospective protocol analysis]]) the temporal interplay between far analogy use and creative concept generation in a [professional design team's](((kGuZAEg_t))) [brainstorming conversations](((iP2zyekNH))) targeting a [novel product concept leveraging existing technology](((An39cSWce))).
+    - Authors [analyzed](Analysis approach: [[mRetrospective protocol analysis]]
 
-    - Concepts tended to be more similar to their immediately preceding concepts after [far analogy]([[far analogies]]) use compared to baseline situations (i.e., without far analogy use).
+    - Concepts tended to be more similar to their immediately preceding concepts after [far analogy]([[far analogies]]
 
         - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fmegacoglab%2FL_75uu5rg0.png?alt=media&token=1aa4f557-6a1a-4784-90c4-e7bb57591fd8) (p. 12)
 
@@ -36,13 +36,13 @@ date: Wed Jun 30 2021 11:00:25 GMT-0400 (Eastern Daylight Time)
 
             - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fmegacoglab%2Fw7uascpPxV.png?alt=media&token=f5677f44-8193-40a4-afb7-ec522f0d845e) (p. 4)
 
-    - Analogical distance (binary): near = analogies from sources related to graphical production and printing; far = anything else. High [[inter-rater reliability]] ([[Cohen's K]] = .99)
+    - Analogical distance (binary): near = analogies from sources related to graphical production and printing; far = anything else. High [[inter-rater reliability]]
 
         - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fmegacoglab%2FTn2e9lFEKt.png?alt=media&token=c0088e15-35de-4409-a306-c2b1d0db8e8d)
 
     - Measures
 
-    - Analysis approach: [[m/Retrospective protocol analysis]]
+    - Analysis approach: [[mRetrospective protocol analysis]]
 
     - Source:: __<reference the paper Roam page here>__
 - **Discourse Context**

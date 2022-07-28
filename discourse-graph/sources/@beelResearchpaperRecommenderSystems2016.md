@@ -2,18 +2,18 @@
 title: @beelResearchpaperRecommenderSystems2016
 url: https://roamresearch.com/#/app/megacoglab/page/7e4luVMkv
 author: Joel Chan
-date: Wed Jan 13 2021 12:31:28 GMT-0500 (Eastern Standard Time)
+date: Thu Jan 14 2021 01:31:28 GMT+0800 (Malaysia Time)
 ---
 
-- #[[references]]
+- [[references]]
 
     - Title: Research-paper recommender systems: a literature survey
 
     - Meta:
 
-        - Tags:: #[[D/Computational Analogy]]
+        - Tags:: [[DComputational Analogy]]
 
-        - Authored by:: [[Joeran Beel]] [[Bela Gipp]] [[Stefan Langer]] [[Corinna Breitinger]]
+        - Authored by:: [[Joeran Beel]]
 
         - Year: [[2016]]
 
@@ -31,7 +31,7 @@ date: Wed Jan 13 2021 12:31:28 GMT-0500 (Eastern Standard Time)
 
     - #lit-context
 
-        - [[sys/scite.ai]] [reports](https://scite.ai/reports/research-paper-recommender-systems-a-literature-w9mrGL?contradicting=false&mentioning=false&page=1) that their findings about prevalence of offline evaluations were [[replicated-by]] [[@canoHybridRecommenderSystems2017]]
+        - [[sysscite.ai]]
 
             - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fmegacoglab%2FRMLaGH6kOB.png?alt=media&token=77a6a890-1726-4e33-be5b-fd9aa5388a5d)
 

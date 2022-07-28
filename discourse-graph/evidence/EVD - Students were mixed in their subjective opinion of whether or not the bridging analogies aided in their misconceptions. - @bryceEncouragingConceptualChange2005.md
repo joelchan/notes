@@ -2,7 +2,7 @@
 title: [[EVD]] - Students were mixed in their subjective opinion of whether or not the bridging analogies aided in their misconceptions. - [[@bryce*EncouragingConceptualChange2005]]
 url: https://roamresearch.com/#/app/megacoglab/page/suyc5xaVi
 author: Joel Chan
-date: Thu Dec 16 2021 14:29:06 GMT-0500 (Eastern Standard Time)
+date: Fri Dec 17 2021 03:29:06 GMT+0800 (Malaysia Time)
 ---
 
 - # Summary

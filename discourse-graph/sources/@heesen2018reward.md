@@ -2,7 +2,7 @@
 title: @heesen2018reward
 url: https://roamresearch.com/#/app/megacoglab/page/nGWva8oZq
 author: Joel Chan
-date: Sun Mar 01 2020 22:05:03 GMT-0500 (Eastern Standard Time)
+date: Mon Mar 02 2020 11:05:03 GMT+0800 (Malaysia Time)
 ---
 
 - #references
@@ -19,15 +19,15 @@ date: Sun Mar 01 2020 22:05:03 GMT-0500 (Eastern Standard Time)
 
     - #lit-context
 
-        - Uses a mathematical [[m/Model]] #ResearchMethod
+        - Uses a mathematical [[mModel]]
 
-    - #[[📝 lit-notes]]:
+    - [[📝 lit-notes]]
 
-        - #Claim Imperfections in [[peer review]] and the way credit is awarded systematically favor lower levels of reproducibility
+        - #Claim Imperfections in [[peer review]]
 
             - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fmegacoglab%2F2mohnGmUFT?alt=media&token=4a251260-048b-41d9-a0c8-3d95def4d986)
 
-            - Uses a mathematical [[m/Model]] #ResearchMethod
+            - Uses a mathematical [[mModel]]
 
 ###### Discourse Context
 

@@ -2,17 +2,17 @@
 title: @simkinStochasticModelingCitation2005
 url: https://roamresearch.com/#/app/megacoglab/page/5wyJzCCeW
 author: Joel Chan
-date: Sun Aug 09 2020 21:18:14 GMT-0400 (Eastern Daylight Time)
+date: Mon Aug 10 2020 09:18:14 GMT+0800 (Malaysia Time)
 ---
 
 - [[@simkinStochasticModelingCitation2005]]
-- #[[references]]
+- [[references]]
 
     - Title: Stochastic modeling of citation slips
 
     - Meta:
 
-        - Authored by:: [[M. V. Simkin]] [[V. P. Roychowdhury]]
+        - Authored by:: [[M. V. Simkin]]
 
         - Year: [[2005]]
 

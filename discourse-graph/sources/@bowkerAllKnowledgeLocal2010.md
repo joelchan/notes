@@ -2,7 +2,7 @@
 title: @bowkerAllKnowledgeLocal2010
 url: https://roamresearch.com/#/app/megacoglab/page/aGlCL9C-6
 author: Joel Chan
-date: Thu Jun 25 2020 09:13:43 GMT-0400 (Eastern Daylight Time)
+date: Thu Jun 25 2020 21:13:43 GMT+0800 (Malaysia Time)
 ---
 
 - #references
@@ -37,7 +37,7 @@ date: Thu Jun 25 2020 09:13:43 GMT-0400 (Eastern Daylight Time)
 
             - From here: https://www.cdu.edu.au/sites/default/files/the-northern-institute/lc_journal_issue2_2010.pdf#page=142
 
-            - whole project was inspired by #[[@laveSituatedLearningLegitimate1991]] and idea of [[communities of practice]]
+            - whole project was inspired by [[@laveSituatedLearningLegitimate1991]]
 
 ###### Discourse Context
 

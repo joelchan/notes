@@ -2,7 +2,7 @@
 title: @thomerTransformingTaxonomicInterfaces2018
 url: https://roamresearch.com/#/app/megacoglab/page/CE4_uHRNx
 author: Joel Chan
-date: Thu May 21 2020 10:28:33 GMT-0400 (Eastern Daylight Time)
+date: Thu May 21 2020 22:28:33 GMT+0800 (Malaysia Time)
 ---
 
 - #references
@@ -13,11 +13,11 @@ date: Thu May 21 2020 10:28:33 GMT-0400 (Eastern Daylight Time)
 
         - Tags: #ref/Paper
 
-        - Authored by::  [[Andrea Thomer]] ,  Michael Bernard Twidale ,  Matthew J. Yoder
+        - Authored by::  [[Andrea Thomer]]
 
         - Year: [[2018]]
 
-        - Publication: Proceedings of the ACM on Human-Computer Interaction ([[CSCW]])
+        - Publication: Proceedings of the ACM on Human-Computer Interaction ([[CSCW]]
 
         - URL: https://doi.org/10.1145/3274442
 

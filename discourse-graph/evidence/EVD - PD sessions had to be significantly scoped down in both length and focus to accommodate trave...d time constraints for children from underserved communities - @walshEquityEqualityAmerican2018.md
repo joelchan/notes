@@ -2,7 +2,7 @@
 title: [[EVD]] - PD sessions had to be significantly scoped down in both length and focus to accommodate travel and time constraints for children from underserved communities - [[@walshEquityEqualityAmerican2018]]
 url: https://roamresearch.com/#/app/megacoglab/page/maY0iu_Fx
 author: Joel Chan
-date: Wed Jun 09 2021 11:38:47 GMT-0400 (Eastern Daylight Time)
+date: Wed Jun 09 2021 23:38:47 GMT+0800 (Malaysia Time)
 ---
 
 - noteType:: [[EVD]]
@@ -31,7 +31,7 @@ date: Wed Jun 09 2021 11:38:47 GMT-0400 (Eastern Daylight Time)
 
     - ## Metadata::
 
-        - author:: [[AJ Rudd Jr]] [[Joel Chan]]
+        - author:: [[AJ Rudd Jr]]
 
 ###### Discourse Context
 

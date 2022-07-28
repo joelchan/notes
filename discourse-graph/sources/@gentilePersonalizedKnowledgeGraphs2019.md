@@ -2,18 +2,18 @@
 title: @gentilePersonalizedKnowledgeGraphs2019
 url: https://roamresearch.com/#/app/megacoglab/page/nFLYW66Xl
 author: Joel Chan
-date: Tue Jun 09 2020 11:27:08 GMT-0400 (Eastern Daylight Time)
+date: Tue Jun 09 2020 23:27:08 GMT+0800 (Malaysia Time)
 ---
 
 - [[@gentilePersonalizedKnowledgeGraphs2019]]
 
-    - #[[references]]
+    - [[references]]
 
         - Title: Personalized Knowledge Graphs for the Pharmaceutical Domain
 
         - Meta:
 
-            - Authored by:: [[Anna Lisa Gentile]] [[Daniel Gruhl]] [[Petar Ristoski]] [[Steve Welch]] [[Chiara Ghidini]] [[Olaf Hartig]] [[Maria Maleshkova]] [[Vojtěch Svátek]] [[Isabel Cruz]] [[Aidan Hogan]] [[Jie Song]] [[Maxime Lefrançois]] [[Fabien Gandon]]
+            - Authored by:: [[Anna Lisa Gentile]]
 
             - Year: [[2019]]
 
@@ -52,25 +52,25 @@ date: Tue Jun 09 2020 11:27:08 GMT-0400 (Eastern Daylight Time)
 
     - #lit-context
 
-        - Also from the [[IBM Research]] crew, building on [[sys/IBM Corpus Conversion Service]]
+        - Also from the [[IBM Research]]
 
-    - #[[📝 lit-notes]]
+    - [[📝 lit-notes]]
 
-        - Key motivation for augmenting existing PDFs __in situ__, instead of extracting elements: preserve ability to get [[context]]!
+        - Key motivation for augmenting existing PDFs __in situ__, instead of extracting elements: preserve ability to get [[context]]
 
-            - #infrastructure cc #[[[[PTN]] - Prefer to accrete new infrastructures on top of existing ones]]
+            - #infrastructure cc [[PTN - Prefer to accrete new infrastructures on top of existing ones]]
 
-            - also helps with #[[[[CLM]] - Contextualizability is necessary for synthesis]] and #[[[[CLM]] - Knowledge must be recontextualized to be usefully reused]]
+            - also helps with [[CLM - Contextualizability is necessary for synthesis]]
 
-            - #> "the layout of the text (e.g., tables) or ancillary information (e.g., chemical structures or other illustrations) are critical [[context]] to the understanding of the text." (p. 3)
+            - #> "the layout of the text (e.g., tables) or ancillary information (e.g., chemical structures or other illustrations) are critical [[context]]
 
                 - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fmegacoglab%2FUzQ60L1lKP.png?alt=media&token=315238cf-4ac7-4216-9a12-634823d8bd9e)
 
-            - #> "even for a human in this case it would be difficult to get a complete view of what the risks are with this drug, including the organ systems affected, the symptoms produced by the drug in each organ system, and the relative size of the risk for each symptom unless the table and the accompanying text are read [[context]]ually." (p. 5)
+            - #> "even for a human in this case it would be difficult to get a complete view of what the risks are with this drug, including the organ systems affected, the symptoms produced by the drug in each organ system, and the relative size of the risk for each symptom unless the table and the accompanying text are read [[context]]
 
                 - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fmegacoglab%2FtG6PHgm18e.png?alt=media&token=6dac12bc-8a23-424b-88b3-7828c24a8ad8)
 
-                - This is great #example-of #[[[[CLM]] - Contextualizability is necessary for synthesis]] [[context]]
+                - This is great #example-of [[CLM - Contextualizability is necessary for synthesis]]
 
 ###### Discourse Context
 

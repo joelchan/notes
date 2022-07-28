@@ -2,7 +2,7 @@
 title: [[EVD]] - The external prime (example) reduced design originality by structuring the form of the design. - [[@dahlInfluenceValueAnalogical2002]]
 url: https://roamresearch.com/#/app/megacoglab/page/se92qA2YA
 author: Jason Ding
-date: Wed Apr 20 2022 19:37:23 GMT-0400 (Eastern Daylight Time)
+date: Thu Apr 21 2022 07:37:23 GMT+0800 (Malaysia Time)
 ---
 
 

@@ -2,14 +2,14 @@
 title: [[QUE]] - Is it possible to measure creativity in a scientifically precise way? If so, how?
 url: https://roamresearch.com/#/app/megacoglab/page/akAHTTTP0
 author: Joel Chan
-date: Sun Feb 07 2021 12:50:44 GMT-0500 (Eastern Standard Time)
+date: Mon Feb 08 2021 01:50:44 GMT+0800 (Malaysia Time)
 ---
 
-- #Question
+- #question
 
     - # Synthesis
 
-        - Hard bc [[[[CLM]] - The notion of an 'idea' is very complicated]]
+        - Hard bc [[CLM - The notion of an 'idea' is very complicated]]
 
         - Though perhaps process-based measures that are theoretically grounded and measurement-level precise are viable.
 
@@ -21,9 +21,9 @@ date: Sun Feb 07 2021 12:50:44 GMT-0500 (Eastern Standard Time)
 
         - [[@sosaAccretionTheoryIdeation2019]]
 
-        - [[@kornishImportanceRawIdea2014]] - compares purchase intent, consumers vs. experts, etc.
+        - [[@kornishImportanceRawIdea2014]]
 
-        - [[@amabileSocialPsychologyCreativity1982]] - [[Consensual Assessment Technique (CAT)]]
+        - [[@amabileSocialPsychologyCreativity1982]]
 
     - ---
 

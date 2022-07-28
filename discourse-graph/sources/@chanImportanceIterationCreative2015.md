@@ -2,7 +2,7 @@
 title: @chanImportanceIterationCreative2015
 url: https://roamresearch.com/#/app/megacoglab/page/_IB8a8bzS
 author: Joel Chan
-date: Sun Mar 22 2020 15:19:36 GMT-0400 (Eastern Daylight Time)
+date: Mon Mar 23 2020 03:19:36 GMT+0800 (Malaysia Time)
 ---
 
 - #references
@@ -13,7 +13,7 @@ date: Sun Mar 22 2020 15:19:36 GMT-0400 (Eastern Daylight Time)
 
         - Tags: #ref/Paper #D/Solution-Diversity
 
-        - Authored by::  [[Joel Chan]] ,  [[Christian D. Schunn]]
+        - Authored by::  [[Joel Chan]]
 
         - Year: [[2015]]
 
@@ -33,7 +33,7 @@ date: Sun Mar 22 2020 15:19:36 GMT-0400 (Eastern Daylight Time)
 
         - #lit-context
 
-        - #[[📝 lit-notes]]
+        - [[📝 lit-notes]]
 
             - #Claim Building directly on diverse sources of inspiration doesn’t yield immediately creative ideas; these inspirations only turn into creative (i.e., both novel __and__ useful) ideas when people spend time iterating on the resulting ideas
 

@@ -2,12 +2,12 @@
 title: @kellerCollectingCabinetHow2009
 url: https://roamresearch.com/#/app/megacoglab/page/QuPbeHxLY
 author: Joel Chan
-date: Thu Jun 30 2022 00:21:02 GMT-0400 (Eastern Daylight Time)
+date: Thu Jun 30 2022 12:21:02 GMT+0800 (Malaysia Time)
 ---
 
-- #[[📝 lit-notes]]
+- [[📝 lit-notes]]
 
-    - [[Joel Chan]] for [[[[THE]] - interaction-oriented theory of creative inspiration from examples]] |
+    - [[Joel Chan]]
 
         - ## #inspectionalread
 

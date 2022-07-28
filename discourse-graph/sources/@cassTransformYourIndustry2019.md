@@ -2,16 +2,16 @@
 title: @cassTransformYourIndustry2019
 url: https://roamresearch.com/#/app/megacoglab/page/asfgl4h8h
 author: Joel Chan
-date: Mon Jan 11 2021 20:53:25 GMT-0500 (Eastern Standard Time)
+date: Tue Jan 12 2021 09:53:25 GMT+0800 (Malaysia Time)
 ---
 
-- #[[references]]
+- [[references]]
 
     - Title: To Transform Your Industry, Look at Someone Else’s
 
     - Meta:
 
-        - Authored by:: [[Maura Cass]] [[Owen Sanderson]]
+        - Authored by:: [[Maura Cass]]
 
         - Year: [[2019]]
 

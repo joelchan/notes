@@ -2,16 +2,16 @@
 title: @shumScholOntoOntologybasedDigital2000
 url: https://roamresearch.com/#/app/megacoglab/page/XU9a8BMNF
 author: Joel Chan
-date: Mon Jun 29 2020 15:01:16 GMT-0400 (Eastern Daylight Time)
+date: Tue Jun 30 2020 03:01:16 GMT+0800 (Malaysia Time)
 ---
 
-- #[[references]]
+- [[references]]
 
     - Title: ScholOnto: an ontology-based digital library server for research documents and discourse
 
     - Meta:
 
-        - Authored by:: [[Simon Buckingham Shum]] [[Enrico Motta]] [[John Domingue]]
+        - Authored by:: [[Simon Buckingham Shum]]
 
         - Year: [[2000]]
 

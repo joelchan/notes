@@ -2,16 +2,16 @@
 title: [[QUE]] - Under what conditions is it possible to transfer expertise from one person to another?
 url: https://roamresearch.com/#/app/megacoglab/page/ic4MuAVb5
 author: Joel Chan
-date: Wed Feb 17 2021 13:29:16 GMT-0500 (Eastern Standard Time)
+date: Thu Feb 18 2021 02:29:16 GMT+0800 (Malaysia Time)
 ---
 
 - # Synthesis
 
     - sociotechnical roles
 
-        - [[@ackermanAnswerGardenMerging1996]] has technical design patterns for gracefully escalating from local-first experts to broader organizational-level experts, as well as anonymity mechanisms (no evidence notes, but [trails to past ones](key learnings from the first two field studies of [[sys/Answer Garden]] are super releveant: we [should read]([[➰ breadcrumbs]]). that's where the evidence is. but the claim basically is that [context is necessary to make information useful]([[[[CLM]] - Knowledge must be recontextualized to be usefully reused]]), and often it's best to get that context from a person. this is the major motivation for maknig the answer garden not just a repo, but also a help-seeking platform))
+        - [[@ackermanAnswerGardenMerging1996]]
 
-        - [[[[EVD]] - Local developers evolved into "gardener" roles to meet perceived demand for disseminating best practices for a software amongst users in an organization - [[@ganttGardenersGurusPatterns1992]]]]
+        - [[EVD - Local developers evolved into gardener roles to meet perceived demand for disseminating best practices for a software amongst users in an organization - @ganttGardenersGurusPatterns1992]]
 - ---
 - # Sources
 
@@ -31,13 +31,13 @@ date: Wed Feb 17 2021 13:29:16 GMT-0500 (Eastern Standard Time)
 
                 - Case Study/Experiment
 
-                - Case Study of making pizza was not in this paper, despite being cited. We tracked it down to [[@darrAcquisitionTransferDepreciation1995]], but even here it's not actually a result, but a contrived example
+                - Case Study of making pizza was not in this paper, despite being cited. We tracked it down to [[@darrAcquisitionTransferDepreciation1995]]
 
                     - Harder to share how to hand-toss a pizza (tacit) than to share the cook time of different pizza (explicit)
 
                     - Experts usually only tell part of the story (explicit part) about task that require tacit knowledge (hand-tossing a pizza)
 
-            - [[expert blind spot]] aka [[curse of knowledge]] - can't just ask people
+            - [[expert blind spot]]
 
                 - [[@langerWhenPracticeMakes1979]]
 
@@ -127,7 +127,7 @@ date: Wed Feb 17 2021 13:29:16 GMT-0500 (Eastern Standard Time)
 
                 - This probably has implications for how we elicit the knowledge to add to our wiki - how do we create the conditions where they can be specific?
 
-        - [[[[CLM]] - Knowledge is fundamentally contextual]]
+        - [[CLM - Knowledge is fundamentally contextual]]
 
             - [[@laveSituatedLearningLegitimate1991]]
 
@@ -143,7 +143,7 @@ date: Wed Feb 17 2021 13:29:16 GMT-0500 (Eastern Standard Time)
 
                 - There can be negative transfer when the context of the tasks does not match.
 
-        - people may be resistant to knowledge from outside their speciality (cc [[[[QUE]] - How might domain distance modulate the effects of analogies on creative output?]])
+        - people may be resistant to knowledge from outside their speciality (cc [[QUE - How might domain distance modulate the effects of analogies on creative output]]
 
             - [[@hindsLayingGroundworkRole2001]]
 
@@ -163,7 +163,7 @@ date: Wed Feb 17 2021 13:29:16 GMT-0500 (Eastern Standard Time)
 
     - Tags:
 
-    - Relevant projects: [[D/KNEXT]] [[D/Synthesis Infrastructure]] [[D/Computational Analogy]]
+    - Relevant projects: [[DKNEXT]]
 
 ###### Discourse Context
 

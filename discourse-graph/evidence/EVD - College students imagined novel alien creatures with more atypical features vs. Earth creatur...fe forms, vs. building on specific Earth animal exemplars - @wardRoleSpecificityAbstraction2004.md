@@ -2,7 +2,7 @@
 title: [[EVD]] - College students imagined novel alien creatures with more atypical features vs. Earth creatures when they were instructed to consider survival-critical features of life forms, vs. building on specific Earth animal exemplars - [[@wardRoleSpecificityAbstraction2004]]
 url: https://roamresearch.com/#/app/megacoglab/page/u2Rw1hwtY
 author: Joel Chan
-date: Sat Jan 15 2022 15:32:34 GMT-0500 (Eastern Standard Time)
+date: Sun Jan 16 2022 04:32:34 GMT+0800 (Malaysia Time)
 ---
 
 - # Summary

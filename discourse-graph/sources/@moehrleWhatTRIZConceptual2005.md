@@ -2,10 +2,10 @@
 title: @moehrleWhatTRIZConceptual2005
 url: https://roamresearch.com/#/app/megacoglab/page/Ov3b1hvqb
 author: Joel Chan
-date: Mon Jan 11 2021 20:55:23 GMT-0500 (Eastern Standard Time)
+date: Tue Jan 12 2021 09:55:23 GMT+0800 (Malaysia Time)
 ---
 
-- #[[references]]
+- [[references]]
 
     - Title: What is TRIZ? From Conceptual Basics to a Framework for Research
 

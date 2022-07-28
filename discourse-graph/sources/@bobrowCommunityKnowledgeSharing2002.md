@@ -2,11 +2,11 @@
 title: @bobrowCommunityKnowledgeSharing2002
 url: https://roamresearch.com/#/app/megacoglab/page/xMIW1-0NR
 author: Joel Chan
-date: Thu Jan 30 2020 17:29:21 GMT-0500 (Eastern Standard Time)
+date: Fri Jan 31 2020 06:29:21 GMT+0800 (Malaysia Time)
 ---
 
 - Title:: Community Knowledge Sharing in Practice: The Eureka Story
-- Author(s):: [[Daniel G. Bobrow]], [[Jack Whalen]]
+- Author(s):: [[Daniel G. Bobrow]]
 - Type:: [[Article]]
 - Publication:: Reflections: The SoL Journal
 - URL : http://www.ingentaselect.com/rpsv/cgi-bin/cgi?ini=xref&body=linker&reqdoi=10.1162/152417302762251336
@@ -17,9 +17,9 @@ date: Thu Jan 30 2020 17:29:21 GMT-0500 (Eastern Standard Time)
 
     - Title: Community Knowledge Sharing in Practice: The Eureka Story
 
-        - Tags: #references #[[D/KNEXT]] #reuse #[[Knowledge Management]]
+        - Tags: #references [[DKNEXT]]
 
-    - Authors: [[Daniel G Bobrow]] and [[Jack Whalen]]
+    - Authors: [[Daniel G Bobrow]]
 
     - Year: 2002
 

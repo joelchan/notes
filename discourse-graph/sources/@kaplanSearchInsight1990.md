@@ -2,7 +2,7 @@
 title: @kaplanSearchInsight1990
 url: https://roamresearch.com/#/app/megacoglab/page/iGWyuwQBJ
 author: Joel Chan
-date: Thu Feb 27 2020 15:43:41 GMT-0500 (Eastern Standard Time)
+date: Fri Feb 28 2020 04:43:41 GMT+0800 (Malaysia Time)
 ---
 
 - #references
@@ -15,7 +15,7 @@ date: Thu Feb 27 2020 15:43:41 GMT-0500 (Eastern Standard Time)
 
     - Publication: Cognitive Psychology
 
-    - Tags: #[[references]] for #[[D/Synthesis Infrastructure]]
+    - Tags: [[references]]
 
     - Content
 
@@ -81,9 +81,9 @@ date: Thu Feb 27 2020 15:43:41 GMT-0500 (Eastern Standard Time)
             - Fig. 8
 ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fmegacoglab%2FXGj2PTDSf_.png?alt=media&token=13b8bc67-8e3d-4e11-93c8-37b82f5a85ab) (p. 412)
 
-    - #[[📝 lit-notes]]
+    - [[📝 lit-notes]]
 
-        - for [[[[THE]] - interaction-oriented theory of creative inspiration from examples]]
+        - for [[THE - interaction-oriented theory of creative inspiration from examples]]
 
             - in what sense might the stimulus of the different boards be similar to examples?
 
@@ -101,21 +101,21 @@ date: Thu Feb 27 2020 15:43:41 GMT-0500 (Eastern Standard Time)
 
                 - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fmegacoglab%2FkHMzqyWaRz.png?alt=media&token=47ddf8b4-c94f-474e-99fb-c351371262f2) (p. 381)
 
-            - they make a key connection back to [[@maierReasoningHumansII1931]]'s two-string problem, and how the accidental brushing of the string by an experimenter could trigger the requisite reformulation of the problem. i think it's an example in the sense of being a concrete (albeit) partial instantiation of a move
+            - they make a key connection back to [[@maierReasoningHumansII1931]]
 
-                - this now reminds me of the theory of [[[[THE]] - Opportunistic Assimilation Theory]], though i will have to dig into this a bit more deeply.
+                - this now reminds me of the theory of [[THE - Opportunistic Assimilation Theory]]
 
             - key results
 
-                - [[[[EVD]] - after noticing a key element of a problem representation for the mutilated checkerboard problem (namely the lack of parity between the sequares on teh checkerboard), solutions to the problem came almost immediately after - [[@kaplanSearchInsight1990]]]]
+                - [[EVD - after noticing a key element of a problem representation for the mutilated checkerboard probl...heckerboard), solutions to the problem came almost immediately after - @kaplanSearchInsight1990]]
 
-                - [[[[EVD]] - Representing a mutilated checkerboard in a way that made perceptual features of squares more salient facilitated problem reformulation and insight - [[@kaplanSearchInsight1990]]]]
+                - [[EVD - Representing a mutilated checkerboard in a way that made perceptual features of squares more salient facilitated problem reformulation and insight - @kaplanSearchInsight1990]]
 
                 - a SOAR-based model solved the problem pretty quickly after being given a hint to represent parity in the problem representation
 
                 - the bit about search for representations being the difficulty, not "working out" and searching within the problem space, is also pointed to in Wason & Johnson-Laird 1972 (i wonder if this is the... card logic problem?)
 
-                - there's also some notes in here about how a strategy of noticing many perceptual features was a key distinguishing characteristic of successful subjects, independent o fhte baord manipulation. this is an [[Expertise]] thing
+                - there's also some notes in here about how a strategy of noticing many perceptual features was a key distinguishing characteristic of successful subjects, independent o fhte baord manipulation. this is an [[Expertise]]
 
                     - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fmegacoglab%2FaIe14furWG.png?alt=media&token=5c3896c0-3255-4908-be5d-155ba9c9ccd1) (p. 410)
 

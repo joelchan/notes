@@ -2,16 +2,16 @@
 title: @artsParadiseNoveltyLoss2018a
 url: https://roamresearch.com/#/app/megacoglab/page/4K-tb4egG
 author: Joel Chan
-date: Fri Jul 16 2021 10:08:04 GMT-0400 (Eastern Daylight Time)
+date: Fri Jul 16 2021 22:08:04 GMT+0800 (Malaysia Time)
 ---
 
-- #[[references]]
+- [[references]]
 
     - Title: Paradise of Novelty—Or Loss of Human Capital? Exploring New Fields and Inventive Output
 
     - Meta:
 
-        - Authored by:: [[Sam Arts]] [[Lee Fleming]]
+        - Authored by:: [[Sam Arts]]
 
         - Year: [[2018]]
 

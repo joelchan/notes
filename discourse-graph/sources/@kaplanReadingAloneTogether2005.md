@@ -2,16 +2,16 @@
 title: @kaplanReadingAloneTogether2005
 url: https://roamresearch.com/#/app/megacoglab/page/zWtuut4wQ
 author: Joel Chan
-date: Mon Mar 16 2020 11:49:09 GMT-0400 (Eastern Daylight Time)
+date: Mon Mar 16 2020 23:49:09 GMT+0800 (Malaysia Time)
 ---
 
-- #[[references]]
+- [[references]]
 
     - Title: Reading alone together: creating sociable digital library books
 
     - Meta:
 
-        - Authored by:: [[Nancy Kaplan]] [[Yoram Chisik]]
+        - Authored by:: [[Nancy Kaplan]]
 
         - Year: [[2005]]
 
@@ -29,11 +29,11 @@ date: Mon Mar 16 2020 11:49:09 GMT-0400 (Eastern Daylight Time)
 
     - #lit-context
 
-        - contradict:: [[@marshallExploringRelationshipPersonal2004]] finding that many annotations were not shared
+        - contradict:: [[@marshallExploringRelationshipPersonal2004]]
 
             - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fmegacoglab%2FYWqVwrhU98?alt=media&token=77293752-3e5b-458b-85fe-3e7609da3604)
 
-            - From [[sys/scite.ai]]: https://scite.ai/reports/exploring-the-relationship-between-personal-nRXQpN?page=1
+            - From [[sysscite.ai]]
 
 ###### Discourse Context
 

@@ -2,12 +2,12 @@
 title: [[CLM]] - Core attribute (mis)matches mediate the benefits of analogies in real-world, complex problem solving
 url: https://roamresearch.com/#/app/megacoglab/page/0LH8jvA31
 author: Joel Chan
-date: Tue Sep 22 2020 20:59:31 GMT-0400 (Eastern Daylight Time)
+date: Wed Sep 23 2020 08:59:31 GMT+0800 (Malaysia Time)
 ---
 
-- #[[🌲 zettels]] #[[Z]]
+- [[🌲 zettels]]
 
-    - Tags: #[[D/Computational Analogy]]
+    - Tags: [[DComputational Analogy]]
 
     - Description
 
@@ -15,37 +15,37 @@ date: Tue Sep 22 2020 20:59:31 GMT-0400 (Eastern Daylight Time)
 
         - Sometimes these mismatches are on "core" attributes, that seem "critical" to the problem. For example, someone working on nanoscale heat transfer may find it very important that any analogical match respect the core attribute of scale (nano).
 
-            - The idea of "core" attributes is closely related to the core [[analogy]] concept of  [[Z: Alignable differences]]: some attributes are considered "structural" (or at least not "surface") because they are critically connected to the core (systems) of relations involved in the analogical match
+            - The idea of "core" attributes is closely related to the core [[analogy]]
 
-        - We frequently see in our attempts to provide analogical inspirations to real-world creatives (e.g., scientists, engineers, designers), that [[[[CLM]] - People rapidly reject analogical matches when there is a clear attribute mismatch]].
+        - We frequently see in our attempts to provide analogical inspirations to real-world creatives (e.g., scientists, engineers, designers), that [[CLM - People rapidly reject analogical matches when there is a clear attribute mismatch]]
 
         - However, the effect of core attribute mismatches on creativity is controversial. There are competing effects / explanations
 
-            - [[[[CLM]] - "Core" attribute mismatches in analogical inspiration harm creativity]]
+            - [[CLM - Core attribute mismatches in analogical inspiration harm creativity]]
 
-            - [[[[CLM]] - "Core" mismatches in analogical inspiration improve creativity]]
+            - [[CLM - Core mismatches in analogical inspiration improve creativity]]
 
         - What might explain the mixed effects of attribute mismatches on creative output?
 
             - One important distinction might be the **timescale / immediacy** of the effect of the analogy, with positive and negative impacts showing up at different timescales.
 
-                - For example, there is some evidence that [[[[CLM]] - Paths to creative breakthroughs are frequently oblique]], and [analogies might be similar]([[[[CLM]] - A significant proportion of the benefits of analogical stimuli is oblique or indirect]]).
+                - For example, there is some evidence that [[CLM - Paths to creative breakthroughs are frequently oblique]]
 
-                    - We sort of inch towards something like this in our experiments with [[Hyeonsu]] ([[WP: Augmenting scientific creativity with analogical inspirations]]), with our ideas about [[generative misalignment]], and focusing more on "creative adaptation" vs. direct application
+                    - We sort of inch towards something like this in our experiments with [[Hyeonsu]]
 
-                        - To be more precise, though, we're still evaluating the "worth" of individual ideas, instead of considering its downstream effects, which would be closer to the idea in [[[[THE]] - Accretion theory of ideation]]
+                        - To be more precise, though, we're still evaluating the "worth" of individual ideas, instead of considering its downstream effects, which would be closer to the idea in [[THE - Accretion theory of ideation]]
 
                 - So maybe the way to think about this is in terms of different mechanisms or pathways of inspiration?
 
                     - More direct path --> try to match on key domain constraints and attributes
 
-                    - More indirect path (not sure if higher ceiling, might just be needed for different problems) --> ignore matching, use [[generative misalignment]]??
+                    - More indirect path (not sure if higher ceiling, might just be needed for different problems) --> ignore matching, use [[generative misalignment]]
 
-            - Separately, maybe there needs  [[[[CLM]] - There is a 'Sweet Spot' in Analogical Distance. Somewhat far analogies lead to better creative outcomes than very near or very far analogies]]
+            - Separately, maybe there needs  [[CLM - There is a 'Sweet Spot' in Analogical Distance. Somewhat far analogies lead to better creative outcomes than very near or very far analogies]]
 
-                - could put an upper bound on what domains are actually useful: need to have some critical threshold of [[Z: Alignable differences]]
+                - could put an upper bound on what domains are actually useful: need to have some critical threshold of [[Z Alignable differences]]
 
-            - Could be mediated by whether those mismatches are on [[Z: Alignable differences]]
+            - Could be mediated by whether those mismatches are on [[Z Alignable differences]]
 
 ###### Discourse Context
 

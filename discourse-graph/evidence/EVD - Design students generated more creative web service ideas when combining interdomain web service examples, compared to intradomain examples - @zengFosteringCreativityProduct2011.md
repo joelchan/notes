@@ -2,7 +2,7 @@
 title: [[EVD]] - Design students generated more creative web service ideas when combining interdomain web service examples, compared to intradomain examples - [[@zengFosteringCreativityProduct2011]]
 url: https://roamresearch.com/#/app/megacoglab/page/h2IdCulQY
 author: Joel Chan
-date: Mon Oct 04 2021 22:52:22 GMT-0400 (Eastern Daylight Time)
+date: Tue Oct 05 2021 10:52:22 GMT+0800 (Malaysia Time)
 ---
 
 - # Summary
@@ -19,7 +19,7 @@ date: Mon Oct 04 2021 22:52:22 GMT-0400 (Eastern Daylight Time)
         - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fmegacoglab%2FNMY8oNrcGj.png?alt=media&token=a3ea63f4-de1a-4a8e-95d1-3f22d6e695ee)
 ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fmegacoglab%2FJTIg9Qm5Mq.png?alt=media&token=9559a3b7-50d9-4c06-8128-46fcb7345800) (p. 257)
 
-    - Design: single-factor [[within-subjects]] design: interdomain (remote association) vs. intradomain (near association)
+    - Design: single-factor [[within-subjects]]
 
         - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fmegacoglab%2FAv63gQKMFB.png?alt=media&token=9acf11af-856a-44bb-84e6-d9767793d28a) (p. 258)
 

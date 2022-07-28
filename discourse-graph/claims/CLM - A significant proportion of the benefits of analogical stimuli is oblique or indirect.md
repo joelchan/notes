@@ -2,12 +2,12 @@
 title: [[CLM]] - A significant proportion of the benefits of analogical stimuli is oblique or indirect
 url: https://roamresearch.com/#/app/megacoglab/page/Bw7z4bbAU
 author: Joel Chan
-date: Fri Aug 21 2020 13:57:02 GMT-0400 (Eastern Daylight Time)
+date: Sat Aug 22 2020 01:57:02 GMT+0800 (Malaysia Time)
 ---
 
-- #[[🌲 zettels]] #[[Z]]
+- [[🌲 zettels]]
 
-    - Tags: #[[D/Computational Analogy]] #obliquity #analogy
+    - Tags: [[DComputational Analogy]]
 
     - Description
 
@@ -15,7 +15,7 @@ date: Fri Aug 21 2020 13:57:02 GMT-0400 (Eastern Daylight Time)
 
         - But there are likely to be significant "indirect" routes of insight as well.
 
-            - For example, [[[[CLM]] - Analogies can power creative breakthroughs by stimulating effective problem (re)formulation]]
+            - For example, [[CLM - Analogies can power creative breakthroughs by stimulating effective problem (re)formulation]]
 
     - R-sources
 

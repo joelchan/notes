@@ -2,7 +2,7 @@
 title: [[EVD]] - physical prototypes were necessary to prompt aid discussion with codesigners with dementia, but also led to fixation on unfinished aspects of the design - [[@lindsayEmpathyParticipatoryDesign2012b]]
 url: https://roamresearch.com/#/app/megacoglab/page/_7-VcieH-
 author: AJ Rudd
-date: Fri May 21 2021 09:18:03 GMT-0400 (Eastern Daylight Time)
+date: Fri May 21 2021 21:18:03 GMT+0800 (Malaysia Time)
 ---
 
 - noteType:: [[EVD]]
@@ -29,11 +29,11 @@ date: Fri May 21 2021 09:18:03 GMT-0400 (Eastern Daylight Time)
 
     - ## **Discourse Context**
 
-        - Informs:: [[[[QUE]] - What tension points exist between the goals of diversity and depth of user participation in participatory design?]]
+        - Informs:: [[QUE - What tension points exist between the goals of diversity and depth of user participation in participatory design]]
 
     - ## Metadata::
 
-        - author:: [[AJ Rudd Jr]] [[Joel Chan]]
+        - author:: [[AJ Rudd Jr]]
 
 ###### Discourse Context
 

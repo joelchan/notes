@@ -2,16 +2,16 @@
 title: @suchmanPlansSituatedActions1987
 url: https://roamresearch.com/#/app/megacoglab/page/TlJt7XFZr
 author: Joel Chan
-date: Mon Apr 27 2020 15:55:53 GMT-0400 (Eastern Daylight Time)
+date: Tue Apr 28 2020 03:55:53 GMT+0800 (Malaysia Time)
 ---
 
-- #[[references]]
+- [[references]]
 
     - Title: Plans and Situated Actions: The Problem of Human-Machine Communication
 
     - Meta:
 
-        - Tags: #R-Book #[[D/Synthesis Infrastructure]]
+        - Tags: #R-Book [[DSynthesis Infrastructure]]
 
         - Authored by:: [[Lucy A. Suchman]]
 
@@ -27,7 +27,7 @@ date: Mon Apr 27 2020 15:55:53 GMT-0400 (Eastern Daylight Time)
 
         - Abstract
 
-            - This lively and original book offers a provocative critique of the dominant assumptions regarding human action and communication which underlie recent research in machine intelligence. Lucy Suchman argues that the planning model of interaction favoured by the majority of AI researchers does not take sufficient account of the situatedness of most human social behaviour. The problems that can arise as a result are pertinently, and often amusingly, illustrated by the careful analysis of a recorded interaction between novice users and an intelligent machine, whose design has failed to accommodate essential resources of successful human communication. [[Plans and Situated Actions]] presents a compelling case for the re-examination of current models underlying interface design. Lucy Suchman's proposals for a fresh characterisation of human-computer interaction which also incorporates recent insights from the social sciences provides a challenge that everyone interested in machine intelligence will seriously need to consider.
+            - This lively and original book offers a provocative critique of the dominant assumptions regarding human action and communication which underlie recent research in machine intelligence. Lucy Suchman argues that the planning model of interaction favoured by the majority of AI researchers does not take sufficient account of the situatedness of most human social behaviour. The problems that can arise as a result are pertinently, and often amusingly, illustrated by the careful analysis of a recorded interaction between novice users and an intelligent machine, whose design has failed to accommodate essential resources of successful human communication. [[Plans and Situated Actions]]
 
 ###### Discourse Context
 

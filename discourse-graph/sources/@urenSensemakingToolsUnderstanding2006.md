@@ -2,7 +2,7 @@
 title: @urenSensemakingToolsUnderstanding2006
 url: https://roamresearch.com/#/app/megacoglab/page/UqSjE96rT
 author: Joel Chan
-date: Wed Jan 22 2020 10:59:50 GMT-0500 (Eastern Standard Time)
+date: Wed Jan 22 2020 23:59:50 GMT+0800 (Malaysia Time)
 ---
 
 - #references
@@ -13,7 +13,7 @@ date: Wed Jan 22 2020 10:59:50 GMT-0500 (Eastern Standard Time)
 
         - Tags:: #ref/Paper
 
-        - Authored by:: [[Victoria Uren]], [[Simon Buckingham Shum]], [[Michelle Bachler]], and [[Gangmin Li]]
+        - Authored by:: [[Victoria Uren]]
 
         - Year: 2006
 
@@ -31,11 +31,11 @@ date: Wed Jan 22 2020 10:59:50 GMT-0500 (Eastern Standard Time)
 
     - #lit-context
 
-    - #[[📝 lit-notes]]
+    - [[📝 lit-notes]]
 
-        - enable [[[[PTN]] - incremental formalization]] by providing "play space" and mechanism for "**publishing**" claims
+        - enable [[PTN - incremental formalization]]
 
-        - #appraisal although potentially relevant for answering #[[[[QUE]] - What is the user experience of semantic authoring within regular scholarly workflows?]], since [[[[ART]] - ClaiMapper]] was designed to be integrated into a normal [[scholarly workflows]] of making sense of a set of papers, this paper doesn't include any empirical insight into that question, since the system was only tested by the authors of the paper (p. 433)
+        - #appraisal although potentially relevant for answering [[QUE - What is the user experience of semantic authoring within regular scholarly workflows]]
 
             - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fmegacoglab%2F32a9H4UqNk.png?alt=media&token=da8cd86a-c2e5-47c3-8170-a790df616d4e)
 

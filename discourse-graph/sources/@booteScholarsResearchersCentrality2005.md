@@ -2,26 +2,26 @@
 title: @booteScholarsResearchersCentrality2005
 url: https://roamresearch.com/#/app/megacoglab/page/lTiVFRHm-
 author: Joel Chan
-date: Wed Jan 29 2020 09:55:32 GMT-0500 (Eastern Standard Time)
+date: Wed Jan 29 2020 22:55:32 GMT+0800 (Malaysia Time)
 ---
 
 - Title:: Scholars Before Researchers: On the Centrality of the Dissertation Literature Review in Research Preparation
-- Author(s):: [[David N. Boote]], [[Penny Beile]]
+- Author(s):: [[David N. Boote]]
 - Type:: [[Article]]
 - Publication:: Educational Researcher
 - URL : http://journals.sagepub.com/doi/10.3102/0013189X034006003
 - Date Added:: [[July 31st, 2021]]
 - Zotero links:: [Local library](zotero://select/groups/2451508/items/A5R5AQPB), [Local library](https://www.zotero.org/groups/2451508/items/A5R5AQPB)
 - PDF links : [Boote_Beile_2005_Scholars Before Researchers.pdf](zotero://open-pdf/groups/2451508/items/PDDGREPL)
-- #[[references]]
+- [[references]]
 
     - Title: Scholars Before Researchers: On the Centrality of the Dissertation Literature Review in Research Preparation
 
     - Meta:
 
-        - Tags: #[[references]] #[[D/Synthesis Infrastructure]]
+        - Tags: [[references]]
 
-        - Authored by:: [[David N. Boote]] [[Penny Beile]]
+        - Authored by:: [[David N. Boote]]
 
         - Year: [[2005]]
 
@@ -39,7 +39,7 @@ date: Wed Jan 29 2020 09:55:32 GMT-0500 (Eastern Standard Time)
 
     - #lit-context
 
-    - #[[📝 lit-notes]]
+    - [[📝 lit-notes]]
 
         - the level of synthesis in regular manuscripts frequently subpar (p.4)
 
@@ -47,7 +47,7 @@ date: Wed Jan 29 2020 09:55:32 GMT-0500 (Eastern Standard Time)
 
             - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fmegacoglab%2FNbJN82GKeI.png?alt=media&token=94bb3cf6-b064-4fe9-a64b-7b03468bd692)
 
-            - cites #[[@alton-leeTroubleshooterChecklistProspective1998]], who found that, [[[[EVD]] - approximately one-third of criticisms in reviews of submitted manuscripts for a teacher education journal were directly related to inadequacies in synthesis - [[@alton-leeTroubleshooterChecklistProspective1998]]]]
+            - cites [[@alton-leeTroubleshooterChecklistProspective1998]]
 
         - Developed a rubric for scoring literature reviews, including a category for [[synthesis]]
 

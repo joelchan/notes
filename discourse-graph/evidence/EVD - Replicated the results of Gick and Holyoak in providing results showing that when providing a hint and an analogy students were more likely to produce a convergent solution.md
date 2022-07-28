@@ -2,7 +2,7 @@
 title: [[EVD]] - Replicated the results of Gick and Holyoak in providing results showing that when providing a hint and an analogy students were more likely to produce a convergent solution
 url: https://roamresearch.com/#/app/megacoglab/page/dxfAXPsUq
 author: AJ Rudd
-date: Tue Dec 14 2021 16:02:37 GMT-0500 (Eastern Standard Time)
+date: Wed Dec 15 2021 05:02:37 GMT+0800 (Malaysia Time)
 ---
 
 

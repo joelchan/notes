@@ -2,16 +2,16 @@
 title: @ssozi-mugaruraSupportingCommunityNeeds2016
 url: https://roamresearch.com/#/app/megacoglab/page/SCDZl0oSg
 author: Joel Chan
-date: Tue Jul 13 2021 10:50:40 GMT-0400 (Eastern Daylight Time)
+date: Tue Jul 13 2021 22:50:40 GMT+0800 (Malaysia Time)
 ---
 
-- #[[references]]
+- [[references]]
 
     - Title: Supporting community needs for rural water management through community-based co-design
 
     - Meta:
 
-        - Authored by:: [[Fiona Ssozi-Mugarura]] [[Edwin Blake]] [[Ulrike Rivett]]
+        - Authored by:: [[Fiona Ssozi-Mugarura]]
 
         - Year: [[2016]]
 

@@ -2,7 +2,7 @@
 title: [[EVD]] - Students demonstrated an ability to complete the tasks given to them on tests, but failed to update their conceptual understanding about the topics being addressed. - [[@linEffectivenessTeachingScience1996]]
 url: https://roamresearch.com/#/app/megacoglab/page/zBRI4rFY0
 author: AJ Rudd
-date: Sun Dec 19 2021 09:59:16 GMT-0500 (Eastern Standard Time)
+date: Sun Dec 19 2021 22:59:16 GMT+0800 (Malaysia Time)
 ---
 
 - # Summary

@@ -2,7 +2,7 @@
 title: [[CLM]] - A synthesis system needs to support manipulation of scholarly claims
 url: https://roamresearch.com/#/app/megacoglab/page/0P_SQSImx
 author: Joel Chan
-date: Tue Sep 07 2021 14:46:38 GMT-0400 (Eastern Daylight Time)
+date: Wed Sep 08 2021 02:46:38 GMT+0800 (Malaysia Time)
 ---
 
 

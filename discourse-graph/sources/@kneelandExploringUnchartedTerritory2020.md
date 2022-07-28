@@ -2,16 +2,16 @@
 title: @kneelandExploringUnchartedTerritory2020
 url: https://roamresearch.com/#/app/megacoglab/page/1Smz0wo8p
 author: Joel Chan
-date: Sun Jan 17 2021 23:59:22 GMT-0500 (Eastern Standard Time)
+date: Mon Jan 18 2021 12:59:22 GMT+0800 (Malaysia Time)
 ---
 
-- #[[references]]
+- [[references]]
 
     - Title: Exploring Uncharted Territory: Knowledge Search Processes in the Origination of Outlier Innovation
 
     - Meta:
 
-        - Authored by:: [[Madeline K. Kneeland]] [[Melissa A. Schilling]] [[Barak S. Aharonson]]
+        - Authored by:: [[Madeline K. Kneeland]]
 
         - Year: [[2020]]
 

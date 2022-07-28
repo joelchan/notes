@@ -2,7 +2,7 @@
 title: @alammarIllustratedTransformer
 url: https://roamresearch.com/#/app/megacoglab/page/lUvhPcj64
 author: Joel Chan
-date: Sun Aug 02 2020 23:48:31 GMT-0400 (Eastern Daylight Time)
+date: Mon Aug 03 2020 11:48:31 GMT+0800 (Malaysia Time)
 ---
 
 - Title:: The Illustrated Transformer

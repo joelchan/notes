@@ -2,18 +2,18 @@
 title: [[QUE]] - How do people effectively (re)formulate creative problems?
 url: https://roamresearch.com/#/app/megacoglab/page/ywtpzl_MF
 author: Joel Chan
-date: Tue Nov 09 2021 09:34:45 GMT-0500 (Eastern Standard Time)
+date: Tue Nov 09 2021 22:34:45 GMT+0800 (Malaysia Time)
 ---
 
 - # Synthesis
 
-    - [[[[CLM]] - Design proceeds by co-evolution of problem and solution space]]
+    - [[CLM - Design proceeds by co-evolution of problem and solution space]]
 
-    - [[[[CLM]] - Effective problem formulation is-necessary-for creative knowledge work]]
+    - [[CLM - Effective problem formulation is-necessary-for creative knowledge work]]
 
-    - [[[[CLM]] - Analogies can power creative breakthroughs by stimulating effective problem (re)formulation]]
+    - [[CLM - Analogies can power creative breakthroughs by stimulating effective problem (re)formulation]]
 
-    - [[[[CLM]] - examples can improve creative outcomes by enabling more robust (re)modeling of the problem space]]
+    - [[CLM - examples can improve creative outcomes by enabling more robust (re)modeling of the problem space]]
 
     - Basic subprocesses:
 
@@ -23,13 +23,13 @@ date: Tue Nov 09 2021 09:34:45 GMT-0500 (Eastern Standard Time)
 
     - Unsorted
 
-        - [[[[EVD]] - Representing a mutilated checkerboard in a way that made perceptual features of squares more salient facilitated problem reformulation and insight - [[@kaplanSearchInsight1990]]]]
+        - [[EVD - Representing a mutilated checkerboard in a way that made perceptual features of squares more salient facilitated problem reformulation and insight - @kaplanSearchInsight1990]]
 - ---
 - # Sources
 
     - [[@volkemaProblemFormulationPlanning1983a]]
 
-    - [[@sawyerExplainingCreativityScience2012]] Chapter 5 (The Creative Process, Part 1, until "Stage 3: Gather Related Information")
+    - [[@sawyerExplainingCreativityScience2012]]
 
     - Breaking down into "obscure features" [[@mccaffreyInnovationReliesObscure2012]]
 

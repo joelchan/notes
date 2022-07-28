@@ -2,16 +2,16 @@
 title: @marshInadvertentUsePrior1999
 url: https://roamresearch.com/#/app/megacoglab/page/78iG3G3rc
 author: Joel Chan
-date: Sat Dec 26 2020 21:50:01 GMT-0500 (Eastern Standard Time)
+date: Sun Dec 27 2020 10:50:01 GMT+0800 (Malaysia Time)
 ---
 
-- #[[references]]
+- [[references]]
 
     - Title: The inadvertent use of prior knowledge in a generative cognitive task
 
     - Meta:
 
-        - Authored by:: [[R. L. Marsh]] [[T. B. Ward]] [[J. D. Landau]]
+        - Authored by:: [[R. L. Marsh]]
 
         - Year: [[1999]]
 

@@ -2,10 +2,10 @@
 title: @maierReasoningHumansII1931
 url: https://roamresearch.com/#/app/megacoglab/page/k8eJTt0ef
 author: Joel Chan
-date: Sat Dec 26 2020 21:53:28 GMT-0500 (Eastern Standard Time)
+date: Sun Dec 27 2020 10:53:28 GMT+0800 (Malaysia Time)
 ---
 
-- #[[references]]
+- [[references]]
 
     - Title: Reasoning in humans. II. The solution of a problem and its appearance in consciousness.
 

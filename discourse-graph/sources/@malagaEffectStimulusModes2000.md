@@ -2,10 +2,10 @@
 title: @malagaEffectStimulusModes2000
 url: https://roamresearch.com/#/app/megacoglab/page/3jxGx1wRN
 author: Joel Chan
-date: Fri Oct 30 2020 15:39:37 GMT-0400 (Eastern Daylight Time)
+date: Sat Oct 31 2020 03:39:37 GMT+0800 (Malaysia Time)
 ---
 
-- #[[references]]
+- [[references]]
 
     - Title: The effect of stimulus modes and associative distance in individual creativity support systems
 

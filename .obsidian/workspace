@@ -7,12 +7,8 @@
         "id": "452403bb402bdb59",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "README.md",
-            "mode": "source",
-            "source": false
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -61,7 +57,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "47dc735d64ac567d",
@@ -77,7 +74,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +90,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -116,9 +111,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "README.md"
-              }
+              "state": {}
             }
           },
           {
@@ -127,7 +120,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "README.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -155,26 +147,33 @@
                 }
               }
             }
+          },
+          {
+            "id": "db26f3da78699312",
+            "type": "leaf",
+            "state": {
+              "type": "graph-analysis",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 438.5,
-    "collapsed": true
+    "width": 540.5
   },
   "active": "452403bb402bdb59",
   "lastOpenFiles": [
-    "README.md",
+    "discourse-graph/claims/CLM - Synthesis work requires explicit (usually external) representations of both evidence and claims.md",
+    "discourse-graph/claims/CLM - Citation practices in science are far from optimal.md",
+    "discourse-graph/questions/QUE - How do people effectively (re)formulate creative problems.md",
     "discourse-graph/questions/QUE - How might domain distance modulate the effects of analogies on creative output.md",
-    "discourse-graph/claims/CLM - Prevailing incentives in academia are bad for science.md",
-    "discourse-graph/claims/CLM - Prestige substantially controls how scientific ideas spread.md",
-    "discourse-graph/evidence/EVD - highly novel combinations of cited journals in a paper were almost always cross-disciplinary, but cross-disciplinary combinations were infrequently novel - @wangBiasNoveltyScience2017.md",
-    "discourse-graph/questions/QUE - What tension points exist between the goals of diversity and depth of user participation in participatory design.md",
-    "discourse-graph/theories/THE - interaction-oriented theory of creative inspiration from examples.md",
-    "CLM.md",
-    "discourse-graph/sources/@victorHumaneRepresentationThought2014.md",
-    "discourse-graph/sources/@luciani2018machine.md"
+    "README.md",
+    "discourse-graph/claims/CLM - transformer language models have some analogical reasoning ability.md",
+    "discourse-graph/questions/QUE - What do we know about transformer language models' natural language generation capabilities.md",
+    "discourse-graph/questions/QUE - Can deep learning discover analogical representations.md",
+    "discourse-graph/claims/CLM - Relational categories are almost overwhelmingly expressed as verbs.md",
+    "discourse-graph/questions/QUE - What factors control whether people appropriately benefit from analogies (especially far-field ones) during creative problem solving.md"
   ]
 }

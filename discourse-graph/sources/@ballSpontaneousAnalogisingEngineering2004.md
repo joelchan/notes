@@ -2,16 +2,16 @@
 title: @ballSpontaneousAnalogisingEngineering2004
 url: https://roamresearch.com/#/app/megacoglab/page/Zi3t6SKBC
 author: Joel Chan
-date: Fri Jul 02 2021 22:21:24 GMT-0400 (Eastern Daylight Time)
+date: Sat Jul 03 2021 10:21:24 GMT+0800 (Malaysia Time)
 ---
 
-- #[[references]]
+- [[references]]
 
     - Title: Spontaneous analogising in engineering design: a comparative analysis of experts and novices
 
     - Meta:
 
-        - Authored by:: [[L. J. Ball]] [[T. C. Ormerod]] [[N. J. Morley]]
+        - Authored by:: [[L. J. Ball]]
 
         - Year: [[2004]]
 

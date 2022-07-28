@@ -2,7 +2,7 @@
 title: [[EVD]] - Sex trafficking survivors shared concerns about painful experiences from writing their stories in design exercises. A future-focused photo elicitation method seemed to be a viable alternative - @gautamParticipatoryTensionsWorking2018
 url: https://roamresearch.com/#/app/megacoglab/page/GqGupKGWR
 author: Joel Chan
-date: Wed Jun 16 2021 11:13:06 GMT-0400 (Eastern Daylight Time)
+date: Wed Jun 16 2021 23:13:06 GMT+0800 (Malaysia Time)
 ---
 
 - noteType:: [[EVD]]
@@ -19,11 +19,11 @@ date: Wed Jun 16 2021 11:13:06 GMT-0400 (Eastern Daylight Time)
 
             - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fmegacoglab%2FDXv-cRju0r.png?alt=media&token=aa055325-dad3-4ea7-8a5f-8fb90e2e1b87) (p. 3)
 
-            - [[Elizabeth Bonsignore]]: this technique is generally effective and has been used in various other "participatory" situations, but not necessarily PD (e.g., [[m/Participatory Action Research]])
+            - [[Elizabeth Bonsignore]]
 
-                - see [[Frank Vetere]] with youth literacy
+                - see [[Frank Vetere]]
 
-                - similar to take-home camera journaling activity in [[[[EVD]] - Older adults needed to use special take-home activities to escape self-stereotyping - @pradhanUnderstandingOlderAdults2020]]
+                - similar to take-home camera journaling activity in [[EVD - Older adults needed to use special take-home activities to escape self-stereotyping - @pradhanUnderstandingOlderAdults2020]]
 
     - ## **Grounding Context**
 
@@ -39,7 +39,7 @@ date: Wed Jun 16 2021 11:13:06 GMT-0400 (Eastern Daylight Time)
 
     - ## **Discourse Context**
 
-        - Informs:: [[[[QUE]] - What tension points exist between the goals of diversity and depth of user participation in participatory design?]]
+        - Informs:: [[QUE - What tension points exist between the goals of diversity and depth of user participation in participatory design]]
 
     - ## Metadata::
 

@@ -2,10 +2,10 @@
 title: @simontonVarietiesScientificCreativity2009
 url: https://roamresearch.com/#/app/megacoglab/page/QPRtgy4j9
 author: Joel Chan
-date: Fri May 01 2020 23:48:54 GMT-0400 (Eastern Daylight Time)
+date: Sat May 02 2020 11:48:54 GMT+0800 (Malaysia Time)
 ---
 
-- #[[references]]
+- [[references]]
 
     - Title: Varieties of (Scientific) Creativity: A Hierarchical Model of Domain-Specific Disposition, Development, and Achievement
 
@@ -31,13 +31,13 @@ date: Fri May 01 2020 23:48:54 GMT-0400 (Eastern Daylight Time)
 
     - #lit-context
 
-    - #[[📝 lit-notes]]
+    - [[📝 lit-notes]]
 
         - #Claim Domains vary substantially in terms of "hardness" vs. "softeness" with one central differentiator being the degree to which the field (can) agree on what constitutes a contribution to the domain  (p. 442)
 
             - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fmegacoglab%2FYsZMKU5_xX.png?alt=media&token=22c42849-7504-49ea-839f-5b9dd5e352aa)
 
-            - Reminds me of Domains can be more or less characterized by [[Scatter]] [(@moteReasonsVariationInformation1962)]([[@moteReasonsVariationInformation1962]]). Low scatter domain = underlying principles well-developed (paradigmatic??), lit well organized, width of subject area relatively small and clearly defined. High scatter domain is.. the opposite. :) and ((f-9ssgOF7))
+            - Reminds me of Domains can be more or less characterized by [[Scatter]]
 
             - And also the argument in [[@furnerInformationScienceNeither2015]]
 

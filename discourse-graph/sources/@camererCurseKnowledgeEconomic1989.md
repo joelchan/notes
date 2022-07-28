@@ -2,16 +2,16 @@
 title: @camererCurseKnowledgeEconomic1989
 url: https://roamresearch.com/#/app/megacoglab/page/9t3vl17WP
 author: Joel Chan
-date: Wed Feb 17 2021 13:34:52 GMT-0500 (Eastern Standard Time)
+date: Thu Feb 18 2021 02:34:52 GMT+0800 (Malaysia Time)
 ---
 
-- #[[references]]
+- [[references]]
 
     - Title: The curse of knowledge in economic settings: An experimental analysis
 
     - Meta:
 
-        - Authored by:: [[Colin Camerer]] [[George Loewenstein]] [[Martin Weber]]
+        - Authored by:: [[Colin Camerer]]
 
         - Year: [[1989]]
 

@@ -2,16 +2,16 @@
 title: @reedRoleAnalogyTransfer1974
 url: https://roamresearch.com/#/app/megacoglab/page/UncPjtOeq
 author: Joel Chan
-date: Tue Mar 09 2021 23:11:14 GMT-0500 (Eastern Standard Time)
+date: Wed Mar 10 2021 12:11:14 GMT+0800 (Malaysia Time)
 ---
 
-- #[[references]]
+- [[references]]
 
     - Title: The role of analogy in transfer between similar problem states
 
     - Meta:
 
-        - Authored by:: [[S. K. Reed]] [[G. W. Ernst]] [[R. Banerji]]
+        - Authored by:: [[S. K. Reed]]
 
         - Year: [[1974]]
 
@@ -27,7 +27,7 @@ date: Tue Mar 09 2021 23:11:14 GMT-0500 (Eastern Standard Time)
 
         - Abstract
 
-            - The study investigated the effect of transfer between two problems having similar (homomorphic) problem states. The results of three experiments revealed that although transfer occurred between repetition of the same problems, transfer occurred between the Jealous Husbands problem and the MissionaryCannibal problem only when (a) Ss were told the relationship between the two problems and (b) the Jealous Husbands problem was given first. The results are related to the formal structure of the problem space and to alternative explanations of the use of [[analogy]] in problem solving. These include memory for individual moves, memory for general strategies, and practice in applying operators.
+            - The study investigated the effect of transfer between two problems having similar (homomorphic) problem states. The results of three experiments revealed that although transfer occurred between repetition of the same problems, transfer occurred between the Jealous Husbands problem and the MissionaryCannibal problem only when (a) Ss were told the relationship between the two problems and (b) the Jealous Husbands problem was given first. The results are related to the formal structure of the problem space and to alternative explanations of the use of [[analogy]]
 
         - PDF
 
@@ -63,11 +63,11 @@ date: Tue Mar 09 2021 23:11:14 GMT-0500 (Eastern Standard Time)
 
     - #lit-context
 
-    - #[[📝 lit-notes]]
+    - [[📝 lit-notes]]
 
         - **How did the authors approach their questions/problems?** ((most of this is going to come from the methods sections, although some info about conceptualization of key concepts might be relevant to pull from intro/lit-review)) #lit-context
 
-            - General materials: [[Missionary-Cannibal problem]] and ((rpnOXYqP-)), which are [closely analogous](((AxUpuXxlA))) (although the jealous husbands problem has slightly more constraints than the missionary-cannibal problem). Presented as
+            - General materials: [[Missionary-Cannibal problem]]
 
                 - [[Missionary-Cannibal problem]]
 
@@ -109,9 +109,9 @@ date: Tue Mar 09 2021 23:11:14 GMT-0500 (Eastern Standard Time)
 
                     - ![](https://firebasestorage.googleapis.com/v0/b/roampdf.appspot.com/o/public%2Fimages%2F1616034131168.png?alt=media&token=6464272f-6ca8-4bc0-97f8-0de75c158671) {{5: nbpVSLbYB}} [📑](((anwdncylj)))
 
-        - **What did they find?** ((keep this as contextualized as possible; resist the urge to repeat claims or generalizations)) #[[observation-notes]]
+        - **What did they find?** ((keep this as contextualized as possible; resist the urge to repeat claims or generalizations)) [[observation-notes]]
 
-            - [[[[EVD]] - No analogical transfer amongst undergraduates between insight problems without hints about analogical mapping - [[@reedRoleAnalogyTransfer1974]]]]
+            - [[EVD - No analogical transfer amongst undergraduates between insight problems without hints about analogical mapping - @reedRoleAnalogyTransfer1974]]
 
             - [Undergraduates](Participants: 54 [undergraduates](((KzC5CEcZb))) in psychology courses participating for course credit) solved a problem in less total time and fewer illegal moves on a second attempt; the reduction in solution time was restricted to the (slightly) harder problem
 

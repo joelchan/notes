@@ -2,7 +2,7 @@
 title: @dubberlyModelingAnalysissynthesisBridge2008
 url: https://roamresearch.com/#/app/megacoglab/page/l6hUnFVj3
 author: Joel Chan
-date: Fri May 22 2020 12:12:36 GMT-0400 (Eastern Daylight Time)
+date: Sat May 23 2020 00:12:36 GMT+0800 (Malaysia Time)
 ---
 
 - #references
@@ -11,9 +11,9 @@ date: Fri May 22 2020 12:12:36 GMT-0400 (Eastern Daylight Time)
 
     - Meta:
 
-        - Tags: #ref/Paper #[[🧱 framing]] #Frames #[[problem (re)formulation]]
+        - Tags: #ref/Paper [[🧱 framing]]
 
-        - Authored by::  [[Hugh Dubberly]] ,  Shelley Evenson
+        - Authored by::  [[Hugh Dubberly]]
 
         - Year: [[2008]]
 

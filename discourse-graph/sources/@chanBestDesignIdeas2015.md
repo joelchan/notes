@@ -2,18 +2,18 @@
 title: @chanBestDesignIdeas2015
 url: https://roamresearch.com/#/app/megacoglab/page/uzAayuoUq
 author: Joel Chan
-date: Sun Mar 22 2020 15:19:49 GMT-0400 (Eastern Daylight Time)
+date: Mon Mar 23 2020 03:19:49 GMT+0800 (Malaysia Time)
 ---
 
-- #[[references]]
+- [[references]]
 
     - Title: Do The Best Design Ideas (Really) Come From Conceptually Distant Sources Of Inspiration?
 
     - Meta:
 
-        - Tags: #ref/Paper #[[D/Computational Analogy]]
+        - Tags: #ref/Paper [[DComputational Analogy]]
 
-        - Authored by:: [[Joel Chan]] [[Steven P. Dow]] [[Christian D. Schunn]]
+        - Authored by:: [[Joel Chan]]
 
         - Year: [[2015]]
 
@@ -31,15 +31,15 @@ date: Sun Mar 22 2020 15:19:49 GMT-0400 (Eastern Daylight Time)
 
     - #lit-context
 
-        - #[[MyPaper]]
+        - [[MyPaper]]
 
-    - #[[📝 lit-notes]]
+    - [[📝 lit-notes]]
 
         - Replicates and extends #Claim Somewhat-far analogies strike the best balance between novelty and quality
 
         - Key results
 
-            - [[[[EVD]] - greater mean and max conceptual distance of cited inspirations was associated with lower probability of a concept being shortlisted across 12 social innovation design challenges - [[@chanBestDesignIdeas2015]]]]
+            - [[EVD - greater mean and max conceptual distance of cited inspirations was associated with lower prob...cept being shortlisted across 12 social innovation design challenges - @chanBestDesignIdeas2015]]
 
                 - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fmegacoglab%2F40Pk-N52Mh.png?alt=media&token=4f502e77-6946-496a-8023-e87f9d990840) (p. 17)
 

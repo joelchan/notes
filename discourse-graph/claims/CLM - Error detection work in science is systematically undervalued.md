@@ -2,18 +2,18 @@
 title: [[CLM]] - Error detection work in science is systematically undervalued
 url: https://roamresearch.com/#/app/megacoglab/page/9KYfK_ETt
 author: Joel Chan
-date: Sun Jun 21 2020 23:42:06 GMT-0400 (Eastern Daylight Time)
+date: Mon Jun 22 2020 11:42:06 GMT+0800 (Malaysia Time)
 ---
 
-- #[[🌲 zettels]] #[[Z]]
+- [[🌲 zettels]]
 
-    - Tags: #[[D/Synthesis Infrastructure]] #[[V: Open and Sustainable Innovation Systems]]
+    - Tags: [[DSynthesis Infrastructure]]
 
     - Description
 
-        - [[@heathersQuit2020]] details some vivid personal examples from his experience as someone doing error detection work, but ultimately leaving academia to continue that work because he wasn't able to sustain it within the academic incentive structures
+        - [[@heathersQuit2020]]
 
-        - This is an #example-of how [[[[CLM]] - Prevailing incentives in academia are bad for science]]
+        - This is an #example-of how [[CLM - Prevailing incentives in academia are bad for science]]
 
     - R-Sources
 

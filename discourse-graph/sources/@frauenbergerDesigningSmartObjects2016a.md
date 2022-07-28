@@ -2,16 +2,16 @@
 title: @frauenbergerDesigningSmartObjects2016a
 url: https://roamresearch.com/#/app/megacoglab/page/e0R8QYb7w
 author: Joel Chan
-date: Fri May 14 2021 11:27:44 GMT-0400 (Eastern Daylight Time)
+date: Fri May 14 2021 23:27:44 GMT+0800 (Malaysia Time)
 ---
 
-- #[[references]]
+- [[references]]
 
     - Title: Designing smart objects with autistic children: Four design exposès
 
     - Meta:
 
-        - Authored by:: [[Christopher Frauenberger]] [[Julia Makhaeva]] [[Katta Spiel]]
+        - Authored by:: [[Christopher Frauenberger]]
 
         - Year: [[2016]]
 

@@ -2,7 +2,7 @@
 title: @rothenbergJanusianProcessScientific1996
 url: https://roamresearch.com/#/app/megacoglab/page/XsiHBptcQ
 author: Joel Chan
-date: Tue Aug 25 2020 23:52:48 GMT-0400 (Eastern Daylight Time)
+date: Wed Aug 26 2020 11:52:48 GMT+0800 (Malaysia Time)
 ---
 
 - #references
@@ -35,7 +35,7 @@ date: Tue Aug 25 2020 23:52:48 GMT-0400 (Eastern Daylight Time)
 
         - Particularly powerful set of data here from interviews of 22 Nobel Laureates
 
-    - #[[📝 lit-notes]]
+    - [[📝 lit-notes]]
 
         - Articulates how scientific breakthroughs amongst Nobel laureates could be explained by [[Janusian processes in creative thinking]]
 

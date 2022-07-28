@@ -2,7 +2,7 @@
 title: [[EVD]] - Participants rate tailored analogies more useful than non-tailored, or more technical analogies, but have trouble generating those tailored analogies when providing analogies. Unless they are given an explicit hint - [[@olguinAttendingIndividualRecipients2017]]
 url: https://roamresearch.com/#/app/megacoglab/page/xPHmDBf16
 author: Joel Chan
-date: Thu Dec 16 2021 14:35:04 GMT-0500 (Eastern Standard Time)
+date: Fri Dec 17 2021 03:35:04 GMT+0800 (Malaysia Time)
 ---
 
 - # Summary

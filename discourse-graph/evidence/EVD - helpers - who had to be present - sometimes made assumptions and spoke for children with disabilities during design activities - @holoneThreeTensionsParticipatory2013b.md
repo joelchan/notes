@@ -2,7 +2,7 @@
 title: [[EVD]] - helpers - who had to be present - sometimes made assumptions and spoke for children with disabilities during design activities - [[@holoneThreeTensionsParticipatory2013b]]
 url: https://roamresearch.com/#/app/megacoglab/page/aoebINIUZ
 author: Joel Chan
-date: Tue Jul 20 2021 14:33:10 GMT-0400 (Eastern Daylight Time)
+date: Wed Jul 21 2021 02:33:10 GMT+0800 (Malaysia Time)
 ---
 
 - Summary::

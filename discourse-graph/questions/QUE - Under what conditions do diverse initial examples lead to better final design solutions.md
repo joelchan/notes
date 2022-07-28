@@ -2,52 +2,52 @@
 title: [[QUE]] - Under what conditions do diverse initial examples lead to better final design solutions?
 url: https://roamresearch.com/#/app/megacoglab/page/g_YpV3v2D
 author: Joel Chan
-date: Sat Aug 08 2020 22:38:19 GMT-0400 (Eastern Daylight Time)
+date: Sun Aug 09 2020 10:38:19 GMT+0800 (Malaysia Time)
 ---
 
 - # Synthesis
 
-    - [[Playground: Diverse examples]]
+    - [[Playground Diverse examples]]
 
-    - ^^**variations in scaffolded interactions with examples**^^, first need to flesh out [[[[THE]] - interaction-oriented theory of creative inspiration from examples]]
+    - ^^**variations in scaffolded interactions with examples**^^, first need to flesh out [[THE - interaction-oriented theory of creative inspiration from examples]]
 
     - variations in Designer attributes
 
-        - **Propensity/capacity to explore:** [[[[CLM]] - people with lower propensity or capacity to explore benefit *less* from diverse information during ideation]]
+        - **Propensity/capacity to explore:** [[CLM - people with lower propensity or capacity to explore benefit less from diverse information during ideation]]
 
             - Something in here about local vs. global focus
 
-            - Some [evidence for this]([[SupportedBy]]):
+            - Some [evidence for this]([[SupportedBy]]
 
-                - [[[[EVD]] - Only small business owners with high divergent thinking ability generated more ideas with diverse (vs. constrained) stimuli - [[@gielnikCreativityOpportunityIdentification2011]]]]
+                - [[EVD - Only small business owners with high divergent thinking ability generated more ideas with diverse (vs. constrained) stimuli - @gielnikCreativityOpportunityIdentification2011]]
 
-                - [[[[EVD]] - Only small business owners with high divergent thinking ability generated more original ideas with diverse (vs. constrained) stimuli - [[@gielnikCreativityOpportunityIdentification2011]]]]
+                - [[EVD - Only small business owners with high divergent thinking ability generated more original ideas with diverse (vs. constrained) stimuli - @gielnikCreativityOpportunityIdentification2011]]
 
-            - Possible [counter-evidence]([[Opposed By]]):
+            - Possible [counter-evidence]([[Opposed By]]
 
-                - [[[[EVD]] - case-based reasoning system loaded with diverse cases increased overall novelty of ad campaign ideas, but only for people with lower creative ability - [[@althuizenSupportingCreativeProblem2014]]]]
+                - [[EVD - case-based reasoning system loaded with diverse cases increased overall novelty of ad campaign ideas, but only for people with lower creative ability - @althuizenSupportingCreativeProblem2014]]
 
                     - note: here the comparison is to nothing, not low diversity
 
-        - **Cross-comparison:** [[[[CL]] - people with less ability to cross-compare across multiple stimuli benefit less from diverse information during ideation]]
+        - **Cross-comparison:** [[CL - people with less ability to cross-compare across multiple stimuli benefit less from diverse information during ideation]]
 
             - Something in here about recommendations vs. maps
 
-            - Some indirect [evidence for this]([[SupportedBy]]) from studies of parallel prototyping
+            - Some indirect [evidence for this]([[SupportedBy]]
 
-                - [[[[EVD]] - Designers who prototyped designs in parallel generated more diverse designs compared to designers who prototyped serially - [[@dowParallelPrototypingLeads2010]]]]
+                - [[EVD - Designers who prototyped designs in parallel generated more diverse designs compared to designers who prototyped serially - @dowParallelPrototypingLeads2010]]
 
-                - [[[[EVD]] - Final advertisements from designers who prototyped designs in parallel performed better on advertising analytics compared to ads from designers who prototype designs serially - [[@dowParallelPrototypingLeads2010]]]]
+                - [[EVD - Final advertisements from designers who prototyped designs in parallel performed better on ad...ompared to ads from designers who prototype designs serially - @dowParallelPrototypingLeads2010]]
 
     - General effects of diversity
 
         - "far" > "close" conceptual combinations wrt novelty (and sometimes creativity) (lots of this from the psych lit)
 
-            - [[[[EVD]] - Design students generated more creative web service ideas when combining interdomain web service examples, compared to intradomain examples - [[@zengFosteringCreativityProduct2011]]]]
+            - [[EVD - Design students generated more creative web service ideas when combining interdomain web service examples, compared to intradomain examples - @zengFosteringCreativityProduct2011]]
 
-        - if low diversity --> more within category [[[[EVD]] - groups generated more ideas within categories when individuals were given high-related (vs. low-related) categories - [[@baruahCategoryAssignmentRelatedness2011]]]]
+        - if low diversity --> more within category [[EVD - groups generated more ideas within categories when individuals were given high-related (vs. low-related) categories - @baruahCategoryAssignmentRelatedness2011]]
 
-        - if high diversity --> more across categories [[[[EVD]] - groups given low-related categories of solutions ended up exploring more categories in their solutions compared to high-related category groups - [[@baruahCategoryAssignmentRelatedness2011]]]]
+        - if high diversity --> more across categories [[EVD - groups given low-related categories of solutions ended up exploring more categories in their solutions compared to high-related category groups - @baruahCategoryAssignmentRelatedness2011]]
 
     - Problem space characteristics
 
@@ -63,9 +63,9 @@ date: Sat Aug 08 2020 22:38:19 GMT-0400 (Eastern Daylight Time)
 
                 - Heterogeneity of a design "move"
 
-                    - cf. [[@helmsCompoundAnalogicalDesign2008]] [[@sosaAccretionTheoryIdeation2019]]
+                    - cf. [[@helmsCompoundAnalogicalDesign2008]]
 
-                - [[task/Truss Design]] is an #example-of a design problem that violates this assumption
+                - [[taskTruss Design]]
 
             - Is your reward signal deceptive and/or sparse?
 
@@ -75,15 +75,15 @@ date: Sat Aug 08 2020 22:38:19 GMT-0400 (Eastern Daylight Time)
 
             - Individual agents (or agent groups) have incomplete access to the requirements (objective functions) of the other individuals/groups
 
-                - [[task/Delta Design Game]] is #example-of this kind of problem
+                - [[taskDelta Design Game]]
 
-        - Alignment of constraints across agents (add game theory) - diff agents may have opposing constraints/incentives (P5 [[task/Orbital Federates Design Game]] is example of this kind of problem)
+        - Alignment of constraints across agents (add game theory) - diff agents may have opposing constraints/incentives (P5 [[taskOrbital Federates Design Game]]
 
-    - See also [[[[QUE]] - What are some major phenomena around designers' exploration of design spaces and how might these map to characteristics of optimizers?]]
+    - See also [[QUE - What are some major phenomena around designers' exploration of design spaces and how might these map to characteristics of optimizers]]
 
-    - And [[[[QUE]] - How much variability is there in the effects of diversity of examples on creative design outputs?]]
+    - And [[QUE - How much variability is there in the effects of diversity of examples on creative design outputs]]
 
-    - ## Unsorted #[[Claims and Evidence]]
+    - ## Unsorted [[Claims and Evidence]]
 - ---
 - # Sources
 
@@ -93,13 +93,13 @@ date: Sat Aug 08 2020 22:38:19 GMT-0400 (Eastern Daylight Time)
 
     - unsorted
 
-        - {{[[DONE]]}} [[@dowParallelPrototypingLeads2010]]
+        - {{[[DONE]]
 
         - [[@siangliulueCollaborativeIdeationScale2015]]
 
-        - {{[[DONE]]}} [[@gielnikCreativityOpportunityIdentification2011]]
+        - {{[[DONE]]
 
-        - {{[[DONE]]}} [[@althuizenSupportingCreativeProblem2014]]
+        - {{[[DONE]]
 
         - [[@doboliTwoExperimentalStudies2014]]
 
@@ -111,9 +111,9 @@ date: Sat Aug 08 2020 22:38:19 GMT-0400 (Eastern Daylight Time)
 
         - [[@guoImpactSemanticRelevance2014]]
 
-        - {{[[DONE]]}} [[@zengFosteringCreativityProduct2011]]
+        - {{[[DONE]]
 
-        - [[@chaseExploringVariationExamples2012]] (be careful, unpublished)
+        - [[@chaseExploringVariationExamples2012]]
 
         - [[@licalziPowerDiversityLarge2012]]
 
@@ -125,27 +125,27 @@ date: Sat Aug 08 2020 22:38:19 GMT-0400 (Eastern Daylight Time)
 
         - positive
 
-            - [[@althuizenSupportingCreativeProblem2014]] ++ if large set of diverse cases (for creativity of solutions)
+            - [[@althuizenSupportingCreativeProblem2014]]
 
-            - [[@zengFosteringCreativityProduct2011]]: [++ for creativity]([[[[EVD]] - Design students generated more creative web service ideas when combining interdomain web service examples, compared to intradomain examples - [[@zengFosteringCreativityProduct2011]]]])
+            - [[@zengFosteringCreativityProduct2011]]
 
         - mixed
 
-            - [[@gielnikCreativityOpportunityIdentification2011]]: [++ quantity]([[[[EVD]] - Only small business owners with high divergent thinking ability generated more ideas with diverse (vs. constrained) stimuli - [[@gielnikCreativityOpportunityIdentification2011]]]]) and [++ originality]([[[[EVD]] - Only small business owners with high divergent thinking ability generated more original ideas with diverse (vs. constrained) stimuli - [[@gielnikCreativityOpportunityIdentification2011]]]]), but only with high divergent thinking ability
+            - [[@gielnikCreativityOpportunityIdentification2011]]
 
-            - [[@althuizenSupportingCreativeProblem2014]] ++ for ppl with lower creative ability, no effect for most creative individuals
+            - [[@althuizenSupportingCreativeProblem2014]]
 
         - negative
 
-            - [[@baruahCategoryAssignmentRelatedness2011]]: [-- for productivity]([[[[EVD]] - groups generated more ideas within categories when individuals were given high-related (vs. low-related) categories - [[@baruahCategoryAssignmentRelatedness2011]]]])
+            - [[@baruahCategoryAssignmentRelatedness2011]]
 
-    - [[[[CLM]] - Examples can improve creative outcomes by stimulating more exploration away from obvious starting points]]
+    - [[CLM - Examples can improve creative outcomes by stimulating more exploration away from obvious starting points]]
 
-        - [[🧱 fixation]]: Claim: people have a strong tendency to transfer features and elements from recently encountered stimuli or examples in their creative production [[[[QUE]] - What is the relationship between prior knowledge and new ideas?]]
+        - [[🧱 fixation]]
 
-    - [[[[CLM]] - diverse examples improve creative outcomes by enabling novel conceptual integrations]]
+    - [[CLM - diverse examples improve creative outcomes by enabling novel conceptual integrations]]
 
-        - {{[[DONE]]}} [[@wilkenfeldSimilarityEmergenceConceptual2001]]
+        - {{[[DONE]]
 
         - [[@baughmanProcessanalyticModelsCreative1995]]
 
@@ -155,23 +155,23 @@ date: Sat Aug 08 2020 22:38:19 GMT-0400 (Eastern Daylight Time)
 
         - [[@rothenbergJanusianProcessScientific1996]]
 
-        - model based on structural alignment from [[@wisniewskiWhenConceptsCombine1997]] and [[@wisniewskiConceptualCombinationPossibilities1997]]
+        - model based on structural alignment from [[@wisniewskiWhenConceptsCombine1997]]
 
         - [[@birdsellCreativeCognitionConceptual2019]]
 
-    - [[[[CLM]] - examples can improve creative outcomes by enabling more robust (re)modeling of the problem space]]
+    - [[CLM - examples can improve creative outcomes by enabling more robust (re)modeling of the problem space]]
 
     - basics of how people work with examples
 
-        - {{[[TODO]]}} [[@sharminUnderstandingKnowledgeManagement2009b]]
+        - {{[[TODO]]
 
-        - {{[[DONE]]}} [[@herringGettingInspiredUnderstanding2009]] and related work based on interviews [*]([[@herringGettingInspiredUnderstanding2009]] and related work based on interviews)
+        - {{[[DONE]]
 
-        - [[Andruid Kerne]]'s stuff with [[IdeaMache]]: curating and working with "found objects": [[@kerneStrategiesFreeFormWeb2017]] talks a bit about the strategy of shifting perspective, but this is more about the interaction (putting stuff together, going up and down) [*]([[Andruid Kerne]]'s stuff with [[IdeaMache]]: curating and working with "found objects": [[@kerneStrategiesFreeFormWeb2017]] talks a bit about the strategy of shifting perspective, but this is more about the interaction (putting stuff together, going up and down))
+        - [[Andruid Kerne]]
 
-        - definitely from [[@leeDesigningInteractiveExample2010]] - explores the use of multiple examples in a design [*](definitely from [[@leeDesigningInteractiveExample2010]] - explores the use of multiple examples in a design)
+        - definitely from [[@leeDesigningInteractiveExample2010]]
 
-        - {{[[DONE]]}} [[@eckertAdaptationSourcesInspiration2003]]
+        - {{[[DONE]]
 
         - [[@millerSearchingInspirationInDepth2014]]
 
@@ -183,7 +183,7 @@ date: Sat Aug 08 2020 22:38:19 GMT-0400 (Eastern Daylight Time)
 
     - systems
 
-        - [[@kimHowFloristApprentices2021]] - compares graphs vs. lists for exploring design spaces
+        - [[@kimHowFloristApprentices2021]]
 
         - [[@siangliulueProvidingTimelyExamples2015]]
 
@@ -201,7 +201,7 @@ date: Sat Aug 08 2020 22:38:19 GMT-0400 (Eastern Daylight Time)
 
     - topically relevant, but not evidence-note worthy
 
-        - [[@jangEffectImageStimulus2014]]: read [[@jangEffectImageStimulus2014]] THIS IS A VERY WEIRD PAPER - lots of methodological weirdness - don't do evidence notes for this
+        - [[@jangEffectImageStimulus2014]]
 
     - variations in Designer attributes
 
@@ -209,7 +209,7 @@ date: Sat Aug 08 2020 22:38:19 GMT-0400 (Eastern Daylight Time)
 - ---
 - # Meta
 
-    - Tags: #[[D/Solution-Diversity]]
+    - Tags: [[DSolution-Diversity]]
 
 ###### Discourse Context
 

@@ -2,7 +2,7 @@
 title: [[EVD]] - experts who work with young adults with neurological vision impairments (NVI) do not have complete subjective experience of vision impairment and misjudge the difficulty of the vision therapy game - [[@waddingtonParticipatoryDesignTherapeutic2015b]]
 url: https://roamresearch.com/#/app/megacoglab/page/hcQvgq5Zh
 author: 
-date: Wed May 19 2021 12:59:50 GMT-0400 (Eastern Daylight Time)
+date: Thu May 20 2021 00:59:50 GMT+0800 (Malaysia Time)
 ---
 
 - ## **Summary**
@@ -42,7 +42,7 @@ date: Wed May 19 2021 12:59:50 GMT-0400 (Eastern Daylight Time)
 - Source:: [[@waddingtonParticipatoryDesignTherapeutic2015b]]
 - ## **Discourse Context**
 
-    - Informs:: [[[[QUE]] - What tension points exist between the goals of diversity and depth of user participation in participatory design?]]
+    - Informs:: [[QUE - What tension points exist between the goals of diversity and depth of user participation in participatory design]]
 - ## Metadata::
 
     - author:: [[Wei-Wei Chi]]

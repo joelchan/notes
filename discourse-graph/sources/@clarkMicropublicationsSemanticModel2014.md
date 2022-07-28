@@ -2,18 +2,18 @@
 title: @clarkMicropublicationsSemanticModel2014
 url: https://roamresearch.com/#/app/megacoglab/page/az66HiREz
 author: Joel Chan
-date: Wed Jan 22 2020 11:06:57 GMT-0500 (Eastern Standard Time)
+date: Thu Jan 23 2020 00:06:57 GMT+0800 (Malaysia Time)
 ---
 
-- #[[references]]
+- [[references]]
 
     - Title: Micropublications: a semantic model for claims, evidence, arguments and annotations in biomedical communications
 
     - Meta:
 
-        - Tags: #context #Atomicity #Atomicity #compositionality #[[D/Synthesis Infrastructure]] #std/Micropublication
+        - Tags: #context #Atomicity #Atomicity #compositionality [[DSynthesis Infrastructure]]
 
-        - Authored by:: [[Tim Clark]] [[Paolo Ciccarese]] [[Carole A. Goble]]
+        - Authored by:: [[Tim Clark]]
 
         - Year: [[2014]]
 
@@ -29,21 +29,21 @@ date: Wed Jan 22 2020 11:06:57 GMT-0500 (Eastern Standard Time)
 
             - Scientific publications are documentary representations of defeasible arguments, supported by data and repeatable methods. They are the essential mediating artifacts in the ecosystem of scientific communications. The institutional “goal” of science is publishing results. The linear document publication format, dating from 1665, has survived transition to the Web.
 
-    - #[[📝 lit-notes]]
+    - [[📝 lit-notes]]
 
-        - Minimal form of a [[std/Micropublication]] (p. 10)
+        - Minimal form of a [[stdMicropublication]]
 
             - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fmegacoglab%2F4RD5nUsFD2?alt=media&token=f31624d5-1637-4859-adb5-b205701ac24e)
 
-        - Better form of [[std/Micropublication]]
+        - Better form of [[stdMicropublication]]
 
             - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fmegacoglab%2FXEIzMIbGby.png?alt=media&token=52de2ef7-02d6-4154-bc9e-4c322bdd5071)
 
-        - Example [[std/Micropublication]] with a real scientific claim (p.15)
+        - Example [[stdMicropublication]]
 
             - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fmegacoglab%2FhIBZKnpISn?alt=media&token=056ff6ca-ed18-4166-8b61-fec4e142dc99)
 
-        - Introduced an interface for authoring of micropublications, integrating into [[sys/DOMEO]] - however, I'm not sure where it is now :( - last commit to [their github](https://github.com/domeo/domeo) was like 5 years ago, and I can't find any digital footprints anywhere else...
+        - Introduced an interface for authoring of micropublications, integrating into [[sysDOMEO]]
 
 ###### Discourse Context
 

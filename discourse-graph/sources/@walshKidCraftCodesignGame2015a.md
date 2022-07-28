@@ -2,16 +2,16 @@
 title: @walshKidCraftCodesignGame2015a
 url: https://roamresearch.com/#/app/megacoglab/page/hS_yxaoYB
 author: Joel Chan
-date: Fri May 14 2021 11:27:45 GMT-0400 (Eastern Daylight Time)
+date: Fri May 14 2021 23:27:45 GMT+0800 (Malaysia Time)
 ---
 
-- #[[references]]
+- [[references]]
 
     - Title: KidCraft: Co-design within a game environment
 
     - Meta:
 
-        - Authored by:: [[Greg Walsh]] [[Craig Donahue]] [[Emily E. Rhodes]]
+        - Authored by:: [[Greg Walsh]]
 
         - Year: [[2015]]
 

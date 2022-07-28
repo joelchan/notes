@@ -2,16 +2,16 @@
 title: @alvessonGeneratingResearchQuestions2011
 url: https://roamresearch.com/#/app/megacoglab/page/h6iEhPT9T
 author: Joel Chan
-date: Mon Mar 02 2020 13:12:51 GMT-0500 (Eastern Standard Time)
+date: Tue Mar 03 2020 02:12:51 GMT+0800 (Malaysia Time)
 ---
 
-- #[[references]]
+- [[references]]
 
     - Title: Generating research questions through problematization
 
     - Meta:
 
-        - Authored by:: [[Mats Alvesson]] [[Jörgen Sandberg]]
+        - Authored by:: [[Mats Alvesson]]
 
         - Year: [[2011]]
 
@@ -32,9 +32,9 @@ date: Mon Mar 02 2020 13:12:51 GMT-0500 (Eastern Standard Time)
 
     - Meta
 
-        - Tags:: #[[references]] #[[problem (re)formulation]] #[[D/Synthesis Infrastructure]]
+        - Tags:: [[references]]
 
-        - [[Authored by]]::  Mats Alvesson ,  Jörgen Sandberg
+        - [[Authored by]]
 
         - Year: [[2011]]
 
@@ -46,9 +46,9 @@ date: Mon Mar 02 2020 13:12:51 GMT-0500 (Eastern Standard Time)
 
     - #lit-context
 
-        - Note: also suggested by [[Jeff Nickerson]] during [[CSCW]] [[2019]]
+        - Note: also suggested by [[Jeff Nickerson]]
 
-    - #[[📝 lit-notes]]
+    - [[📝 lit-notes]]
 
         - #> "As Deacon (2000)
 notes, problematization cannot be reduced to a

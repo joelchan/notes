@@ -2,16 +2,16 @@
 title: @cushenBothAttentionalControl2018
 url: https://roamresearch.com/#/app/megacoglab/page/70iVrL5G6
 author: Joel Chan
-date: Fri May 28 2021 23:10:55 GMT-0400 (Eastern Daylight Time)
+date: Sat May 29 2021 11:10:55 GMT+0800 (Malaysia Time)
 ---
 
-- #[[references]]
+- [[references]]
 
     - Title: Both attentional control and the ability to make remote associations aid spontaneous analogical transfer
 
     - Meta:
 
-        - Authored by:: [[Patrick J. Cushen]] [[Jennifer Wiley]]
+        - Authored by:: [[Patrick J. Cushen]]
 
         - Year: [[2018]]
 

@@ -2,22 +2,22 @@
 title: [[CLM]] - Clearer cases of synthesis involve substantial conceptual innovation
 url: https://roamresearch.com/#/app/megacoglab/page/tEb8xA-VW
 author: Joel Chan
-date: Fri May 22 2020 11:52:02 GMT-0400 (Eastern Daylight Time)
+date: Fri May 22 2020 23:52:02 GMT+0800 (Malaysia Time)
 ---
 
-- #[[🌲 zettels]]
+- [[🌲 zettels]]
 
-    - Tags: #[[D/Synthesis Infrastructure]]
+    - Tags: [[DSynthesis Infrastructure]]
 
     - Description
 
         - For example:
 
-            - [[Z: Theories are core examples of synthesis]].
+            - [[Z Theories are core examples of synthesis]]
 
-            - [[Z: Design spaces are core examples of synthesis]]
+            - [[Z Design spaces are core examples of synthesis]]
 
-            - [[Z: Frames are core examples of synthesis]]
+            - [[Z Frames are core examples of synthesis]]
 
     - R-Sources
 
@@ -31,15 +31,15 @@ date: Fri May 22 2020 11:52:02 GMT-0400 (Eastern Daylight Time)
 
                 - Fleshes out ((tMRYSVcS3))
 
-                - > A quality [[synthesis]] will clarify and resolve, rather than obscure inconsistencies or tensions between material synthesized
+                - > A quality [[synthesis]]
 
                     - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fmegacoglab%2FwVfN0OkrPc?alt=media&token=4c987e60-8f2a-422b-89f7-74d652f4aefd) (p357)
 
-                - > A quality [[synthesis]] will result in a progressive problem shift
+                - > A quality [[synthesis]]
 
                     - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fmegacoglab%2FmkZPSRtGTx?alt=media&token=8c9c4e90-6a91-4922-b18e-059a08d6a0d6) " (p357)
 
-                - > A successful [[synthesis]] will satisfy the formal criteria for good theories
+                - > A successful [[synthesis]]
 
                     - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fmegacoglab%2FU-AqM6BweT?alt=media&token=617cad8f-8247-46e7-8037-24547e6a585c) (p357)
 

@@ -2,7 +2,7 @@
 title: [[EVD]] - Black and LatinX codesign participants distrusted researchers from the local university due to perceived abandonment after past research studies - [[@harringtonDeconstructingCommunityBasedCollaborative2019]]
 url: https://roamresearch.com/#/app/megacoglab/page/5jvSWveLE
 author: Joel Chan
-date: Tue Jun 08 2021 15:51:04 GMT-0400 (Eastern Daylight Time)
+date: Wed Jun 09 2021 03:51:04 GMT+0800 (Malaysia Time)
 ---
 
 - noteType:: [[EVD]]

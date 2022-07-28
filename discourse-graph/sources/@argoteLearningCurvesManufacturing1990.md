@@ -2,16 +2,16 @@
 title: @argoteLearningCurvesManufacturing1990
 url: https://roamresearch.com/#/app/megacoglab/page/MZSpKpjWs
 author: Joel Chan
-date: Wed Feb 17 2021 13:36:53 GMT-0500 (Eastern Standard Time)
+date: Thu Feb 18 2021 02:36:53 GMT+0800 (Malaysia Time)
 ---
 
-- #[[references]]
+- [[references]]
 
     - Title: Learning curves in manufacturing
 
     - Meta:
 
-        - Authored by:: [[Linda Argote]] [[Dennis Epple]]
+        - Authored by:: [[Linda Argote]]
 
         - Year: [[1990]]
 

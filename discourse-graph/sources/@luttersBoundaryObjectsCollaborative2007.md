@@ -2,7 +2,7 @@
 title: @luttersBoundaryObjectsCollaborative2007
 url: https://roamresearch.com/#/app/megacoglab/page/9NJsMXmeN
 author: Joel Chan
-date: Tue Feb 11 2020 15:50:55 GMT-0500 (Eastern Standard Time)
+date: Wed Feb 12 2020 04:50:55 GMT+0800 (Malaysia Time)
 ---
 
 - #references
@@ -11,11 +11,11 @@ date: Tue Feb 11 2020 15:50:55 GMT-0500 (Eastern Standard Time)
 
     - Meta
 
-        - Tags:: #[[ref/Paper]] #[[D/Synthesis Infrastructure]]
+        - Tags:: [[refPaper]]
 
         - Publication: Computer Supported Cooperative Work (CSCW)
 
-        - Authored by::  [[Wayne Lutters]] ,  [[Mark Ackerman]]
+        - Authored by::  [[Wayne Lutters]]
 
         - Year: [[2007]]
 
@@ -31,17 +31,17 @@ date: Tue Feb 11 2020 15:50:55 GMT-0500 (Eastern Standard Time)
 
     - #lit-context
 
-        - is #seminal ref for thinking about [[[[PTN]] - flexible compression]] as a way to get at #context  based on empirical study of aircraft technical support
+        - is #seminal ref for thinking about [[PTN - flexible compression]]
 
-    - #[[📝 lit-notes]]
+    - [[📝 lit-notes]]
 
-        - Concept of [[punctuated crystallization]]: [[[[PTN]] - boundary object]]s that exist within information flows in organizations that get "crystallized" into temporary static artifacts. To understand object, must understand its place in the flow of information/work, past and future, and how it changes.
+        - Concept of [[punctuated crystallization]]
 
             - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fmegacoglab%2FG9T2vHDvr9.png?alt=media&token=c2d70867-1bed-4418-8677-48d0e88acbea) (p. 365-366)
 
         - **How did the authors approach their questions/problems?** ((most of this is going to come from the methods sections, although some info about conceptualization of key concepts might be relevant to pull from intro/lit-review)) #lit-context
 
-        - **What did they find?** ((keep this as contextualized as possible; resist the urge to repeat claims or generalizations)) #[[observation-notes]]
+        - **What did they find?** ((keep this as contextualized as possible; resist the urge to repeat claims or generalizations)) [[observation-notes]]
 
             - engineers sometimes included information about who they had talked to about the case in the ROC references section, to facilitate downstream judgments of reliability (p. 357)
 

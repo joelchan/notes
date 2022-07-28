@@ -2,10 +2,10 @@
 title: @goh2017why
 url: https://roamresearch.com/#/app/megacoglab/page/Pw-jzxa0r
 author: Joel Chan
-date: Wed Oct 21 2020 13:59:33 GMT-0400 (Eastern Daylight Time)
+date: Thu Oct 22 2020 01:59:33 GMT+0800 (Malaysia Time)
 ---
 
-- #[[references]]
+- [[references]]
 
     - Title: Why momentum really works
 

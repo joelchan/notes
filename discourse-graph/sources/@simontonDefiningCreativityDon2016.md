@@ -2,7 +2,7 @@
 title: @simontonDefiningCreativityDon2016
 url: https://roamresearch.com/#/app/megacoglab/page/uamL14Atm
 author: Joel Chan
-date: Fri Jun 11 2021 16:29:50 GMT-0400 (Eastern Daylight Time)
+date: Sat Jun 12 2021 04:29:50 GMT+0800 (Malaysia Time)
 ---
 
 - Title:: Defining Creativity: Don't We Also Need to Define What Is Not Creative?

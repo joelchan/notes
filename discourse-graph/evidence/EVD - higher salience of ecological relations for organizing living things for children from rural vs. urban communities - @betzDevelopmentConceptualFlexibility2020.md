@@ -2,7 +2,7 @@
 title: [[EVD]] - higher salience of ecological relations for organizing living things for children from rural vs. urban communities - [[@betzDevelopmentConceptualFlexibility2020]]
 url: https://roamresearch.com/#/app/megacoglab/page/ML0rEDL6_
 author: Joel Chan
-date: Thu Feb 24 2022 10:00:27 GMT-0500 (Eastern Standard Time)
+date: Thu Feb 24 2022 23:00:27 GMT+0800 (Malaysia Time)
 ---
 
 - # Summary
@@ -25,7 +25,7 @@ date: Thu Feb 24 2022 10:00:27 GMT-0500 (Eastern Standard Time)
 
         - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fmegacoglab%2FTEMCE72xZz.png?alt=media&token=48b8651d-8ea9-49b8-8d5b-1474f5279c67) (p. 5)
 
-    - measure: explanations for groupings. transcribed and coded by ~3-4 coders using [[m/constant comparative method]]. disagreements (reported as rare) resolved via discussion. not mutually exclusive - 1) taxonomic explanations, 2) ecological explanations, 3) appearance explanations, and other
+    - measure: explanations for groupings. transcribed and coded by ~3-4 coders using [[mconstant comparative method]]
 
         - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fmegacoglab%2Fz33lkPjFOf.png?alt=media&token=54e546c0-e25e-4cea-af30-f82bb3ebee26) (p. 6)
 

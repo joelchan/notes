@@ -2,7 +2,7 @@
 title: @dourishInformationContextLessons1993
 url: https://roamresearch.com/#/app/megacoglab/page/UmR0hGM6R
 author: Joel Chan
-date: Wed Sep 16 2020 22:29:23 GMT-0400 (Eastern Daylight Time)
+date: Thu Sep 17 2020 10:29:23 GMT+0800 (Malaysia Time)
 ---
 
 - #references
@@ -13,7 +13,7 @@ date: Wed Sep 16 2020 22:29:23 GMT-0400 (Eastern Daylight Time)
 
         - Tags: #ref/Paper
 
-        - Authored by::  [[Paul Dourish]] ,  [[Wendy Mackay]]
+        - Authored by::  [[Paul Dourish]]
 
         - Year: [[1993]]
 
@@ -37,17 +37,17 @@ date: Wed Sep 16 2020 22:29:23 GMT-0400 (Eastern Daylight Time)
 
     - #lit-context
 
-    - #[[📝 lit-notes]]
+    - [[📝 lit-notes]]
 
         - **How did the authors approach their questions/problems?** ((most of this is going to come from the methods sections, although some info about conceptualization of key concepts might be relevant to pull from intro/lit-review)) #lit-context
 
-        - **What did they find?** ((keep this as contextualized as possible; resist the urge to repeat claims or generalizations)) #[[observation-notes]]
+        - **What did they find?** ((keep this as contextualized as possible; resist the urge to repeat claims or generalizations)) [[observation-notes]]
 
             - In [a case study of calendar systems](![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fmegacoglab%2Fbn89OKb1ff.png?alt=media&token=6c0c863d-6897-4e79-ba19-94f070efa129)), having [metadata for event information](((H-T2qFmhr))) such as the title of the event or arrival time of the speaker, in addition to who the author of the information is, were critical for the interpretation of the events.
 
                 - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fmegacoglab%2F6SVrexUrhm.png?alt=media&token=cfa14f44-409a-4991-83e1-6c7a6b2528a4)
 
-                - [[Joel Chan]] comments
+                - [[Joel Chan]]
 
                     - this is looking pretty good in terms of granularity, i can work with this!
 

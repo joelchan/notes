@@ -2,7 +2,7 @@
 title: [[EVD]] - designers used a range of strategies for working with sources of inspiration, ranging from simpler, more source-driven strategies like direct source adaptation, to more complex and reflective strategies like source analysis and schema-driven source selection; complex strategies were more likely to be used by professionals and also more associated with radical transformation of sources - [[@eckertAdaptationSourcesInspiration2003]]
 url: https://roamresearch.com/#/app/megacoglab/page/orL4733SS
 author: Joel Chan
-date: Mon Dec 27 2021 22:37:32 GMT-0500 (Eastern Standard Time)
+date: Tue Dec 28 2021 11:37:32 GMT+0800 (Malaysia Time)
 ---
 
 - # Summary
@@ -49,7 +49,7 @@ date: Mon Dec 27 2021 22:37:32 GMT-0500 (Eastern Standard Time)
         - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fmegacoglab%2FzDwomM3Ywl.png?alt=media&token=4b98d975-78b0-48db-b180-2c1805dc5d6a) (p. 378)
 - # Grounding Context
 
-    - task and procedures: design menswear t-sleeve sweater with turtlenecks, with a rug/tapestry as a source of inspiration, while being videotaped and [thinking aloud]([[m/Think-aloud protocols]]) in the lab, for about 30 mins
+    - task and procedures: design menswear t-sleeve sweater with turtlenecks, with a rug/tapestry as a source of inspiration, while being videotaped and [thinking aloud]([[mThink-aloud protocols]]
 
         - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fmegacoglab%2Fky1ZdWn1bV.png?alt=media&token=a9b2cef7-c79c-4d67-a764-40719bd62a84) (p. 362)
 

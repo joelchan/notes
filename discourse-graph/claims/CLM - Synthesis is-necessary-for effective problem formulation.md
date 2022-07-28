@@ -2,35 +2,35 @@
 title: [[CLM]] - Synthesis is-necessary-for effective problem formulation
 url: https://roamresearch.com/#/app/megacoglab/page/BBR9P6suv
 author: Joel Chan
-date: Thu Feb 27 2020 14:44:04 GMT-0500 (Eastern Standard Time)
+date: Fri Feb 28 2020 03:44:04 GMT+0800 (Malaysia Time)
 ---
 
-- #[[🌲 zettels]]
+- [[🌲 zettels]]
 
-    - Tags: #[[D/Synthesis Infrastructure]] #[[problem (re)formulation]]
+    - Tags: [[DSynthesis Infrastructure]]
 
     - Description:
 
-        - In most models of the creative process, [[[[CLM]] - Effective problem formulation is-necessary-for creative knowledge work]].
+        - In most models of the creative process, [[CLM - Effective problem formulation is-necessary-for creative knowledge work]]
 
             - We focus only on problematizing assumptions
-that underlie existing literature as a way to construct research questions: problematization challenges existing theories to develop more interesting and influential theories [[R: Alvesson2011]]/[[@alvessonGeneratingResearchQuestions2011]]
+that underlie existing literature as a way to construct research questions: problematization challenges existing theories to develop more interesting and influential theories [[R Alvesson2011]]
 
-                - [[R: Sandberg2011]] is another Alvesson work that also applies, e.g. "Ways of constructing research questions: gap-spotting or problematization?" in 2010
+                - [[R Sandberg2011]]
 
-            - Maybe the book of [[R: Campbell1982]]
+            - Maybe the book of [[R Campbell1982]]
 
-            - [[[[CLM]] - Effective problem formulation is-necessary-for creative knowledge work]]
+            - [[CLM - Effective problem formulation is-necessary-for creative knowledge work]]
 
-        - In the majority of cases, an effective [[synthesis]] of the problem domain is what enables a good [[problem (re)formulation]]. Without such a synthesis, creators cannot adequately transform their [[Ill-structured problem]] into a tractable one they can make progress on.
+        - In the majority of cases, an effective [[synthesis]]
 
-            - Synthesize coherence to construct gap [[R: Locke1997]]
+            - Synthesize coherence to construct gap [[R Locke1997]]
 
-            - In the language of [[Herbert Simon]], a deep engagement with the problem domain (including prior unsuccessful attempts to solve the problem, as well as related efforts from other problems/domains) is fundamental for clearly understanding the goal state, their current [undesirable] state, and what "moves" might be able to transform their current state into the goal state) [[R: newellHumanProblemSolving1972]] [[@simonStructureIllStructured1973]]
+            - In the language of [[Herbert Simon]]
 
-                - The house designing metaphor in [[@simonStructureIllStructured1973]], maybe also the combining of multiple discrete tasks into unified task formulation
+                - The house designing metaphor in [[@simonStructureIllStructured1973]]
 
-            - A good #example-of this is Simon's study of insight problem solving on the mutilated checkerboard problem [[@kaplanSearchInsight1990]], where noticing invariants in prior unsuccessful solution attempts was crucial for reformulating the insight problem, thereby making it soluble.
+            - A good #example-of this is Simon's study of insight problem solving on the mutilated checkerboard problem [[@kaplanSearchInsight1990]]
 
     - R-Sources:
 

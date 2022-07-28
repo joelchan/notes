@@ -2,7 +2,7 @@
 title: [[EVD]] - Encouraging the access of multiple base domains during the idea-generation stage can improve design originality in the absence of an external prime. - [[@dahlInfluenceValueAnalogical2002]]
 url: https://roamresearch.com/#/app/megacoglab/page/vGdG13Uy_
 author: Jason Ding
-date: Wed Apr 20 2022 19:37:23 GMT-0400 (Eastern Daylight Time)
+date: Thu Apr 21 2022 07:37:23 GMT+0800 (Malaysia Time)
 ---
 
 

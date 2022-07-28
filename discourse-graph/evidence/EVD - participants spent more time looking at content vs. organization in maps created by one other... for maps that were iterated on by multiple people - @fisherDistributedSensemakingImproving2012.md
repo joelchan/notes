@@ -2,7 +2,7 @@
 title: [[EVD]] - participants spent more time looking at content vs. organization in maps created by one other person, but equally at content and organization for maps that were iterated on by multiple people - [[@fisherDistributedSensemakingImproving2012]]
 url: https://roamresearch.com/#/app/megacoglab/page/rllJ6VS1E
 author: Joel Chan
-date: Wed Jul 13 2022 11:48:33 GMT-0400 (Eastern Daylight Time)
+date: Wed Jul 13 2022 23:48:33 GMT+0800 (Malaysia Time)
 ---
 
 - # Summary

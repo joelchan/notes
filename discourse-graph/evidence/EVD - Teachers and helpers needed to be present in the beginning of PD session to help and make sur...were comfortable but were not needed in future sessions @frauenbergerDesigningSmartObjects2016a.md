@@ -2,7 +2,7 @@
 title: [[EVD]] - Teachers and helpers needed to be present in the beginning of PD session to help and make sure children were comfortable but were not needed in future sessions [[@frauenbergerDesigningSmartObjects2016a]]
 url: https://roamresearch.com/#/app/megacoglab/page/Eb9u7OsTN
 author: Sarah DiPasquale
-date: Mon Jun 28 2021 19:56:10 GMT-0400 (Eastern Daylight Time)
+date: Tue Jun 29 2021 07:56:10 GMT+0800 (Malaysia Time)
 ---
 
 - Summary::
@@ -27,7 +27,7 @@ date: Mon Jun 28 2021 19:56:10 GMT-0400 (Eastern Daylight Time)
     - Source:: [[@frauenbergerDesigningSmartObjects2016a]]
 - ## **Discourse Context**
 
-    - [[[[QUE]] - What tension points exist between the goals of diversity and depth of user participation in participatory design?]]
+    - [[QUE - What tension points exist between the goals of diversity and depth of user participation in participatory design]]
 - ## Metadata::
 
     - author:: Sarah DiPasquale

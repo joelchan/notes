@@ -2,16 +2,16 @@
 title: @chiuInvestigatingEffectsOppositely2012
 url: https://roamresearch.com/#/app/megacoglab/page/eMi8bEn8K
 author: Joel Chan
-date: Fri Oct 30 2020 15:28:24 GMT-0400 (Eastern Daylight Time)
+date: Sat Oct 31 2020 03:28:24 GMT+0800 (Malaysia Time)
 ---
 
-- #[[references]]
+- [[references]]
 
     - Title: Investigating effects of oppositely related semantic stimuli on design concept creativity
 
     - Meta:
 
-        - Authored by:: [[I. Chiu]] [[L. H. . H. Shu]]
+        - Authored by:: [[I. Chiu]]
 
         - Year: [[2012]]
 
@@ -55,7 +55,7 @@ date: Fri Oct 30 2020 15:28:24 GMT-0400 (Eastern Daylight Time)
 
             - Measures
 
-                - Outcome: novelty, usefulness and cohesiveness, rated by four people with engineering background and/or interest in design, with medium-to-low reliability ([[Kendall's W]] ~= .3 to .6)
+                - Outcome: novelty, usefulness and cohesiveness, rated by four people with engineering background and/or interest in design, with medium-to-low reliability ([[Kendall's W]]
 
                     - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fmegacoglab%2Fp5oD-LXd40.png?alt=media&token=d435c3fd-27de-46b6-9373-edb7c31f6f08) (p. 278)
 
@@ -65,11 +65,11 @@ date: Fri Oct 30 2020 15:28:24 GMT-0400 (Eastern Daylight Time)
 
                 - Worried about N here... 9 in a between-subjects is kind of crazy... they actually analyzed these at the concept-level, as far as i can tell (n=9 for subjects, but ns sum to more than 9 across the two conditions in the [results table](![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fmegacoglab%2FufIeklB-A0.png?alt=media&token=5017bfb5-745d-493c-9e55-2a2ec41bcfa6) (p. 280)))
 
-    - #[[📝 lit-notes]]
+    - [[📝 lit-notes]]
 
         - wish they had studied the effects on compound measures
 
-        - #[[observation-notes]]
+        - [[observation-notes]]
 
             - Experiment 1
 

@@ -2,16 +2,16 @@
 title: @goncalvesInspirationPeakExploring2013
 url: https://roamresearch.com/#/app/megacoglab/page/C5uGcsPPk
 author: Joel Chan
-date: Fri Oct 30 2020 15:35:14 GMT-0400 (Eastern Daylight Time)
+date: Sat Oct 31 2020 03:35:14 GMT+0800 (Malaysia Time)
 ---
 
-- #[[references]]
+- [[references]]
 
     - Title: Inspiration peak: exploring the semantic distance between design problem and textual inspirational stimuli
 
     - Meta:
 
-        - Authored by:: [[Milene Gonçalves]] [[Carlos Cardoso]] [[Petra Badke-Schaub]]
+        - Authored by:: [[Milene Gonçalves]]
 
         - Year: [[2013]]
 

@@ -2,7 +2,7 @@
 title: @knightEnslavedTrappedData2019
 url: https://roamresearch.com/#/app/megacoglab/page/uazWXrfX9
 author: Joel Chan
-date: Thu Jan 23 2020 09:54:15 GMT-0500 (Eastern Standard Time)
+date: Thu Jan 23 2020 22:54:15 GMT+0800 (Malaysia Time)
 ---
 
 - #references
@@ -11,7 +11,7 @@ date: Thu Jan 23 2020 09:54:15 GMT-0500 (Eastern Standard Time)
 
     - Meta
 
-        - Tags:: #ref/Paper #[[D/Synthesis Infrastructure]]
+        - Tags:: #ref/Paper [[DSynthesis Infrastructure]]
 
         - Authored by::  Ian A. Knight ,  Max L. Wilson ,  David F. Brailsford ,  Natasa Milic-Frayling
 
@@ -27,11 +27,11 @@ date: Thu Jan 23 2020 09:54:15 GMT-0500 (Eastern Standard Time)
 
     - #lit-context
 
-        - [[m/Ethnography]]
+        - [[mEthnography]]
 
-    - #[[📝 lit-notes]]
+    - [[📝 lit-notes]]
 
-        - #> The Data Extraction Process seemed particularly demanding to those involved in the corresponding tasks. The Coordinating Editor (P1) described [[systematic review]]ers as being "enslaved to the trapped data", with reviewers "chiseling the mine" to get at the data they needed. (p.208) #synthesis
+        - #> The Data Extraction Process seemed particularly demanding to those involved in the corresponding tasks. The Coordinating Editor (P1) described [[systematic review]]
 
             ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fmegacoglab%2Fg8OcL9P5xz.png?alt=media&token=5211d0f5-058c-46af-946f-19fd2aacee88)
 

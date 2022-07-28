@@ -2,20 +2,20 @@
 title: @hjorlandNewHorizonInformation1995
 url: https://roamresearch.com/#/app/megacoglab/page/4rLfC90ew
 author: Joel Chan
-date: Fri Apr 17 2020 23:04:04 GMT-0400 (Eastern Daylight Time)
+date: Sat Apr 18 2020 11:04:04 GMT+0800 (Malaysia Time)
 ---
 
 - Metadata
 
     - Title: Toward a new horizon in information science: Domain-analysis
 
-        - Tags:: #[[references]] #[[D/Synthesis Infrastructure]] #[[Domain-Analysis]]
+        - Tags:: [[references]]
 
-    - Authored by::  [[Birger Hjørland]] ,  Hanne Albrechtsen
+    - Authored by::  [[Birger Hjørland]]
 
     - Year: 1995
 
-    - Publication: Journal of the American Society for Information Science ([[JASIST]])
+    - Publication: Journal of the American Society for Information Science ([[JASIST]]
 - Context
 - Reading notes
 

@@ -2,7 +2,7 @@
 title: [[EVD]] - Students believe analogies have a purpose if they aid in understanding complex information, when they are having trouble visualizing a concept and when they are presented new material - [[@orgillWHATRESEARCHTELLS2004]]
 url: https://roamresearch.com/#/app/megacoglab/page/cXev0baFE
 author: AJ Rudd
-date: Sun Dec 19 2021 10:29:43 GMT-0500 (Eastern Standard Time)
+date: Sun Dec 19 2021 23:29:43 GMT+0800 (Malaysia Time)
 ---
 
 - # Summary

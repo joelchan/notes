@@ -2,17 +2,17 @@
 title: @wardRoleSpecificityAbstraction2004
 url: https://roamresearch.com/#/app/megacoglab/page/1d2jZw9nP
 author: Joel Chan
-date: Fri Jan 14 2022 11:41:41 GMT-0500 (Eastern Standard Time)
+date: Sat Jan 15 2022 00:41:41 GMT+0800 (Malaysia Time)
 ---
 
 - Title:: The Role of Specificity and Abstraction in Creative Idea Generation
-- Author(s):: [[T. B. Ward]], [[Merryl J. Patterson]], [[Cynthia M. Sifonis]]
+- Author(s):: [[T. B. Ward]]
 - Abstract:: Three experiments examined the relationship between approaches to a creative generation task and the novelty of the resulting products. Participants were given the task of imagining life on other planets and they received instructions intended to encourage them to formulate the task in either very specific ways (e.g., thinking of specific Earth animals) or more abstract ways (e.g., thinking of environmental conditions and general survival needs). The latter instructions led to more novel creations. The results are discussed in terms of the malleability of people's approaches to creative generation, the role of problem formulation and the link between abstraction and novelty.
 - Type:: [[Article]]
 - Publication:: Creativity Research Journal
 - Date Added:: [[June 23rd, 2021]]
 - Zotero links:: [Local library](zotero://select/groups/2451508/items/SBZWIU7H), [Local library](https://www.zotero.org/groups/2451508/items/SBZWIU7H)
-- Tags:: #[[Fixation]], #[[Ideation]], #[[IdeationWorkflows]], #[[Inspiration]], #[[Problem representation]], #[[ProtolabPostdoc]]
+- Tags:: [[Fixation]]
 - PDF links : [Ward et al_2004_The Role of Specificity and Abstraction in Creative Idea Generation.pdf](zotero://open-pdf/groups/2451508/items/SMUSP6PG), [Ward et al_2004_The Role of Specificity and Abstraction in Creative Idea Generation.pdf](zotero://open-pdf/groups/2451508/items/64HW3QTE)
 - [[Notes]]
 

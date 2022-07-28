@@ -2,7 +2,7 @@
 title: [[EVD]] - undergrad 1980s textbooks in physics and chemistry cited far fewer texts compare to sociology textbooks - [[@coleHierarchySciences1983]]
 url: https://roamresearch.com/#/app/megacoglab/page/inz0nxyak
 author: Joel Chan
-date: Fri Sep 10 2021 22:47:05 GMT-0400 (Eastern Daylight Time)
+date: Sat Sep 11 2021 10:47:05 GMT+0800 (Malaysia Time)
 ---
 
 - # Summary

@@ -2,18 +2,18 @@
 title: @letrudAffirmativeCitationBias2019
 url: https://roamresearch.com/#/app/megacoglab/page/8gmDsW7EN
 author: Joel Chan
-date: Thu Jul 23 2020 14:12:17 GMT-0400 (Eastern Daylight Time)
+date: Fri Jul 24 2020 02:12:17 GMT+0800 (Malaysia Time)
 ---
 
 - Title:: Affirmative citation bias in scientific myth debunking: A three-in-one case study
-- Author(s):: [[Kåre Letrud]], [[Sigbjørn Hernes]]
+- Author(s):: [[Kåre Letrud]]
 - Abstract:: Several uncorroborated, false, or misinterpreted conceptions have for years been widely distributed in academic publications, thus becoming scientific myths. How can such misconceptions persist and proliferate within the inimical environment of academic criticism? Examining 613 articles we demonstrate that the reception of three myth-exposing publications is skewed by an ‘affirmative citation bias’: The vast majority of articles citing the critical article will affirm the idea criticized. 468 affirmed the myth, 105 were neutral, while 40 took a negative stance. Once misconceptions proliferate wide and long enough, criticizing them not only becomes increasingly difficult, efforts may even contribute to the continued spreading of the myths.
 - Type:: [[Article]]
 - Publication:: PLOS ONE
 - URL : https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0222213
 - Date Added:: [[July 25th, 2021]]
 - Zotero links:: [Local library](zotero://select/groups/2451508/items/W3STXFIG), [Local library](https://www.zotero.org/groups/2451508/items/W3STXFIG)
-- Tags:: #[[Citation analysis]], #[[Database searching]], #[[Encyclopedias]], #[[Learning]], #[[Opioids]], #[[Pain]], #[[Peer review]], #[[Prescription drug addiction]]
+- Tags:: [[Citation analysis]]
 - [[Notes]]
 
     - **Extracted Annotations (7/28/2020, 11:37:09 AM)**
@@ -57,11 +57,11 @@ date: Thu Jul 23 2020 14:12:17 GMT-0400 (Eastern Daylight Time)
 
         - discussed in this blog post [[@loweNonsenseLivesCitations2019]]
 
-    - #[[📝 lit-notes]]
+    - [[📝 lit-notes]]
 
         - Papers citing papers that refute the Hawthorne effect cite those papers **in support of** the Hawthorne effect 🤦‍♂️
 
-            - example-of:: [[[[CLM]] - Citation practices in science are far from optimal]] [[[[CLM]] - Prevailing incentives in academia are bad for science]] [[affirmative citation bias]]
+            - example-of:: [[CLM - Citation practices in science are far from optimal]]
 
 ###### Discourse Context
 

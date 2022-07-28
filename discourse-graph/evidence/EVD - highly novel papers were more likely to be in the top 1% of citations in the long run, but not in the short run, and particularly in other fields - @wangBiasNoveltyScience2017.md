@@ -2,7 +2,7 @@
 title: [[EVD]] - highly novel papers were more likely to be in the top 1% of citations in the long run, but not in the short run, and particularly in other fields - [[@wangBiasNoveltyScience2017]]
 url: https://roamresearch.com/#/app/megacoglab/page/9NG2IaU62
 author: Joel Chan
-date: Mon Jul 19 2021 11:27:49 GMT-0400 (Eastern Daylight Time)
+date: Mon Jul 19 2021 23:27:49 GMT+0800 (Malaysia Time)
 ---
 
 - Summary::
@@ -50,7 +50,7 @@ date: Mon Jul 19 2021 11:27:49 GMT-0400 (Eastern Daylight Time)
 
             - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fmegacoglab%2F0Gkaoda-lr.png?alt=media&token=e22d1308-f7c2-4e10-af0a-4cab485716f3)
 
-        - in this sense, it could be related to [[far analogies]], but perhaps more closely to [[🧱 conceptual combination]]
+        - in this sense, it could be related to [[far analogies]]
 
         - why might journals be a reasonable proxy for conceptual chunks? domains?
 
@@ -58,13 +58,13 @@ date: Mon Jul 19 2021 11:27:49 GMT-0400 (Eastern Daylight Time)
 
             - or subject areas? (maybe too coarse?)
 
-                - some have used [[MeSH]] headings.
+                - some have used [[MeSH]]
 
                     - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fmegacoglab%2Fu-fHUaHEJU.png?alt=media&token=1d010c7d-505f-4af5-aea7-087e8877b43e)
 
                     - might depend on there being a reasonably complete and high-quality ontology or controlled vocabulary
 
-            - [[@uzziAtypicalCombinationsScientific2013]] makes the same move (journals as proxies of bodies of knowledge)
+            - [[@uzziAtypicalCombinationsScientific2013]]
 
     - for analysis, novelty was binned into three categories (no novelty, >= 1 novel combination, but overall score < 99th percentile for subject category, >= 99th percentile for subject category) due to a highly skewed distribution
 

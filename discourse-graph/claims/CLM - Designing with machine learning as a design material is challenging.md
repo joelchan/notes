@@ -2,24 +2,24 @@
 title: [[CLM]] - Designing with machine learning as a design material is challenging
 url: https://roamresearch.com/#/app/megacoglab/page/g0olc9rQr
 author: Joel Chan
-date: Fri Mar 18 2022 09:32:59 GMT-0400 (Eastern Daylight Time)
+date: Fri Mar 18 2022 21:32:59 GMT+0800 (Malaysia Time)
 ---
 
-- #[[🌲 zettels]] #[[Z]]
+- [[🌲 zettels]]
 
-    - Tags: #[[P/Material Knowledge of ML for Design]]
+    - Tags: [[PMaterial Knowledge of ML for Design]]
 
     - Description
 
-    - [[@yangReexaminingWhetherWhy2020]] Re-examining Whether, Why, and How Human-AI Interaction Is Uniquely Difficult to Design
+    - [[@yangReexaminingWhetherWhy2020]]
 
-    - [[@doveUXDesignInnovation2017]] UX Design Innovation: Challenges for Working with Machine Learning as a Design Material
+    - [[@doveUXDesignInnovation2017]]
 
-    - [[@yangInvestigatingHowExperienced2018]] Investigating how experienced UX designers effectively work with machine learning
+    - [[@yangInvestigatingHowExperienced2018]]
 
     - [[@doveMonstersMetaphorsMachine2020]]
 
-    - [[@luciani2018machine]] Title: Machine learning as a design material: A curated collection of exemplars for visual interaction
+    - [[@luciani2018machine]]
 
         - Terrible paper, but useful entry point into that citation tree
 

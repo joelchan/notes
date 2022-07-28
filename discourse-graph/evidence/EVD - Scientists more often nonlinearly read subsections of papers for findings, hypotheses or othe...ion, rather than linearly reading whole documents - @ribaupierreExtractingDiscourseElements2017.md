@@ -2,7 +2,7 @@
 title: [[EVD]] - Scientists more often nonlinearly read subsections of papers for findings, hypotheses or other information, rather than linearly reading whole documents - [[@ribaupierreExtractingDiscourseElements2017]]
 url: https://roamresearch.com/#/app/megacoglab/page/JZU-T5AFL
 author: Joel Chan
-date: Tue Sep 07 2021 17:14:24 GMT-0400 (Eastern Daylight Time)
+date: Wed Sep 08 2021 05:14:24 GMT+0800 (Malaysia Time)
 ---
 
 - **Summary**

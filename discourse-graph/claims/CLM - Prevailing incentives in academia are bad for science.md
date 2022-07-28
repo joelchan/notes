@@ -2,36 +2,36 @@
 title: [[CLM]] - Prevailing incentives in academia are bad for science
 url: https://roamresearch.com/#/app/megacoglab/page/Di6-UFQ5t
 author: Joel Chan
-date: Sun Mar 01 2020 21:53:43 GMT-0500 (Eastern Standard Time)
+date: Mon Mar 02 2020 10:53:43 GMT+0800 (Malaysia Time)
 ---
 
-- #[[🌲 zettels]]
+- [[🌲 zettels]]
 
-    - Tags: #[[D/Synthesis Infrastructure]] #[[V: Open and Sustainable Innovation Systems]]
+    - Tags: [[DSynthesis Infrastructure]]
 
     - Description:
 
-        - [[[[CLM]] - Prestige substantially controls how scientific ideas spread]]
+        - [[CLM - Prestige substantially controls how scientific ideas spread]]
 
-        - Current [[incentives]] bias favor [[short-termism]]
+        - Current [[incentives]]
 
-            - For example, [[[[CLM]] - Scientists prefer to pursue safer incremental advances rather than risky breakthroughs]]
+            - For example, [[CLM - Scientists prefer to pursue safer incremental advances rather than risky breakthroughs]]
 
-            - This is bad for science because [[[[CLM]] - True creative breakthroughs often take a long time to develop]]
+            - This is bad for science because [[CLM - True creative breakthroughs often take a long time to develop]]
 
-        - [[[[CLM]] - Scientific peer review is deeply flawed]]
+        - [[CLM - Scientific peer review is deeply flawed]]
 
-        - [[[[CLM]] - Citation practices in science are far from optimal]]
+        - [[CLM - Citation practices in science are far from optimal]]
 
-        - [[[[CLM]] - Error detection work in science is systematically undervalued]]
+        - [[CLM - Error detection work in science is systematically undervalued]]
 
-        - [[[[CLM]] - bibliometric measures are biased against novel breakthrough research - [[@wangBiasNoveltyScience2017]]]]
+        - [[CLM - bibliometric measures are biased against novel breakthrough research - @wangBiasNoveltyScience2017]]
 
     - R-Sources:
 
         - [[@heesen2018reward]]
 
-            - #Claim Imperfections in [[peer review]] and the way credit is awarded systematically favor lower levels of reproducibility
+            - #Claim Imperfections in [[peer review]]
 
         - [[@smaldinoNaturalSelectionBad2016]]
 
@@ -41,13 +41,13 @@ date: Sun Mar 01 2020 21:53:43 GMT-0500 (Eastern Standard Time)
 
         - [[@fortnowViewpointTimeComputer2009]]
 
-            - Discusses (mostly from personal experience) the issues with a conference-driven publication culture, including deadline-driven, [[least-publishable unit]] stuff, possibly [[short-termism]] too
+            - Discusses (mostly from personal experience) the issues with a conference-driven publication culture, including deadline-driven, [[least-publishable unit]]
 
         - [[@bengioTimeRethinkPublication2020]]
 
         - [[@johnMeasuringPrevalenceQuestionable2012]]
 
-            - Approximately 50% of psychologists have engaged in [[Questionable Research Practices]] (short of falsifying data) at least once (p. 527)
+            - Approximately 50% of psychologists have engaged in [[Questionable Research Practices]]
 
                 - ((7ia6XJRBw))
 
@@ -55,11 +55,11 @@ date: Sun Mar 01 2020 21:53:43 GMT-0500 (Eastern Standard Time)
 
         - [[@britzAIResearchReplicability2020]]
 
-            - [[SOTA]] from old models are actually not really improved upon that much
+            - [[SOTA]]
 
         - [[@dedeoWhenScienceGame2020]]
 
-            - science can be a "game", which helps produce behaviors such as failing to prosecute [[Questionable Research Practices]] and barriers to open science or [[semantic publishing]]
+            - science can be a "game", which helps produce behaviors such as failing to prosecute [[Questionable Research Practices]]
 
 ###### Discourse Context
 

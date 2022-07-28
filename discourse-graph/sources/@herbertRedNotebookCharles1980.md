@@ -2,7 +2,7 @@
 title: @herbertRedNotebookCharles1980
 url: https://roamresearch.com/#/app/megacoglab/page/tvg-WU_LN
 author: Joel Chan
-date: Thu May 28 2020 22:13:58 GMT-0400 (Eastern Daylight Time)
+date: Fri May 29 2020 10:13:58 GMT+0800 (Malaysia Time)
 ---
 
 - #references
@@ -27,9 +27,9 @@ date: Thu May 28 2020 22:13:58 GMT-0400 (Eastern Daylight Time)
 
         - Placeholder
 
-    - #[[📝 lit-notes]]
+    - [[📝 lit-notes]]
 
-        - [[Darwin's notebooks]] mix reading notes, observations, and theoretical notes (p. 14)
+        - [[Darwin's notebooks]]
 
             - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fmegacoglab%2FzYr1N9paD2.png?alt=media&token=4cea6e88-d2df-49ea-8ad3-5792e5f98a5a)
 

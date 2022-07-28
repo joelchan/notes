@@ -2,7 +2,7 @@
 title: @grozaSALTWeavingClaim2007
 url: https://roamresearch.com/#/app/megacoglab/page/g4qlnB2fq
 author: Joel Chan
-date: Mon Jun 15 2020 15:13:20 GMT-0400 (Eastern Daylight Time)
+date: Tue Jun 16 2020 03:13:20 GMT+0800 (Malaysia Time)
 ---
 
 - #references
@@ -13,7 +13,7 @@ date: Mon Jun 15 2020 15:13:20 GMT-0400 (Eastern Daylight Time)
 
         - Tags: #ref/Paper
 
-        - Authored by::  [[Tudor Groza]] ,  Knud Möller ,  Siegfried Handschuh ,  Diana Trif ,  Stefan Decker
+        - Authored by::  [[Tudor Groza]]
 
         - Year: [[2007]]
 
@@ -73,7 +73,7 @@ date: Mon Jun 15 2020 15:13:20 GMT-0400 (Eastern Daylight Time)
 
             - "most of the participants needed to revisit the documentation numerous times during the annotation process, and some had in fact admitted that they had not read the documentation at all before the evaluation" ([Groza et al 2007:11](zotero://open-pdf/library/items/4FDS8SB3?page=11))
 
-    - #[[📝 lit-notes]]
+    - [[📝 lit-notes]]
 
         - methods notes
 
@@ -83,33 +83,33 @@ date: Mon Jun 15 2020 15:13:20 GMT-0400 (Eastern Daylight Time)
 
                     - Basically you want to mark claims (and supports) and relations between them, as well as "rhetorical annotation" (where in the document it is, e.g., abstract, methods, etc.)
 
-                        - claims and supports are similar to [[Stephen E. Toulmin]] claims and warrants
+                        - claims and supports are similar to [[Stephen E. Toulmin]]
 
                         - "nuclei" and "satellites" are generalizations of claims and supports
 
-                    - As far as I can tell, this markup doesn't really include any level of [[formality]] beyond the explicit marking that there is a claim/support, or relation between claims and supports.
+                    - As far as I can tell, this markup doesn't really include any level of [[formality]]
 
                     - Unfortunately, I have no idea, from the description, what the authoring experience is like at all!
 
                         - Best I can tell is that inserting claims from __other__ papers uses markup similar to \cite in [[LaTeX]]
 
-                        - But I have no idea how you "mark" [[rhetorical blocks]] or claims/supports, or relations between them. In a separate "pop-up" interface?
+                        - But I have no idea how you "mark" [[rhetorical blocks]]
 
             - They did a little user study with a group of 8 authors, had them try out the markup scheme on their own papers
 
                 - "group of eight researchers, who all had knowledge of Semantic Web and Semantic Annotations technologies" ([Groza et al 2007:9](zotero://open-pdf/library/items/4FDS8SB3?page=9))
 
-        - What's notable for us in the context of [[[[QUE]] - What is the user experience of semantic authoring within regular scholarly workflows?]] is that the assumption here is that this markup work is going to be done (willingly???) by **__authors__**
+        - What's notable for us in the context of [[QUE - What is the user experience of semantic authoring within regular scholarly workflows]]
 
-            - similar to [[@monsWhichGeneDid2005]], who correctly diagnoses that writing in a formal way (e.g., linking to established [[ontologies]]) is overly burdensome for authors BUT! still proposes that authors do a more lightweight version of it, with computer assistance
+            - similar to [[@monsWhichGeneDid2005]]
 
-            - BUT, they find that, beyond the simple task of annotating [[rhetorical blocks]] like "abstract, motivation, conclusion", even the rarified sample of 8 researchers very familiar with [[Semantic Web]] found the interface and tasks quite tedious!
+            - BUT, they find that, beyond the simple task of annotating [[rhetorical blocks]]
 
         - Found:
 
-            - [[[[EVD]] - Participants who marked up their own papers with a formal semantic scheme perceived the task of formally marking claims in the text to be intuitive, in contrast to formally marking rhetorical relations between claims - [[@grozaSALTWeavingClaim2007]]]]
+            - [[EVD - Participants who marked up their own papers with a formal semantic scheme perceived the task ...n contrast to formally marking rhetorical relations between claims - @grozaSALTWeavingClaim2007]]
 
-            - [[[[EVD]] - Participants who marked up their own papers with a formal semantic scheme self-reported that formally marking rhetorical relations between claims seemed less clear in terms of payoff compared to formally making claims - [[@grozaSALTWeavingClaim2007]]]]
+            - [[EVD - Participants who marked up their own papers with a formal semantic scheme self-reported that ...d less clear in terms of payoff compared to formally making claims - @grozaSALTWeavingClaim2007]]
 
 ###### Discourse Context
 

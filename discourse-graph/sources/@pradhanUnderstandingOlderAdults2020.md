@@ -2,16 +2,16 @@
 title: @pradhanUnderstandingOlderAdults2020
 url: https://roamresearch.com/#/app/megacoglab/page/s2GiiwQMZ
 author: Joel Chan
-date: Wed Apr 07 2021 01:21:11 GMT-0400 (Eastern Daylight Time)
+date: Wed Apr 07 2021 13:21:11 GMT+0800 (Malaysia Time)
 ---
 
-- #[[references]]
+- [[references]]
 
     - Title: Understanding Older Adults' Participation in Design Workshops
 
     - Meta:
 
-        - Authored by:: [[Alisha Pradhan]] [[Ben Jelen]] [[Katie A. Siek]] [[Joel Chan]] [[Amanda Lazar]]
+        - Authored by:: [[Alisha Pradhan]]
 
         - Year: [[2020]]
 
@@ -29,13 +29,13 @@ date: Wed Apr 07 2021 01:21:11 GMT-0400 (Eastern Daylight Time)
 
     - #lit-context
 
-    - #[[📝 lit-notes]]
+    - [[📝 lit-notes]]
 
         - #inspectionalread
 
         - **How did the authors approach their questions/problems?** ((most of this is going to come from the methods sections, although some info about conceptualization of key concepts might be relevant to pull from intro/lit-review)) #lit-context
 
-        - **What did they find?** ((keep this as contextualized as possible; resist the urge to repeat claims or generalizations)) #[[observation-notes]]
+        - **What did they find?** ((keep this as contextualized as possible; resist the urge to repeat claims or generalizations)) [[observation-notes]]
 
 ###### Discourse Context
 

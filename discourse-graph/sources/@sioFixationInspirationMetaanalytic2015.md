@@ -2,16 +2,16 @@
 title: @sioFixationInspirationMetaanalytic2015
 url: https://roamresearch.com/#/app/megacoglab/page/ayf_f2rNZ
 author: Joel Chan
-date: Fri Oct 30 2020 15:37:57 GMT-0400 (Eastern Daylight Time)
+date: Sat Oct 31 2020 03:37:57 GMT+0800 (Malaysia Time)
 ---
 
-- #[[references]]
+- [[references]]
 
     - Title: Fixation or inspiration? A meta-analytic review of the role of examples on design processes
 
     - Meta:
 
-        - Authored by:: [[Ut Na Sio]] [[Kenneth Kotovsky]] [[Jonathan Cagan]]
+        - Authored by:: [[Ut Na Sio]]
 
         - Year: [[2015]]
 

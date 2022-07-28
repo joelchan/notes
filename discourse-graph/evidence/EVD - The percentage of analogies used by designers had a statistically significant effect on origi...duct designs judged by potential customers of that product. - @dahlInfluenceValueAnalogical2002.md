@@ -2,7 +2,7 @@
 title: [[EVD]] - The percentage of analogies used by designers had a statistically significant effect on originality of product designs judged by potential customers of that product. - [[@dahlInfluenceValueAnalogical2002]]
 url: https://roamresearch.com/#/app/megacoglab/page/v5NfTsysR
 author: Jason Ding
-date: Wed Apr 20 2022 19:37:23 GMT-0400 (Eastern Daylight Time)
+date: Thu Apr 21 2022 07:37:23 GMT+0800 (Malaysia Time)
 ---
 
 

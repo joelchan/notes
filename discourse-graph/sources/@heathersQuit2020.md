@@ -2,7 +2,7 @@
 title: @heathersQuit2020
 url: https://roamresearch.com/#/app/megacoglab/page/geFaa5dsz
 author: Joel Chan
-date: Sun Jun 21 2020 23:42:42 GMT-0400 (Eastern Daylight Time)
+date: Mon Jun 22 2020 11:42:42 GMT+0800 (Malaysia Time)
 ---
 
 - #references
@@ -27,7 +27,7 @@ date: Sun Jun 21 2020 23:42:42 GMT-0400 (Eastern Daylight Time)
 
         - Placeholder
 
-    - #[[📝 lit-notes]]
+    - [[📝 lit-notes]]
 
         - details some vivid personal examples from his experience as someone doing error detection work, but ultimately leaving academia to continue that work because he wasn't able to sustain it within the academic incentive structures
 

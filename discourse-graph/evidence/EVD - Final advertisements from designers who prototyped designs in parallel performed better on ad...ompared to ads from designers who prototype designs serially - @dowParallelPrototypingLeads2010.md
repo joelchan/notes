@@ -2,7 +2,7 @@
 title: [[EVD]] - Final advertisements from designers who prototyped designs in parallel performed better on advertising analytics compared to ads from designers who prototype designs serially - [[@dowParallelPrototypingLeads2010]]
 url: https://roamresearch.com/#/app/megacoglab/page/g8wge1Vez
 author: Joel Chan
-date: Wed Sep 29 2021 10:47:08 GMT-0400 (Eastern Daylight Time)
+date: Wed Sep 29 2021 22:47:08 GMT+0800 (Malaysia Time)
 ---
 
 - # Summary

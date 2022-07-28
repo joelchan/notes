@@ -2,16 +2,16 @@
 title: @tsengRoleTimingAnalogical2008
 url: https://roamresearch.com/#/app/megacoglab/page/8E1K1WhEK
 author: Joel Chan
-date: Wed Aug 12 2020 16:29:24 GMT-0400 (Eastern Daylight Time)
+date: Thu Aug 13 2020 04:29:24 GMT+0800 (Malaysia Time)
 ---
 
-- #[[references]]
+- [[references]]
 
     - Title: The role of timing and analogical similarity in the stimulation of idea generation in design
 
     - Meta:
 
-        - Authored by:: [[Ian Tseng]] [[Jarrod Moss]] [[Jonathan Cagan]] [[Kenneth Kotovsky]]
+        - Authored by:: [[Ian Tseng]]
 
         - Year: [[2008]]
 

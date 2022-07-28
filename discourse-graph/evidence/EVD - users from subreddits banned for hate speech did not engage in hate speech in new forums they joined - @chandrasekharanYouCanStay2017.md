@@ -2,7 +2,7 @@
 title: [[EVD]] - users from subreddits banned for hate speech did not engage in hate speech in new forums they joined - [[@chandrasekharanYouCanStay2017]]
 url: https://roamresearch.com/#/app/megacoglab/page/k3fuaSbE1
 author: Joel Chan
-date: Sun Oct 24 2021 16:41:54 GMT-0400 (Eastern Daylight Time)
+date: Mon Oct 25 2021 04:41:54 GMT+0800 (Malaysia Time)
 ---
 
 - # Summary
@@ -20,9 +20,9 @@ date: Sun Oct 24 2021 16:41:54 GMT-0400 (Eastern Daylight Time)
 
         - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fmegacoglab%2FY-iKyhi6Jk.png?alt=media&token=8e345e75-8c03-4873-82c2-e799611f659d)
 
-    - DV: hate speech, automatically identified via keywords identified from [[method/Sparse Additive Generative Model (SAGE)]] as well as manual filtering
+    - DV: hate speech, automatically identified via keywords identified from [[methodSparse Additive Generative Model (SAGE)]]
 
-    - user matching (for causal inference) done via [[method/Manalobis Distance]] over account age, karma, and total posts
+    - user matching (for causal inference) done via [[methodManalobis Distance]]
 
         - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fmegacoglab%2F_hNz_rJRQV.png?alt=media&token=fcb3f680-802d-43af-b2f2-f1b9e9522e2a)![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fmegacoglab%2F60p4FeExGv.png?alt=media&token=08eff913-570a-47eb-b1be-586b1dc5d01e) (pp. 8-9)
 

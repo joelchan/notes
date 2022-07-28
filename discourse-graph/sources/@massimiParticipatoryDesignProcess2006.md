@@ -2,16 +2,16 @@
 title: @massimiParticipatoryDesignProcess2006
 url: https://roamresearch.com/#/app/megacoglab/page/72Zxaw6_1
 author: Joel Chan
-date: Tue Jun 22 2021 15:19:43 GMT-0400 (Eastern Daylight Time)
+date: Wed Jun 23 2021 03:19:43 GMT+0800 (Malaysia Time)
 ---
 
-- #[[references]]
+- [[references]]
 
     - Title: Participatory design process with older users
 
     - Meta:
 
-        - Authored by:: [[Michael Massimi]] [[Ronald Baecker]]
+        - Authored by:: [[Michael Massimi]]
 
         - Year: [[2006]]
 

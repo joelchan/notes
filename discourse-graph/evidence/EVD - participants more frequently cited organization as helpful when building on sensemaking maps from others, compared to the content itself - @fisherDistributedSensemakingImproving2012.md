@@ -2,7 +2,7 @@
 title: [[EVD]] - participants more frequently cited organization as helpful when building on sensemaking maps from others, compared to the content itself - [[@fisherDistributedSensemakingImproving2012]]
 url: https://roamresearch.com/#/app/megacoglab/page/yqBWqQmsH
 author: Joel Chan
-date: Wed Jul 13 2022 11:48:22 GMT-0400 (Eastern Daylight Time)
+date: Wed Jul 13 2022 23:48:22 GMT+0800 (Malaysia Time)
 ---
 
 - # Summary

@@ -2,11 +2,11 @@
 title: @betzDevelopmentConceptualFlexibility2020
 url: https://roamresearch.com/#/app/megacoglab/page/S6XL9ZPFT
 author: Joel Chan
-date: Wed Feb 16 2022 11:33:46 GMT-0500 (Eastern Standard Time)
+date: Thu Feb 17 2022 00:33:46 GMT+0800 (Malaysia Time)
 ---
 
 - Title:: Development of Conceptual Flexibility in Intuitive Biology: Effects of Environment and Experience
-- Author(s):: [[Nicole Betz]], [[John D. Coley]]
+- Author(s):: [[Nicole Betz]]
 - Abstract:: Living things can be classified in many ways, such as taxonomic similarity (lions and lynx), or shared ecological habitat (ducks and turtles). The present studies used card-sorting and triad tasks to explore developmental and experiential changes in conceptual flexibility–the ability to switch between taxonomic and ecological construals of living things–as well as two processes underlying conceptual flexibility: salience (i.e., the ease with which relations come to mind outside of contextual influences) and availability (i.e., the presence of relations in one’s mental space) of taxonomic and ecological relations. We were also interested in the extent to which salience and availability of taxonomic and ecological relations predicted inductive inferences. Participants were 452 six to ten-year-olds from urban, suburban, and rural communities in New England. Across two studies, taxonomic relations were overwhelmingly more salient than ecological relations, although salience of ecological relations was higher among children from rural environments (Study 1) and those who engaged in unstructured exploration of nature (Study 2). Availability of ecological relations, as well as conceptual flexibility, increased with age, and was higher among children living in more rural environments. Notably, salience, but not availability, of ecological relations predicted ecological inferences. These findings suggest that taxonomic categories (i.e., groups that share both perceptual similarities and rich underlying structure) are a salient way to organize intuitive biological knowledge and that, critically, environmental richness and relevant experience contribute to the salience and availability of ecological knowledge, and thereby, conceptual flexibility in biological thinking. More generally, they highlight important linkages between domain-specific knowledge and domain-general cognitive abilities.
 - Type:: [[Article]]
 - Publication:: Frontiers in Psychology
@@ -14,7 +14,7 @@ date: Wed Feb 16 2022 11:33:46 GMT-0500 (Eastern Standard Time)
 - Date Added:: [[February 16th, 2022]]
 - Zotero links:: [Local library](zotero://select/groups/2451508/items/SZ3Y4PRL), [Local library](https://www.zotero.org/groups/2451508/items/SZ3Y4PRL)
 - PDF links : [Betz_Coley_2020_Development of Conceptual Flexibility in Intuitive Biology.pdf](zotero://open-pdf/groups/2451508/items/D8YRWKXM)
-- #[[📝 lit-notes]]
+- [[📝 lit-notes]]
 
     - methods notes
 
@@ -33,7 +33,7 @@ date: Wed Feb 16 2022 11:33:46 GMT-0500 (Eastern Standard Time)
 
                 - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fmegacoglab%2FTEMCE72xZz.png?alt=media&token=48b8651d-8ea9-49b8-8d5b-1474f5279c67) (p. 5)
 
-            - measure: explanations for groupings. transcribed and coded by ~3-4 coders using [[m/constant comparative method]]. disagreements (reported as rare) resolved via discussion. not mutually exclusive - 1) taxonomic explanations, 2) ecological explanations, 3) appearance explanations, and other
+            - measure: explanations for groupings. transcribed and coded by ~3-4 coders using [[mconstant comparative method]]
 
                 - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fmegacoglab%2Fz33lkPjFOf.png?alt=media&token=54e546c0-e25e-4cea-af30-f82bb3ebee26) (p. 6)
 
@@ -53,7 +53,7 @@ date: Wed Feb 16 2022 11:33:46 GMT-0500 (Eastern Standard Time)
 
                 - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fmegacoglab%2F4neI4i8wiB.png?alt=media&token=6c7daef7-bc96-4848-b5f5-7e1c24d96dbf) (p. 9)
 
-    - for [[[[QUE]] - Can hypertext notetaking systems enhance cognitive flexibility?]], started [[February 18th, 2022]] | NOTE - this is not of a system, but of how diff. kinds of experience with the "examples/cases" (rural/unstructured, vs. urban/structured, like in aquariums and zoos) relates to tendency to organize by taxonomic vs. ecological relations, and ability to flexibly switch between them
+    - for [[QUE - Can hypertext notetaking systems enhance cognitive flexibility]]
 
         - they care about *conceptual flexibility* - ability to switch between taxonomic and ecological construals of living things
 
@@ -69,7 +69,7 @@ date: Wed Feb 16 2022 11:33:46 GMT-0500 (Eastern Standard Time)
 
                     - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fmegacoglab%2Fzfs1uKrPJZ.png?alt=media&token=6a0d7f5b-7b81-4661-9e28-5a2310fea8c6) (p. 2)
 
-                - this seems to be grounded here intuitively, rather than formally, though it roughly seems to map to [[entity categories]] (taxonomic) vs. [[relational categories]] (ecological) cc [[@gentnerRelationalCategories2005]], and reminds me of [[schema-driven analogizing]]: expert-novice stuff on how sources are selected, in particular "[[schema-driven analogizing]]" from experts (vs. case-driven from novices) [[@ballSpontaneousAnalogisingEngineering2004]]
+                - this seems to be grounded here intuitively, rather than formally, though it roughly seems to map to [[entity categories]]
 
         - oh weird, ppl used to think that thematic comes first (is easier, less "sophisticated), and then later taxonomic (more abstract). this seems like.... first-principles thinking as the main thing???
 
@@ -89,23 +89,23 @@ date: Wed Feb 16 2022 11:33:46 GMT-0500 (Eastern Standard Time)
 
         - results
 
-            - [[[[EVD]] - overall salience of taxonomic relations for organizing living things for 6-12 year old children - [[@betzDevelopmentConceptualFlexibility2020]]]]
+            - [[EVD - overall salience of taxonomic relations for organizing living things for 6-12 year old children - @betzDevelopmentConceptualFlexibility2020]]
 
-                - relates to [[relational categories]], cc
+                - relates to [[relational categories]]
 
-            - [[[[EVD]] - higher salience of ecological relations for organizing living things for children from rural vs. urban communities - [[@betzDevelopmentConceptualFlexibility2020]]]]
+            - [[EVD - higher salience of ecological relations for organizing living things for children from rural vs. urban communities - @betzDevelopmentConceptualFlexibility2020]]
 
                 - preferred explanation from authors, which would be consistent with this idea of contextualizing, is "richer ecological experience" from rural children, which yields knowledge of ecological relations that are not perceptually obvious
 
                     - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fmegacoglab%2FSGWD1N13op.png?alt=media&token=336555ff-d301-4f2b-b163-4a3c1ae3d9de)
 
-                - #[[➰ breadcrumbs]] this is cited as being #consistentWith prior studies
+                - [[➰ breadcrumbs]]
 
                     - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fmegacoglab%2F7yT2MupOgz.png?alt=media&token=2cd2e105-03e5-42bb-8b11-2c4aef9d1210) (p. 7)
 
                 - #replicated-by study 2 of this paper
 
-            - [[[[EVD]] - higher conceptual flexibility to classify organisms based on taxonomic and ecological relations if children were older, from more rural areas, and engaged in more unstructured interactions with organisms - [[@betzDevelopmentConceptualFlexibility2020]]]]
+            - [[EVD - higher conceptual flexibility to classify organisms based on taxonomic and ecological relatio...ed in more unstructured interactions with organisms - @betzDevelopmentConceptualFlexibility2020]]
 
                 - discusses this in light of previous study [[@coleyWhereWildThings2012]]
 

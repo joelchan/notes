@@ -2,16 +2,16 @@
 title: @butcherCommunityEngagementYouth2020
 url: https://roamresearch.com/#/app/megacoglab/page/0Cw1zNEae
 author: Joel Chan
-date: Fri Jul 16 2021 00:56:52 GMT-0400 (Eastern Daylight Time)
+date: Fri Jul 16 2021 12:56:52 GMT+0800 (Malaysia Time)
 ---
 
-- #[[references]]
+- [[references]]
 
     - Title: Community engagement in youth justice program design
 
     - Meta:
 
-        - Authored by:: [[Luke Butcher]] [[Andrew Day]] [[Garry Kidd]] [[Debra Miles]] [[Steven Stanton]]
+        - Authored by:: [[Luke Butcher]]
 
         - Year: [[2020]]
 

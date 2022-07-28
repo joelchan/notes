@@ -2,12 +2,12 @@
 title: [[EVD]] - statistically significant but small differences in bibliometric measures of consensus across papers in physical, hard and soft biological, and social sciences  - [[@fanelliBibliometricEvidenceHierarchy2013]]
 url: https://roamresearch.com/#/app/megacoglab/page/LJtUs-1OU
 author: Joel Chan
-date: Fri Sep 17 2021 14:01:24 GMT-0400 (Eastern Daylight Time)
+date: Sat Sep 18 2021 02:01:24 GMT+0800 (Malaysia Time)
 ---
 
 - # Summary
 
-    - statistically significant but small differences in [bibliometric measures of consensus](measures included number of authors (+), length of article (-), number of references (-), references to monographs (-), age of references (aka [[Price's index]]) (-), diversity of sources (-), relative title length (+), first-person (-), sharing of references degree (-), sharing of references intensity (+)) across papers in physical, hard and soft biological, and social sciences
+    - statistically significant but small differences in [bibliometric measures of consensus](measures included number of authors (+), length of article (-), number of references (-), references to monographs (-), age of references (aka [[Price's index]]
 
         - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fmegacoglab%2FXxnbaTFgxQ.png?alt=media&token=a39aeafa-3e65-47d6-8dd4-bc8de766ef43) (p. 9)
 
@@ -20,11 +20,11 @@ date: Fri Sep 17 2021 14:01:24 GMT-0400 (Eastern Daylight Time)
 
         - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fmegacoglab%2FKKYGlx4Jbp.png?alt=media&token=ad6bbcd1-8a2a-4db5-a20f-7b89f2fe1718) (p. 3)
 
-    - same hypothesized ordering here as in [[@coleHierarchySciences1983]] and [[@simontonVarietiesScientificCreativity2009]], from physics to biology to social science
+    - same hypothesized ordering here as in [[@coleHierarchySciences1983]]
 
         - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fmegacoglab%2FjWysvSGtjC.png?alt=media&token=167979b3-c1bc-46ac-9b1a-bea2418ff71f) (p. 2)
 
-    - measures included number of authors (+), length of article (-), number of references (-), references to monographs (-), age of references (aka [[Price's index]]) (-), diversity of sources (-), relative title length (+), first-person (-), sharing of references degree (-), sharing of references intensity (+)
+    - measures included number of authors (+), length of article (-), number of references (-), references to monographs (-), age of references (aka [[Price's index]]
 
         - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fmegacoglab%2F562g7HBU7C.png?alt=media&token=14d06539-8276-4eec-93bf-b0ed91b7ac47) (p. 3)
 

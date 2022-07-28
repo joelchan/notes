@@ -2,14 +2,14 @@
 title: @greenhalghTimeChallengeSpurious2018
 url: https://roamresearch.com/#/app/megacoglab/page/2sL5VWv3E
 author: Joel Chan
-date: Fri May 08 2020 00:52:07 GMT-0400 (Eastern Daylight Time)
+date: Fri May 08 2020 12:52:07 GMT+0800 (Malaysia Time)
 ---
 
 - #references
 
     - Title: Time to challenge the spurious hierarchy of systematic over narrative reviews?
 
-        - Tags:: #references#ref/Paper #[[D/Synthesis Infrastructure]]
+        - Tags:: #references#ref/Paper [[DSynthesis Infrastructure]]
 
     - Authored by::  Trisha Greenhalgh ,  Sally Thorne ,  Kirsti Malterud
 
@@ -23,9 +23,9 @@ date: Fri May 08 2020 00:52:07 GMT-0400 (Eastern Daylight Time)
 
         - Placeholder
 
-    - #[[📝 lit-notes]]
+    - [[📝 lit-notes]]
 
-        - #CLlaim [[[[CLM]] - [[systematic review]]s are typically narrowly focused, and provide less insight]]
+        - #CLlaim [[CLM - systematic reviews are typically narrowly focused, and provide less insight]]
 
             - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fmegacoglab%2FFwx5u5uydK.png?alt=media&token=b5fb6497-9fb0-4f04-9b00-ddd7a5f4cd76)
 

@@ -2,7 +2,7 @@
 title: [[EVD]] - no reliable differences in time and effort when creating a sensemaking map for an everyday topic when starting from scratch vs. building on maps from others - [[@fisherDistributedSensemakingImproving2012]]
 url: https://roamresearch.com/#/app/megacoglab/page/nc2OhXHZd
 author: Joel Chan
-date: Wed Jul 13 2022 11:49:14 GMT-0400 (Eastern Daylight Time)
+date: Wed Jul 13 2022 23:49:14 GMT+0800 (Malaysia Time)
 ---
 
 - # Summary

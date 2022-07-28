@@ -2,10 +2,10 @@
 title: @vanlehnAnalogyEventsHow1998
 url: https://roamresearch.com/#/app/megacoglab/page/OqE5-l6jp
 author: Joel Chan
-date: Fri Jul 02 2021 22:21:24 GMT-0400 (Eastern Daylight Time)
+date: Sat Jul 03 2021 10:21:24 GMT+0800 (Malaysia Time)
 ---
 
-- #[[references]]
+- [[references]]
 
     - Title: Analogy events: How examples are used during problem solving
 

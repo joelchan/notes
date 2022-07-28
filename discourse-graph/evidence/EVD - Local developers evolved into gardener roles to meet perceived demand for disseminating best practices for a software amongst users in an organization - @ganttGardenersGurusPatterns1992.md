@@ -2,7 +2,7 @@
 title: [[EVD]] - Local developers evolved into "gardener" roles to meet perceived demand for disseminating best practices for a software amongst users in an organization - [[@ganttGardenersGurusPatterns1992]]
 url: https://roamresearch.com/#/app/megacoglab/page/s8_RIxC0M
 author: Joel Chan
-date: Thu Jul 15 2021 09:58:45 GMT-0400 (Eastern Daylight Time)
+date: Thu Jul 15 2021 21:58:45 GMT+0800 (Malaysia Time)
 ---
 
 - Summary::

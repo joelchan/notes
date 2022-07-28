@@ -2,10 +2,10 @@
 title: [[PTN]] - Integrated crowdsourcing
 url: https://roamresearch.com/#/app/megacoglab/page/gde-thYkQ
 author: Joel Chan
-date: Tue Feb 18 2020 09:19:02 GMT-0500 (Eastern Standard Time)
+date: Tue Feb 18 2020 22:19:02 GMT+0800 (Malaysia Time)
 ---
 
-- #[[🌲 zettels]] #[[🔨designpatterns]]
+- [[🌲 zettels]]
 
     - Description
 
@@ -15,9 +15,9 @@ date: Tue Feb 18 2020 09:19:02 GMT-0500 (Eastern Standard Time)
 
             - [[@siangliulueIdeaHoundImprovingLargescale2016]]
 
-            - and [[Juho Kim]]'s [[learnersourcing]] stuff
+            - and [[Juho Kim]]
 
-                - direct application of [[computational wear]] [[@hillEditWearRead1992]] for understanding video engagement in MOOCs here [[@kimUnderstandingInvideoDropouts2014]] and here [[@kimDatadrivenInteractionTechniques2014]]
+                - direct application of [[computational wear]]
 
                 - then expanded to different interactions within the same application domain, to support construction of subgoals
 
@@ -25,13 +25,13 @@ date: Tue Feb 18 2020 09:19:02 GMT-0500 (Eastern Standard Time)
 
                     - [[@kimCrowdsourcingStepbystepInformation2014]]
 
-            - related line with [[Steven P. Dow]], dubbed [[communitysourcing]] or [[authorsourcing]]
+            - related line with [[Steven P. Dow]]
 
                 - [[@andreCommunityClusteringLeveraging2013]]
 
                 - [[@chiltonFrenzyCollaborativeData2014]]
 
-        - related to: [[[[PTN]] - Organize by using]], [[computational wear]], [[[[PTN]] - incremental formalization]], [[[[PTN]] - Prefer to accrete new infrastructures on top of existing ones]]
+        - related to: [[PTN - Organize by using]]
 
 ###### Discourse Context
 

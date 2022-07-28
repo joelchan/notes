@@ -2,22 +2,22 @@
 title: [[QUE]] - How does analogy actually happen in the process of scholarly/scientific innovation?
 url: https://roamresearch.com/#/app/megacoglab/page/RrNVU9qjO
 author: Joel Chan
-date: Mon Nov 16 2020 17:37:28 GMT-0500 (Eastern Standard Time)
+date: Tue Nov 17 2020 06:37:28 GMT+0800 (Malaysia Time)
 ---
 
-- #[[Question]] for [[D/Computational Analogy]]
+- [[question]]
 
-    - Tags: #analogy #[[scholarly workflows]]
+    - Tags: #analogy [[scholarly workflows]]
 
     - Description
 
         - We can reframe this question to ask, how do scholars and scientists "import" ideas overall, especially across disciplinary boundaries?
 
-            - [[@palmerWorkBoundariesScience2001]] provides a useful framework for understanding the process of "import" of information for interdisciplinary scholarship.
+            - [[@palmerWorkBoundariesScience2001]]
 
-            - Note that this study was done in the past, pre [[sys/Semantic Scholar]] and the like: I want to know what the state of play actually is today.
+            - Note that this study was done in the past, pre [[sysSemantic Scholar]]
 
-                - {{[[TODO]]}} Need to do a lit search (document with Knovigator) + network search (via COnnectedPapers and similar) + who would know the answer to this?
+                - {{[[TODO]]
 
         - It can be useful to reframe these practices in stages of access, filtering/evaluating, and using imported information, each with their own set of unique and recurring challenges
 
@@ -41,7 +41,7 @@ date: Mon Nov 16 2020 17:37:28 GMT-0500 (Eastern Standard Time)
 
                 1. honing / refining the search
 
-                1. failure mode: the TMI or [[information overload]] problem
+                1. failure mode: the TMI or [[information overload]]
 
                     1. this probably also contributes to the access problem: you sort of feel "full" and stop looking because you have too many things to process!
 
@@ -65,7 +65,7 @@ date: Mon Nov 16 2020 17:37:28 GMT-0500 (Eastern Standard Time)
 
         - these stages can be mapped to the stages of retrieval, mapping, and transfer in analogical problem solving
 
-        - [[[[QUE]] - What are the most efficient routes to useful cross-boundary knowledge?]]
+        - [[QUE - What are the most efficient routes to useful cross-boundary knowledge]]
 
             - "people" seem to help with each of these, but in different ways
 

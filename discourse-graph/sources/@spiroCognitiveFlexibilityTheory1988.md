@@ -2,11 +2,11 @@
 title: @spiroCognitiveFlexibilityTheory1988
 url: https://roamresearch.com/#/app/megacoglab/page/1v5RE_ug6
 author: Joel Chan
-date: Wed Feb 16 2022 11:01:24 GMT-0500 (Eastern Standard Time)
+date: Thu Feb 17 2022 00:01:24 GMT+0800 (Malaysia Time)
 ---
 
 - Title:: Cognitive flexibility theory advanced knowledge acquisition in ill-structured domains /
-- Author(s):: [[Rand J. Spiro]], [[Richard L. Coulson]], [[P. J. Feltovich]], [[Daniel K. Anderson]]
+- Author(s):: [[Rand J. Spiro]]
 - Type:: [[Report]]
 - Publication::
 - Date Added:: [[February 16th, 2022]]

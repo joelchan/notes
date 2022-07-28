@@ -2,12 +2,12 @@
 title: [[CLM]] - Infrastructure is sociotechnical, not just technical
 url: https://roamresearch.com/#/app/megacoglab/page/NiWgV_UPS
 author: Joel Chan
-date: Sat Mar 07 2020 17:34:34 GMT-0500 (Eastern Standard Time)
+date: Sun Mar 08 2020 06:34:34 GMT+0800 (Malaysia Time)
 ---
 
-- #[[🌲 zettels]]
+- [[🌲 zettels]]
 
-    - Tags: #[[D/Synthesis Infrastructure]] #infrastructure #[[Z]]
+    - Tags: [[DSynthesis Infrastructure]]
 
     - Description
 

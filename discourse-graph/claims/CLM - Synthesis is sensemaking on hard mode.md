@@ -2,18 +2,18 @@
 title: [[CLM]] - Synthesis is sensemaking on "hard mode"
 url: https://roamresearch.com/#/app/megacoglab/page/OGrLUPNBn
 author: Joel Chan
-date: Fri Feb 28 2020 17:08:14 GMT-0500 (Eastern Standard Time)
+date: Sat Feb 29 2020 06:08:14 GMT+0800 (Malaysia Time)
 ---
 
-- #[[🌲 zettels]]
+- [[🌲 zettels]]
 
-    - Tags: #[[D/Synthesis Infrastructure]] #[[Z]] #[[🧱 sensemaking]] #synthesis
+    - Tags: [[DSynthesis Infrastructure]]
 
     - Description:
 
-        - [[🧱 sensemaking]] shares the property of [[[[CLM]] - Synthesis is creating a new whole out of component parts]]. But doesn't necessarily add the [[[[CLM]] - Clearer cases of synthesis involve substantial conceptual innovation]]
+        - [[🧱 sensemaking]]
 
-        - Potentially #redundant-with (or a reason that) #[[Z: Sensemaking models partially model scholarly synthesis as of [[April 21st, 2020]]]]
+        - Potentially #redundant-with (or a reason that) [[Z Sensemaking models partially model scholarly synthesis as of April 21st, 2020]]
 
     - R-Sources:
 

@@ -2,12 +2,12 @@
 title: [[EVD]] - increased word ambiguity in abstracts was associated with slightly lower modularity of citation networks for those abstracts - [[@mcmahanAmbiguityEngagement2018]]
 url: https://roamresearch.com/#/app/megacoglab/page/0dCO_io-p
 author: Joel Chan
-date: Mon Jul 12 2021 12:35:18 GMT-0400 (Eastern Daylight Time)
+date: Tue Jul 13 2021 00:35:18 GMT+0800 (Malaysia Time)
 ---
 
 - Summary::
 
-    - Increased word [ambiguity]([[ambiguity]] operationalized as word synonym entropy) in [abstracts](((6qjlnVVFu))) was associated with a [small reduction](((UM_VbavN0))) in [modularity](((WjBY2ojmx))) of citation networks for those abstracts, controlling for covariates like number of citations, subject-level modularity, and distribution/span of years)
+    - Increased word [ambiguity]([[ambiguity]]
 
         - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fmegacoglab%2FYK5hjRvILZ.png?alt=media&token=91149ef7-7b6d-4595-ba46-553a1e300607) (p. 891)
 
@@ -20,7 +20,7 @@ date: Mon Jul 12 2021 12:35:18 GMT-0400 (Eastern Daylight Time)
 
         - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fmegacoglab%2F6swfV2e5lD.png?alt=media&token=663be791-00fa-43a8-939e-16b1e2b3839b) (p. 880 - 881)
 
-    - [[ambiguity]] operationalized as word synonym entropy
+    - [[ambiguity]]
 
         - define as posterior distribution over pr(M | t, c) (probability of each possible meaning for a given token in a given context) - see Appendix A (how to build "meaning graph" for each token), and Appendix B (how to estimate ambiguity)
 
@@ -42,7 +42,7 @@ date: Mon Jul 12 2021 12:35:18 GMT-0400 (Eastern Daylight Time)
 
         - validated against human judgments (see Appendix C)
 
-    - "engagement" operationalized as graph entropy over subgraph from each article for max (1k cites, 3 recursive runs), computed in terms of maximal [[network modularity]] (intuitively, a kind of "cliqueiness" or fragmentation, so higher here = lower engagement, i think)
+    - "engagement" operationalized as graph entropy over subgraph from each article for max (1k cites, 3 recursive runs), computed in terms of maximal [[network modularity]]
 
         - toy example:
 

@@ -2,10 +2,10 @@
 title: @baronSynthesisCentersCritical2017
 url: https://roamresearch.com/#/app/megacoglab/page/DxC87kNFs
 author: Joel Chan
-date: Tue Jan 21 2020 05:57:40 GMT-0500 (Eastern Standard Time)
+date: Tue Jan 21 2020 18:57:40 GMT+0800 (Malaysia Time)
 ---
 
-- #[[references]] #[[D/Synthesis Infrastructure]]
+- [[references]]
 
     - Title: Synthesis Centers as Critical Research Infrastructure
 
@@ -13,7 +13,7 @@ date: Tue Jan 21 2020 05:57:40 GMT-0500 (Eastern Standard Time)
 
         - Tags: #synthesis
 
-        - Authored by:: [[Jill S. Baron]] [[Alison Specht]] [[Eric Garnier]] [[Pamela Bishop]] [[C. Andrew Campbell]] [[Frank W. Davis]] [[Bruno Fady]] [[Dawn Field]] [[Louis J. Gross]] [[Siddeswara M. Guru]] [[Benjamin S. Halpern]] [[Stephanie E. Hampton]] [[Peter R. Leavitt]] [[Thomas R. Meagher]] [[Jean Ometto]] [[John N. Parker]] [[Richard Price]] [[Casey H. Rawson]] [[Allen Rodrigo]] [[Laura A. Sheble]] [[Marten Winter]]
+        - Authored by:: [[Jill S. Baron]]
 
         - Year: [[2017]]
 

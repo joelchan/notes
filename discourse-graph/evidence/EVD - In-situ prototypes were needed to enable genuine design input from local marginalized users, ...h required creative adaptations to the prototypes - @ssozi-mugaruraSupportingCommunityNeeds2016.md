@@ -2,7 +2,7 @@
 title: [[EVD]] - In-situ prototypes were needed to enable genuine design input from local marginalized users, which required creative adaptations to the prototypes - [[@ssozi-mugaruraSupportingCommunityNeeds2016]]
 url: https://roamresearch.com/#/app/megacoglab/page/LmVqhi1VW
 author: Joel Chan
-date: Wed Jul 14 2021 13:52:13 GMT-0400 (Eastern Daylight Time)
+date: Thu Jul 15 2021 01:52:13 GMT+0800 (Malaysia Time)
 ---
 
 - Summary::

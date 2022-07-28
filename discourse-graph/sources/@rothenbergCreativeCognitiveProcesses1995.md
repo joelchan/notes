@@ -2,10 +2,10 @@
 title: @rothenbergCreativeCognitiveProcesses1995
 url: https://roamresearch.com/#/app/megacoglab/page/iftwJShTM
 author: Joel Chan
-date: Tue Aug 25 2020 23:45:37 GMT-0400 (Eastern Daylight Time)
+date: Wed Aug 26 2020 11:45:37 GMT+0800 (Malaysia Time)
 ---
 
-- #[[references]]
+- [[references]]
 
     - Title: Creative cognitive processes in Kekule's discovery of the structure of the benzene molecule
 
@@ -27,9 +27,9 @@ date: Tue Aug 25 2020 23:45:37 GMT-0400 (Eastern Daylight Time)
 
             - undefined
 
-    - #[[📝 lit-notes]]
+    - [[📝 lit-notes]]
 
-        - #[[observation-notes]]
+        - [[observation-notes]]
 
             - Kekule claimed that he discovered the structure of the benzene molecule because of a visual analogy he saw in a dream of a snake biting its tail
 

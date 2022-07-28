@@ -2,7 +2,7 @@
 title: @wisniewskiWhenConceptsCombine1997
 url: https://roamresearch.com/#/app/megacoglab/page/IqswMwrfS
 author: Joel Chan
-date: Tue Dec 28 2021 17:54:45 GMT-0500 (Eastern Standard Time)
+date: Wed Dec 29 2021 06:54:45 GMT+0800 (Malaysia Time)
 ---
 
 - Title:: When concepts combine
@@ -11,7 +11,7 @@ date: Tue Dec 28 2021 17:54:45 GMT-0500 (Eastern Standard Time)
 - Publication:: Psychonomic Bulletin & Review
 - Date Added:: [[August 1st, 2021]]
 - Zotero links:: [Local library](zotero://select/groups/2451508/items/55YQJN6P), [Local library](https://www.zotero.org/groups/2451508/items/55YQJN6P)
-- Tags:: #[[DissertationProposal]], #[[IdeationWorkflows]]
+- Tags:: [[DissertationProposal]]
 
 ###### Discourse Context
 

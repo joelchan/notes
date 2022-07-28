@@ -2,11 +2,11 @@
 title: @kochSemanticCollageEnrichingDigital2020
 url: https://roamresearch.com/#/app/megacoglab/page/ZaYjMnyGT
 author: Joel Chan
-date: Mon Dec 13 2021 14:28:00 GMT-0500 (Eastern Standard Time)
+date: Tue Dec 14 2021 03:28:00 GMT+0800 (Malaysia Time)
 ---
 
 - Title:: SemanticCollage: Enriching Digital Mood Board Design with Semantic Labels
-- Author(s):: [[Janin Koch]], [[Nicolas Taffin]], [[Andrés Lucero]], [[Wendy E. Mackay]]
+- Author(s):: [[Janin Koch]]
 - Type:: [[Conference paper]]
 - Publication::
 - URL : https://dl.acm.org/doi/10.1145/3357236.3395494

@@ -2,7 +2,7 @@
 title: @sosaAccretionTheoryIdeation2019
 url: https://roamresearch.com/#/app/megacoglab/page/DX87FAMmi
 author: Joel Chan
-date: Wed Feb 12 2020 17:23:38 GMT-0500 (Eastern Standard Time)
+date: Thu Feb 13 2020 06:23:38 GMT+0800 (Malaysia Time)
 ---
 
 - #references
@@ -11,7 +11,7 @@ date: Wed Feb 12 2020 17:23:38 GMT-0500 (Eastern Standard Time)
 
     - Meta
 
-        - Tags:: #[[ref/Paper]] #[[D/Synthesis Infrastructure]] [[Fundamental Theories of Creativity]]
+        - Tags:: [[refPaper]]
 
         - Authored by:: [[Ricardo Sosa]]
 
@@ -27,12 +27,13 @@ date: Wed Feb 12 2020 17:23:38 GMT-0500 (Eastern Standard Time)
 
         - Abstract
 
-            - This paper presents an exercise on theory building to characterise design ideation. It starts by examining how early ideas are defined and evaluated in the literature. An essentialist view is identified that explains the creativity of a final design solution by the creative qualities of early ideas attributed by external judges. Criteria for a theory of ideation that does not rely on the primacy of essence are enumerated. Advanced professional practice is examined to understand evaluation of early ideas ‘in the wild’. Accretion is then introduced as an analogical model to imaginatively drive definitions and conjectures about idea formation in the co-evolution of problem and design spaces. Vignettes from ideation episodes are used to illustrate an accretion theory of ideation. ^^An accretion theory supports new ways to think about ideation as a complex formation process where creative solutions emerge from the synthesis of a multitude of fragmentary and partial ideas – or ‘[[ideasimals]]’.^^ An accretion theory of ideation helps to explain the creative value of a final design solution without relying on early ideas having a creative essence, because the creativity of a solution is viewed as emergent rather than present in early versions. An accretion lens is used to suggest new ideation metrics to study the qualities of idea fragments and the process of idea formation. Definitions and relevant assessment regimes for diﬀerent stages of ideation are discussed. The paper concludes with a discussion on entailments of an accretion theory and next steps for this theory building enterprise.
+            - This paper presents an exercise on theory building to characterise design ideation. It starts by examining how early ideas are defined and evaluated in the literature. An essentialist view is identified that explains the creativity of a final design solution by the creative qualities of early ideas attributed by external judges. Criteria for a theory of ideation that does not rely on the primacy of essence are enumerated. Advanced professional practice is examined to understand evaluation of early ideas ‘in the wild’. Accretion is then introduced as an analogical model to imaginatively drive definitions and conjectures about idea formation in the co-evolution of problem and design spaces. Vignettes from ideation episodes are used to illustrate an accretion theory of ideation. ^^An accretion theory supports new ways to think about ideation as a complex formation process where creative solutions emerge from the synthesis of a multitude of fragmentary and partial ideas – or ‘[[ideasimals]]
 
-    - #[[📝 lit-notes]]
+    - [[📝 lit-notes]]
 
 ###### Discourse Context
 
+- **Informs::** [[CLM - Representing ideas in atomic units facilitates conceptual combination]]
 - **Informs::** [[CLM - Paths to creative breakthroughs are frequently oblique]]
 - **Informs::** [[CLM - The notion of an 'idea' is very complicated]]
 - **Informs::** [[QUE - Under what conditions do diverse initial examples lead to better final design solutions]]

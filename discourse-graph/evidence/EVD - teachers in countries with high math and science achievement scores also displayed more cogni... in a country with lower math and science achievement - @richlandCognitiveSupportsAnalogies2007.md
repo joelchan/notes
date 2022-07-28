@@ -2,12 +2,12 @@
 title: [[EVD]] - teachers in countries with high math and science achievement scores also displayed more cognitive supports for analogies, such as bridging analogies, and visuospatial scaffolds for comparison, compared to teachers in a country with lower math and science achievement - [[@richlandCognitiveSupportsAnalogies2007]]
 url: https://roamresearch.com/#/app/megacoglab/page/rGxlquhjc
 author: Joel Chan
-date: Thu Dec 23 2021 10:34:47 GMT-0500 (Eastern Standard Time)
+date: Thu Dec 23 2021 23:34:47 GMT+0800 (Malaysia Time)
 ---
 
 - # Summary
 
-    - teachers in countries with high mathematics and science achievement test scores (Hong Kong and Japan) also displayed more cognitive supports for analogies, such as [[bridging analogies]], and visuospatial scaffolds for comparison, compared to teachers in a country with lower math and science achievement (USA)
+    - teachers in countries with high mathematics and science achievement test scores (Hong Kong and Japan) also displayed more cognitive supports for analogies, such as [[bridging analogies]]
 
         - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fmegacoglab%2F2o9VNKLRJD.png?alt=media&token=f7c2aab9-5376-4e7d-af1d-ad06f2343a4e)
 - # Grounding Context

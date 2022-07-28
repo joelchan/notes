@@ -2,7 +2,7 @@
 title: [[EVD]] - journal pairs from the same Web of Science discipline had significantly higher z-scores than journal pairs across disciplines - [[@uzziAtypicalCombinationsScientific2013]]
 url: https://roamresearch.com/#/app/megacoglab/page/gZcktT61s
 author: Joel Chan
-date: Thu Jul 22 2021 11:17:04 GMT-0400 (Eastern Daylight Time)
+date: Thu Jul 22 2021 23:17:04 GMT+0800 (Malaysia Time)
 ---
 
 - Summary::

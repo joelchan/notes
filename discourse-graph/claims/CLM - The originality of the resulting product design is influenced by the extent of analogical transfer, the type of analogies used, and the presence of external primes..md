@@ -2,7 +2,7 @@
 title: [[CLM]] - The originality of the resulting product design is influenced by the extent of analogical transfer, the type of analogies used, and the presence of external primes.
 url: https://roamresearch.com/#/app/megacoglab/page/tkuwQvAyF
 author: Jason Ding
-date: Wed Apr 20 2022 19:37:23 GMT-0400 (Eastern Daylight Time)
+date: Thu Apr 21 2022 07:37:23 GMT+0800 (Malaysia Time)
 ---
 
 

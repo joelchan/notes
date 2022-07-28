@@ -2,16 +2,16 @@
 title: @heyAnalogiesMetaphorsCreative2008
 url: https://roamresearch.com/#/app/megacoglab/page/l2nNe-hC2
 author: Joel Chan
-date: Fri Jul 02 2021 22:21:24 GMT-0400 (Eastern Daylight Time)
+date: Sat Jul 03 2021 10:21:24 GMT+0800 (Malaysia Time)
 ---
 
-- #[[references]]
+- [[references]]
 
     - Title: Analogies and Metaphors in Creative Design
 
     - Meta:
 
-        - Authored by:: [[J. Hey]] [[J. Linsey]] [[A. M. Agogino]] [[K. L. Wood]]
+        - Authored by:: [[J. Hey]]
 
         - Year: [[2008]]
 

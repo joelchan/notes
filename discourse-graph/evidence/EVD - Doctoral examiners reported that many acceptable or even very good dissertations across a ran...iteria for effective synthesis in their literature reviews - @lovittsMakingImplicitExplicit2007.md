@@ -2,15 +2,15 @@
 title: [[EVD]] - Doctoral examiners reported that many acceptable or even "very good" dissertations across a range of disciplines fell well short of implicit and explicit criteria for effective synthesis in their literature reviews - [[@lovittsMakingImplicitExplicit2007]]
 url: https://roamresearch.com/#/app/megacoglab/page/YialHBIB8
 author: Joel Chan
-date: Sun Mar 13 2022 22:16:42 GMT-0400 (Eastern Daylight Time)
+date: Mon Mar 14 2022 10:16:42 GMT+0800 (Malaysia Time)
 ---
 
 - # Summary
 - # Grounding Context
 
-    - #participants were [[N=]] 276 "PhD-productive" (advising on average 10s of dissertations, and participating in more) faculty across [[N=]] 74 departments in [[N=]] 10 disciplines spanning the sciences, social sciences, and humanities, across [[N=]] 9 different universities
+    - #participants were [[N=]]
 
-    - #method was #m/Qualitative analysis of ~90-minute #[[m/Semi-structured interviews]] with #[[m/Focus Group]]s
+    - #method was #m/Qualitative analysis of ~90-minute [[mSemi-structured interviews]]
 
     - Their #method: analyzing  comments for a large number of actual dissertations across a wide range of disciplines that span the humanities, social sciences, and traditional STEM, including biology, physics, ECE, math, economics, psych, sociology, english, history, and philosophy
 

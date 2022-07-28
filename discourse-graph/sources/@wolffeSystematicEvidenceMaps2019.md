@@ -2,11 +2,11 @@
 title: @wolffeSystematicEvidenceMaps2019
 url: https://roamresearch.com/#/app/megacoglab/page/G-cfv3QiF
 author: Joel Chan
-date: Thu Oct 21 2021 11:59:51 GMT-0400 (Eastern Daylight Time)
+date: Thu Oct 21 2021 23:59:51 GMT+0800 (Malaysia Time)
 ---
 
 - Title:: Systematic evidence maps as a novel tool to support evidence-based decision-making in chemicals policy and risk management
-- Author(s):: [[Taylor A. M. Wolffe]], [[Paul Whaley]], [[Crispin Halsall]], [[Andrew A. Rooney]], [[Vickie R. Walker]]
+- Author(s):: [[Taylor A. M. Wolffe]]
 - Abstract:: Background
 While systematic review (SR) methods are gaining traction as a method for providing a reliable summary of existing evidence for health risks posed by exposure to chemical substances, it is becoming clear that their value is restricted to a specific range of risk management scenarios - in particular, those which can be addressed with tightly focused questions and can accommodate the time and resource requirements of a systematic evidence synthesis.
 Methods
@@ -20,7 +20,7 @@ SEMs have strong and growing potential as a high value tool in resource efficien
 - URL : https://www.sciencedirect.com/science/article/pii/S0160412019310323
 - Date Added:: [[October 21st, 2021]]
 - Zotero links:: [Local library](zotero://select/groups/2451508/items/P6A2IASB), [Local library](https://www.zotero.org/groups/2451508/items/P6A2IASB)
-- Tags:: #[[Evidence mapping]], #[[Systematic review]]
+- Tags:: [[Evidence mapping]]
 - PDF links : [Wolffe et al_2019_Systematic evidence maps as a novel tool to support evidence-based.pdf](zotero://open-pdf/groups/2451508/items/C4AYW46E)
 
 ###### Discourse Context

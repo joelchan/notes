@@ -2,7 +2,7 @@
 title: @amabileSocialPsychologyCreativity1982
 url: https://roamresearch.com/#/app/megacoglab/page/UPB8C3rUV
 author: Joel Chan
-date: Wed Feb 09 2022 15:20:58 GMT-0500 (Eastern Standard Time)
+date: Thu Feb 10 2022 04:20:58 GMT+0800 (Malaysia Time)
 ---
 
 - Title:: Social psychology of creativity: A consensual assessment technique.
@@ -12,7 +12,7 @@ date: Wed Feb 09 2022 15:20:58 GMT-0500 (Eastern Standard Time)
 - Publication:: Journal of Personality and Social Psychology
 - Date Added:: [[July 31st, 2021]]
 - Zotero links:: [Local library](zotero://select/groups/2451508/items/HNQRQN5M), [Local library](https://www.zotero.org/groups/2451508/items/HNQRQN5M)
-- Tags:: #[[Creativity]], #[[Expert panel]], #[[Methods]], #[[Processed]], #[[SuccessMetrics]]
+- Tags:: [[Creativity]]
 - PDF links : [Amabile_1982_Social psychology of creativity.pdf](zotero://open-pdf/groups/2451508/items/8JLYXZIK)
 - [[Notes]]
 

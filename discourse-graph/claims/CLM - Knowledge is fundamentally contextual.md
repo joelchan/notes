@@ -2,16 +2,16 @@
 title: [[CLM]] - Knowledge is fundamentally contextual
 url: https://roamresearch.com/#/app/megacoglab/page/s22yEPPPH
 author: Joel Chan
-date: Fri Mar 18 2022 13:39:02 GMT-0400 (Eastern Daylight Time)
+date: Sat Mar 19 2022 01:39:02 GMT+0800 (Malaysia Time)
 ---
 
-- #[[🌲 zettels]]
+- [[🌲 zettels]]
 
-    - Tags: #[[D/Synthesis Infrastructure]] #context #[[Z]] #[[D/KNEXT]]
+    - Tags: [[DSynthesis Infrastructure]]
 
     - Description
 
-        - Probably varies though: [[[[CLM]] - Information needs can vary on a general-to-contextual dimension]]
+        - Probably varies though: [[CLM - Information needs can vary on a general-to-contextual dimension]]
 
         - Related to [[tacit knowledge]]
 
@@ -19,11 +19,11 @@ date: Fri Mar 18 2022 13:39:02 GMT-0400 (Eastern Daylight Time)
 
         - [[standpoint theory]]
 
-            - I'm now wanting to write about the idea of feminist [[standpoint theory]] (h/t [[Amanda Lazar]]) which came up in conversation with [[Tim Gorichanaz]]:
+            - I'm now wanting to write about the idea of feminist [[standpoint theory]]
 
-            - The stronger version of this is potentially [[standpoint theory]]. Amanda recommends [[@bardzellFeministHCITaking2010a]] as a canonical ref for feminist HCI; it's not the original source for standpoint theory, though.
+            - The stronger version of this is potentially [[standpoint theory]]
 
-        - There is a fundamental idea that the project of creating a human-wide knowledge base (a la [[Semantic Web]]) must fail, because [[[[CLM]] - Knowledge is fundamentally contextual]]
+        - There is a fundamental idea that the project of creating a human-wide knowledge base (a la [[Semantic Web]]
 
         - [[@dourishWhatWeTalk2004]]
 
@@ -31,14 +31,14 @@ date: Fri Mar 18 2022 13:39:02 GMT-0400 (Eastern Daylight Time)
 
         - [[@halfordDigitalFuturesSociological2013]]
 
-        - [[@bowkerAllKnowledgeLocal2010]] Title: All knowledge is local
+        - [[@bowkerAllKnowledgeLocal2010]]
 
-        - [[@harawaySituatedKnowledgesScience1988]]'s idea of [[situated knowledges]], following from [[feminist critique of the god's eye view]]
+        - [[@harawaySituatedKnowledgesScience1988]]
 
-            - really great summary of what [[@harawaySituatedKnowledgesScience1988]] says about how [[context]] really really matters (and what that means) when evaluating and interpreting knowledge claims [[@harrisonMakingEpistemologicalTrouble2011]]
+            - really great summary of what [[@harawaySituatedKnowledgesScience1988]]
 
                 - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fmegacoglab%2FUMEyGlsYop.png?alt=media&token=6d4ce0df-ed3f-4b47-9243-454d2831bb91)
-- [[[[QUE]] - Under what conditions is it possible to transfer expertise from one person to another?]]
+- [[QUE - Under what conditions is it possible to transfer expertise from one person to another]]
 
 ###### Discourse Context
 

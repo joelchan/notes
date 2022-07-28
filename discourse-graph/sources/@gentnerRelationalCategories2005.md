@@ -2,20 +2,20 @@
 title: @gentnerRelationalCategories2005
 url: https://roamresearch.com/#/app/megacoglab/page/uUgRxD5Ue
 author: Joel Chan
-date: Sat Nov 28 2020 15:50:28 GMT-0500 (Eastern Standard Time)
+date: Sun Nov 29 2020 04:50:28 GMT+0800 (Malaysia Time)
 ---
 
 - [[@gentnerRelationalCategories2005]]
 
-    - #[[references]]
+    - [[references]]
 
         - Title: Relational Categories
 
         - Meta:
 
-            - Tags: #[[D/Computational Analogy]]
+            - Tags: [[DComputational Analogy]]
 
-            - Authored by:: [[Dedre Gentner]] [[Kenneth J. Kurtz]] [[W. -k]] [[R. L. Goldstone]] [[B. C. Love]] [[Arthur B. Markman]] [[P. Wolff]]
+            - Authored by:: [[Dedre Gentner]]
 
             - Year: [[2005]]
 
@@ -29,7 +29,7 @@ date: Sat Nov 28 2020 15:50:28 GMT-0500 (Eastern Standard Time)
 
             - Abstract
 
-                - This chapter is concerned with the acquisition and use of [[relational categories]]. By relational category, we mean a category whose membership is determined by a common relational structure rather than by common properties. Relational categories contrast with [[entity categories]] such as tulip or camel, whose members share many intrinsic properties. Relational categories cohere on the basis of a core relationship fulfilled by all members. This chapter explores the contrast between relational and entity categories, relational structure in ordinary categories, similarity- and theory-based accounts of conceptual structure, criteria and rules in relational categories, and the distinction between coherence- and correspondence-based concepts.
+                - This chapter is concerned with the acquisition and use of [[relational categories]]
 
 ###### Discourse Context
 

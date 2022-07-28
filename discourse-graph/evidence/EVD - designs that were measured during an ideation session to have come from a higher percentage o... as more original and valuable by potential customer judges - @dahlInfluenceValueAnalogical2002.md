@@ -2,7 +2,7 @@
 title: [[EVD]] - designs that were measured during an ideation session to have come from a higher percentage of far analogies were perceived as more original and valuable by potential customer judges - [[@dahlInfluenceValueAnalogical2002]]
 url: https://roamresearch.com/#/app/megacoglab/page/OGtVgiXFI
 author: Joel Chan
-date: Tue Jun 15 2021 14:22:50 GMT-0400 (Eastern Daylight Time)
+date: Wed Jun 16 2021 02:22:50 GMT+0800 (Malaysia Time)
 ---
 
 - noteType:: [[EVD]]
@@ -23,7 +23,7 @@ date: Tue Jun 15 2021 14:22:50 GMT-0400 (Eastern Daylight Time)
 
             - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fmegacoglab%2FB0ivZb-yww.png?alt=media&token=5972017f-718a-43c2-8d47-ac0c5624d5ec) (p. 56)
 
-        - design: 2 (asked to access single or multiple domains) x 3 (given no, single, or multiple [[near analogies]] as primes)
+        - design: 2 (asked to access single or multiple domains) x 3 (given no, single, or multiple [[near analogies]]
 
             - access strategy: instructed to try to access one or multiple domains for analogies
 
@@ -59,15 +59,15 @@ date: Tue Jun 15 2021 14:22:50 GMT-0400 (Eastern Daylight Time)
 
             - this result is observational/correlational even though it came from an experiment, since the independent variable here is observed, rather than manipulated directly
 
-            - The analysis approach has significant weaknesses: the regression is done on design-judgment pairs (vs. designs, or designers) as the units, which does not correct for or model potential dependencies within designs or designers. A more appropriate modeling approach would be a repeated measures one, such as a [[generalized linear mixed model]] that modeled these dependencies directly. No measures of variability/error in the estimates were given either (e.g., confidence intervals).
+            - The analysis approach has significant weaknesses: the regression is done on design-judgment pairs (vs. designs, or designers) as the units, which does not correct for or model potential dependencies within designs or designers. A more appropriate modeling approach would be a repeated measures one, such as a [[generalized linear mixed model]]
 
-            - We also do not know the descriptives of the measures: what constitutes a low or high percentage of far analogies, and how many designs were produced for each designer, whether there were significant between-designer variations in analogy use (plausible given research on individual differences in analogical performance, such as [[@kubrichtIndividualDifferencesSpontaneous2017]] and [[@cushenBothAttentionalControl2018]])
+            - We also do not know the descriptives of the measures: what constitutes a low or high percentage of far analogies, and how many designs were produced for each designer, whether there were significant between-designer variations in analogy use (plausible given research on individual differences in analogical performance, such as [[@kubrichtIndividualDifferencesSpontaneous2017]]
 
         - Source:: [[@dahlInfluenceValueAnalogical2002]]
 
     - ## **Discourse Context**
 
-        - Informs:: [[[[QUE]] - How might domain distance modulate the effects of analogies on creative output?]]
+        - Informs:: [[QUE - How might domain distance modulate the effects of analogies on creative output]]
 
     - ## Metadata::
 

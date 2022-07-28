@@ -2,7 +2,7 @@
 title: @newellYouCanPlay1973
 url: https://roamresearch.com/#/app/megacoglab/page/3Al0kJqyY
 author: Joel Chan
-date: Thu May 28 2020 21:34:54 GMT-0400 (Eastern Daylight Time)
+date: Fri May 29 2020 09:34:54 GMT+0800 (Malaysia Time)
 ---
 
 - #references
@@ -27,9 +27,9 @@ date: Thu May 28 2020 21:34:54 GMT-0400 (Eastern Daylight Time)
 
         - Placeholder
 
-    - #[[📝 lit-notes]]
+    - [[📝 lit-notes]]
 
-        - #> "You can't play 20 questions with nature and win"
+        - > "You can't play 20 questions with nature and win"
 
 ###### Discourse Context
 

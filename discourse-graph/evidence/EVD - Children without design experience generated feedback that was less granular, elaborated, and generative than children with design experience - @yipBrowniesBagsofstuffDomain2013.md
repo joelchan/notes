@@ -2,14 +2,14 @@
 title: [[EVD]] - Children without design experience generated feedback that was less granular, elaborated, and generative than children with design experience - [[@yipBrowniesBagsofstuffDomain2013]]
 url: https://roamresearch.com/#/app/megacoglab/page/9KIxdoqxv
 author: Joel Chan
-date: Wed Jul 14 2021 13:59:18 GMT-0400 (Eastern Daylight Time)
+date: Thu Jul 15 2021 01:59:18 GMT+0800 (Malaysia Time)
 ---
 
 - Summary::
 
     - Children without design experience generated feedback that was less granular, elaborated, and generative than children with design experience
 
-    - More "design-like" feedback from [[KidsTeam]] kids (more granular, elaborative,  and generative, "blue sky"), less granular (just likes/dislikes) from Kitchen Chemistry kids
+    - More "design-like" feedback from [[KidsTeam]]
 
         - granular vs. like/dislike
 
@@ -29,7 +29,7 @@ date: Wed Jul 14 2021 13:59:18 GMT-0400 (Eastern Daylight Time)
 
             - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fmegacoglab%2F9qcxm270oW.png?alt=media&token=410ca5fe-90ca-4899-95ca-49cd1183cfcc) (p. 207)
 
-    - Kitchen Chemistry kids also struggled with more complex design techniques like [[Layered Elaboration]], and issues with implicit stuff like giving negative feedback
+    - Kitchen Chemistry kids also struggled with more complex design techniques like [[Layered Elaboration]]
 
         - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fmegacoglab%2FG35HM3E_zy.png?alt=media&token=922fa7a3-2ff1-4b1a-94ed-5eafaab0bbbe) (p. 208)
 
@@ -40,7 +40,7 @@ date: Wed Jul 14 2021 13:59:18 GMT-0400 (Eastern Daylight Time)
         - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fmegacoglab%2FaZnHGifN9k.png?alt=media&token=ac2da7ec-3b4b-46c2-b71b-cd6f4b9f7516)(p. 209)
 - **Grounding Context**
 
-    - participants: [[KidsTeam]] children and [[sys/Kitchen Chemistry]] children and adults
+    - participants: [[KidsTeam]]
 
     - goal: co-design ScienceKit: integrated suite for communication, data collection, analysis and sharing tools
 

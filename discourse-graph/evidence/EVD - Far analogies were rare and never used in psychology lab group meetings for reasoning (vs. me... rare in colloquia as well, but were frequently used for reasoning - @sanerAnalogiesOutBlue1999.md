@@ -2,7 +2,7 @@
 title: [[EVD]] - Far analogies were rare and never used in psychology lab group meetings for reasoning (vs. mere mentions); far analogies were rare in colloquia as well, but were frequently used for reasoning - [[@sanerAnalogiesOutBlue1999]]
 url: https://roamresearch.com/#/app/megacoglab/page/pTruDj61B
 author: Joel Chan
-date: Wed Jul 07 2021 17:21:15 GMT-0400 (Eastern Daylight Time)
+date: Thu Jul 08 2021 05:21:15 GMT+0800 (Malaysia Time)
 ---
 
 - Summary::
@@ -11,7 +11,7 @@ date: Wed Jul 07 2021 17:21:15 GMT-0400 (Eastern Daylight Time)
 
         - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fmegacoglab%2FgUSzzN6V3q.png?alt=media&token=3b7b9263-8860-4ddf-bf70-8770cca58fec) (p. 4)
 
-        - This is similar to [[[[EVD]] - Molecular biologists with a reputation for innovation rarely used very far analogies in their lab meetings while generating novel scientific concepts; instead, they relied mainly on analogies to the same or other biological organisms - [[@dunbarHowScientistsThink1997]]]]
+        - This is similar to [[EVD - Molecular biologists with a reputation for innovation rarely used very far analogies in their...d mainly on analogies to the same or other biological organisms - @dunbarHowScientistsThink1997]]
 
     - [No differences](![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fmegacoglab%2FgUSzzN6V3q.png?alt=media&token=3b7b9263-8860-4ddf-bf70-8770cca58fec) (p. 4) ) in percentage raw occurrence of [far analogies](((EzWeayFHm))) between psychology lab group and colloquia [settings](((7hyP0twIO))), but [stark difference in **use* of far analogies](((4KruoVeqG))): none of the far analogies in lab group were actually [used](((mNl82ZWlp))), but 71% of far analogies in colloquia were (vs. equal likelihood, ~30%, of usage for near analogies in both settings)
 
@@ -21,7 +21,7 @@ date: Wed Jul 07 2021 17:21:15 GMT-0400 (Eastern Daylight Time)
 
         - p = .02 by [[Fisher's exact test]]
 
-        - this is very similar to [[[[EVD]] - Molecular biologists with a reputation for innovation rarely used very far analogies in their lab meetings while generating novel scientific concepts; instead, they relied mainly on analogies to the same or other biological organisms - [[@dunbarHowScientistsThink1997]]]]
+        - this is very similar to [[EVD - Molecular biologists with a reputation for innovation rarely used very far analogies in their...d mainly on analogies to the same or other biological organisms - @dunbarHowScientistsThink1997]]
 - ## **Grounding Context**
 
     - setting: two psychology lab groups and one colloquium series at a major research university in North America (over 100 faculty, students, postdocs, and research assistants; colloquium series presenters from around the world)
@@ -44,7 +44,7 @@ date: Wed Jul 07 2021 17:21:15 GMT-0400 (Eastern Daylight Time)
 
         - note: might leave out metaphors
 
-    - measure: analogy within-domain vs. not ([[far analogies]]): domain is defined as psychology, bc couldn't reason through systematic way of distinguishing between domains?
+    - measure: analogy within-domain vs. not ([[far analogies]]
 
         - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fmegacoglab%2Fvp6y6U6hs4.png?alt=media&token=83dc304b-447c-47a7-beac-23c234ba1c5d)
 

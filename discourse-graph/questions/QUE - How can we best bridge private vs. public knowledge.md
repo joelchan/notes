@@ -2,7 +2,7 @@
 title: [[QUE]] - How can we best bridge private vs. public knowledge?
 url: https://roamresearch.com/#/app/megacoglab/page/Ane3e94No
 author: Joel Chan
-date: Thu Apr 30 2020 14:23:21 GMT-0400 (Eastern Daylight Time)
+date: Fri May 01 2020 02:23:21 GMT+0800 (Malaysia Time)
 ---
 
 - # Synthesis
@@ -11,34 +11,34 @@ date: Thu Apr 30 2020 14:23:21 GMT-0400 (Eastern Daylight Time)
 
     - Possibilities
 
-        - [[[[CLM]] - It is possible to benefit from receiving intermediate sensemaking outputs from others, particularly if those outputs have been iterated on]]
+        - [[CLM - It is possible to benefit from receiving intermediate sensemaking outputs from others, particularly if those outputs have been iterated on]]
 
-            - but: [[[[CLM]] - Organizations and schemas from others' intermediate sensemaking outputs may be more beneficial for distributed sensemaking compared to the content]]
+            - but: [[CLM - Organizations and schemas from others' intermediate sensemaking outputs may be more beneficial for distributed sensemaking compared to the content]]
 
     - Challenges:
 
-        - [[[[CLM]] - Most private annotations aren't useful to other people]]
+        - [[CLM - Most private annotations aren't useful to other people]]
 
-            - Possibly because [[[[CLM]] - Knowledge must be recontextualized to be usefully reused]], and [[[[CLM]] - Specifying context for future reuse is costly]]
+            - Possibly because [[CLM - Knowledge must be recontextualized to be usefully reused]]
 
-            - But also possibly because a lot of what we do in terms of externalization is [[Epistemic Action]] that *is* thinking in the moment, not necessarily producing a record that will be in any way useful after the moment. #[[🌲 zettels]]
+            - But also possibly because a lot of what we do in terms of externalization is [[Epistemic Action]]
 
                 - See, e.g, [[@americaninstituteofphysicsInterviewRichardFeyman2015]]
 
-                - Related: gestures, [[distributed cognition]] / [[Morphological Computation]]?
+                - Related: gestures, [[distributed cognition]]
 
-        - [[[[CLM]] - Context and privacy are in tension when sharing knowledge with others]]
+        - [[CLM - Context and privacy are in tension when sharing knowledge with others]]
 
-        - [[that can't pin it down local optimum tradeoff thing]] / structure now vs. structure later
+        - [[that can't pin it down local optimum tradeoff thing]]
 
-            - [[[[EVD]] - professional designers lacked robust and consistent organization and metadata for ideas and examples, which hampered reuse - [[@sharminUnderstandingKnowledgeManagement2009b]]]]
+            - [[EVD - professional designers lacked robust and consistent organization and metadata for ideas and examples, which hampered reuse - @sharminUnderstandingKnowledgeManagement2009b]]
 - # Sources
 
-    - knowledge infrastructures
+    - knowledge [[infrastructure]]
 
         - [[@mcmahanAmbiguityEngagement2018]]
 
-            - Ambiguity in language can be helpful for integrating work: even [[Charles Darwin]] and [[Thomas Kuhn]] were examples of work where language was ambiguous, and this ended up having positive effects on the science
+            - Ambiguity in language can be helpful for integrating work: even [[Charles Darwin]]
 
         - [[@starStepsEcologyInfrastructure1996]]
 
@@ -52,13 +52,13 @@ date: Thu Apr 30 2020 14:23:21 GMT-0400 (Eastern Daylight Time)
 
         - [[@thomerTransformingTaxonomicInterfaces2018]]
 
-    - [[context]] and [[reuse]] from [[CSCW]]
+    - [[context]]
 
         - reviewed in [[@ackermanSharingKnowledgeExpertise2013]]
 
         - [[@ackermanOrganizationalMemoryObjects2004]]
 
-            - To properly deal with a [discrepancy in benefits from the caller](((aJyU_lBdO))), a [HLG employee](((95SLsSLsN))) needed to [[reuse]] information from the [CARL database](((OLechJ6p6))), among other sources of information, to create an escalation to the benefits group. To do this, she needed important [[context]] that was missing from the CARL record itself, such as details of the record's creation or maintenance (was it authoritative?), and any circumstances surrounding the caller's employment. The HLG employee dealt with this missing context by consulting an expert (a senior agent) and her own memory, rather than searching databases for additional information, even though that information could in principle be in there.
+            - To properly deal with a [discrepancy in benefits from the caller](((aJyU_lBdO))), a [HLG employee](((95SLsSLsN))) needed to [[reuse]]
 
         - [[@luttersBoundaryObjectsCollaborative2007]]
 
@@ -88,13 +88,13 @@ date: Thu Apr 30 2020 14:23:21 GMT-0400 (Eastern Daylight Time)
 
             - if see good annotations (where good = annotations that point ou connections across many documents) led to better perofrmance, but seeing (and being aware of) lower-quality annotations from others hurt perforamnc
 
-        - {{[[DONE]]}} [[@fisherDistributedSensemakingImproving2012]]
+        - {{[[DONE]]
 
         - [[@sharmaArtifactUsefulnessUsage2009]]
 
         - [[@nobaranyFacilitatingReuseProcess2012]]
 
-        - [[@kitturStandingSchemasGiants2014]] positive
+        - [[@kitturStandingSchemasGiants2014]]
 
         - [[@kitturCostsBenefitsStructured2013]]
 
@@ -104,7 +104,7 @@ date: Thu Apr 30 2020 14:23:21 GMT-0400 (Eastern Daylight Time)
 
         - [[@kaplanReadingAloneTogether2005]]
 
-    - Scraps / [[PIM]] / [[that can't pin it down local optimum tradeoff thing]] / structure now vs. structure later
+    - Scraps / [[PIM]]
 
         - [[@bernsteinInformationScrapsHow2008]]
 
@@ -128,11 +128,11 @@ date: Thu Apr 30 2020 14:23:21 GMT-0400 (Eastern Daylight Time)
 
         - [[@ribaupierreExtractingDiscourseElements2017]]
 
-        - [[std/ScholOnto]] [[@shumModelingNaturalisticArgumentation2006]] (look for study of???)
+        - [[stdScholOnto]]
 
-        - [CFT]([[[[THE]] - Cognitive Flexibility Theory (CFT)]])??
+        - [CFT]([[THE - Cognitive Flexibility Theory (CFT)]]
 
-        - [[[[QUE]] - What (existing) systems facilitate individual synthesis?]]
+        - [[QUE - What (existing) systems facilitate individual synthesis]]
 
         - [[@russellBeingLiterateLarge2006]]
 
@@ -148,13 +148,13 @@ date: Thu Apr 30 2020 14:23:21 GMT-0400 (Eastern Daylight Time)
 
         - [[@gruberDarwinManPsychological1974]]
 
-        - [[@boliciStigmergicCoordinationFLOSS2016]] [[stigmergy]]
+        - [[@boliciStigmergicCoordinationFLOSS2016]]
 - ---
 - Meta
 
-    - #[[Question]] #[[🌲 zettels]]
+    - [[question]]
 
-        - Tags: #[[D/Synthesis Infrastructure]]
+        - Tags: [[DSynthesis Infrastructure]]
 
         - R-Sources
 

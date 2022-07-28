@@ -2,7 +2,7 @@
 title: @andersonDataBaseMent2008
 url: https://roamresearch.com/#/app/megacoglab/page/ZXdHv_2ge
 author: Joel Chan
-date: Mon Jul 20 2020 13:15:22 GMT-0400 (Eastern Daylight Time)
+date: Tue Jul 21 2020 01:15:22 GMT+0800 (Malaysia Time)
 ---
 
 - #references
@@ -37,19 +37,19 @@ date: Mon Jul 20 2020 13:15:22 GMT-0400 (Eastern Daylight Time)
 
             - #ClaimSecondary people tend to use the category with the lowest cognitive effort [[@andersonDataBaseMent2008]]
 
-    - #[[📝 lit-notes]]
+    - [[📝 lit-notes]]
 
-        - it can be quite hard to standardize (and therefore make efficient) expressions of [[context]] (e.g., in a dropdown menu of possible "contexts")
+        - it can be quite hard to standardize (and therefore make efficient) expressions of [[context]]
 
             - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fmegacoglab%2Fc3jEajkCsS.png?alt=media&token=3251d848-c487-4433-a9c5-42052f534a0c) (p. 243)
 
                 - see also case study data before
 
-                - reminds me of the idea that [[[[CLM]] - Context is a slippery notion]]
+                - reminds me of the idea that [[CLM - Context is a slippery notion]]
 
         - **How did the authors approach their questions/problems?** ((most of this is going to come from the methods sections, although some info about conceptualization of key concepts might be relevant to pull from intro/lit-review)) #lit-context
 
-        - **What did they find?** ((keep this as contextualized as possible; resist the urge to repeat claims or generalizations)) #[[observation-notes]]
+        - **What did they find?** ((keep this as contextualized as possible; resist the urge to repeat claims or generalizations)) [[observation-notes]]
 
             - In a [case study](![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fmegacoglab%2FR52nKzU5nS.png?alt=media&token=f2b63f4c-979a-4321-ae41-aca5f23071a8)) (methods [1](((HH7e2hyT2))), [2](((8pTMoQtJD)))), Healthcare workers used a system which featured a drop-down menu that would allow them to select relevant contextual information to attach to a file where they recorded patient interactions. However, the options in the [drop-down menu](((SdDwD5xWe))) were frequently [not specific enough, or too many options were available](((_b8X5Ey1Z))), which led to the employees [choosing the closest option, or a catch all “Not Specified” option](((w-26O9uLq))). This all led to ambiguous contextual information capture which [proved problematic down the line](((IxXKHy5DM))).
 

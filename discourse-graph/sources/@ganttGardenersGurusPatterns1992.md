@@ -2,16 +2,16 @@
 title: @ganttGardenersGurusPatterns1992
 url: https://roamresearch.com/#/app/megacoglab/page/XWy9INFTa
 author: Joel Chan
-date: Thu Jun 10 2021 13:52:28 GMT-0400 (Eastern Daylight Time)
+date: Fri Jun 11 2021 01:52:28 GMT+0800 (Malaysia Time)
 ---
 
-- #[[references]]
+- [[references]]
 
     - Title: Gardeners and gurus: patterns of cooperation among CAD users
 
     - Meta:
 
-        - Authored by:: [[Michelle Gantt]] [[Bonnie A. Nardi]]
+        - Authored by:: [[Michelle Gantt]]
 
         - Year: [[1992]]
 

@@ -2,12 +2,12 @@
 title: [[QUE]] - What is analogy?
 url: https://roamresearch.com/#/app/megacoglab/page/fUBYN1p9H
 author: Joel Chan
-date: Tue Mar 22 2022 09:52:00 GMT-0400 (Eastern Daylight Time)
+date: Tue Mar 22 2022 21:52:00 GMT+0800 (Malaysia Time)
 ---
 
 - # Synthesis
 
-    - [[[[CLM]] - Analogies are fundamentally about relational similarity]]
+    - [[CLM - Analogies are fundamentally about relational similarity]]
 
     - classic analogy example: solar system and atom - v different on surface (size, color, domain), but structurally v similar
 
@@ -15,13 +15,13 @@ date: Tue Mar 22 2022 09:52:00 GMT-0400 (Eastern Daylight Time)
 - ---
 - # Sources
 
-    - [[@gentnerStructureMappingAnalogy1997]] distinguishes [[Analogy]] from similarity and metaphor - key idea is that it is based on similarity in terms of *relations*, in spite of or instead of attribute/feature (dis)similarities
+    - [[@gentnerStructureMappingAnalogy1997]]
 
         - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fmegacoglab%2FC0CKJWoVGw.png?alt=media&token=2cac9f86-f961-4fab-9bc0-51df1ca4265f)
 
-    - [[@gentnerStructureMappingTheoretical1983]] is a foundational paper that specifies analogy in a more formal way
+    - [[@gentnerStructureMappingTheoretical1983]]
 
-    - related: [[@holyoakAnalogicalMappingConstraint1989]] - what counts as "structure" vs. "surface" is constrained by pragmatics - the current goals. it's not a constant. [[[[CLM]] - Division of structural vs. surface features in analogical mapping varies is not constant; it varies by task.]]
+    - related: [[@holyoakAnalogicalMappingConstraint1989]]
 - ---
 - # Meta
 

@@ -2,7 +2,7 @@
 title: @poirierTurnScruffyEthnographic2017
 url: https://roamresearch.com/#/app/megacoglab/page/RDc_OOv2W
 author: Joel Chan
-date: Tue Jul 28 2020 20:56:30 GMT-0400 (Eastern Daylight Time)
+date: Wed Jul 29 2020 08:56:30 GMT+0800 (Malaysia Time)
 ---
 
 - #references
@@ -33,19 +33,19 @@ date: Tue Jul 28 2020 20:56:30 GMT-0400 (Eastern Daylight Time)
 
     - #lit-context
 
-        - [[m/Ethnography]]
+        - [[mEthnography]]
 
-    - #[[📝 lit-notes]]
+    - [[📝 lit-notes]]
 
         - Heavily cites [[@halfordDigitalFuturesSociological2013]]
 
-        - ethnographic history of "schools of thought" in [[Semantic Web]] (including the various flavors of [[std/OWL]]
+        - ethnographic history of "schools of thought" in [[Semantic Web]]
 
-        - draws out a distinction between "neat" and "scruffy" styles of thought that reflect fundamentally different philosophies about [[knowledge representation]]: roughly speaking, the "neat" style maps to [[first-order predicate logic]] and is probably the first thing people think of when they hear the term [[ontologies]]: emphasis on capital R reasoning (correctness, trustworthiness, verifiability, deductive logics, etc.), and the "scruffy" style maps more towards pragmatic, contextual, fuzzy, statistics-oriented approach to knowledge representation.
+        - draws out a distinction between "neat" and "scruffy" styles of thought that reflect fundamentally different philosophies about [[knowledge representation]]
 
-        - industry [[Semantic Web]] practice has mostly taken a turn for the "scruffy", exemplified in efforts like [[std/schema.org]], while the "neat" style sort of lives on in academic work.
+        - industry [[Semantic Web]]
 
-            - implication: be careful in making the critique that [[[[CLM]] - Universal Semantic Webs are neither feasible nor useful]]: not all [[ontologies]] are equal, and some are "scruffier" than others (cc [[[[CLM]] - Distinction between neat vs scruffy in Semantic Web engineering]]) and more amenable to the complexities of the {{alias: [[[[CLM]] - Knowledge is fundamentally contextual]] contextual nature of knowledge}}
+            - implication: be careful in making the critique that [[CLM - Universal Semantic Webs are neither feasible nor useful]]
 
 ###### Discourse Context
 

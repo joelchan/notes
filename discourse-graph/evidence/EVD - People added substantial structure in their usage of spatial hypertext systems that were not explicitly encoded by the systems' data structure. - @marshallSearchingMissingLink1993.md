@@ -2,7 +2,7 @@
 title: [[EVD]] - People added substantial structure in their usage of spatial hypertext systems that were not explicitly encoded by the systems' data structure. - [[@marshallSearchingMissingLink1993]]
 url: https://roamresearch.com/#/app/megacoglab/page/2C7oZuy3T
 author: Brendan Langen
-date: Thu Jan 20 2022 16:14:14 GMT-0500 (Eastern Standard Time)
+date: Fri Jan 21 2022 05:14:14 GMT+0800 (Malaysia Time)
 ---
 
 - # Summary
@@ -38,7 +38,7 @@ date: Thu Jan 20 2022 16:14:14 GMT-0500 (Eastern Standard Time)
 
                     - > We gathered data about the textual objects appearing in layouts created in three different systems, NoteCards, the Virtual Notebook System (VNS), and Aquanet. Eight samples were selected, each the result of a long-term information management or analysis task.
 
-                        - [[[[CLM]] - Requirements for sensemaking come from the particulars of the work task]]
+                        - [[CLM - Requirements for sensemaking come from the particulars of the work task]]
 
             - The datasets - some data analysis, some bug tracking, some topic organization for a paper.
 

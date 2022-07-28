@@ -2,7 +2,7 @@
 title: [[EVD]] - highly novel papers had higher variance in their citation outcomes over a 15-year window, biased towards the higher impact tail of the distribution - [[@wangBiasNoveltyScience2017]]
 url: https://roamresearch.com/#/app/megacoglab/page/1A-vRkLMT
 author: Joel Chan
-date: Mon Jul 19 2021 09:57:41 GMT-0400 (Eastern Daylight Time)
+date: Mon Jul 19 2021 21:57:41 GMT+0800 (Malaysia Time)
 ---
 
 - Summary::

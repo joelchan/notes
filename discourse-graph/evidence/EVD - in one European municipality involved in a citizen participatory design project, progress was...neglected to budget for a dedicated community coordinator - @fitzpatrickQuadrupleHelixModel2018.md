@@ -2,7 +2,7 @@
 title: [[EVD]] - in one European municipality involved in a citizen participatory design project, progress was slowed because the design team neglected to budget for a dedicated community coordinator - [[@fitzpatrickQuadrupleHelixModel2018]]
 url: https://roamresearch.com/#/app/megacoglab/page/dx2ygqtrE
 author: Joel Chan
-date: Tue Jul 12 2022 21:25:11 GMT-0400 (Eastern Daylight Time)
+date: Wed Jul 13 2022 09:25:11 GMT+0800 (Malaysia Time)
 ---
 
 - # Summary

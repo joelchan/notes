@@ -2,18 +2,18 @@
 title: @hopeAcceleratingInnovationAnalogy2017
 url: https://roamresearch.com/#/app/megacoglab/page/JeLLyQKHf
 author: Joel Chan
-date: Sun Mar 22 2020 15:21:30 GMT-0400 (Eastern Daylight Time)
+date: Mon Mar 23 2020 03:21:30 GMT+0800 (Malaysia Time)
 ---
 
-- #[[references]]
+- [[references]]
 
     - Title: Accelerating Innovation Through Analogy Mining
 
     - Meta:
 
-        - Tags: #ref/Paper #[[D/Computational Analogy]]
+        - Tags: #ref/Paper [[DComputational Analogy]]
 
-        - Authored by:: [[Tom Hope]] [[Joel Chan]] [[Aniket Kittur]] [[Dafna Shahaf]]
+        - Authored by:: [[Tom Hope]]
 
         - Year: [[2017]]
 

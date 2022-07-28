@@ -2,7 +2,7 @@
 title: @matuschakSatisfactionProgressOpenended2017
 url: https://roamresearch.com/#/app/megacoglab/page/Qmq6RUkEf
 author: Joel Chan
-date: Sat Sep 19 2020 12:58:33 GMT-0400 (Eastern Daylight Time)
+date: Sun Sep 20 2020 00:58:33 GMT+0800 (Malaysia Time)
 ---
 
 - #references

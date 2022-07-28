@@ -2,16 +2,16 @@
 title: @fjaellegaardDesignersDeterminantsDesign2019
 url: https://roamresearch.com/#/app/megacoglab/page/8IbMm6EA1
 author: Joel Chan
-date: Wed Nov 04 2020 16:28:04 GMT-0500 (Eastern Standard Time)
+date: Thu Nov 05 2020 05:28:04 GMT+0800 (Malaysia Time)
 ---
 
-- #[[references]]
+- [[references]]
 
     - Title: Designers as the determinants of design innovations
 
     - Meta:
 
-        - Authored by:: [[Cecilie Bryld Fjællegaard]] [[Karin Beukel]] [[Lars Alkærsig]]
+        - Authored by:: [[Cecilie Bryld Fjællegaard]]
 
         - Year: [[2019]]
 

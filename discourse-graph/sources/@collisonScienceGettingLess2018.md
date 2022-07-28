@@ -2,18 +2,18 @@
 title: @collisonScienceGettingLess2018
 url: https://roamresearch.com/#/app/megacoglab/page/28V8tleAR
 author: Joel Chan
-date: Fri May 15 2020 12:47:54 GMT-0400 (Eastern Daylight Time)
+date: Sat May 16 2020 00:47:54 GMT+0800 (Malaysia Time)
 ---
 
 - [[@collisonScienceGettingLess2018]]
 
-    - #[[references]]
+    - [[references]]
 
         - Title: Science Is Getting Less Bang for Its Buck
 
         - Meta:
 
-            - Authored by:: [[Patrick Collison]] [[Michael Nielsen]]
+            - Authored by:: [[Patrick Collison]]
 
             - Year: [[2018]]
 

@@ -2,16 +2,16 @@
 title: @tuntelerSpontaneousAnalogicalTransfer2002
 url: https://roamresearch.com/#/app/megacoglab/page/P9uo2AWsZ
 author: Joel Chan
-date: Fri May 28 2021 23:10:55 GMT-0400 (Eastern Daylight Time)
+date: Sat May 29 2021 11:10:55 GMT+0800 (Malaysia Time)
 ---
 
-- #[[references]]
+- [[references]]
 
     - Title: Spontaneous analogical transfer in 4-year-olds: a microgenetic study.
 
     - Meta:
 
-        - Authored by:: [[Erika Tunteler]] [[Wilma C. M. Resing]]
+        - Authored by:: [[Erika Tunteler]]
 
         - Year: [[2002]]
 

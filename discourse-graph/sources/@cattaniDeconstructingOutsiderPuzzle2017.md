@@ -2,16 +2,16 @@
 title: @cattaniDeconstructingOutsiderPuzzle2017
 url: https://roamresearch.com/#/app/megacoglab/page/AxwzkdAqG
 author: 
-date: Sun Dec 06 2020 22:59:48 GMT-0500 (Eastern Standard Time)
+date: Mon Dec 07 2020 11:59:48 GMT+0800 (Malaysia Time)
 ---
 
-- #[[references]]
+- [[references]]
 
     - Title: Deconstructing the Outsider Puzzle: The Legitimation Journey of Novelty
 
     - Meta:
 
-        - Authored by:: [[Gino Cattani]] [[Simone Ferriani]] [[Andrea Lanza]]
+        - Authored by:: [[Gino Cattani]]
 
         - Year: [[2017]]
 
@@ -29,9 +29,9 @@ date: Sun Dec 06 2020 22:59:48 GMT-0500 (Eastern Standard Time)
 
     - #lit-context
 
-        - methodological approach is [[m/Case study]]
+        - methodological approach is [[mCase study]]
 
-        - sources for the historical case study were longitude histories as well as archival documents, such as the minutes of the Board of Longitude, excerpts from the Journal of the House of Commons, [[John Harrison]]'s pamphlet on the longitude controversy, and documents and a pamphlet written by the treasurer of the British Navy during the period of the controversy
+        - sources for the historical case study were longitude histories as well as archival documents, such as the minutes of the Board of Longitude, excerpts from the Journal of the House of Commons, [[John Harrison]]
 
             - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fmegacoglab%2FtmqQRfUmUA.png?alt=media&token=a90fb136-67fb-4632-b248-29054d2fb332) (p. 970)
 
@@ -41,7 +41,7 @@ date: Sun Dec 06 2020 22:59:48 GMT-0500 (Eastern Standard Time)
 
         - The Royal Society was relatively early in its lifespan during the period of the case (established in 1660s)
 
-    - #[[📝 lit-notes]]
+    - [[📝 lit-notes]]
 
         - #inspectionalread
 

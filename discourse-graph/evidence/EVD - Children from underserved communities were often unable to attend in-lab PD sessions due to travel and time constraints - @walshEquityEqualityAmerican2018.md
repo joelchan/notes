@@ -2,7 +2,7 @@
 title: [[EVD]] - Children from underserved communities were often unable to attend in-lab PD sessions due to travel and time constraints - [[@walshEquityEqualityAmerican2018]]
 url: https://roamresearch.com/#/app/megacoglab/page/-6C8nTLK2
 author: Joel Chan
-date: Tue Jul 06 2021 12:20:47 GMT-0400 (Eastern Daylight Time)
+date: Wed Jul 07 2021 00:20:47 GMT+0800 (Malaysia Time)
 ---
 
 - noteType:: [[EVD]]
@@ -31,7 +31,7 @@ date: Tue Jul 06 2021 12:20:47 GMT-0400 (Eastern Daylight Time)
 
     - ## Metadata::
 
-        - author:: [[AJ Rudd Jr]] [[Joel Chan]]
+        - author:: [[AJ Rudd Jr]]
 
 ###### Discourse Context
 

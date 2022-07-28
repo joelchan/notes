@@ -2,16 +2,16 @@
 title: @yuEncouragingOutsideBox2016a
 url: https://roamresearch.com/#/app/megacoglab/page/ogOXWUFn7
 author: Joel Chan
-date: Mon Nov 30 2020 18:06:39 GMT-0500 (Eastern Standard Time)
+date: Tue Dec 01 2020 07:06:39 GMT+0800 (Malaysia Time)
 ---
 
-- #[[references]]
+- [[references]]
 
     - Title: Encouraging “Outside- The- Box” Thinking in Crowd Innovation Through Identifying Domains of Expertise
 
     - Meta:
 
-        - Authored by:: [[Lixiu Yu]] [[Aniket Kittur]] [[Robert E. Kraut]]
+        - Authored by:: [[Lixiu Yu]]
 
         - Year: [[2016]]
 

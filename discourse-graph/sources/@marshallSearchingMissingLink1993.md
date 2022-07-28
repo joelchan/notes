@@ -2,18 +2,18 @@
 title: @marshallSearchingMissingLink1993
 url: https://roamresearch.com/#/app/megacoglab/page/-pkGucEF_
 author: Joel Chan
-date: Thu Jan 20 2022 14:59:22 GMT-0500 (Eastern Standard Time)
+date: Fri Jan 21 2022 03:59:22 GMT+0800 (Malaysia Time)
 ---
 
 - Title:: Searching for the missing link: discovering implicit structure in spatial hypertext
-- Author(s):: [[Catherine C. Marshall]], [[Frank M. Shipman]]
+- Author(s):: [[Catherine C. Marshall]]
 - Type:: [[Conference paper]]
 - Publication::
 - URL : https://doi.org/10.1145/168750.168826
 - Date Added:: [[January 11th, 2022]]
 - Zotero links:: [Local library](zotero://select/groups/2451508/items/QVRCFR64), [Local library](https://www.zotero.org/groups/2451508/items/QVRCFR64)
-- Tags:: #[[implicit structure]], #[[link automation]], #[[spatial hypertext]]
-- Tags:: #[[implicit structure]], #[[link automation]], #[[spatial hypertext]]
+- Tags:: [[implicit structure]]
+- Tags:: [[implicit structure]]
 
 ###### Discourse Context
 

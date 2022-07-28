@@ -2,16 +2,16 @@
 title: @nersessianHybridAnalogiesConceptual2009
 url: https://roamresearch.com/#/app/megacoglab/page/wZUQSnjWd
 author: Joel Chan
-date: Mon Jun 28 2021 14:44:33 GMT-0400 (Eastern Daylight Time)
+date: Tue Jun 29 2021 02:44:33 GMT+0800 (Malaysia Time)
 ---
 
-- #[[references]]
+- [[references]]
 
     - Title: Hybrid analogies in conceptual innovation in science
 
     - Meta:
 
-        - Authored by:: [[N. J. Nersessian]] [[S. Chandrasekharan]]
+        - Authored by:: [[N. J. Nersessian]]
 
         - Year: [[2009]]
 

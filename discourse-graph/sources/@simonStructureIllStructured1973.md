@@ -2,7 +2,7 @@
 title: @simonStructureIllStructured1973
 url: https://roamresearch.com/#/app/megacoglab/page/pGM-MTon5
 author: Joel Chan
-date: Wed Aug 19 2020 10:58:21 GMT-0400 (Eastern Daylight Time)
+date: Wed Aug 19 2020 22:58:21 GMT+0800 (Malaysia Time)
 ---
 
 - Metadata

@@ -2,7 +2,7 @@
 title: [[EVD]] - Students provided pictorial analogies during instruction performed better on examinations than a group of students taught in a traditional manner. There was also a greater difference in performance between lower achieving students and higher achieving students. - [[@linEffectivenessTeachingScience1996]]
 url: https://roamresearch.com/#/app/megacoglab/page/vM_k_UNUA
 author: AJ Rudd
-date: Sun Dec 19 2021 10:01:39 GMT-0500 (Eastern Standard Time)
+date: Sun Dec 19 2021 23:01:39 GMT+0800 (Malaysia Time)
 ---
 
 - # Summary

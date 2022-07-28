@@ -2,16 +2,16 @@
 title: @willisDocumentsDistributedScientific2014
 url: https://roamresearch.com/#/app/megacoglab/page/rnEGowfvH
 author: Joel Chan
-date: Tue Jun 23 2020 13:17:23 GMT-0400 (Eastern Daylight Time)
+date: Wed Jun 24 2020 01:17:23 GMT+0800 (Malaysia Time)
 ---
 
-- #[[references]]
+- [[references]]
 
     - Title: Documents and Distributed Scientific Collaboration
 
     - Meta:
 
-        - Authored by:: [[Matt Willis]] [[Sarika Sharma]] [[Jaime Snyder]] [[Michelle Brown]] [[Carsten Østerlund]] [[Steve Sawyer]]
+        - Authored by:: [[Matt Willis]]
 
         - Year: [[2014]]
 
@@ -27,7 +27,7 @@ date: Tue Jun 23 2020 13:17:23 GMT-0400 (Eastern Daylight Time)
 
             - We ask the question: What document infrastructures do scientists build to support their virtual organizing and documenting practices? Cyberinfrastructure (CI) is seen by many as playing a critical role in the future of social, behavioral, and economic sciences (SBE) by enabling innovation and scientific discovery. However, little is known about SBE scientists' distributed collaboration, a vital practice that CI must support for the doing of science. To provide insight into this question we interviewed 12 scientists regarding their work practices as they pursue joint research projects with colleagues from other universities. We identify the most frequently used physical and digital tools for SBE science and collaboration and characterize commonplace scientific practices in this domain with a paradigmatic example.
 
-        - #[[📝 lit-notes]]
+        - [[📝 lit-notes]]
 
             - Sample of 12 social scientists used mix of Endnote and Mendeley for reference management
 

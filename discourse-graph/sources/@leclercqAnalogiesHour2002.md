@@ -2,16 +2,16 @@
 title: @leclercqAnalogiesHour2002
 url: https://roamresearch.com/#/app/megacoglab/page/oEFTGL91m
 author: Joel Chan
-date: Fri Jul 02 2021 22:21:24 GMT-0400 (Eastern Daylight Time)
+date: Sat Jul 03 2021 10:21:24 GMT+0800 (Malaysia Time)
 ---
 
-- #[[references]]
+- [[references]]
 
     - Title: 5. 8 Analogies per Hour
 
     - Meta:
 
-        - Authored by:: [[Pierre Leclercq]] [[Ann Heylighen]]
+        - Authored by:: [[Pierre Leclercq]]
 
         - Year: [[2002]]
 

@@ -2,10 +2,10 @@
 title: @simontonCreativityBlindVariation1999
 url: https://roamresearch.com/#/app/megacoglab/page/pebJ1owwH
 author: Joel Chan
-date: Mon Jan 11 2021 22:04:53 GMT-0500 (Eastern Standard Time)
+date: Tue Jan 12 2021 11:04:53 GMT+0800 (Malaysia Time)
 ---
 
-- #[[references]]
+- [[references]]
 
     - Title: Creativity as Blind Variation and Selective Retention: Is the Creative Process Darwinian?
 

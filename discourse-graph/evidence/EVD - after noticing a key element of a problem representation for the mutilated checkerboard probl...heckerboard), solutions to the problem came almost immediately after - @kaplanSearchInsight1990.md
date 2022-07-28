@@ -2,7 +2,7 @@
 title: [[EVD]] - after noticing a key element of a problem representation for the mutilated checkerboard problem (namely the lack of parity between the sequares on teh checkerboard), solutions to the problem came almost immediately after - [[@kaplanSearchInsight1990]]
 url: https://roamresearch.com/#/app/megacoglab/page/Qt5iwJecI
 author: Joel Chan
-date: Mon May 23 2022 13:58:12 GMT-0400 (Eastern Daylight Time)
+date: Tue May 24 2022 01:58:12 GMT+0800 (Malaysia Time)
 ---
 
 - # Summary

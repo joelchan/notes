@@ -2,16 +2,16 @@
 title: @kozubaevSpacesTracesImplications2019a
 url: https://roamresearch.com/#/app/megacoglab/page/8OBRqhKVN
 author: Joel Chan
-date: Fri May 14 2021 11:27:44 GMT-0400 (Eastern Daylight Time)
+date: Fri May 14 2021 23:27:44 GMT+0800 (Malaysia Time)
 ---
 
-- #[[references]]
+- [[references]]
 
     - Title: Spaces and traces: Implications of smart technology in public housing
 
     - Meta:
 
-        - Authored by:: [[Sandjar Kozubaev]] [[Fernando Rochaix]] [[Carl DiSalvo]] [[Christopher A. Le Dantec]]
+        - Authored by:: [[Sandjar Kozubaev]]
 
         - Year: [[2019]]
 

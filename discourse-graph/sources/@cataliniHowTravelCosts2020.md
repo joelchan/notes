@@ -2,16 +2,16 @@
 title: @cataliniHowTravelCosts2020
 url: https://roamresearch.com/#/app/megacoglab/page/Biskj3qxX
 author: 
-date: Sun Jan 17 2021 22:03:42 GMT-0500 (Eastern Standard Time)
+date: Mon Jan 18 2021 11:03:42 GMT+0800 (Malaysia Time)
 ---
 
-- #[[references]]
+- [[references]]
 
     - Title: How Do Travel Costs Shape Collaboration?
 
     - Meta:
 
-        - Authored by:: [[Christian Catalini]] [[Christian Fons-Rosen]] [[Patrick Gaulé]]
+        - Authored by:: [[Christian Catalini]]
 
         - Year: [[2020]]
 

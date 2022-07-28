@@ -2,7 +2,7 @@
 title: [[EVD]] - Designers inadvertently made assumptions while analyzing transcripts from design sessions which discounted important desires from participants with dementia - [[@lindsayEmpathyParticipatoryDesign2012b]]
 url: https://roamresearch.com/#/app/megacoglab/page/zNM1R-woR
 author: AJ Rudd
-date: Fri May 21 2021 09:18:22 GMT-0400 (Eastern Daylight Time)
+date: Fri May 21 2021 21:18:22 GMT+0800 (Malaysia Time)
 ---
 
 - noteType:: [[EVD]]
@@ -35,7 +35,7 @@ date: Fri May 21 2021 09:18:22 GMT-0400 (Eastern Daylight Time)
 
     - ## Metadata::
 
-        - author:: [[AJ Rudd Jr]] [[Joel Chan]]
+        - author:: [[AJ Rudd Jr]]
 
 ###### Discourse Context
 

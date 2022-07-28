@@ -2,16 +2,16 @@
 title: @metatlaVoiceUserInterfaces2019b
 url: https://roamresearch.com/#/app/megacoglab/page/qyHjW_DVN
 author: Joel Chan
-date: Fri May 14 2021 11:27:45 GMT-0400 (Eastern Daylight Time)
+date: Fri May 14 2021 23:27:45 GMT+0800 (Malaysia Time)
 ---
 
-- #[[references]]
+- [[references]]
 
     - Title: Voice user interfaces in schools: Co-designing for inclusion with visually-impaired and sighted pupils
 
     - Meta:
 
-        - Authored by:: [[Oussama Metatla]] [[Alison Oldfield]] [[Taimur Ahmed]] [[Antonis Vafeas]] [[Sunny Miglani]]
+        - Authored by:: [[Oussama Metatla]]
 
         - Year: [[2019]]
 

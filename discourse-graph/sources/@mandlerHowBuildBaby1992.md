@@ -2,10 +2,10 @@
 title: @mandlerHowBuildBaby1992
 url: https://roamresearch.com/#/app/megacoglab/page/xejxu9GlR
 author: Joel Chan
-date: Fri Mar 26 2021 12:12:25 GMT-0400 (Eastern Daylight Time)
+date: Sat Mar 27 2021 00:12:25 GMT+0800 (Malaysia Time)
 ---
 
-- #[[references]]
+- [[references]]
 
     - Title: How to build a baby: II. Conceptual primitives.
 

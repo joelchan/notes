@@ -2,16 +2,16 @@
 title: @teamWorldCreationAnalogy2020
 url: https://roamresearch.com/#/app/megacoglab/page/82s9lspd5
 author: Joel Chan
-date: Thu Mar 04 2021 13:46:51 GMT-0500 (Eastern Standard Time)
+date: Fri Mar 05 2021 02:46:51 GMT+0800 (Malaysia Time)
 ---
 
-- #[[references]]
+- [[references]]
 
     - Title: World Creation by Analogy
 
     - Meta:
 
-        - Tags:: [[D/Computational Analogy]]
+        - Tags:: [[DComputational Analogy]]
 
         - Authored by:: [[Latitude Team]]
 
@@ -31,17 +31,17 @@ date: Thu Mar 04 2021 13:46:51 GMT-0500 (Eastern Standard Time)
 
     - #lit-context
 
-    - #[[📝 lit-notes]]
+    - [[📝 lit-notes]]
 
         - **How did the authors approach their questions/problems?** ((most of this is going to come from the methods sections, although some info about conceptualization of key concepts might be relevant to pull from intro/lit-review)) #lit-context
 
-        - **What did they find?** ((keep this as contextualized as possible; resist the urge to repeat claims or generalizations)) #[[observation-notes]]
+        - **What did they find?** ((keep this as contextualized as possible; resist the urge to repeat claims or generalizations)) [[observation-notes]]
 
-        - [[[[EVD]] - was able to prompt [[sys/GPT-3]] to generate plausible new fantasy worlds that are analogous to some base fantasy worlds - [[@teamWorldCreationAnalogy2020]]]]
+        - [[EVD - was able to prompt sysGPT-3 to generate plausible new fantasy worlds that are analogous to some base fantasy worlds - @teamWorldCreationAnalogy2020]]
 
             - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fmegacoglab%2FFteLleqIY3.png?alt=media&token=9b0fad37-cdc8-4119-be2c-2f45509c4b5d)
 
-            - replicates and extends [[[[EVD]] - given one set of objects from a few classic analogies such as solar system / atom, [[sys/GPT-3]] was able to complete the corresponding objects on the other side for a few examples - [[@stayMachinamentaFormingExtended2020]]]]
+            - replicates and extends [[EVD - given one set of objects from a few classic analogies such as solar system  atom, sysGPT-3 wa...rresponding objects on the other side for a few examples - @stayMachinamentaFormingExtended2020]]
 
             - NOTE: no sense of how often the new worlds generated were plausible!
 

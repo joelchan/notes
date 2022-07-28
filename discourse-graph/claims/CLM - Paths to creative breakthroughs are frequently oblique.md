@@ -2,20 +2,20 @@
 title: [[CLM]] - Paths to creative breakthroughs are frequently oblique
 url: https://roamresearch.com/#/app/megacoglab/page/9vNv-imbW
 author: Joel Chan
-date: Thu Oct 15 2020 20:59:50 GMT-0400 (Eastern Daylight Time)
+date: Fri Oct 16 2020 08:59:50 GMT+0800 (Malaysia Time)
 ---
 
-- #[[🌲 zettels]]
+- [[🌲 zettels]]
 
     - Tags: #obliquity
 
     - Description
 
-        - [[[[THE]] - Accretion theory of ideation]] ([[@sosaAccretionTheoryIdeation2019]]): the "worth" of ideas lies not in their immediate usefulness, but in what they can lead to, their effect on the problem solving process.
+        - [[THE - Accretion theory of ideation]]
 
-        - [[@chanImportanceIterationCreative2015]]: #Claim Building directly on diverse sources of inspiration doesn’t yield immediately creative ideas; these inspirations only turn into creative (i.e., both novel __and__ useful) ideas when people spend time iterating on the resulting ideas
+        - [[@chanImportanceIterationCreative2015]]
 
-        - And also [[@bergPrimalMarkHow2014]] - "novel primal marks" led to more novel but less useful ideas *initially*, but then when more familiar ideas were "infused", they ended up with better combinations of novelty and usefulness than starting out with familiar primal marks
+        - And also [[@bergPrimalMarkHow2014]]
 
             - Relatedly: "integrative primal marks" led to ideas that were more novel than familiar marks and more useful than novel primal marks, and had a higher "ceiling" of novelty and usefulness compared to either
 
@@ -23,7 +23,7 @@ date: Thu Oct 15 2020 20:59:50 GMT-0400 (Eastern Daylight Time)
 
         - [[@gruberDarwinManPsychological1974]]
 
-            - {{embed: Gruber proposes the idea of "[[by-productive thinking]]” (possible [examples of](#[[example-of]]) [[[[CLM]] - Paths to creative breakthroughs are frequently oblique]]). }}
+            - {{embed: Gruber proposes the idea of "[[by-productive thinking]]
 
 ###### Discourse Context
 

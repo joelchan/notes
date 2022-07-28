@@ -2,16 +2,16 @@
 title: @packerImportanceSDICurrent1979
 url: https://roamresearch.com/#/app/megacoglab/page/AcmaRqxqJ
 author: Joel Chan
-date: Tue Nov 24 2020 16:18:42 GMT-0500 (Eastern Standard Time)
+date: Wed Nov 25 2020 05:18:42 GMT+0800 (Malaysia Time)
 ---
 
-- #[[references]]
+- [[references]]
 
     - Title: The importance of SDI for current awareness in fields with severe scatter of information
 
     - Meta:
 
-        - Authored by:: [[Katherine H. Packer]] [[Dagobert Soergel]]
+        - Authored by:: [[Katherine H. Packer]]
 
         - Year: [[1979]]
 
@@ -37,7 +37,7 @@ date: Tue Nov 24 2020 16:18:42 GMT-0500 (Eastern Standard Time)
 
                 - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fmegacoglab%2FNNdRaSjFF9.png?alt=media&token=b14c8b49-c77d-4de0-bc31-074a53e10a89)
 
-        - [[Scatter]] was measured as self-report
+        - [[Scatter]]
 
             - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fmegacoglab%2FfEp8PyjhNf.png?alt=media&token=21f02d1a-e46a-4f77-83b2-c65dd4e4b5d6)
 
@@ -45,15 +45,15 @@ date: Tue Nov 24 2020 16:18:42 GMT-0500 (Eastern Standard Time)
 
             - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fmegacoglab%2FuV779M6Wxt.png?alt=media&token=511bb722-cb50-4e03-8fc4-1735eef71247) (p. 127)
 
-    - #[[📝 lit-notes]]
+    - [[📝 lit-notes]]
 
-        - #Claim [[SDI]] is an effective strategy for dealing with [[Scatter]] (secondary cited in [[@bates1996learning]]) (p. 157)
+        - #Claim [[SDI]]
 
             - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fmegacoglab%2FX4-mXSRX0z?alt=media&token=d4d506b9-6256-40f3-a78a-1537569add0d)
 
-        - #[[observation-notes]]
+        - [[observation-notes]]
 
-            - [Scholars](sample: 134 chemists and chemical engineers in Canadian Universities in Fall 1974) in high [[Scatter]] and low scatter domains [self-reported](((Iv7Euw1wK))) equal levels of success at keeping up to date with relevant literature, but at the cost of [time](((rjdnxKjgt))) (high-scatter 2x more likely to spend > 5 hrs/wk on lit)
+            - [Scholars](sample: 134 chemists and chemical engineers in Canadian Universities in Fall 1974) in high [[Scatter]]
 
                 - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fmegacoglab%2Fmr8S4suFhY.png?alt=media&token=95532bbf-5872-4dbe-b221-5abb62dc0ad1) (p. 130)
 
@@ -61,7 +61,7 @@ date: Tue Nov 24 2020 16:18:42 GMT-0500 (Eastern Standard Time)
 
                 - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fmegacoglab%2FTt9V42oCwP.png?alt=media&token=d63d2792-c0eb-4819-a6e7-d87d8774e88f) (p. 131)
 
-            - [[SDI]] [use](brief conceptual diagram of [[SDI]]: it's basically a [[recommender system]] that's based on a personalized profile that is built around *keywords*) was associated with a significant *reduction* in efficiency of keeping up to date with the literature for [scholars](((5IIOQ5CZq))) in [self-reported](((Iv7Euw1wK))) low-[[Scatter]] fields; in contrast, SDI use was **not** associated with efficiency for high-scatter scholars (although there was a numeric trend in a positive direction)
+            - [[SDI]]
 
                 - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fmegacoglab%2FDwnGbD6La3.png?alt=media&token=15143ace-6ea9-4661-bb4b-aec3f1e00589)
 
@@ -72,7 +72,7 @@ date: Tue Nov 24 2020 16:18:42 GMT-0500 (Eastern Standard Time)
 
     - Title: The importance of SDI for current awareness in fields with severe scatter of information
 
-        - Tags:: #[[references]]
+        - Tags:: [[references]]
 
     - Authored by::  Katherine H. Packer ,  Dagobert Soergel
 

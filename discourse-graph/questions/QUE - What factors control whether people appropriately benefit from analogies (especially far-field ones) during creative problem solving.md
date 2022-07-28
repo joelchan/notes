@@ -2,44 +2,44 @@
 title: [[QUE]] - What factors control whether people appropriately benefit from analogies (especially far-field ones) during creative problem solving?
 url: https://roamresearch.com/#/app/megacoglab/page/y89Bgrd1F
 author: Joel Chan
-date: Tue May 19 2020 22:34:29 GMT-0400 (Eastern Daylight Time)
+date: Wed May 20 2020 10:34:29 GMT+0800 (Malaysia Time)
 ---
 
-- #Question
+- #question
 
     - # Synthesis
 
-        - [[[[CLM]] - People are more likely to benefit from analogies if they encounter/process them with an active goal or license to use them for inspiration]]
+        - [[CLM - People are more likely to benefit from analogies if they encounterprocess them with an active goal or license to use them for inspiration]]
 
         - See also
 
-            - [[[[CLM]] - Core attribute (mis)matches mediate the benefits of analogies in real-world, complex problem solving]]
+            - [[CLM - Core attribute (mis)matches mediate the benefits of analogies in real-world, complex problem solving]]
 
-            - [[[[QUE]] - Under what conditions do diverse initial examples lead to better final design solutions?]]
+            - [[QUE - Under what conditions do diverse initial examples lead to better final design solutions]]
 
-        - Bridging analogies [[[[CLM]] - [[bridging analogies]] can help people benefit from far analogies for creative ideation]]
+        - Bridging analogies [[CLM - bridging analogies can help people benefit from far analogies for creative ideation]]
 
             - [[SupportedBy]]
 
-                - [[[[CLM]] - Bridging analogies can help students understand difficult new concepts]]
+                - [[CLM - Bridging analogies can help students understand difficult new concepts]]
 
                     - [[SupportedBy]]
 
-                        - [[[[EVD]] - When provided scaffolding for a similar problem students performed similarly compared to their peers given little scaffolding, however, when asked to solve problems with low similarity the group provided scaffolding performed significantly better. - [[@richlandReducingCognitiveLoad2013]]]]
+                        - [[EVD - When provided scaffolding for a similar problem students performed similarly compared to thei...group provided scaffolding performed significantly better. - @richlandReducingCognitiveLoad2013]]
 
-                        - [[[[EVD]] - teachers in countries with high math and science achievement scores also displayed more cognitive supports for analogies, such as bridging analogies, and visuospatial scaffolds for comparison, compared to teachers in a country with lower math and science achievement - [[@richlandCognitiveSupportsAnalogies2007]]]]
+                        - [[EVD - teachers in countries with high math and science achievement scores also displayed more cogni... in a country with lower math and science achievement - @richlandCognitiveSupportsAnalogies2007]]
 
-                        - [[[[EVD]] - giving a bridging analogy to a far analogy for a numerical representations led to better student performance (and more robust explanations of answers) on a math post test compared to no or just the analogy - [[@vamvakoussiBridgingGapDense2012]]]]
+                        - [[EVD - giving a bridging analogy to a far analogy for a numerical representations led to better stud...wers) on a math post test compared to no or just the analogy - @vamvakoussiBridgingGapDense2012]]
 
-        - You can "prime the pump": [[[[CLM]] - generating far analogies can induce a "relational mindset" that enhances downstream analogical thinking]]
+        - You can "prime the pump": [[CLM - generating far analogies can induce a relational mindset that enhances downstream analogical thinking]]
 
-            - [[[[EVD]] - Generating (but not evaluating) solutions to far analogy problems positively predicted performance on a subsequent analogy task (compared to generating or evaluating near analogy problems) - [[@vendettiFarOutThinkingGenerating2014]]]]
+            - [[EVD - Generating (but not evaluating) solutions to far analogy problems positively predicted perfor...ared to generating or evaluating near analogy problems) - @vendettiFarOutThinkingGenerating2014]]
 
-        - ## #[[Claims and Evidence]]
+        - ## [[Claims and Evidence]]
 
             - [[@reedRoleAnalogyTransfer1974]]
 
-            - participants noticed and transferred a key solution from an analogous story between ~[20](((VpRn5GSED)))-[40](((GCX7BvKNW)))% of the time without a hint. This was in sharp contrast to near-ceiling [[spontaneous analogical transfer]] when the possible connection between the source problem and the target problem was hinted at in instructions (~90% transfer), and in two prior experiments where this hint was also integrated into instructions (~[70](((B5PNvu38b)))-[100](((w6f5AauxY)))% of the time).  [[@gickAnalogicalProblemSolving1980]]
+            - participants noticed and transferred a key solution from an analogous story between ~[20](((VpRn5GSED)))-[40](((GCX7BvKNW)))% of the time without a hint. This was in sharp contrast to near-ceiling [[spontaneous analogical transfer]]
 
             - everything is terrible with only one analog without a hint: [summarization](((oZAV1t9au))), [statement of principle](((jPHrhJ99T))), and [diagram of principle](((Q9SmOi4Nv))), all fail to move the needle up from the base rate of ~30% without hint.  ((94GACy47J)). ((wSHXYG4pb)) [[@gickSchemaInductionAnalogical1983]]
 
@@ -51,7 +51,7 @@ date: Tue May 19 2020 22:34:29 GMT-0400 (Eastern Daylight Time)
 
             - bridging analogies
 
-            - hint effect for analogical problem solving [*]([[hint effect for analogical problem solving]])
+            - hint effect for analogical problem solving [*]([[hint effect for analogical problem solving]]
 
                 - [[@catramboneOvercomingContextualLimitations1989]]
 
@@ -73,7 +73,7 @@ date: Tue May 19 2020 22:34:29 GMT-0400 (Eastern Daylight Time)
 
                 - [[@linseyWordTreesMethodDesignbyanalogy2008]]
 
-                - {{[[DONE]]}} [[@gickSchemaInductionAnalogical1983]]
+                - {{[[DONE]]
 
                     - #observation-notes
 
@@ -109,25 +109,25 @@ date: Tue May 19 2020 22:34:29 GMT-0400 (Eastern Daylight Time)
 
             - **seeds**
 
-                - downstream citations from [[@reedRoleAnalogyTransfer1974]]:
+                - downstream citations from [[@reedRoleAnalogyTransfer1974]]
 
                     - {{embed: ➰ breadcrumbs}}
 
-                - downstream citations from [[@gickAnalogicalProblemSolving1980]] and [[@gickSchemaInductionAnalogical1983]]
+                - downstream citations from [[@gickAnalogicalProblemSolving1980]]
 
-                    - {{embed: #[[➰ breadcrumbs]]}}
+                    - {{embed: [[➰ breadcrumbs]]
 
             - unclassified
 
                 - [[@reevesRoleContentAbstract1994]]
 
-                    - #[[references]]
+                    - [[references]]
 
                         - Title: The role of content and abstract information in analogical transfer
 
                         - Meta:
 
-                            - Authored by:: [[L. M. Reeves]] [[R. W. Weisberg]]
+                            - Authored by:: [[L. M. Reeves]]
 
                             - Year: [[1994]]
 
@@ -145,13 +145,13 @@ date: Tue May 19 2020 22:34:29 GMT-0400 (Eastern Daylight Time)
 
                 - [[@hindsBotheredAbstractionEffect2001]]
 
-                    - #[[references]]
+                    - [[references]]
 
                         - Title: Bothered by abstraction: The effect of expertise on knowledge transfer and subsequent novice performance
 
                         - Meta:
 
-                            - Authored by:: [[P. J. Hinds]] [[M. Patterson]] [[J. Pfeffer]]
+                            - Authored by:: [[P. J. Hinds]]
 
                             - Year: [[2001]]
 
@@ -169,7 +169,7 @@ date: Tue May 19 2020 22:34:29 GMT-0400 (Eastern Daylight Time)
 
                 - [[@novickAnalogicalTransferProblem1988]]
 
-                    - #[[references]]
+                    - [[references]]
 
                         - Title: Analogical transfer, problem similarity, and expertise
 
@@ -193,13 +193,13 @@ date: Tue May 19 2020 22:34:29 GMT-0400 (Eastern Daylight Time)
 
                 - [[@loewensteinAnalogicalEncodingFacilitates1999]]
 
-                    - #[[references]]
+                    - [[references]]
 
                         - Title: Analogical encoding facilitates knowledge transfer in negotation
 
                         - Meta:
 
-                            - Authored by:: [[J. Loewenstein]] [[L. Thompson]] [[D. Gentner]]
+                            - Authored by:: [[J. Loewenstein]]
 
                             - Year: [[1999]]
 
@@ -217,7 +217,7 @@ date: Tue May 19 2020 22:34:29 GMT-0400 (Eastern Daylight Time)
 
                 - [[@nokesMechanismsKnowledgeTransfer2009]]
 
-                    - #[[references]]
+                    - [[references]]
 
                         - Title: Mechanisms of knowledge transfer
 
@@ -241,17 +241,17 @@ date: Tue May 19 2020 22:34:29 GMT-0400 (Eastern Daylight Time)
 
                 - [[@catramboneOvercomingContextualLimitations1989]]
 
-                    - very similar to [[@gickAnalogicalProblemSolving1980]] and [[@gickSchemaInductionAnalogical1983]] about the large effect of comparison
+                    - very similar to [[@gickAnalogicalProblemSolving1980]]
 
                 - [[@salomonRockyRoadsTransfer1989]]
 
-                    - #[[references]]
+                    - [[references]]
 
                         - Title: Rocky Roads to Transfer: Rethinking Mechanisms of a Neglected Phenomenon
 
                         - Meta:
 
-                            - Authored by:: [[G. Salomon]] [[D. N. Perkins]]
+                            - Authored by:: [[G. Salomon]]
 
                             - Year: [[1989]]
 
@@ -269,13 +269,13 @@ date: Tue May 19 2020 22:34:29 GMT-0400 (Eastern Daylight Time)
 
                 - [[@carraherTransferDilemma2002]]
 
-                    - #[[references]]
+                    - [[references]]
 
                         - Title: The Transfer Dilemma
 
                         - Meta:
 
-                            - Authored by:: [[D. Carraher]] [[A. D. Schliemann]]
+                            - Authored by:: [[D. Carraher]]
 
                             - Year: [[2002]]
 
@@ -293,13 +293,13 @@ date: Tue May 19 2020 22:34:29 GMT-0400 (Eastern Daylight Time)
 
                 - [[@gentnerRolesSimilarityTransfer1993]]
 
-                    - #[[references]]
+                    - [[references]]
 
                         - Title: The roles of similarity in transfer: separating retrievability from inferential soundness.
 
                         - Meta:
 
-                            - Authored by:: [[D. Gentner]] [[M. J. Rattermann]] [[Kenneth Forbus]]
+                            - Authored by:: [[D. Gentner]]
 
                             - Year: [[1993]]
 
@@ -317,13 +317,13 @@ date: Tue May 19 2020 22:34:29 GMT-0400 (Eastern Daylight Time)
 
                 - [[@kurtzComparisonPromotesLearning2013]]
 
-                    - #[[references]]
+                    - [[references]]
 
                         - Title: Comparison promotes learning and transfer of relational categories
 
                         - Meta:
 
-                            - Authored by:: [[Kenneth J. Kurtz]] [[Olga Boukrina]] [[Dedre Gentner]]
+                            - Authored by:: [[Kenneth J. Kurtz]]
 
                             - Year: [[2013]]
 
@@ -347,7 +347,7 @@ date: Tue May 19 2020 22:34:29 GMT-0400 (Eastern Daylight Time)
 
     - # Meta
 
-        - Tags: #[[D/Computational Analogy]]
+        - Tags: [[DComputational Analogy]]
 
 ###### Discourse Context
 
